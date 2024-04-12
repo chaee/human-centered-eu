@@ -1,3 +1,6 @@
+"""
+This script is used to convert xml files to text files, removing excessive newlines.
+"""
 from lxml import etree
 
 def extract_text(node):
@@ -23,7 +26,14 @@ def write_text_to_file(text, text_file_path):
 def parse_xml(xml_file_path, text_file_path):
     with open(xml_file_path, 'rb') as file:
         data = file.read()
-        
-    tree = etree.fromstring(data)
-    text = extract_text(tree)
+
+    try:
+        tree = etree.fromstring(data)
+        text = extract_text(tree)
+    except etree.XMLSyntaxError as e:
+        print(f"XML syntax error: {e}")
+        # Handle the error here
+        # text = f'{e}'
+        text = data.decode('utf-8') # TBD: safe to the separate folder to debug xml syntax errors
+
     return write_text_to_file(text, text_file_path)

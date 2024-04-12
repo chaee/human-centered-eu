@@ -1,0 +1,33 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:j.0="http://publications.europa.eu/ontology/cdm#"
+    xmlns:owl="http://www.w3.org/2002/07/owl#"
+    xmlns:j.1="http://www.w3.org/2004/02/skos/core#"
+    xmlns:j.2="http://publications.europa.eu/ontology/annotation#"
+    xmlns:j.3="http://publications.europa.eu/ontology/cdm/cmr#" > 
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/cellar/59004c48-24c7-4f6e-88f6-244805c3d3e2.0006">
+    <owl:sameAs rdf:resource="http://publications.europa.eu/resource/celex/11956K%2FTXT.ENG"/>
+    <j.3:lang rdf:datatype="http://www.w3.org/2001/XMLSchema#language">eng</j.3:lang>
+    <j.3:lang rdf:datatype="http://www.w3.org/2001/XMLSchema#language">en</j.3:lang>
+    <j.3:lastModificationDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2014-04-24T15:25:06.353+02:00</j.3:lastModificationDate>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/celex/11956K%2FTXT.ENG">
+    <j.0:expression_uses_language rdf:resource="http://publications.europa.eu/resource/authority/language/ENG"/>
+    <j.0:title_information_additional rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CELEX1</j.0:title_information_additional>
+    <j.0:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">TREATY ESTABLISHING THE EUROPEAN COAL AND STEEL COMMUNITY ( ECSC )</j.0:title>
+    <j.0:expression_title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">TREATY ESTABLISHING THE EUROPEAN COAL AND STEEL COMMUNITY ( ECSC )</j.0:expression_title>
+    <j.0:uses rdf:resource="http://publications.europa.eu/resource/authority/language/ENG"/>
+    <j.0:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CELEX1</j.0:title>
+    <rdf:type rdf:resource="http://publications.europa.eu/ontology/cdm#expression"/>
+    <j.0:expression_title_information_additional rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CELEX1</j.0:expression_title_information_additional>
+    <j.2:build_info>cdm:CDM_2.1.7  tdm:1523  xslt:3945 saxon:9.0.0.1J JVM:1.6.0_29 metaconvJar:1.2.0 builddate:24/04/2014 15:15:01</j.2:build_info>
+    <j.0:belongs_to rdf:resource="http://publications.europa.eu/resource/celex/11956K%2FTXT"/>
+    <j.0:expression_belongs_to_work rdf:resource="http://publications.europa.eu/resource/celex/11956K%2FTXT"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/language/ENG">
+    <rdf:type rdf:resource="http://publications.europa.eu/ontology/cdm#language"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <j.1:inScheme rdf:resource="http://publications.europa.eu/resource/authority/language"/>
+    <j.0:language_used_by_expression rdf:resource="http://publications.europa.eu/resource/celex/11956K%2FTXT.ENG"/>
+  </rdf:Description>
+</rdf:RDF>

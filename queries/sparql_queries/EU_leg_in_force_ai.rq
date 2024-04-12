@@ -1,8 +1,0 @@
-prefix cdm: <http://publications.europa.eu/ontology/cdm#>
-select distinct?work
-where
-{
-?work cdm:resource_legal_in-force "true"^^<http://www.w3.org/2001/XMLSchema#boolean> ;
-a cdm:legislation_secondary;
-cdm:work_is_about_concept_eurovoc <http://eurovoc.europa.eu/3030> .
-}

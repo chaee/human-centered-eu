@@ -1,4 +1,8 @@
-import csv
+"""
+This script extracts urls from json and get xmls responses from the urls.
+- legal_in-force documents jsons retrieved using eurovoc concepts (legal_in-force_EUROVOC.rq)
+- TBD: add other forms of docs transformation as well
+"""
 import csv
 import requests
 from xml_to_txt import parse_xml
@@ -9,9 +13,12 @@ import requests
 
 # read urls from the query result csv file
 urls = []
-json_path = 'queries/sparql_query_results/query_results_20240412-121407.json' # change file name to query keyword instead of dates
+#json_path = 'queries/sparql_query_results/query_results_20240412-121407.json'
+json_path = 'queries/sparql_query_results/all-eu-treaties_20240412-145449.json'
+doctype = json_path.split('/')[-1].split('_')[0]
 json_file_name = os.path.basename(json_path)
 
+# extract urls from legal in-force documents
 with open(json_path, 'r') as file:
     data = json.load(file)
     # Extract the URL
@@ -37,14 +44,13 @@ for url in urls:
     response = requests.get(url, headers=headers)
 
     doc_key = url.split('/')[-1]
-    xml_file_path = os.path.join('xml_results', doc_key + '.xml')
-    text_file_path = os.path.join('txt_results', doc_key + '.txt')
+    doctype="eu_treaties"
+    xml_file_path = os.path.join('xml_results', doctype, doc_key + '.xml')
+    text_file_path = os.path.join('txt_results', doctype, doc_key + '.txt')
 
     # Create the 'xml_results' folder if it doesn't exist
-    if not os.path.exists('xml_results'):
-        os.makedirs('xml_results')
-    if not os.path.exists('txt_results'):
-        os.makedirs('txt_results')
+    os.makedirs(os.path.dirname(xml_file_path), exist_ok=True)
+    os.makedirs(os.path.dirname(text_file_path), exist_ok=True)
     with open(xml_file_path, 'w') as file:
         file.write(response.text)
 

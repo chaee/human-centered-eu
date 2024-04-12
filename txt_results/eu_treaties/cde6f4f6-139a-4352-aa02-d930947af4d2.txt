@@ -1,0 +1,9 @@
+    eng
+    en
+    2014-04-02T14:23:37.003+02:00
+    cdm:CDM_2.1.7  tdm:1523  xslt:3945 saxon:9.0.0.1J JVM:1.6.0_29 metaconvJar:1.2.0 builddate:01/04/2014 22:00:06
+    CELEX1
+    Treaty establishing the European Coal and Steel Community
+    CELEX1
+    Treaty establishing the European Coal and Steel Community
+    CELEX1

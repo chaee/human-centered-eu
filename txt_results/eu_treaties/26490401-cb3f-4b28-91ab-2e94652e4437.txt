@@ -1,0 +1,9 @@
+    eng
+    en
+    2014-05-16T09:12:32.928+02:00
+  CELEX1
+    Act amending the Protocol on the Statute of the European Investment Bank empowering the Board of Governors to establish a European Investment Fund
+    Act amending the Protocol on the Statute of the European Investment Bank empowering the Board of Governors to establish a European Investment Fund
+    CELEX1
+    CELEX1
+    cdm:CDM_2.1.7  tdm:1523  xslt:3945 saxon:9.0.0.1J JVM:1.6.0_29 metaconvJar:1.2.0 builddate:16/05/2014 08:32:30

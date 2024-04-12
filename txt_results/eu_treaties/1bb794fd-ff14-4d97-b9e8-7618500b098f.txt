@@ -1,0 +1,9 @@
+    CELEX1
+    CELEX1
+    cdm:CDM_2.1.7  tdm:1523  xslt:3945 saxon:9.0.0.1J JVM:1.6.0_29 metaconvJar:1.2.0 builddate:19/05/2014 16:22:55
+    CELEX1
+    Treaty amending certain financial provisions
+    Treaty amending certain financial provisions
+    eng
+    en
+    2020-05-18T19:59:33.316+02:00

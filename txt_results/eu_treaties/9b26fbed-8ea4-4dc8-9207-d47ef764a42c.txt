@@ -1,0 +1,9 @@
+  CELEX1
+    CELEX1
+    Treaty amending, with regard to Greenland, the Treaties establishing the European Communities
+    Treaty amending, with regard to Greenland, the Treaties establishing the European Communities
+    CELEX1
+    cdm:CDM_2.1.7  tdm:1523  xslt:3945 saxon:9.0.0.1J JVM:1.6.0_29 metaconvJar:1.2.0 builddate:19/05/2014 16:22:55
+    eng
+    en
+    2014-07-21T16:35:20.832+02:00

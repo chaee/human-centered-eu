@@ -1,0 +1,469 @@
+CONVEX # converter_version:6.7 # generated_on:20151113-0802
+   genuine root filename=st04007-ad01.en97:normalized root filename=st04007-ad01.en97:COMtype from docvar=:year from docvar=:number from docvar=:final from docvar=:langue from docvar=:LW_REF_INST_NEW=:LW_REF_INST_NEW_ADOPTED=:LW_REF_INST_NEW_TEXT=:LW_LANGUE=cellarImageNamePrefix="st04007-ad01.en97.xhtml"st04007-ad01.en97.docx
+            CONSOLIDATED VERSION
+            OF THE
+            TREATY ON EUROPEAN UNION
+               Contents
+            I.
+               Text of the Treaty
+               Preamble
+                     Title I 
+                     –
+               Common provisions
+                     Title II
+                     –
+               Provisions amending the Treaty establishing the European Economic Community with a view to establishing the European Community
+                     Title III
+                     –
+               Provisions amending the Treaty establishing the European Coal and Steel Community
+                     Title IV
+                     –
+               Provisions amending the Treaty establishing the European Atomic Energy Community
+                     Title V
+                     –
+               Provisions on a common foreign and security policy
+                     Title VI
+                     –
+               Provisions on police and judicial cooperation in criminal matters
+                     Title VII
+                     –
+               Provisions on closer cooperation
+                     Title VIII
+                     –
+                     Final provisions
+            II.
+               Protocols (text not reproduced)
+                     Note:
+               The references to Treaty articles, titles and sections contained in the protocols are adapted in accordance with the tables of equivalence set out in the Annex to the Treaty of Amsterdam.
+               Protocol annexed to the Treaty on European Union:
+                     –
+               Protocol (No 1) on Article 17 of the Treaty on European Union (1997)
+               Protocols annexed to the Treaty on European Union and to the Treaty establishing the European Community:
+                     –
+               Protocol (No 2) integrating the Schengen acquis into the framework of the European Union (1997)
+                     –
+               Protocol (No 3) on the application of certain aspects of Article 14 of the Treaty establishing the European Community to the United Kingdom and to Ireland (1997)
+                     –
+               Protocol (No 4) on the position of the United Kingdom and Ireland (1997)
+                     –
+               Protocol (No 5) on the position of Denmark (1997)
+               Protocols annexed to the Treaty on European Union and to the Treaties establishing the European Community, the European Coal and Steel Community and the European Atomic Energy Community:
+                     –
+               Protocol (No 6) annexed to the Treaty on European Union and to the Treaties establishing the European Communities (1992)
+                     –
+               Protocol (No 7) on the institutions with the prospect of enlargement of the European Union (1997)
+                     –
+               Protocol (No 8) on the location of the seats of the institutions and of certain bodies and departments of the European Communities and of Europol (1997)
+                     –
+               Protocol (No 9) on the role of national parliaments in the European Union (1997)
+            HIS MAJESTY THE KING OF THE BELGIANS, HER MAJESTY THE QUEEN OF DENMARK, THE PRESIDENT OF THE FEDERAL REPUBLIC OF GERMANY, THE PRESIDENT OF THE HELLENIC REPUBLIC, HIS MAJESTY THE KING OF SPAIN, THE PRESIDENT OF THE FRENCH REPUBLIC, THE PRESIDENT OF IRELAND, THE PRESIDENT OF THE ITALIAN REPUBLIC, HIS ROYAL HIGHNESS THE GRAND DUKE OF LUXEMBOURG, HER MAJESTY THE QUEEN OF THE NETHERLANDS, THE PRESIDENT OF THE PORTUGUESE REPUBLIC, HER MAJESTY THE QUEEN OF THE UNITED KINGDOM OF GREAT BRITAIN AND NORTHERN IRELAND,
+         RESOLVED to mark a new stage in the process of European integration undertaken with the establishment of the European Communities,
+            RECALLING the historic importance of the ending of the division of the European continent and the need to create firm bases for the construction of the future Europe,
+            CONFIRMING their attachment to the principles of liberty, democracy and respect for human rights and fundamental freedoms and of the rule of law,
+            CONFIRMING their attachment to fundamental social rights as defined in the European Social Charter signed at Turin on 18 October 1961 and in the 1989 Community Charter of the Fundamental Social Rights of Workers,
+            DESIRING to deepen the solidarity between their peoples while respecting their history, their culture and their traditions,
+            DESIRING to enhance further the democratic and efficient functioning of the institutions so as to enable them better to carry out, within a single institutional framework, the tasks entrusted to them,
+            RESOLVED to achieve the strengthening and the convergence of their economies and to establish an economic and monetary union including, in accordance with the provisions of this Treaty, a single and stable currency,
+            DETERMINED to promote economic and social progress for their peoples, taking into account the principle of sustainable development and within the context of the accomplishment of the internal market and of reinforced cohesion and environmental protection, and to implement policies ensuring that advances in economic integration are accompanied by parallel progress in other fields,
+            RESOLVED to establish a citizenship common to nationals of their countries,
+            RESOLVED to implement a common foreign and security policy including the progressive framing of a common defence policy, which might lead to a common defence in accordance with the provisions of Article 17, thereby reinforcing the European identity and its independence in order to promote peace, security and progress in Europe and in the world,
+         RESOLVED to facilitate the free movement of persons, while ensuring the safety and security of their peoples, by establishing an area of freedom, security and justice, in accordance with the provisions of this Treaty,
+            RESOLVED to continue the process of creating an ever closer union among the peoples of Europe, in which decisions are taken as closely as possible to the citizen in accordance with the principle of subsidiarity,
+            IN VIEW of further steps to be taken in order to advance European integration,
+            HAVE DECIDED to establish a European Union and to this end have designated as their Plenipotentiaries:
+            HIS MAJESTY THE KING OF THE BELGIANS:
+            Mark EYSKENS, Minister for Foreign Affairs,
+            Philippe MAYSTADT, Minister for Finance;
+            HER MAJESTY THE QUEEN OF DENMARK:
+            Uffe ELLEMANNJENSEN, Minister for Foreign Affairs,
+            Anders FOGH RASMUSSEN, Minister for Economic Affairs;
+            THE PRESIDENT OF THE FEDERAL REPUBLIC OF GERMANY:
+         HansDietrich GENSCHER, Federal Minister for Foreign Affairs,
+            Theodor WAIGEL, Federal Minister for Finance;
+            THE PRESIDENT OF THE HELLENIC REPUBLIC:
+            Antonios SAMARAS, Minister for Foreign Affairs,
+            Efthymios CHRISTODOULOU, Minister for Economic Affairs;
+            HIS MAJESTY THE KING OF SPAIN:
+            Francisco FERNÁNDEZ ORDÓÑEZ, Minister for Foreign Affairs,
+            Carlos SOLCHAGA CATALÁN, Minister for Economic Affairs and Finance;
+            THE PRESIDENT OF THE FRENCH REPUBLIC:
+            Roland DUMAS, Minister for Foreign Affairs,
+            Pierre BÉRÉGOVOY, Minister for Economic and Financial Affairs and the Budget;
+            THE PRESIDENT OF IRELAND:
+         Gerard COLLINS, Minister for Foreign Affairs,
+            Bertie AHERN, Minister for Finance;
+            THE PRESIDENT OF THE ITALIAN REPUBLIC:
+            Gianni DE MICHELIS, Minister for Foreign Affairs,
+            Guido CARLI, Minister for the Treasury;
+            HIS ROYAL HIGHNESS THE GRAND DUKE OF LUXEMBOURG:
+            Jacques F. POOS, Deputy Prime Minister, Minister for Foreign Affairs,
+            JeanClaude JUNCKER, Minister for Finance;
+            HER MAJESTY THE QUEEN OF THE NETHERLANDS:
+            Hans VAN DEN BROEK, Minister for Foreign Affairs,
+            Willem KOK, Minister for Finance;
+            THE PRESIDENT OF THE PORTUGUESE REPUBLIC:
+         João de Deus PINHEIRO, Minister for Foreign Affairs,
+            Jorge BRAGA DE MACEDO, Minister for Finance;
+            HER MAJESTY THE QUEEN OF THE UNITED KINGDOM OF GREAT BRITAIN AND NORTHERN IRELAND:
+            The Rt. Hon. Douglas HURD, Secretary of State for Foreign and Commonwealth Affairs,
+            The Hon. Francis MAUDE, Financial Secretary to the Treasury;
+            WHO, having exchanged their full powers, found in good and due form, have agreed as follows.
+            TITLE I
+            COMMON PROVISIONS
+            ARTICLE 1 (ex Article A)
+            By this Treaty, the HIGH CONTRACTING PARTIES establish among themselves a EUROPEAN UNION, hereinafter called "the Union".
+         This Treaty marks a new stage in the process of creating an ever closer union among the peoples of Europe, in which decisions are taken as openly as possible and as closely as possible to the citizen.
+            The Union shall be founded on the European Communities, supplemented by the policies and forms of cooperation established by this Treaty.  Its task shall be to organise, in a manner demonstrating consistency and solidarity, relations between the Member States and between their peoples.
+               ARTICLE 2 (ex Article B)
+            The Union shall set itself the following objectives:
+            –
+               to promote economic and social progress and a high level of employment and to achieve balanced and sustainable development, in particular through the creation of an area without internal frontiers, through the strengthening of economic and social cohesion and through the establishment of economic and monetary union, ultimately including a single currency in accordance with the provisions of this Treaty;
+            –
+               to assert its identity on the international scene, in particular through the implementation of a common foreign and security policy including the progressive framing of a common defence policy, which might lead to a common defence, in accordance with the provisions of Article 17;
+            –
+               to strengthen the protection of the rights and interests of the nationals of its Member States through the introduction of a citizenship of the Union;
+            –
+               to maintain and develop the Union as an area of freedom, security and justice, in which the free movement of persons is assured in conjunction with appropriate measures with respect to external border controls, asylum, immigration and the prevention and combating of crime;
+            –
+               to maintain in full the acquis communautaire and build on it with a view to considering to what extent the policies and forms of cooperation introduced by this Treaty may need to be revised with the aim of ensuring the effectiveness of the mechanisms and the institutions of the Community.
+            The objectives of the Union shall be achieved as provided in this Treaty and in accordance with the conditions and the timetable set out therein while respecting the principle of subsidiarity as defined in Article 5 of the Treaty establishing the European Community.
+               ARTICLE 3 (ex Article C)
+            The Union shall be served by a single institutional framework which shall ensure the consistency and the continuity of the activities carried out in order to attain its objectives while respecting and building upon the acquis communautaire.
+            The Union shall in particular ensure the consistency of its external activities as a whole in the context of its external relations, security, economic and development policies.  The Council and the Commission shall be responsible for ensuring such consistency and shall cooperate to this end.  They shall ensure the implementation of these policies, each in accordance with its respective powers.
+               ARTICLE 4 (ex Article D)
+            The European Council shall provide the Union with the necessary impetus for its development and shall define the general political guidelines thereof.
+            The European Council shall bring together the Heads of State or Government of the Member States and the President of the Commission.  They shall be assisted by the Ministers for Foreign Affairs of the Member States and by a Member of the Commission.  The European Council shall meet at least twice a year, under the chairmanship of the Head of State or Government of the Member State which holds the Presidency of the Council.
+            The European Council shall submit to the European Parliament a report after each of its meetings and a yearly written report on the progress achieved by the Union.
+               ARTICLE 5 (ex Article E)
+            The European Parliament, the Council, the Commission, the Court of Justice and the Court of Auditors shall exercise their powers under the conditions and for the purposes provided for, on the one hand, by the provisions of the Treaties establishing the European Communities and of the subsequent Treaties and Acts modifying and supplementing them and, on the other hand, by the other provisions of this Treaty.
+               ARTICLE 6 (ex Article F)
+            1.   The Union is founded on the principles of liberty, democracy, respect for human rights and fundamental freedoms, and the rule of law, principles which are common to the Member States.
+            2.   The Union shall respect fundamental rights, as guaranteed by the European Convention for the Protection of Human Rights and Fundamental Freedoms signed in Rome on 4 November 1950 and as they result from the constitutional traditions common to the Member States, as general principles of Community law.
+            3.   The Union shall respect the national identities of its Member States.
+            4.   The Union shall provide itself with the means necessary to attain its objectives and carry through its policies.
+               ARTICLE 7 (ex Article F.1)
+            1.   The Council, meeting in the composition of the Heads of State or Government and acting by unanimity on a proposal by one third of the Member States or by the Commission and after obtaining the assent of the European Parliament, may determine the existence of a serious and persistent breach by a Member State of principles mentioned in Article 6(1), after inviting the government of the Member State in question to submit its observations.
+            2.   Where such a determination has been made, the Council, acting by a qualified majority, may decide to suspend certain of the rights deriving from the application of this Treaty to the Member State in question, including the voting rights of the representative of the government of that Member State in the Council.  In doing so, the Council shall take into account the possible consequences of such a suspension on the rights and obligations of natural and legal persons.
+            The obligations of the Member State in question under this Treaty shall in any case continue to be binding on that State.
+            3.   The Council, acting by a qualified majority, may decide subsequently to vary or revoke measures taken under paragraph 2 in response to changes in the situation which led to their being imposed.
+            4.   For the purposes of this Article, the Council shall act without taking into account the vote of the representative of the government of the Member State in question.  Abstentions by members present in person or represented shall not prevent the adoption of decisions referred to in paragraph 1.  A qualified majority shall be defined as the same proportion of the weighted votes of the members of the Council concerned as laid down in Article 205(2) of the Treaty establishing the European Community.
+            This paragraph shall also apply in the event of voting rights being suspended pursuant to paragraph 2.
+            5.   For the purposes of this Article, the European Parliament shall act by a twothirds majority of the votes cast, representing a majority of its members.
+            TITLE II
+            PROVISIONS AMENDING THE TREATY
+            ESTABLISHING THE EUROPEAN ECONOMIC COMMUNITY WITH A VIEW TO
+            ESTABLISHING THE EUROPEAN COMMUNITY
+            ARTICLE 8 (ex Article G)
+            (not reproduced)
+         TITLE III
+            PROVISIONS AMENDING THE TREATY
+            ESTABLISHING THE EUROPEAN COAL AND STEEL COMMUNITY
+            ARTICLE 9 (ex Article H)
+            (not reproduced)
+            TITLE IV
+            PROVISIONS AMENDING THE TREATY
+            ESTABLISHING THE EUROPEAN ATOMIC ENERGY COMMUNITY
+            ARTICLE 10 (ex Article I)
+            (not reproduced)
+         TITLE V
+            PROVISIONS ON A COMMON FOREIGN AND SECURITY POLICY
+               ARTICLE 11 (ex Article J.1)
+            1.   The Union shall define and implement a common foreign and security policy covering all areas of foreign and security policy, the objectives of which shall be:
+            –
+               to safeguard the common values, fundamental interests, independence and integrity of the Union in conformity with the principles of the United Nations Charter;
+            –
+               to strengthen the security of the Union in all ways;
+            –
+               to preserve peace and strengthen international security, in accordance with the principles of the United Nations Charter, as well as the principles of the Helsinki Final Act and the objectives of the Paris Charter, including those on external borders;
+            –
+               to promote international cooperation;
+            –
+               to develop and consolidate democracy and the rule of law, and respect for human rights and fundamental freedoms.
+            2.   The Member States shall support the Union’s external and security policy actively and unreservedly in a spirit of loyalty and mutual solidarity.  
+            The Member States shall work together to enhance and develop their mutual political solidarity.  They shall refrain from any action which is contrary to the interests of the Union or likely to impair its effectiveness as a cohesive force in international relations. 
+            The Council shall ensure that these principles are complied with.
+               ARTICLE 12 (ex Article J.2)
+            The Union shall pursue the objectives set out in Article 11 by:
+            –
+               defining the principles of and general guidelines for the common foreign and security policy;
+            –
+               deciding on common strategies;
+            –
+               adopting joint actions;
+            –
+               adopting common positions;
+            –
+               strengthening systematic cooperation between Member States in the conduct of policy.
+               ARTICLE 13 (ex Article J.3)
+            1.   The European Council shall define the principles of and general guidelines for the common foreign and security policy, including for matters with defence implications.
+            2.   The European Council shall decide on common strategies to be implemented by the Union in areas where the Member States have important interests in common.
+            Common strategies shall set out their objectives, duration and the means to be made available by the Union and the Member States.
+            3.   The Council shall take the decisions necessary for defining and implementing the common foreign and security policy on the basis of the general guidelines defined by the European Council.
+            The Council shall recommend common strategies to the European Council and shall implement them, in particular by adopting joint actions and common positions.  
+            The Council shall ensure the unity, consistency and effectiveness of action by the Union.
+               ARTICLE 14 (ex Article J.4)
+            1.   The Council shall adopt joint actions.  Joint actions shall address specific situations where operational action by the Union is deemed to be required.  They shall lay down their objectives, scope, the means to be made available to the Union, if necessary their duration, and the conditions for their implementation.
+            2.   If there is a change in circumstances having a substantial effect on a question subject to joint action, the Council shall review the principles and objectives of that action and take the necessary decisions.  As long as the Council has not acted, the joint action shall stand.
+            3.   Joint actions shall commit the Member States in the positions they adopt and in the conduct of their activity.
+            4.   The Council may request the Commission to submit to it any appropriate proposals relating  to the common foreign and security policy to ensure the implementation of a joint action.
+            5.   Whenever there is any plan to adopt a national position or take national action pursuant to a joint action, information shall be provided in time to allow, if necessary, for prior consultations within the Council.  The obligation to provide prior information shall not apply to measures which are merely a national transposition of Council decisions.
+            6.   In cases of imperative need arising from changes in the situation and failing a Council decision, Member States may take the necessary measures as a matter of urgency having regard to the general objectives of the joint action.  The Member State concerned shall inform the Council immediately of any such measures.
+            7.   Should there be any major difficulties in implementing a joint action, a Member State shall refer them to the Council which shall discuss them and seek appropriate solutions.  Such solutions shall not run counter to the objectives of the joint action or impair its effectiveness.
+               ARTICLE 15 (ex Article J.5)
+            The Council shall adopt common positions.  Common positions shall define the approach of the Union to a particular matter of a geographical or thematic nature.  Member States shall ensure that their national policies conform to the common positions.
+               ARTICLE 16 (ex Article J.6)
+            Member States shall inform and consult one another within the Council on any matter of foreign and security policy of general interest in order to ensure that the Union's influence is exerted as effectively as possible by means of concerted and convergent action.
+               ARTICLE 17 (ex Article J.7)
+            1.   The common foreign and security policy shall include all questions relating to the security of the Union, including the progressive framing of a common defence policy, in accordance with the second subparagraph, which might lead to a common defence, should the European Council so decide.  It shall in that case recommend to the Member States the adoption of such a decision in accordance with their respective constitutional requirements.
+            The Western European Union (WEU) is an integral part of the development of the Union providing the Union with access to an operational capability notably in the context of paragraph 2.  It supports the Union in framing the defence aspects of the common foreign and security policy as set out in this Article.  The Union shall accordingly foster closer institutional relations with the WEU with a view to the possibility of the integration of the WEU into the Union, should the European Council so decide.  It shall in that case recommend to the Member States the adoption of such a decision in accordance with their respective constitutional requirements.
+            The policy of the Union in accordance with this Article shall not prejudice the specific character of the security and defence policy of certain Member States and shall respect the obligations of certain Member States, which see their common defence realised in the North Atlantic Treaty Organisation (NATO), under the North Atlantic Treaty and be compatible with the common security and defence policy established within that framework.
+            The progressive framing of a common defence policy will be supported, as Member States consider appropriate, by cooperation between them in the field of armaments.
+            2.   Questions referred to in this Article shall include humanitarian and rescue tasks, peacekeeping tasks and tasks of combat forces in crisis management, including peacemaking.
+            3.   The Union will avail itself of the WEU to elaborate and implement decisions and actions of the Union which have defence implications.
+            The competence of the European Council to establish guidelines in accordance with Article 13 shall also obtain in respect of the WEU for those matters for which the Union avails itself of the WEU.
+            When the Union avails itself of the WEU to elaborate and implement decisions of the Union on the tasks referred to in paragraph 2 all Member States of the Union shall be entitled to participate fully in the tasks in question.  The Council, in agreement with the institutions of the WEU, shall adopt the necessary practical arrangements to allow all Member States contributing to the tasks in question to participate fully and on an equal footing in planning and decisiontaking in the WEU.
+            Decisions having defence implications dealt with under this paragraph shall be taken without prejudice to the policies and obligations referred to in paragraph 1, third subparagraph.
+            4.   The provisions of this Article shall not prevent the development of closer cooperation between two or more Member States on a bilateral level, in the framework of the WEU and the Atlantic Alliance, provided such cooperation does not run counter to or impede that provided for in this Title.
+            5.   With a view to furthering the objectives of this Article, the provisions of this Article will be reviewed in accordance with Article 48.
+               ARTICLE 18 (ex Article J.8)
+            1.   The Presidency shall represent the Union in matters coming within the common foreign and security policy.
+            2.   The Presidency shall be responsible for the implementation of decisions taken under this Title; in that capacity it shall in principle express the position of the Union in international organisations and international conferences.
+            3.   The Presidency shall be assisted by the SecretaryGeneral of the Council who shall exercise the function of High Representative for the common foreign and security policy.
+            4.   The Commission shall be fully associated in the tasks referred to in paragraphs 1 and 2.  The Presidency shall be assisted in those tasks if need be by the next Member State to hold the Presidency.
+            5.   The Council may, whenever it deems it necessary, appoint a special representative with a mandate in relation to particular policy issues.
+               ARTICLE 19 (ex Article J.9)
+         1.   Member States shall coordinate their action in international organisations and at international conferences.  They shall uphold the common positions in such fora.
+            In international organisations and at international conferences where not all the Member States participate, those which do take part shall uphold the common positions.
+            2.   Without prejudice to paragraph 1 and Article 14(3), Member States represented in international organisations or international conferences where not all the Member States participate shall keep the latter informed of any matter of common interest.
+            Member States which are also members of the United Nations Security Council will concert and keep the other Member States fully informed.  Member States which are permanent members of the Security Council will, in the execution of their functions, ensure the defence of the positions and the interests of the Union, without prejudice to their responsibilities under the provisions of the United Nations Charter.
+               ARTICLE 20 (ex Article J.10)
+            The diplomatic and consular missions of the Member States and the Commission Delegations in third countries and international conferences, and their representations to international organisations, shall cooperate in ensuring that the common positions and joint actions adopted by the Council are complied with and implemented.
+            They shall step up cooperation by exchanging information, carrying out joint assessments and contributing to the implementation of the provisions referred to in Article 20 of the Treaty establishing the European Community.
+               ARTICLE 21 (ex Article J.11)
+            The Presidency shall consult the European Parliament on the main aspects and the basic choices of the common foreign and security policy and shall ensure that the views of the European Parliament are duly taken into consideration.  The European Parliament shall be kept regularly informed by the Presidency and the Commission of the development of the Union’s foreign and security policy.
+         The European Parliament may ask questions of the Council or make recommendations to it.  It shall hold an annual debate on progress in implementing the common foreign and security policy.
+               ARTICLE 22 (ex Article J.12)
+            1.   Any Member State or the Commission may refer to the Council any question relating to the common foreign and security policy and may submit proposals to the Council.
+            2.   In cases requiring a rapid decision, the Presidency, of its own motion, or at the request of the Commission or a Member State, shall convene an extraordinary Council meeting within fortyeight hours or, in an emergency, within a shorter period.
+               ARTICLE 23 (ex Article J.13)
+            1.   Decisions under this Title shall be taken by the Council acting unanimously.  Abstentions by members present in person or represented shall not prevent the adoption of such decisions.
+            When abstaining in a vote, any member of the Council may qualify its abstention by making a formal declaration under the present subparagraph.  In that case, it shall not be obliged to apply the decision, but shall accept that the decision commits the Union.  In a spirit of mutual solidarity, the Member State concerned shall refrain from any action likely to conflict with or impede Union action based on that decision and the other Member States shall respect its position.  If the members of the Council qualifying their abstention in this way represent more than one third of the votes weighted in accordance with Article 205(2) of the Treaty establishing the European Community, the decision shall not be adopted.
+            2.   By derogation from the provisions of paragraph 1, the Council shall act by qualified majority:
+            –
+               when adopting joint actions, common positions or taking any other decision on the basis of a common strategy;
+         –
+               when adopting any decision implementing a joint action or a common position.
+            If a member of the Council declares that, for important and stated reasons of national policy, it intends to oppose the adoption of a decision to be taken by qualified majority, a vote shall not be taken.  The Council may, acting by a qualified majority, request that the matter be referred to the European Council for decision by unanimity.
+            The votes of the members of the Council shall be weighted in accordance with Article 205(2) of the Treaty establishing the European Community.  For their adoption, decisions shall require at least 62 votes in favour, cast by at least 10 members.
+            This paragraph shall not apply to decisions having military or defence implications.
+            3.   For procedural questions, the Council shall act by a majority of its members.
+               ARTICLE 24 (ex Article J.14)
+            When it is necessary to conclude an agreement with one or more States or international organisations in implementation of this Title, the Council, acting unanimously, may authorise the Presidency, assisted by the Commission as appropriate, to open negotiations to that effect.  Such agreements shall be concluded by the Council acting unanimously on a recommendation from the Presidency.  No agreement shall be binding on a Member State whose representative in the Council states that it has to comply with the requirements of its own constitutional procedure; the other members of the Council may agree that the agreement shall apply provisionally to them.
+            The provisions of this Article shall also apply to matters falling under Title VI.
+               ARTICLE 25 (ex Article J.15)
+            Without prejudice to Article 207 of the Treaty establishing the European Community, a Political Committee shall monitor the international situation in the areas covered by the common foreign and security policy and contribute to the definition of policies by delivering opinions to the Council at the request of the Council or on its own initiative.  It shall also monitor the implementation of agreed policies, without prejudice to the responsibility of the Presidency and the Commission.
+               ARTICLE 26 (ex Article J.16)
+            The SecretaryGeneral of the Council, High Representative for the common foreign and security policy, shall assist the Council in matters coming within the scope of the common foreign and security policy, in particular through contributing to the formulation, preparation and implementation of policy decisions, and, when appropriate and acting on behalf of the Council at the request of the Presidency, through conducting political dialogue with third parties.
+               ARTICLE 27 (ex Article J.17)
+            The Commission shall be fully associated with the work carried out in the common foreign and security policy field.
+               ARTICLE 28 (ex Article J.18)
+            1.   Articles 189, 190, 196 to 199, 203, 204, 206 to 209, 213 to 219, 255 and 290 of the Treaty establishing the European Community shall apply to the provisions relating to the areas referred to in this Title.
+            2.   Administrative expenditure which the provisions relating to the areas referred to in this Title entail for the institutions shall be charged to the budget of the European Communities.
+            3.   Operational expenditure to which the implementation of those provisions gives rise shall also be charged to the budget of the European Communities, except for such expenditure arising from operations having military or defence implications and cases where the Council acting unanimously decides otherwise.
+            In cases where expenditure is not charged to the budget of the European Communities it shall be charged to the Member States in accordance with the gross national product scale, unless the Council acting unanimously decides otherwise.  As for expenditure arising from operations having military or defence implications, Member States whose representatives in the Council have made a formal declaration under Article 23(1), second subparagraph, shall not be obliged to contribute to  the financing thereof.
+            4.   The budgetary procedure laid down in the Treaty establishing the European Community shall apply to the expenditure charged to the budget of the European Communities.
+            TITLE VI
+            PROVISIONS ON POLICE AND JUDICIAL COOPERATION IN
+            CRIMINAL MATTERS
+            ARTICLE 29 (ex Article K.1)
+            Without prejudice to the powers of the European Community, the Union's objective shall be to provide citizens with a high level of safety within an area of freedom, security and justice by developing common action among the Member States in the fields of police and judicial cooperation in criminal matters and by preventing and combating racism and xenophobia.
+            That objective shall be achieved by preventing and combating crime, organised or otherwise, in particular terrorism, trafficking in persons and offences against children, illicit drug trafficking and illicit arms trafficking, corruption and fraud, through:
+            –
+               closer cooperation between police forces, customs authorities and other competent authorities in the Member States, both directly and through the European Police Office (Europol), in accordance with the provisions of Articles 30 and 32;
+            –
+               closer cooperation between judicial and other competent authorities of the Member States in accordance with the provisions of Articles 31(a) to (d) and 32;
+            –
+               approximation, where necessary, of rules on criminal matters in the Member States, in accordance with the provisions of Article 31(e).
+               ARTICLE 30 (ex Article K.2)
+            1.   Common action in the field of police cooperation shall include:
+            (a)
+               operational cooperation between the competent authorities, including the police, customs and other specialised law enforcement services of the Member States in relation to the prevention, detection and investigation of criminal offences;
+            (b)
+               the collection, storage, processing, analysis and exchange of relevant information, including information held by law enforcement services on reports on suspicious financial transactions, in particular through Europol, subject to appropriate provisions on the protection of personal data;
+            (c)
+               cooperation and joint initiatives in training, the exchange of liaison officers, secondments, the use of equipment, and forensic research;
+            (d)
+               the common evaluation of particular investigative techniques in relation to the detection of serious forms of organised crime.
+            2.   The Council shall promote cooperation through Europol and shall in particular, within a period of five years after the date of entry into force of the Treaty of Amsterdam:
+            (a)
+               enable Europol to facilitate and support the preparation, and to encourage the coordination and carrying out, of specific investigative actions by the competent authorities of the Member States, including operational actions of joint teams comprising representatives of Europol in a support capacity;
+            (b)
+               adopt measures allowing Europol to ask the competent authorities of the Member States to conduct and coordinate their investigations in specific cases and to develop specific expertise which may be put at the disposal of Member States to assist them in investigating cases of organised crime;
+            (c)
+               promote liaison arrangements between prosecuting/investigating officials specialising in the fight against organised crime in close cooperation with Europol;
+         (d)
+                     establish a research, documentation and statistical network on crossborder crime.
+               ARTICLE 31 (ex Article K.3)
+            Common action on judicial cooperation in criminal matters shall include:
+            (a)
+               facilitating and accelerating cooperation between competent ministries and judicial or equivalent authorities of the Member States in relation to proceedings and the enforcement of decisions;
+            (b)
+               facilitating extradition between Member States;
+            (c)
+               ensuring compatibility in rules applicable in the Member States, as may be necessary to improve such cooperation;
+            (d)
+               preventing conflicts of jurisdiction between Member States; 
+            (e)
+               progressively adopting measures establishing minimum rules relating to the constituent elements of criminal acts and to penalties in the fields of organised crime, terrorism and illicit drug trafficking.
+               ARTICLE 32 (ex Article K.4)
+         The Council shall lay down the conditions and limitations under which the competent authorities referred to in Articles 30 and 31 may operate in the territory of another Member State in liaison and in agreement with the authorities of that State.
+               ARTICLE 33 (ex Article K.5)
+            This Title shall not affect the exercise of the responsibilities incumbent upon Member States with regard to the maintenance of law and order and the safeguarding of internal security.
+               ARTICLE 34 (ex Article K.6)
+            1.   In the areas referred to in this Title, Member States shall inform and consult one another within the Council with a view to coordinating their action.  To that end, they shall establish collaboration between the relevant departments of their administrations.
+            2.   The Council shall take measures and promote cooperation, using the appropriate form and procedures as set out in this Title, contributing to the pursuit of the objectives of the Union.  To that end, acting unanimously on the initiative of any Member State or of the Commission, the Council may:
+            (a)
+               adopt common positions defining the approach of the Union to a particular matter;
+            (b)
+               adopt framework decisions for the purpose of approximation of the laws and regulations of the Member States.  Framework decisions shall be binding upon the Member States as to the result to be achieved but shall leave to the national authorities the choice of form and methods.  They shall not entail direct effect;
+            (c)
+               adopt decisions for any other purpose consistent with the objectives of this Title, excluding any approximation of the laws and regulations of the Member States.  These decisions shall be binding and shall not entail direct effect; the Council, acting by a qualified majority, shall adopt measures necessary to implement those decisions at the level of the Union;
+         (d)
+               establish conventions which it shall recommend to the Member States for adoption in accordance with their respective constitutional requirements.  Member States shall begin the procedures applicable within a time limit to be set by the Council.
+                     Unless they provide otherwise, conventions shall, once adopted by at least half of the Member States, enter into force for those Member States.  Measures implementing conventions shall be adopted within the Council by a majority of twothirds of the Contracting Parties.
+            3.   Where the Council is required to act by a qualified majority, the votes of its members shall be weighted as laid down in Article 205(2) of the Treaty establishing the European Community, and for their adoption acts of the Council shall require at least 62 votes in favour, cast by at least 10 members.
+            4.   For procedural questions, the Council shall act by a majority of its members.
+               ARTICLE 35 (ex Article K.7)
+            1.   The Court of Justice of the European Communities shall have jurisdiction, subject to the conditions laid down in this Article, to give preliminary rulings on the validity and interpretation of framework decisions and decisions, on the interpretation of conventions established under this Title and on the validity and interpretation of the measures implementing them.
+            2.   By a declaration made at the time of signature of the Treaty of Amsterdam or at any time thereafter, any Member State shall be able to accept the jurisdiction of the Court of Justice to give preliminary rulings as specified in paragraph 1.
+            3.   A Member State making a declaration pursuant to paragraph 2 shall specify that either:
+            (a)
+               any court or tribunal of that State against whose decisions there is no judicial remedy under national law may request the Court of Justice to give a preliminary ruling on a question raised in a case pending before it and concerning the validity or interpretation of an act referred to in paragraph 1 if that court or tribunal considers that a decision on the question is necessary to enable it to give judgment, or
+            (b)
+               any court or tribunal of that State may request the Court of Justice to give a preliminary ruling on a question raised in a case pending before it and concerning the validity or interpretation of an act referred to in paragraph 1 if that court or tribunal considers that a decision on the question is necessary to enable it to give judgment.
+            4.   Any Member State, whether or not it has made a declaration pursuant to paragraph 2, shall be entitled to submit statements of case or written observations to the Court in cases which arise under paragraph 1.
+            5.   The Court of Justice shall have no jurisdiction to review the validity or proportionality of operations carried out by the police or other law enforcement services of a Member State or the exercise of the responsibilities incumbent upon Member States with regard to the maintenance of law and order and the safeguarding of internal security.
+            6.   The Court of Justice shall have jurisdiction to review the legality of framework decisions and decisions in actions brought by a Member State or the Commission on grounds of lack of competence, infringement of an essential procedural requirement, infringement of this Treaty or of any rule of law relating to its application, or misuse of powers. The proceedings provided for in this paragraph shall be instituted within two months of the publication of the measure.
+            7.   The Court of Justice shall have jurisdiction to rule on any dispute between Member States regarding the interpretation or the application of acts adopted under Article 34(2) whenever such dispute cannot be settled by the Council within six months of its being referred to the Council by one of its members.  The Court shall also have jurisdiction to rule on any dispute between Member States and the Commission regarding the interpretation or the application of conventions established under Article 34(2)(d).
+               ARTICLE 36 (ex Article K.8)
+            1.   A Coordinating Committee shall be set up consisting of senior officials.  In addition to its coordinating role, it shall be the task of the Committee to:
+            –
+               give opinions for the attention of the Council, either at the Council's request or on its own initiative;
+            –
+               contribute, without prejudice to Article 207 of the Treaty establishing the European Community, to the preparation of the Council's discussions in the areas referred to in Article 29.
+            2.   The Commission shall be fully associated with the work in the areas referred to in this Title.
+               ARTICLE 37 (ex Article K.9)
+            Within international organisations and at international conferences in which they take part, Member States shall defend the common positions adopted under the provisions of this Title.
+            Articles 18 and 19 shall apply as appropriate to matters falling under this Title.
+               ARTICLE 38 (ex Article K.10)
+            Agreements referred to in Article 24 may cover matters falling under this Title.
+               ARTICLE 39 (ex Article K.11)
+            1.   The Council shall consult the European Parliament before adopting any measure referred to in Article 34(2)(b), (c) and (d).  The European Parliament shall deliver its opinion within a timelimit which the Council may lay down, which shall not be less than three months.  In the absence of an opinion within that timelimit, the Council may act.
+            2.   The Presidency and the Commission shall regularly inform the European Parliament of discussions in the areas covered by this Title.
+            3.   The European Parliament may ask questions of the Council or make recommendations to it.  Each year, it shall hold a debate on the progress made in the areas referred to in this Title.
+               ARTICLE 40 (ex Article K.12)
+            1.   Member States which intend to establish closer cooperation between themselves may be authorised, subject to Articles 43 and 44, to make use of the institutions, procedures and mechanisms laid down by the Treaties provided that the cooperation proposed:
+            (a)
+               respects the powers of the European Community, and the objectives laid down by this Title;
+            (b)
+               has the aim of enabling the Union to develop more rapidly into an area of freedom, security and justice.
+            2.   The authorisation referred to in paragraph 1 shall be granted by the Council, acting by a qualified majority at the request of the Member States concerned and after inviting the Commission to present its opinion; the request shall also be forwarded to the European Parliament.
+            If a member of the Council declares that, for important and stated reasons of national policy, it intends to oppose the granting of an authorisation by qualified majority, a vote shall not be taken.  The Council may, acting by a qualified majority, request that the matter be referred to the European Council for decision by unanimity.
+            The votes of the members of the Council shall be weighted in accordance with Article 205(2) of the Treaty establishing the European Community.  For their adoption, decisions shall require at least 62 votes in favour, cast by at least 10 members.
+            3.   Any Member State which wishes to become a party to cooperation set up in accordance with this Article shall notify its intention to the Council and to the Commission, which shall give an opinion to the Council within three months of receipt of that notification, possibly accompanied by a recommendation for such specific arrangements as it may deem necessary for that Member State to become a party to the cooperation in question.  Within four months of the date of that notification, the Council shall decide on the request and on such specific arrangements as it may deem necessary.  The decision shall be deemed to be taken unless the Council, acting by a qualified majority, decides to hold it in abeyance; in this case, the Council shall state the reasons for its decision and set a deadline for reexamining it.  For the purposes of this paragraph, the Council shall act under the conditions set out in Article 44.
+            4.   The provisions of Articles 29 to 41 shall apply to the closer cooperation provided for by this Article, save as otherwise provided for in this Article and in Articles 43 and 44.
+            The provisions of the Treaty establishing the European Community concerning the powers of the Court of Justice of the European Communities and the exercise of those powers shall apply to paragraphs 1, 2 and 3. 
+         5.   This Article is without prejudice to the provisions of the Protocol integrating the Schengen acquis into the framework of the European Union.
+               ARTICLE 41 (ex Article K.13)
+            1.   Articles 189, 190, 195, 196 to 199, 203, 204, 205(3), 206 to 209, 213 to 219, 255 and 290 of the Treaty establishing the European Community shall apply to the provisions relating to the areas referred to in this Title.
+            2.   Administrative expenditure which the provisions relating to the areas referred to in this Title entail for the institutions shall be charged to the budget of the European Communities.
+            3.   Operational expenditure to which the implementation of those provisions gives rise shall also be charged to the budget of the European Communities, except where the Council acting unanimously decides otherwise.  In cases where expenditure is not charged to the budget of the European Communities it shall be charged to the Member States in accordance with the gross national product scale, unless the Council acting unanimously decides otherwise.
+            4.   The budgetary procedure laid down in the Treaty establishing the European Community shall apply to the expenditure charged to the budget of the European Communities.
+               ARTICLE 42 (ex Article K.14)
+            The Council, acting unanimously on the initiative of the Commission or a Member State, and after consulting the European Parliament, may decide that action in areas referred to in Article 29 shall fall under Title IV of the Treaty establishing the European Community, and at the same time determine the relevant voting conditions relating to it.  It shall recommend the Member States to adopt that decision in accordance with their respective constitutional requirements.
+            TITLE VII (ex Title VIa)
+            PROVISIONS ON CLOSER COOPERATION
+            ARTICLE 43 (ex Article K.15)
+            1.   Member States which intend to establish closer cooperation between themselves may make use of the institutions, procedures and mechanisms laid down by this Treaty and the Treaty establishing the European Community provided that the cooperation:
+            (a)
+               is aimed at furthering the objectives of the Union and at protecting and serving its interests;
+            (b)
+               respects the principles of the said Treaties and the single institutional framework of the Union;
+            (c)
+               is only used as a last resort, where the objectives of the said Treaties could not be attained by applying the relevant procedures laid down therein;
+            (d)
+               concerns at least a majority of Member States;
+            (e)
+               does not affect the "acquis communautaire" and the measures adopted under the other provisions of the said Treaties;
+            (f)
+               does not affect the competences, rights, obligations and interests of those Member States which do not participate therein; 
+         (g)
+               is open to all Member States and allows them to become parties to the cooperation at any time, provided that they comply with the basic decision and with the decisions taken within that framework;
+            (h)
+               complies with the specific additional criteria laid down in Article 11 of the Treaty establishing the European Community and Article 40 of this Treaty, depending on the area concerned, and is authorised by the Council in accordance with the procedures laid down therein.
+            2.   Member States shall apply, as far as they are concerned, the acts and decisions adopted for the implementation of the cooperation in which they participate.  Member States not participating in such cooperation shall not impede the implementation thereof by the participating Member States.
+               ARTICLE 44 (ex Article K.16)
+            1.   For the purposes of the adoption of the acts and decisions necessary for the implementation of the cooperation referred to in Article 43, the relevant institutional provisions of this Treaty and of the Treaty establishing the European Community shall apply.  However, while all members of the Council shall be able to take part in the deliberations, only those representing participating Member States shall take part in the adoption of decisions.  The qualified majority shall be defined as the same proportion of the weighted votes of the members of the Council concerned as laid down in Article 205(2) of the Treaty establishing the European Community.  Unanimity shall be constituted by only those Council members concerned.
+            2.   Expenditure resulting from implementation of the cooperation, other than administrative costs entailed for the institutions, shall be borne by the participating Member States, unless the Council, acting unanimously, decides otherwise.
+               ARTICLE 45 (ex Article K.17)
+            The Council and the Commission shall regularly inform the European Parliament of the development of closer cooperation established on the basis of this Title.
+            TITLE VIII (ex Title VII)
+         FINAL PROVISIONS
+            ARTICLE 46 (ex Article L)
+            The provisions of the Treaty establishing the European Community, the Treaty establishing the European Coal and Steel Community and the Treaty establishing the European Atomic Energy Community concerning the powers of the Court of Justice of the European Communities and the exercise of those powers shall apply only to the following provisions of this Treaty:
+            (a)
+               provisions amending the Treaty establishing the European Economic Community with a view to establishing the European Community, the Treaty establishing the European Coal and Steel Community and the Treaty establishing the European Atomic Energy Community;
+            (b)
+               provisions of Title VI, under the conditions provided for by Article 35;
+            (c)
+               provisions of Title VII, under the conditions provided for by Article 11 of the Treaty establishing the European Community and Article 40 of this Treaty;
+            (d)
+               Article 6(2) with regard to action of the institutions, insofar as the Court has jurisdiction under the Treaties establishing the European Communities and under this Treaty;
+            (e)
+               Articles 46 to 53.
+               ARTICLE 47 (ex Article M)
+         Subject to the provisions amending the Treaty establishing the European Economic Community with a view to establishing the European Community, the Treaty establishing the European Coal and Steel Community and the Treaty establishing the European Atomic Energy Community, and to these final provisions, nothing in this Treaty shall affect the Treaties establishing the European Communities or the subsequent Treaties and Acts modifying or supplementing them.
+               ARTICLE 48 (ex Article N)
+            The government of any Member State or the Commission may submit to the Council proposals for the amendment of the Treaties on which the Union is founded.
+            If the Council, after consulting the European Parliament and, where appropriate, the Commission, delivers an opinion in favour of calling a conference of representatives of the governments of the Member States, the conference shall be convened by the President of the Council for the purpose of determining by common accord the amendments to be made to those Treaties.  The European Central Bank shall also be consulted in the case of institutional changes in the monetary area.
+            The amendments shall enter into force after being ratified by all the Member States in accordance with their respective constitutional requirements.
+               ARTICLE 49 (ex Article O)
+            Any European State which respects the principles set out in Article 6(1) may apply to become a member of the Union.  It shall address its application to the Council, which shall act unanimously after consulting the Commission and after receiving the assent of the European Parliament, which shall act by an absolute majority of its component members.
+            The conditions of admission and the adjustments to the Treaties on which the Union is founded which such admission entails shall be the subject of an agreement between the Member States and the applicant State.  This agreement shall be submitted for ratification by all the contracting States in accordance with their respective constitutional requirements.
+               ARTICLE 50 (ex Article P)
+         1.   Articles 2 to 7 and 10 to 19 of the Treaty establishing a Single Council and a Single Commission of the European Communities, signed in Brussels on 8 April 1965, are hereby repealed.
+            2.   Article 2, Article 3(2) and Title III of the Single European Act signed in Luxembourg on 17 February 1986 and in The Hague on 28 February 1986 are hereby repealed.
+               ARTICLE 51 (ex Article Q)
+            This Treaty is concluded for an unlimited period.
+               ARTICLE 52 (ex Article R)
+            1.   This Treaty shall be ratified by the High Contracting Parties in accordance with their respective constitutional requirements.  The instruments of ratification shall be deposited with the Government of the Italian Republic.
+            2.   This Treaty shall enter into force on 1 January 1993, provided that all the instruments of ratification have been deposited, or, failing that, on the first day of the month following the deposit of the instrument of ratification by the last signatory State to take this step.
+               ARTICLE 53 (ex Article S)
+            This Treaty, drawn up in a single original in the Danish, Dutch, English, French, German, Greek, Irish, Italian, Portuguese and Spanish languages, the texts in each of these languages being equally authentic, shall be deposited in the archives of the government of the Italian Republic, which will transmit a certified copy to each of the governments of the other signatory States.
+         Pursuant to the Accession Treaty of 1994, the Finnish and Swedish versions of this Treaty shall also be authentic.
+            IN WITNESS WHEREOF the undersigned Plenipotentiaries have signed this Treaty.
+            Done at Maastricht on the seventh day of February in the year one thousand nine hundred and ninetytwo.
+            Mark EYSKENS
+               Philippe MAYSTADT
+            Uffe ELLEMANNJENSEN
+               Anders FOGH RASMUSSEN
+            HansDietrich GENSCHER
+               Theodor WAIGEL
+            Antonios SAMARAS
+               Efthymios CHRISTODOULOU
+            Francisco FERNÁNDEZ ORDÓÑEZ
+               Carlos SOLCHAGA CATALÁN
+            Roland DUMAS
+               Pierre BÉRÉGOVOY
+            Gerard COLLINS
+               Bertie AHERN
+            Gianni DE MICHELIS
+               Guido CARLI
+            Jacques F. POOS
+                     JeanClaude JUNCKER
+            Hans VAN DEN BROEK
+               Willem KOK
+            João de Deus PINHEIRO
+               Jorge BRAGA DE MACEDO
+            Douglas HURD
+               Francis MAUDE 
