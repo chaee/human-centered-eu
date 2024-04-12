@@ -49,8 +49,3 @@ for url in urls:
         file.write(response.text)
 
     parse_xml(xml_file_path, text_file_path)
-
-    # Your code here to call xml_to_txt.py on xml_responses
-    #subprocess.run(['python', 'xml_to_txt.py'])
-
-# Your code here to call xml_to_txt.py on xml_responses
