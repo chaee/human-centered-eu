@@ -1,0 +1,778 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML//EN" "xhtml-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><!-- CONVEX # converter_version:9.15.0 # generated_on:20240212-1703 # ELI version:0.10 --><head>
+      <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
+      <link type="text/css" rel="stylesheet" href="oj-convex-act.css"/>
+      <title>C_202401459EN.000101.fmx.xml</title>
+   </head>
+   <body>
+      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+         <col width="5%"/>
+         <col width="75%"/>
+         <col width="20%"/>
+         <tbody>
+            <tr>
+               <td  >
+                  <img alt="European flag" src="europeanflag.gif" height="40pt" width="60pt"/>
+               </td>
+               <td  >
+                  <p class="oj-hd-ti">Official Journal <br/>of the European Union</p>
+               </td>
+               <td  >
+                  <p class="oj-hd-lg">EN</p>
+                  <p class="oj-hd-coll">Series C</p>
+               </td>
+            </tr>
+         </tbody>
+      </table>
+      <hr class="oj-separator"/>
+      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+         <col width="20%"/>
+         <col width="60%"/>
+         <col width="20%"/>
+         <tbody>
+            <tr>
+               <td  />
+               <td  >
+                  <p class="oj-hd-uniq">C/2024/1459</p>
+               </td>
+               <td  >
+                  <p class="oj-hd-date">14.2.2024</p>
+               </td>
+            </tr>
+         </tbody>
+      </table>
+      <div class="eli-container">
+         <div class="eli-main-title" id="tit_1">
+            <p class="oj-doc-ti" id="d1e39-1-1">
+            COMMISSION DECISION
+         </p>
+            <p class="oj-doc-ti">of 24 January 2024
+         </p>
+            <p class="oj-doc-ti">establishing the European Artificial Intelligence Office</p>
+            <p class="oj-no-doc-c">(C/2024/1459)</p>
+         </div>
+         <div class="eli-subdivision" id="pbl_1">
+            <p class="oj-normal">THE EUROPEAN COMMISSION,</p>
+            <div class="eli-subdivision" id="cit_1">
+               <p class="oj-normal">Having regard to the Treaty on the Functioning of the European Union,</p>
+            </div>
+            <p class="oj-normal">Whereas:</p>
+            <div class="eli-subdivision" id="rct_1">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(1)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">Artificial intelligence (AI) is a fast evolving family of technologies that can contribute to a wide array of economic and societal benefits across the entire spectrum of industries and social activities. At the same time, depending on the circumstances regarding its specific application and use, AI can generate risks and cause harm to public interests and fundamental rights that are protected by Union law.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="rct_2">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(2)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">The Commission has proposed a Regulation laying down harmonised rules on artificial intelligence (Artificial Intelligence Act) and amending certain Union legislative acts <a id="ntc1-C_202401459EN.000101-E0001" href="#ntr1-C_202401459EN.000101-E0001"
+                                 >(<span class="oj-super oj-note-tag">1</span>)</a>, aiming to foster the development, use and uptake of artificial intelligence in the internal market that, at the same time, meets a high level of protection of public interests, such as health and safety and the protection of fundamental rights, as recognised and protected by Union law. The proposed Regulation is one of several measures of the Commission aimed to deliver on the twin objective of promoting the uptake of AI and of addressing the risks associated with certain uses of such technology. Further measures include the ‘Coordinated Plan on Artificial Intelligence’ in its review of 2021 <a id="ntc2-C_202401459EN.000101-E0002" href="#ntr2-C_202401459EN.000101-E0002"
+                                 >(<span class="oj-super oj-note-tag">2</span>)</a>, initiatives of sectoral policies fostering the uptake of AI or Union funding programmes, such as those established by Regulations (EU) 2021/694 <a id="ntc3-C_202401459EN.000101-E0003" href="#ntr3-C_202401459EN.000101-E0003"
+                                 >(<span class="oj-super oj-note-tag">3</span>)</a> and (EU) 2021/695 <a id="ntc4-C_202401459EN.000101-E0004" href="#ntr4-C_202401459EN.000101-E0004"
+                                 >(<span class="oj-super oj-note-tag">4</span>)</a> of the European Parliament and of the Council.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="rct_3">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(3)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">The complexity and increasingly wide uptake of AI, especially when based on the most advanced models, and the necessity to accelerate progress towards the objectives and targets set in the Digital Decade policy programme established by Decision (EU) 2022/2481 of the European Parliament and of the Council <a id="ntc5-C_202401459EN.000101-E0005" href="#ntr5-C_202401459EN.000101-E0005"
+                                 >(<span class="oj-super oj-note-tag">5</span>)</a>, demonstrate the need for additional action to foster an understanding of capabilities, trends and potential risks and to support the safe development and use of AI technologies in the Union.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="rct_4">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(4)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">It is necessary to develop expertise and capabilities at Union level with a view to foster such understanding, to contribute to the implementation and enforcement of the forthcoming Regulation laying down harmonised rules on artificial intelligence, and to contribute to the implementation of international rules and principles on AI, such as the G7 Code of Conduct and Guiding Principles for developers of advanced AI systems.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="rct_5">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(5)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">Against this background, the foundations for a single governance system for AI in the Union should be laid down by establishing a structure, which should oversee the advancements in artificial intelligence models, including as regards general-purpose AI models, the interaction with the scientific community, and should play a key role in investigations and testing, enforcement and have a global vocation.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="rct_6">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(6)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">Therefore, a European Artificial Intelligence Office should be established within the Commission as part of the administrative structure of the Directorate-General for Communication Networks, Content and Technology and subject to its annual management plan.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="rct_7">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(7)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">The European Artificial Intelligence Office should operate in accordance with Commission internal processes <a id="ntc6-C_202401459EN.000101-E0006" href="#ntr6-C_202401459EN.000101-E0006"
+                                 >(<span class="oj-super oj-note-tag">6</span>)</a> and its establishment should not affect the powers and competences of national competent authorities, and bodies, offices and agencies of the Union in the supervision of AI systems, as provided for by the forthcoming Regulation laying down harmonised rules on artificial intelligence and other sectoral Union legislation. It is without prejudice to the functions of other Commission departments in their respective areas of responsibility, and of the European External Action Service in the area of Common, Foreign and Security policy. The European Artificial Intelligence Office should exercise its tasks, in particular to issue guidance, in a way that does not duplicate activities of relevant bodies, offices and agencies of the Union under sector specific legislation.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="rct_8">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(8)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">In order to allow for the preparation of the implementation of the forthcoming Regulation laying down harmonised rules on artificial intelligence to start as soon as possible, this Decision should enter into force as a matter of urgency, ahead of the adoption of that Regulation, following the political agreement of the co-legislators achieved on 8 December 2023. Once the Regulation is adopted, this decision may be revised.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <p class="oj-normal">HAS DECIDED AS FOLLOWS:</p>
+         </div>
+         <div class="eli-subdivision" id="enc_1">
+            <div class="eli-subdivision" id="art_1">
+               <p id="d1e165-1-1" class="oj-ti-art">Article 1</p>
+               <div class="eli-title" id="art_1.tit_1">
+                  <p class="oj-sti-art">Establishment</p>
+               </div>
+               <p class="oj-normal">The European Artificial Intelligence Office (the ‘Office’) is established.</p>
+               <p class="oj-normal">The Office shall be part of the administrative structure of the Directorate-General for Communication Networks, Content and Technology (the ‘Directorate-General’).</p>
+            </div>
+            <div class="eli-subdivision" id="art_2">
+               <p id="d1e182-1-1" class="oj-ti-art">Article 2</p>
+               <div class="eli-title" id="art_2.tit_1">
+                  <p class="oj-sti-art">Mission and tasks</p>
+               </div>
+               <div id="002.001">
+                  <p class="oj-normal">1.   The Office shall perform the tasks set out in Article 3 for the purposes of implementing and enforcing the forthcoming Regulation laying down harmonised rules on artificial intelligence (the ‘forthcoming Regulation’).</p>
+               </div>
+               <div id="002.002">
+                  <p class="oj-normal">2.   The Office shall have the following additional tasks:</p>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="4%"/>
+                     <col width="96%"/>
+                     <tbody>
+                        <tr>
+                           <td valign="top"  >
+                              <p class="oj-normal">(a)</p>
+                           </td>
+                           <td valign="top"  >
+                              <p class="oj-normal">contribute to the strategic, coherent and effective Union approach to international initiatives on AI pursuant to Article 7 in coordination with Member States and in line with Union positions and policies;</p>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="4%"/>
+                     <col width="96%"/>
+                     <tbody>
+                        <tr>
+                           <td valign="top"  >
+                              <p class="oj-normal">(b)</p>
+                           </td>
+                           <td valign="top"  >
+                              <p class="oj-normal">contribute to fostering actions and policies in the Commission that reap the societal and economic benefits of AI technologies pursuant to Article 5;</p>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="4%"/>
+                     <col width="96%"/>
+                     <tbody>
+                        <tr>
+                           <td valign="top"  >
+                              <p class="oj-normal">(c)</p>
+                           </td>
+                           <td valign="top"  >
+                              <p class="oj-normal">support the accelerated development, roll-out and use of trustworthy AI systems and applications that bring societal and economic benefits and that contribute to the competitiveness and the economic growth of the Union. In particular, the Office shall promote innovation ecosystems by working with relevant public and private actors and the startup community;</p>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="4%"/>
+                     <col width="96%"/>
+                     <tbody>
+                        <tr>
+                           <td valign="top"  >
+                              <p class="oj-normal">(d)</p>
+                           </td>
+                           <td valign="top"  >
+                              <p class="oj-normal">monitor the evolution of AI markets and technologies.</p>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+               </div>
+               <div id="002.003">
+                  <p class="oj-normal">3.   In the performance of the tasks referred to in paragraphs 1 and 2 of this Article, the Office shall:</p>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="4%"/>
+                     <col width="96%"/>
+                     <tbody>
+                        <tr>
+                           <td valign="top"  >
+                              <p class="oj-normal">(a)</p>
+                           </td>
+                           <td valign="top"  >
+                              <p class="oj-normal">work together with stakeholders, in particular experts from the scientific community and AI developers, pursuant to Article 4;</p>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="4%"/>
+                     <col width="96%"/>
+                     <tbody>
+                        <tr>
+                           <td valign="top"  >
+                              <p class="oj-normal">(b)</p>
+                           </td>
+                           <td valign="top"  >
+                              <p class="oj-normal">collaborate with relevant Directorate-Generals and services of the Commission pursuant to Article 5;</p>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="4%"/>
+                     <col width="96%"/>
+                     <tbody>
+                        <tr>
+                           <td valign="top"  >
+                              <p class="oj-normal">(c)</p>
+                           </td>
+                           <td valign="top"  >
+                              <p class="oj-normal">cooperate with all relevant bodies, offices and agencies of the Union, including the European High Performance Computing Joint Undertaking (EuroHPC JU), pursuant to Article 6;</p>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="4%"/>
+                     <col width="96%"/>
+                     <tbody>
+                        <tr>
+                           <td valign="top"  >
+                              <p class="oj-normal">(d)</p>
+                           </td>
+                           <td valign="top"  >
+                              <p class="oj-normal">cooperate with authorities and bodies of the Member States on behalf of the Commission.</p>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+               </div>
+            </div>
+            <div class="eli-subdivision" id="art_3">
+               <p id="d1e258-1-1" class="oj-ti-art">Article 3</p>
+               <div class="eli-title" id="art_3.tit_1">
+                  <p class="oj-sti-art">Implementation of the forthcoming Regulation</p>
+               </div>
+               <div id="003.001">
+                  <p class="oj-normal">1.   The Office shall perform the following tasks stemming from the forthcoming Regulation:</p>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="4%"/>
+                     <col width="96%"/>
+                     <tbody>
+                        <tr>
+                           <td valign="top"  >
+                              <p class="oj-normal">(a)</p>
+                           </td>
+                           <td valign="top"  >
+                              <p class="oj-normal">developing tools, methodologies and benchmarks for evaluating capabilities of general-purpose AI models, in particular for very large general purpose AI models with systemic risks;</p>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="4%"/>
+                     <col width="96%"/>
+                     <tbody>
+                        <tr>
+                           <td valign="top"  >
+                              <p class="oj-normal">(b)</p>
+                           </td>
+                           <td valign="top"  >
+                              <p class="oj-normal">monitoring the implementation and application of rules on general-purpose AI models and systems, in particular where the model and the system are developed by the same provider;</p>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="4%"/>
+                     <col width="96%"/>
+                     <tbody>
+                        <tr>
+                           <td valign="top"  >
+                              <p class="oj-normal">(c)</p>
+                           </td>
+                           <td valign="top"  >
+                              <p class="oj-normal">monitoring the emergence of unforeseen risks stemming from general-purpose AI models, including by responding to alerts from the scientific panel;</p>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="4%"/>
+                     <col width="96%"/>
+                     <tbody>
+                        <tr>
+                           <td valign="top"  >
+                              <p class="oj-normal">(d)</p>
+                           </td>
+                           <td valign="top"  >
+                              <p class="oj-normal">investigating possible infringements of rules on general-purpose AI models and systems, including by collecting complaints and alerts, assisting in the preparation of decisions of the Commission and conducting evaluations pursuant to the forthcoming Regulation.;</p>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="4%"/>
+                     <col width="96%"/>
+                     <tbody>
+                        <tr>
+                           <td valign="top"  >
+                              <p class="oj-normal">(e)</p>
+                           </td>
+                           <td valign="top"  >
+                              <p class="oj-normal">ensuring that when an AI system falls within the scope of relevant Union legislation for which the Commission has powers of supervision and enforcement, such as under Regulation (EU) 2022/2065 of the European Parliament and of the Council <a id="ntc7-C_202401459EN.000101-E0007" href="#ntr7-C_202401459EN.000101-E0007"
+                                    >(<span class="oj-super oj-note-tag">7</span>)</a> or under Regulation (EU) 2022/1925 of the European Parliament and of the Council <a id="ntc8-C_202401459EN.000101-E0008" href="#ntr8-C_202401459EN.000101-E0008"
+                                    >(<span class="oj-super oj-note-tag">8</span>)</a> , the supervision and enforcement of that legislation is fully coordinated with the supervision and enforcement of the forthcoming Regulation;</p>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="4%"/>
+                     <col width="96%"/>
+                     <tbody>
+                        <tr>
+                           <td valign="top"  >
+                              <p class="oj-normal">(f)</p>
+                           </td>
+                           <td valign="top"  >
+                              <p class="oj-normal">supporting the implementation of rules on prohibited AI practices and high-risk AI systems in coordination with relevant bodies responsible under sectoral legislation, including facilitating information exchange and collaboration between national authorities, collecting notifications and establishing information platforms and databases, in particular when a general-purpose AI model or system is integrated into a high-risk AI system.</p>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+               </div>
+               <div id="003.002">
+                  <p class="oj-normal">2.   Moreover, in order to contribute to the effective implementation of the forthcoming Regulation, the Office shall be tasked with:</p>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="4%"/>
+                     <col width="96%"/>
+                     <tbody>
+                        <tr>
+                           <td valign="top"  >
+                              <p class="oj-normal">(a)</p>
+                           </td>
+                           <td valign="top"  >
+                              <p class="oj-normal">assisting the Commission in the preparation of relevant Commission Decisions, and of implementing and delegated acts;</p>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="4%"/>
+                     <col width="96%"/>
+                     <tbody>
+                        <tr>
+                           <td valign="top"  >
+                              <p class="oj-normal">(b)</p>
+                           </td>
+                           <td valign="top"  >
+                              <p class="oj-normal">facilitating the uniform application of the forthcoming Regulation;</p>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="4%"/>
+                     <col width="96%"/>
+                     <tbody>
+                        <tr>
+                           <td valign="top"  >
+                              <p class="oj-normal">(c)</p>
+                           </td>
+                           <td valign="top"  >
+                              <p class="oj-normal">assisting the Commission in the preparation of guidance and guidelines to support the practical implementation of the forthcoming Regulation, as well as developing supportive tools, such as standardised protocols and best practices, in consultation with relevant Commission services and bodies, offices and agencies of the Union;</p>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="4%"/>
+                     <col width="96%"/>
+                     <tbody>
+                        <tr>
+                           <td valign="top"  >
+                              <p class="oj-normal">(d)</p>
+                           </td>
+                           <td valign="top"  >
+                              <p class="oj-normal">assisting the Commission in the preparation of standardisation requests, evaluation of existing standards and the preparation of common specifications for the implementation of the forthcoming Regulation;</p>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="4%"/>
+                     <col width="96%"/>
+                     <tbody>
+                        <tr>
+                           <td valign="top"  >
+                              <p class="oj-normal">(e)</p>
+                           </td>
+                           <td valign="top"  >
+                              <p class="oj-normal">contributing to the provision of technical support, advice and tools for the establishment and operation of AI regulatory sandboxes and coordination, as appropriate, with national competent authorities establishing such sandboxes;</p>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="4%"/>
+                     <col width="96%"/>
+                     <tbody>
+                        <tr>
+                           <td valign="top"  >
+                              <p class="oj-normal">(f)</p>
+                           </td>
+                           <td valign="top"  >
+                              <p class="oj-normal">conducting evaluations and reviews on and preparing reports related to the forthcoming Regulation;</p>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="4%"/>
+                     <col width="96%"/>
+                     <tbody>
+                        <tr>
+                           <td valign="top"  >
+                              <p class="oj-normal">(g)</p>
+                           </td>
+                           <td valign="top"  >
+                              <p class="oj-normal">coordinating the establishment of an effective governance system, including by preparing the set-up of advisory bodies at Union level, as well as monitoring the establishment of relevant national authorities and other bodies at national level;</p>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="4%"/>
+                     <col width="96%"/>
+                     <tbody>
+                        <tr>
+                           <td valign="top"  >
+                              <p class="oj-normal">(h)</p>
+                           </td>
+                           <td valign="top"  >
+                              <p class="oj-normal">providing the Secretariat for the AI Board and its subgroups, and providing administrative support to the advisory forum and the scientific panel, where applicable, including by providing the administrative set-up, organising meetings and preparing relevant documents; and</p>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="4%"/>
+                     <col width="96%"/>
+                     <tbody>
+                        <tr>
+                           <td valign="top"  >
+                              <p class="oj-normal">(i)</p>
+                           </td>
+                           <td valign="top"  >
+                              <p class="oj-normal">encouraging and facilitating the drawing up of codes of practices and codes of conducts at Union level, taking into account international approaches, as well as monitoring the implementation and evaluation of codes of practices.</p>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+               </div>
+            </div>
+            <div class="eli-subdivision" id="art_4">
+               <p id="d1e387-1-1" class="oj-ti-art">Article 4</p>
+               <div class="eli-title" id="art_4.tit_1">
+                  <p class="oj-sti-art">Cooperation with stakeholders</p>
+               </div>
+               <div id="004.001">
+                  <p class="oj-normal">1.   In the performance of its tasks pursuant to Article 3, the Office shall cooperate with stakeholders, in line with applicable competition rules, by:</p>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="4%"/>
+                     <col width="96%"/>
+                     <tbody>
+                        <tr>
+                           <td valign="top"  >
+                              <p class="oj-normal">(a)</p>
+                           </td>
+                           <td valign="top"  >
+                              <p class="oj-normal">establishing fora for cooperation of providers of AI models and systems to advance best practices and contribute to the development of codes of conduct and codes of practice;</p>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="4%"/>
+                     <col width="96%"/>
+                     <tbody>
+                        <tr>
+                           <td valign="top"  >
+                              <p class="oj-normal">(b)</p>
+                           </td>
+                           <td valign="top"  >
+                              <p class="oj-normal">conducting regular consultation of stakeholders, including experts from the scientific community and the educational sector, citizens, civil society and social partners, where relevant, to collect input for the performance of its tasks under Article 3(2);</p>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="4%"/>
+                     <col width="96%"/>
+                     <tbody>
+                        <tr>
+                           <td valign="top"  >
+                              <p class="oj-normal">(c)</p>
+                           </td>
+                           <td valign="top"  >
+                              <p class="oj-normal">establishing a forum for cooperation with the open-source community with a view to identify and develop best practices for the safe development and use of open-source AI models and systems.</p>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+               </div>
+            </div>
+            <div class="eli-subdivision" id="art_5">
+               <p id="d1e417-1-1" class="oj-ti-art">Article 5</p>
+               <div class="eli-title" id="art_5.tit_1">
+                  <p class="oj-sti-art">Cross-sectoral cooperation within the Commission</p>
+               </div>
+               <div id="005.001">
+                  <p class="oj-normal">1.   The Office shall contribute to fostering actions and policies that reap the societal and industrial benefit of AI technologies.</p>
+               </div>
+               <div id="005.002">
+                  <p class="oj-normal">2.   In particular, the Office shall</p>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="4%"/>
+                     <col width="96%"/>
+                     <tbody>
+                        <tr>
+                           <td valign="top"  >
+                              <p class="oj-normal">(a)</p>
+                           </td>
+                           <td valign="top"  >
+                              <p class="oj-normal">work with other relevant Directorate-Generals and services of the Commission in the performance of its tasks pursuant to Article 2, notably with the European Centre for Algorithmic Transparency as regards the evaluation and testing of general-purpose AI models and systems;</p>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="4%"/>
+                     <col width="96%"/>
+                     <tbody>
+                        <tr>
+                           <td valign="top"  >
+                              <p class="oj-normal">(b)</p>
+                           </td>
+                           <td valign="top"  >
+                              <p class="oj-normal">support other relevant Directorate-Generals and services of the Commission with a view to facilitate the use of AI models and systems as transformative tools in the relevant domains of Union policies, as well as to raise awareness about emerging risks.</p>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+               </div>
+            </div>
+            <div class="eli-subdivision" id="art_6">
+               <p id="d1e446-1-1" class="oj-ti-art">Article 6</p>
+               <div class="eli-title" id="art_6.tit_1">
+                  <p class="oj-sti-art">Inter-institutional cooperation</p>
+               </div>
+               <p class="oj-normal">In the performance of its tasks pursuant to Article 3, the Office shall establish the appropriate forms of cooperation with bodies, offices and agencies of the Union.</p>
+            </div>
+            <div class="eli-subdivision" id="art_7">
+               <p id="d1e453-1-1" class="oj-ti-art">Article 7</p>
+               <div class="eli-title" id="art_7.tit_1">
+                  <p class="oj-sti-art">International cooperation</p>
+               </div>
+               <div id="007.001">
+                  <p class="oj-normal">1.   The Office shall contribute to international cooperation on AI by the Commission, including innovation and excellence policy, with third countries and international organisations, in particular by:</p>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="4%"/>
+                     <col width="96%"/>
+                     <tbody>
+                        <tr>
+                           <td valign="top"  >
+                              <p class="oj-normal">(a)</p>
+                           </td>
+                           <td valign="top"  >
+                              <p class="oj-normal">advocating the responsible stewardship of AI and promoting the Union approach to trustworthy AI;</p>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="4%"/>
+                     <col width="96%"/>
+                     <tbody>
+                        <tr>
+                           <td valign="top"  >
+                              <p class="oj-normal">(b)</p>
+                           </td>
+                           <td valign="top"  >
+                              <p class="oj-normal">contributing to international cooperation related to AI regulation and governance;</p>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="4%"/>
+                     <col width="96%"/>
+                     <tbody>
+                        <tr>
+                           <td valign="top"  >
+                              <p class="oj-normal">(c)</p>
+                           </td>
+                           <td valign="top"  >
+                              <p class="oj-normal">contributing to the implementation of international agreements on rules on AI, including by providing support to Member States.</p>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+               </div>
+            </div>
+            <div class="eli-subdivision" id="art_8">
+               <p id="d1e483-1-1" class="oj-ti-art">Article 8</p>
+               <div class="eli-title" id="art_8.tit_1">
+                  <p class="oj-sti-art">Financing</p>
+               </div>
+               <div id="008.001">
+                  <p class="oj-normal">1.   For officials working in the Office, the human resources required shall be met by staff from the Directorate-General who are already assigned to management of the action or have been redeployed within the Directorate-General, in the light of budgetary constraints, without prejudice to the annual allocation procedure.</p>
+               </div>
+               <div id="008.002">
+                  <p class="oj-normal">2.   For external statutory staff working in the Office, the human resources costs shall be covered by a redeployment of budget appropriations from the administrative support expenditure from the Digital Europe Programme.</p>
+               </div>
+               <div id="008.003">
+                  <p class="oj-normal">3.   Operational expenditure of the Office shall be covered by the financial resources allocated to Specific Objective 2 ‘Artificial Intelligence’ of the Digital Europe Programme.</p>
+               </div>
+            </div>
+            <div class="eli-subdivision" id="art_9">
+               <p id="d1e507-1-1" class="oj-ti-art">Article 9</p>
+               <div class="eli-title" id="art_9.tit_1">
+                  <p class="oj-sti-art">Entry into force</p>
+               </div>
+               <p class="oj-normal">This Decision shall enter into force on 21 February 2024.</p>
+            </div>
+         </div>
+         <div class="eli-subdivision" id="fnp_1">
+            <div class="oj-final">
+               <p class="oj-normal">Done at Brussels, 24 January 2024.</p>
+               <div class="oj-signatory">
+                  <p class="oj-signatory">
+                     <span class="oj-italic">For the Commission</span>
+                  </p>
+                  <p class="oj-signatory">Thierry BRETON
+            </p>
+                  <p class="oj-signatory">
+                     <span class="oj-italic">Member of the Commission</span>
+                  </p>
+               </div>
+            </div>
+         </div>
+         <hr class="oj-note"/>
+         <p class="oj-note">
+            <a id="ntr1-C_202401459EN.000101-E0001" href="#ntc1-C_202401459EN.000101-E0001"
+               >(<span class="oj-super">1</span>)</a>  COM(2021) 206 final.</p>
+         <p class="oj-note">
+            <a id="ntr2-C_202401459EN.000101-E0002" href="#ntc2-C_202401459EN.000101-E0002"
+               >(<span class="oj-super">2</span>)</a>  COM(2021) 205 final.</p>
+         <p class="oj-note">
+            <a id="ntr3-C_202401459EN.000101-E0003" href="#ntc3-C_202401459EN.000101-E0003"
+               >(<span class="oj-super">3</span>)</a>  Regulation (EU) 2021/694 of the European Parliament and of the Council of 29 April 2021 establishing the Digital Europe Programme and repealing Decision (EU) 2015/2240 (<a href="http://publications.europa.eu/resource/oj/JOL_2021_166_R_TOC"
+               >OJ L 166, 11.5.2021, p. 1</a>, ELI: http://data.europa.eu/eli/reg/2021/694/oj).</p>
+         <p class="oj-note">
+            <a id="ntr4-C_202401459EN.000101-E0004" href="#ntc4-C_202401459EN.000101-E0004"
+               >(<span class="oj-super">4</span>)</a>  Regulation (EU) 2021/695 of the European Parliament and of the Council of 28 April 2021 establishing Horizon Europe – the Framework Programme for Research and Innovation, laying down its rules for participation and dissemination, and repealing Regulations (EU) No 1290/2013 and (EU) No 1291/2013 (<a href="http://publications.europa.eu/resource/oj/JOL_2021_170_R_TOC"
+               >OJ L 170, 12.5.2021, p. 1</a>, ELI: http://data.europa.eu/eli/reg/2021/695/oj).</p>
+         <p class="oj-note">
+            <a id="ntr5-C_202401459EN.000101-E0005" href="#ntc5-C_202401459EN.000101-E0005"
+               >(<span class="oj-super">5</span>)</a>  Decision (EU) 2022/2481 of the European Parliament and of the Council of 14 December 2022 establishing the Digital Decade Policy Programme 2030 (<a href="http://publications.europa.eu/resource/oj/JOL_2022_323_R_TOC"
+               >OJ L 323, 19.12.2022, p. 4</a>, ELI: http://data.europa.eu/eli/dec/2022/2481/oj).</p>
+         <p class="oj-note">
+            <a id="ntr6-C_202401459EN.000101-E0006" href="#ntc6-C_202401459EN.000101-E0006"
+               >(<span class="oj-super">6</span>)</a>  It is not a European Office within the meaning of the Financial Regulation, Regulation (EU, Euratom) 2018/1046 of the European Parliament and of the Council of 18 July 2018, Article 2(26).</p>
+         <p class="oj-note">
+            <a id="ntr7-C_202401459EN.000101-E0007" href="#ntc7-C_202401459EN.000101-E0007"
+               >(<span class="oj-super">7</span>)</a>  Regulation (EU) 2022/2065 of the European Parliament and of the Council of 19 October 2022 on a Single Market For Digital Services and amending Directive 2000/31/EC (Digital Services Act) (<a href="http://publications.europa.eu/resource/oj/JOL_2022_277_R_TOC"
+               >OJ L 277, 27.10.2022, p. 1</a>, ELI: http://data.europa.eu/eli/reg/2022/2065/oj).</p>
+         <p class="oj-note">
+            <a id="ntr8-C_202401459EN.000101-E0008" href="#ntc8-C_202401459EN.000101-E0008"
+               >(<span class="oj-super">8</span>)</a>  Regulation (EU) 2022/1925 of the European Parliament and of the Council of 14 September 2022 on contestable and fair markets in the digital sector and amending Directives (EU) 2019/1937 and (EU) 2020/1828 (Digital Markets Act) (<a href="http://publications.europa.eu/resource/oj/JOL_2022_265_R_TOC"
+               >OJ L 265, 12.10.2022, p. 1</a>, ELI: http://data.europa.eu/eli/reg/2022/1925/oj).</p>
+      </div>
+      <hr class="oj-separator"/>
+      <p class="oj-normal">ELI: http://data.europa.eu/eli/C/2024/1459/oj</p>
+      <p class="oj-normal">ISSN 1977-091X (electronic edition)</p>
+      <hr class="oj-doc-end"/>
+   </body>
+</html>

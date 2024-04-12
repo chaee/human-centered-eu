@@ -1,0 +1,1056 @@
+ CONVEX # converter_version:9.15.0 # generated_on:20231208-1225 # ELI version:0.10 
+   L_2023186EN.01003301.xml
+            25.7.2023   
+            EN
+            Official Journal of the European Union
+         L 186/33
+            COMMISSION IMPLEMENTING DECISION (EU) 2023/1534
+         of 24 July 2023
+         selecting the entities forming the initial network of European Digital Innovation Hubs in accordance with Regulation (EU) 2021/694 of the European Parliament and of the Council
+         (Text with EEA relevance)
+      THE EUROPEAN COMMISSION,
+         Having regard to the Treaty on the Functioning of the European Union,
+         Having regard to Regulation (EU) 2021/694 of the European Parliament and of the Council of 29 April 2021 establishing the Digital Europe Programme and repealing Decision (EU) 2015/2240 
+         (, and in particular Article 16(3), first paragraph, and Article 23(2),1)Whereas:
+                     (1)
+                  Pursuant to Article 16(3) of Regulation (EU) 2021/694, the Commission is to select the entities forming an initial network of European Digital Innovation Hubs.
+                     (2)
+                  In order to select the European Digital Innovation Hubs forming the initial network based on the list of candidate entities designated by Member States, the Commission opened two calls for proposals and evaluated the submitted proposals with the support of an independent board of experts. The first call (DIGITAL-2021-EDIH-01-INITIAL) opened on 17 November 2021 and closed on 22 February 2022 and the second call (DIGITAL-2022-EDIH-03) opened on 29 September 2022 and closed on 16 November 2022. In both evaluations, the Commission took the utmost account of the opinion of each Member State before selecting European Digital Innovation Hubs in the territory of that Member State.
+                     (3)
+                  The Commission retained 136 proposals from the first call and 15 proposals from the second call.
+                     (4)
+                  In order to enable a Member State to finance more European Digital Innovation Hubs in its territory, European Digital Innovation Hubs which have successfully passed all evaluation thresholds, but which could not be funded due to a lack of budget available for the relevant calls in the work programme, should be awarded the Seal of Excellence in accordance with Article 23(2) of Regulation (EU) 2021/694.
+                     (5)
+                  The measures provided for in this Decision are in accordance with the opinion of the Digital Europe Programme Coordination Committee,
+                     HAS ADOPTED THIS DECISION:
+         Article 1
+            The European Digital Innovation Hubs forming the initial network thereof are selected, as set out in Annexes I and II.
+         Article 2
+            The entities retained for funding by the Digital Europe Programme are listed in Annex I.
+            The entities awarded the Seal of Excellence are listed in Annex II.
+      Article 3
+            This Decision shall enter into force on the twentieth day following that of its publication in the 
+         Official Journal of the European Union.
+      Done at Brussels, 24 July 2023.
+               For the Commission
+               The President
+               Ursula VON DER LEYEN
+   (  
+            1)OJ L 166, 11.5.2021, p. 1.
+   ANNEX I
+         List of European Digital Innovation Hubs retained for funding by the Digital Europe Programme
+                  Grant Agreement number
+                  Acronym
+                  Country
+               Proposal title
+                  101083458
+                  EDIH innovATE
+                  Austria
+               EDIH innovATE – The European Digital Innovation Hub for Agrifood, Timber and Energy
+                  101083942
+                  Crowd in Motion
+                  Austria
+               EDIH for crowd technology and AI for motion data analytics: Use of internet of Things, FabLabs and access to finance for the green and digital transformation of the alpine tourism and sports industry
+                  101083472
+                  AI5production
+                  Austria
+               AI driven digital transformation of SMEs – towards Industry 5.0 production processes
+                  101083940
+                  Applied CPS
+                  Austria
+               EDIH Applied Cyber Physical Systems for manufacturing, construction and automotive sectors
+                  101083685
+                  WalHub
+                  Belgium
+               WalHub, to boost the digital transformation of manufacturing companies and the adoption of key technologies – i.e. AI, HPC, Cybersecurity and IoT – in their industrial and supply chain processes
+                  101083626
+                  EDIH-CONNECT
+                  Belgium
+               A European Digital Innovation Hub for Construction powered by Electronics, Artificial Intelligence & Information and Communication Technologies.
+                  101083575
+                  DIGITALIS
+                  Belgium
+               European Digital Innovation Hub on Manufacturing
+                  101083704
+                  Flanders AI EDIH
+                  Belgium
+               Flanders Artificial Intelligence European Digital Innovation Hub
+                  101083663
+                  sustAIn.brussels
+                  Belgium
+               Creating a lever for a future-proof and sustainable economy for Brussels enabled by AI and other emerging digital technologies
+                  101083326
+                  EDIH-EBE
+                  Belgium
+               European Digital Innovation Hub – Energy in the Built Environment
+                  101083554
+                  SynGReDiT
+                  Bulgaria
+               European Digital Innovation Hub Zagore – Synergy for Green Regional Digital Transformation of South-east region of Bulgaria]
+                  101083892
+                  EDICS
+                  Bulgaria
+               Enabling Digitalisation In the Construction Sector
+                  101083473
+                  AgroDigiRise
+                  Bulgaria
+               Unlocking the innovative potential of the South Central Region of Bulgaria and in the agricultural sector
+                  101083793
+                  CYBER4All STAR
+                  Bulgaria
+               CYBERsecurity 4 All STAkeholdeRs
+                  101083963
+                  JURK EDIH
+                  , to be renamed AI and Gaming EDIH
+                  Croatia
+               Digital transformation of Central Croatia and Northern Adriatic through AI and Gaming EDIH
+                  101083735
+                  AI4HEALTH.Cro
+                  Croatia
+               Artificial Intelligence for Smart Healthcare and Medicine
+                  101083838
+                  EDIH Adria
+                  Croatia
+               European Digital Innovation Hub Adriatic Croatia
+                  101083599
+                  CROBOHUBplusplus
+                  Croatia
+               CROatian Industry and Society BOosting – European Digital Innovation HUB
+                  101083772
+                  DiGiNN
+                  Cyprus
+               Cyprus DIGital INNovation Hub
+                  101120003
+                  EDIH NEB
+                  Czechia
+               EDIH Northern and Eastern Bohemia
+                  101083359
+                  EDIH CTU
+                  Czechia
+               EDIH Czech Technical University in Prague
+                  101083932
+                  CIH
+                  Czechia
+               Cybersecurity Innovation Hub
+                  101084053
+                  EDIH B4I
+                  Czechia
+               Brain 4 Industry (B4I)
+                  101083672
+                  EDIH-DIGIMAT
+                  Czechia
+               EDIH-DIGIMAT: Flexible Manufacturing Systems Using Artificial Intelligence
+                  101083551
+                  EDIH OVA
+                  Czechia
+               EDIH Ostrava
+                  101120807
+                  GC EDIH
+                  Denmark
+               Greater Copenhagen European Digital Innovation Hub
+                  101083595
+                  CD-EDIH
+                  Denmark
+               Smart specialisation on advanced digitalisation technologies through Central Denmark European Digital Innovation Hub
+                  101083474
+                  AddSmart
+                  Denmark
+               AddSmart – The European Digital Innovation Hub of North Denmark
+                  101120685
+                  SEDIH
+                  Denmark
+               Smart Energy Digital Innovation Hub
+                  101083814
+                  EDOcobot
+                  Denmark
+               EDIH Odense for deployment of collaborative robots (cobots) in many domains especially manufacturing and logistics
+                  101083677
+                  AIRE
+                  Estonia
+               AI and Robotics Estonia (EDIH)
+                  101083405
+                  FAIR
+                  Finland
+               Finnish AI Region
+                  101083680
+                  LIH
+                  Finland
+               Location Innovation Hub
+                  101083631
+                  Robocoast
+                  Finland
+               Robocoast EDIH Consortium
+                  101083544
+                  HHFIN
+                  Finland
+               HealthHub Finland – the future of healthcare shaped by a Hub of partners facilitating data-driven digital solutions in Finland and Europe
+                  101083367
+                  EDIH Corsica.ai
+                  France
+               European Digital Innovation Hub Corsica.ai
+                  101120918
+                  EDIH OCCITANIA
+                  France
+               To boost an ethical and sustainable digital transformation to improve competitiveness and resilience, and foster the use of space data specially for agri-food, mobility and health sectors
+                  101083886
+                  DIHNAMIC
+                  France
+               Digital Innovation Hub for Nouvelle-Aquitaine Manufacturing Industry Community
+                  101119976
+                  DIHNAMO
+                  France
+               Digital Innovation Hub Normandy Advanced MObility
+                  101083293
+                  EDIH BRETAGNE
+                  France
+               EDIH Bretagne – One-stop shop to accelerate the digitization and Cybersecurity of SMEs/MCs/PSOs through training, test before invest, support to find investment and EU networking services
+                  101083769
+                  CYBIAH
+                  France
+               Cybersecurity and AI Hub | France
+                  101083637
+                  GreenPowerIT
+                  France
+               GreenPowerIT Hauts-de-France
+                  101119925
+                  DIGIHALL
+                  France
+               DIGIHALL, The Paris Region Hub supporting the digital transformation of companies by practical adoption of responsible AI
+                  101120851
+                  LVDH
+                  France
+               Loire Valley Data Hub for Centre-Val de Loire region’s digitalisation
+                  101120881
+                  EDIH-GE
+                  France
+               EDIH Grand Est – Accelerate digitalisation of manufacturing sector in Grand Est
+                  101083775
+                  MINASMART
+                  France
+               MINASMART
+                  101121061
+                  EDIH LA REUNION
+                  France
+               Developing cybersecurty in the digital transition of European outermost regions
+                  101083683
+                  Move2Digital
+                  France
+               MOVE2DIGITAL, the French SUD Provence-Alpes-Côte d’Azur region one-stop-shop to support the digital transformation and ecosystem building of SMEs, through AI, Cybersecurity, and IoT
+                  101083710
+                  DEDIHCATED BFC
+                  France
+               DEvelop Digital Innovation Hub to Create and Accompany new Trends in European inDustries in Bourgogne-Franche-Comté
+                  101083383
+                  POLYTRONICS
+                  France
+               Innovation Hub for Smart Polymers and Digital Technologies
+                  101083550
+                  DIVA
+                  France
+               Digital Innovation Value Accelerator
+                  101120343
+                  BMH
+                  Germany
+               EDIH Thuringia – Bauhaus.Mobility Hub
+                  101083415
+                  EDIHDO
+                  Germany
+               Digital Hub Logistics Dortmund as European Digital Innovation Hub
+                  101083994
+                  EDIH-AICS
+                  Germany
+               European Digital Innovation Hub applied Artificial Intelligence and Cybersecurity
+                  101083338
+                  EDIH-SH
+                  Germany
+               European Digital Innovation Hub Schleswig-Holstein
+                  101083715
+                  DIH4AISec
+                  Germany
+               European Digital Innovation Hub for Artificial Intelligence and Cybersecurity in Lower Saxony
+                  101083741
+                  EDIH Suedwest
+                  Germany
+               European Digital Innovation Hub Suedwest
+                  101083713
+                  EDIH4UrbanSAVE
+                  Germany
+               EDIH for urban interconnected supply and value Ecosystems
+                  101081880
+                  EDITH
+                  Germany
+               Enabling Digital Transformation in Hesse
+                  101083517
+                  EDIH Saxony
+                  Germany
+               European Digital Innovation Hub Saxony
+                  101120719
+                  EDIH DIGICARE
+                  Germany
+               EDIH Digital Innovation for Healthcare (DIGICARE)
+                  101082978
+                  CITAH
+                  Germany
+               Cross-Industry Transformation in Agriculture and Health
+                  101083635
+                  EDIH Rheinland
+                  Germany
+               European Digital Innovation Hub Rheinland
+                  101083427
+                  DInO
+                  Germany
+               Digital Innovation Ostbayern
+                  101083754
+                  pro_digital
+                  Germany
+               pro_digital EDIH
+                  101083668
+                  EDIH Suedwestfalen
+                  Germany
+               European Digital Innovation Hub for employee-centered digital transformation in South Westphalia
+                  101083337
+                  IDIH-Saarland
+                  Germany
+               Industrial Service Digitalisation and Artificial Intelligence HUB Saarland
+                  101083951
+                  DigiAgriFood
+                  Greece
+               Digital Transformation and Green Transition of the Agri-Food Value Chain in Central and Northern Greece
+                  101083630
+                  smartHEALTH
+                  Greece
+               European Digital Innovation Hub for Smart Health: Precision Medicine and Innovative E-health Services
+                  101083565
+                  SmartAttica-AtHeNAI
+                  Greece
+               Smart Attica DIH, the Attica region – Greek Innovation hub for Artificial Intelligence in Energy and Environment, Supply chain and mobility, Culture and Tourism
+                  101083646
+                  GR digiGOV-innoHUB
+                  Greece
+               The Greek digital Government and Public Services innovation HUB
+                  101120929
+                  AI EDIH Hungary
+                  Hungary
+               Artificial Intelligence EDIH Hungary
+                  101083965
+                  DigitalTech EDIH
+                  Hungary
+               Cybersecurity and digital competencies
+                  101083676
+                  AEDIH
+                  Hungary
+               Agricultural EDIH
+                  101120890
+                  HPC EDIH HU
+                  Hungary
+               Establishing High Performance Computing European Digital Innovation Hub in Hungary
+                  101083971
+                  Data-EDIH
+                  Hungary
+               Hungarian DATA EDIH
+                  101083762
+                  EDIH-IS
+                  Iceland
+               Establishing a national EDIH in Iceland for digital transformation
+                  101079817
+                  FxC
+                  Ireland
+               FactoryxChange
+                  101083669
+                  CeADAR
+                  Ireland
+               CeADAR Ireland’s AI EDIH
+                  101083662
+                  ER2Digit
+                  Italy
+               Emilia-Romagna Regional Ecosystem of Digital Innovation
+                  101083759
+                  ARTES 5.0
+                  Italy
+               ARTES 5.0 Restart Italy
+                  101083724
+                  DIHCUBE
+                  Italy
+               Digital Italian Hub for ConstrUction and Built Environment
+                  101083904
+                  HSL
+                  Italy
+               HERITAGE SMARTLAB
+                  101083938
+                  P.R.I.D.E.
+                  Italy
+               POLO REGIONALE PER L’INNOVAZIONE DIGITALE EVOLUTA
+                  101083699
+                  CETMA-DIHSME
+                  Italy
+               CETMA-Digital Innovation Hub for SMEs
+                  101083913
+                  DANTE
+                  Italy
+               Digital Solutions for a Healthy, Active and Smart Life
+                  101083443
+                  EXPAND
+                  Italy
+               EXtended Piedmont and Aosta valley Network for Digitalization
+                  101083398
+                  I-NEST
+                  Italy
+               Italian National hub Enabling and Enhancing networked applications & Services for digitally Transforming SMEs and Public Administrations
+                  101084027
+                  EDIH4Marche
+                  Italy
+               EDIH4Marche
+                  101083612
+                  MicroCyber
+                  Italy
+               MicroCyber
+                  101083396
+                  Tuscany X.0
+                  Italy
+               Tuscany EU Digital Innovation Hub
+                  101083745
+                  CHEDIH
+                  Italy
+               Circular Health European Digital Innovation Hub
+                  101083718
+                  DAoL
+                  Latvia
+               Digital Accelerator of Latvia
+                  101083983
+                  EDIHLV
+                  Latvia
+               Development of AI – ICT for Manufacturing EDIH in Latvia
+                  101119742
+                  digihub.li
+                  Liechtenstein
+               digihub.li – Ecosystem innovation and growth with a regenerative purpose
+                  101083434
+                  DI4 LITHUANIAN ID
+                  Lithuania
+               Digital Innovation For Lithuanian Industrial Development
+                  101083844
+                  EDIH VILNIUS
+                  Lithuania
+               EDIH VILNIUS: accelerating green and digital transformation in Vilnius region
+                  101083746
+                  EDIH4IAE.LT
+                  Lithuania
+               European Digital Innovation Hub for Industry, Agrofood and Energy sectors in Lithuania
+                  101120714
+                  L-DIH
+                  Luxembourg
+               Luxembourg Digital Innovation Hub
+                  101083552
+                  Malta-EDIH
+                  Malta
+               The creation of the Malta-EDIH as part of the network of European Digital Innovation Hubs
+                  101083610
+                  EDIH-SNL
+                  Netherlands
+               European Digital Innovation Hub South Netherlands
+                  101083349
+                  BOOST Robotic EastNL
+                  Netherlands
+               EDIH BOOST Robotics East Netherlands
+                  101083001
+                  EDIH NN
+                  Netherlands
+               European Digital Innovation Hub Northern Netherlands
+                  101083302
+                  EDIH-SMITZH
+                  Netherlands
+               EDIH-SMITZH Zuid-Holland
+                  101083343
+                  EDIH-NWNL
+                  Netherlands
+               EDIH NWNL Digitalisation transformation on the road to AI and HPC
+                  101083172
+                  VNG NL DIGI HUB
+                  Netherlands
+               Dutch Societal Innovation Hub
+                  101083778
+                  OCEANOPOLIS
+                  Norway
+               OCEANOPOLIS
+                  101083966
+                  Nemonoor
+                  Norway
+               A Norwegian EDIH on Artificial Intelligence
+                  101083875
+                  WAMA EDIH
+                  Poland
+               WaMa Innovation Hub
+                  101083500
+                  TKDIH
+                  Poland
+               Technopark Kielce DIH
+                  101083954
+                  CyberSec
+                  Poland
+               National Center for Secure Digital Transformation
+                  101083764
+                  HPC4Poland EDIH
+                  Poland
+               HPC4Poland European Digital Innovation Hub
+                  101083499
+                  EDIH-SILESIA
+                  Poland
+               EDIH SILESIA SMART SYSTEMS capacity building and deployment in the EDIH network to enhance digital transformation in the Silesia and Opolskie Voivodships in Poland
+                  101083652
+                  h4i
+                  Poland
+               hub4industry
+                  101083587
+                  re_d
+                  Poland
+               re_d: rethink digital – Central Poland Digitalisation Hub
+                  101084068
+                  PDIH
+                  Poland
+               Pomeranian Digital Innovation Hub
+                  101083509
+                  Mazovia EDIH
+                  Poland
+               European Digital Innovation Hub of Mazovia
+                  101083862
+                  Smart Secure Cities
+                  Poland
+               Creating Smart Secure Cities for EU citizens
+                  101083533
+                  WRO4digITal
+                  Poland
+               WRO4digITal European Digital Innovation Hub Wroclaw
+                  101083770
+                  ATTRACT
+                  Portugal
+               Digital Innovation Hub for Artificial Intelligence and High-Performance Computing
+                  101083487
+                  PRODUTECH DIH
+                  Portugal
+               PRODUTECH DIH
+                  101083681
+                  DIGITALbuilt
+                  Portugal
+               Digital Innovation Hub for the Built Environment
+                  101083952
+                  DIH4Society
+                  Romania
+               Digital Innovation Hub for a Smarter, Safer and more Sustainable Society (DIH4Society)
+                  101083508
+                  TDIH
+                  Romania
+               Transilvania Digital Innovation Hub
+                  101083915
+                  FIT EDIH
+                  Romania
+               Futures of Innovation Technologies EDIH – Centru Region, RO
+                  101083885
+                  DIGIVEST
+                  Romania
+               EDIH Regiunea Vest Romania
+                  101083582
+                  CiTyInnoHub
+                  Romania
+               ConsTanta INNovation Hub, a center for the digital transformation of SMEs and PSOs in SE Romania – CiTyInnoHub
+                  101083410
+                  WeH
+                  Romania
+               Wallachia eHub
+                  101083392
+                  eDIH-DIZ
+                  Romania
+               DIGITAL INNOVATION ZONE EDIH – MANUFACTURING & SMART HEALTH for better business, life and health in the North East Romania region
+                  101084051
+                  CIH
+                  Slovakia
+               Center for Innovative Healthcare
+                  101083419
+                  SKAI-eDIH
+                  Slovakia
+               Slovak Artificial Intelligence Digital Innovation Hub
+                  101083660
+                  EXPANDI 4.0
+                  Slovakia
+               Expanding Digitalisation of Industry (4.0) in Slovakia
+                  101083466
+                  EDCASS
+                  Slovakia
+               EDIH CASSOVIUM
+                  101083351
+                  SRC-EDIH
+                  Slovenia
+               Smart, Resilient and Sustainable Communities – European Digital Innovation Hub
+                  101082654
+                  DIGI-SI
+                  Slovenia
+               DIGITAL EMERGENCY RESPONCE FOR SLOVENIA
+                  101083736
+                  DIH4CAT
+                  Spain
+               Catalonia Digital Innovation Hub (DIH4CAT)
+                  101083701
+                  CIDIHUB
+                  Spain
+               Canary Islands Digital Innovation Hub
+                  101083755
+                  DATAlife
+                  Spain
+               Digital Innovation Hub for the deployment of Artificial Intelligence and Data Analytics in SMEs in the primary, biotechnological and health sectors
+                  101083906
+                  i4CAMHUB
+                  Spain
+               Innovation for Competitiveness and Advance Manufacturing
+                  101083564
+                  EDIH MADRID REGION
+                  Spain
+               EDIH MADRID REGION
+                  101083760
+                  AgrotechDIH
+                  Spain
+               Andalucía Agrotech Digital Innovation Hub
+                  101083411
+                  IRIS
+                  Spain
+               European Digital Innovation Hub of Navarre
+                  101083667
+                  Tech4EfficiencyEDIH
+                  Spain
+               EXTREMADURA EDIH T4E: Tech for Efficiency
+                  101083898
+                  DIGIS3
+                  Spain
+               Smart, Sustainable and coheSive Digitalization conceived as a Digital Innovation Hub
+                  101083729
+                  AsDIH
+                  Spain
+               Asturias Digital Innovation Hub
+                  101083776
+                  Aragon EDIH
+                  Spain
+               Aragon European Digital Innovation Hub
+                  101083002
+                  InnDIH
+                  Spain
+               InnDIH – Valencia Region Digital Innovation Hub
+                  101083629
+                  HDS
+                  Sweden
+               Health Data Sweden
+                  101083691
+                  ShiftLabs
+                  Sweden
+               Swedish network for Sustainable Digitalisation and Human-Centric Factory Transformation
+                  101083708
+                  DIGITHUBSE
+                  Sweden
+               DigIT Hub Sweden
+                  101083348
+                  Aero EDIH
+                  Sweden
+               EDIH for Digital Transformation of the Aviation and Aerospace Industry
+   ANNEX II
+         List of European Digital Innovation Hubs with a Seal of Excellence
+         The EDIHs are listed in italics when there is no information 
+         ( concerning a possible future financing. Only EDIHs securing financing are expected to take part in the network.1)
+                  Proposal Identification
+                  Acronym
+                  Country
+               Proposal title
+                  101083623
+                  EDIH SA
+                  Austria
+                  EDIH SOUTHERN AUSTRIA – European Digital Innovation Hub Southern Austria
+                  101083621
+                  EDIH.energy.ai.mobil
+                  Austria
+                  EDIH.ENERGY.AI.MOBILITY – Powering up the Twin Transition in Europe
+                  101083442
+                  S2MARTER HOUSE
+                  Austria
+                  EDIH for SMART and Sustainable Entrepreneurial Regions – HOUSE of Digitalization
+                  101083706
+                  BANG
+                  Belgium
+                  Creative BANG Flanders
+                  101083828
+                  EDIH PT and L
+                  Belgium
+                  European Digital Innovation Hub Ports, Transport & Logistics
+                  101083478
+                  EDIH4Agrifood
+                  Belgium
+                  European Digital Innovation Hub for the agrifood sector in Belgium
+                  101083751
+                  EdTech Station
+                  Belgium
+                  Hub for digital transformation and business-to-business innovation with educational and learning technologies, based in Flanders, Europe
+                  101083640
+                  RemEDIH
+                  Belgium
+                  Regional Excellence in Medecine and care by European Digital Innovation Hub
+                  101082948
+                  ADi4SMEs
+                  Bulgaria
+                  Accelerated Digitalisation of SMEs in the North Central Region through creation and development of a European Digital Innovation Hub
+                  101083457
+                  EDIH DIGIHUB
+                  Bulgaria
+                  IMPROVING THE COMPETITIVENESS OF SMEs AND PSOs IN THE SOUTH-EAST REGION OF BULGARIA THROUGH INTEGRATED INNOVATIVE DIGITAL SOLUTIONS
+                  101084092
+                  EDIH-NWACB
+                  Bulgaria
+                  European Digital Innovation Hub – Northwest Automotive Cluster Bulgaria
+                  101083697
+                  InnovationAmp
+                  Bulgaria
+                  Boosting Digitalisation in SouthWest of Bulgaria
+                  101083339
+                  MECH-E-DIH
+                  Bulgaria
+                  Establishment and development of Digital Innovation Hub Mechanika, Bulgaria
+                  101083752
+                  Next-Gen-BIoTechEDIH
+                  Bulgaria
+                  Develop, innovate and provide Next-Gen-BIoTech DIH’s services in the South-Center region in Bulgaria to accelerate the best use of digital technologies for local SMEs, Mid-cap, and public sector
+                  101083370
+                  RCDSI NCIZ
+                  Bulgaria
+                  Regional Center for Digital Solutions and Innovation NCIZ
+                  101084083
+                  UDIH 4 EU
+                  Bulgaria
+                  UDIH: Equip Explore Empower Expand Utilize
+                  101083979
+                  Bluedih
+                  Croatia
+                  Blue European Digital Innovation Hub
+                  101083747
+                  CYDIHUB-EDIH
+                  Cyprus
+                  CYPRUS DIGITAL INNOVATION HUB – EDIH
+                  101083981
+                  5STAR eCorridors
+                  Finland
+                  5STAR eCorridors EDIH proposal
+                  101082926
+                  SIX EDIH
+                  Finland
+                  Sustainable Industry X (SIX) Manufacturing EDIH
+                  101083515
+                  WellLake EDIH
+                  Finland
+                  WellLake EDIH
+                  101120594
+                  DIBI
+                  Germany
+               Digital Innovation for Bavarian Industry
+                  101083439
+                  DISC
+                  Germany
+                  Digital Innovation Solution Center
+                  101084102
+                  EDIH-HB
+                  Germany
+                  European Digital Innovation Hub Bremen
+                  101083964
+                  EDIH-ON
+                  Germany
+                  European Digital Innovation Hub Ost- and Nordhessen
+                  101083749
+                  EasyHPC
+                  Greece
+               easyHPC@eco.plastics.industry.WCG:An open HPC ecosystem for the ecological transformation and the advancement of the competitiveness of the Plastic Industry in the Regions of West & Central Greece
+                  101083850
+                  HEALTH HUB
+                  Greece
+               HEALTH HUB – Healthcare & Pharmaceutical Industry Transformation through Artificial Intelligence Digital Services
+                  101083707
+                  SYNERGiNN EDIH
+                  Greece
+               Digital Innovation Hub of Western Macedonia
+                  101083995
+                  Data2Sustain
+                  Ireland
+               EDIH for DATA-BASED INNOVATION FOR CIRCULAR ECONOMY, OPERATIONS & SUSTAINABILITY
+                  101083482
+                  ENTIRE
+                  Ireland
+               Intelligent and Secure Trustable Systems enabling Digital Transformation
+                  101084004
+                  AI MAGISTER
+                  Italy
+               AI MAGISTER
+                  101083639
+                  AI-PACT
+                  Italy
+               Artificial Intelligence for Public Administrations Connected
+                  101083454
+                  Ap-EDIH
+                  Italy
+               Apulian-EDIH
+                  101083645
+                  BIREX plus plus
+                  Italy
+               HPC & Big Data Processing for a more digital and sustainable Manufacturing
+                  101121054
+                  CATCH atMIND
+                  Italy
+               advanCed digitAl TeChnology Hub for the Life Sciences at MIND
+                  101083928
+                  DAMAS
+                  Italy
+               Digital Hub for Automotive and Aerospace
+                  101083364
+                  DIPS
+                  Italy
+               Digitalization and Innovation of Public Services
+                  101083605
+                  DIS-HUB
+                  Italy
+               Digital Innovation Hub South Tyrol – DIS-HUB
+                  101083870
+                  DMH
+                  Italy
+               Digital Marine Hub
+                  101083438
+                  EDIH L
+                  Italy
+               EDIH Lombardia
+                  101083391
+                  EDIH4DT
+                  Italy
+               Secure Digital Transformation of Public Administrations – EDIH4DT
+                  101083622
+                  EDIHAMo
+                  Italy
+               European Digital Innovation Hub Abruzzo Molise
+                  101120581
+                  Fondazione MAXXI
+                  Italy
+                  CURE – Creativity for Urban Rebirth
+                  101083601
+                  HD-MOTION
+                  Italy
+               Hub for the Digital MObility TransformatION
+                  101084043
+                  INNOVA
+                  Italy
+               Innovating Video Analytics
+                  101120603
+                  InnovAction
+                  Italy
+               InnovAction: Network Italiano dei Centri per l’Innovazione Tecnologica
+                  101120592
+                  IP4FVG – EDIH
+                  Italy
+               IP4FVG EDIH – Industry Platform for Friuli Venezia Giulia EDIH
+                  101120871
+                  NEST
+                  Italy
+               NEST – Network for European Security and Trust
+                  101120711
+                  NEURAL
+                  Italy
+               veNEto hUb foR Advanced digital technoLogies
+                  101120666
+                  PAI
+                  Italy
+               Public Administration Intelligence
+                  101083930
+                  PICS2
+                  Italy
+               Puglia Innovation Center for Safety and Security
+                  101083476
+                  R.O.M.E. Digital Hub
+                  Italy
+               Research and innovation Organization for the disseMination of knowledge on advanced tEchnologies Digital Hub
+                  101083893
+                  SharD-HUB
+                  Italy
+               SharD-HUB – Sardinia Digital Innovation Hub
+                  101083320
+                  UDD
+                  Italy
+               Umbria Digital Data
+                  101120963
+                  EDIH Digital Trust
+                  Liechtenstein
+               The European Digital Innovation Hub for digital trust and emerging digital technologies
+                  101083618
+                  AgriSmartHub
+                  Poland
+                  Smart Agriculture Digital Innovation Hub
+                  101084052
+                  digit-in hub
+                  Poland
+                  DIGITAL CLOUD INNOVATION HUB
+                  101083835
+                  EDIH CYBERSEC HUB
+                  Poland
+                  National EDIH specialized in cybersecurity
+                  101083836
+                  EDIH4CP-1
+                  Poland
+                  European Digital Innovation Hub for North – Central Poland – 1
+                  101121069
+                  FTCH
+                  Poland
+               FinTech Copernicus Hub
+                  101084060
+                  HGD
+                  Poland
+                  European Digital Innovation Hub – HealthGoDigital
+                  101121077
+                  LUBDIGHUB
+                  Poland
+               Establishment of European Digital Innovation Hub (EDIH) in Lubelskie region Poland
+                  101083977
+                  Lucet Capital
+                  Poland
+                  Polish Hyper Automation Hub (PHAH)
+                  101084065
+                  POLFOTON
+                  Poland
+                  Polish EDIH specialised in photonic technologies for digital transformation
+                  101083761
+                  AI4PA_Portugal
+                  Portugal
+                  AI4PA Portugal – Artificial Intelligence & Data Science for Public Administration Portugal Innovation Hub
+                  101120672
+                  AzoresDIH
+                  Portugal
+               Azores Digital Innovation Hub on Tourism and Sustainability
+                  101083642
+                  C-Hub
+                  Portugal
+                  C-Hub: Cybersecurity Digital Inovation Hub
+                  101082771
+                  CONNECT5
+                  Portugal
+                  CONNECT5
+                  101119429
+                  Defence4Tech Hub
+                  Portugal
+               Defence Innovation Hub for Technology Transfer
+                  101083732
+                  DigiHealthPT
+                  Portugal
+                  Digital Health Portugal – From Portugal to the Digital World
+                  101083988
+                  DIH4CN
+                  Portugal
+                  Digital Innovation Hub for Climate Neutrality
+                  101083962
+                  DIH4GlobalAutomotive
+                  Portugal
+                  DIH4GlobalAutomotive
+                  101120601
+                  InnovTourism DIH
+                  Portugal
+               InnovTourism DIH – Gateway for Tourism innovation & digitalization, strengthening the sector ecosystem and enabling technology adoption in the industry
+                  101120729
+                  PBDH
+                  Portugal
+               Portugal Blue Digital Hub
+                  101083733
+                  PTCentroDiH
+                  Portugal
+                  Digital Innovation Hub da Região Centro
+                  101084063
+                  SFT-EDIH
+                  Portugal
+                  Smart Sustainable Farms Foods and Trade
+                  101083477
+                  SIH
+                  Portugal
+                  Smart Islands Hub
+                  101083511
+                  SCDI proposal
+                  Slovakia
+               Slovenske centrum digitalnych inovacii
+                  101083858
+                  4PIH
+                  Slovenia
+               Public, private, people partnership Digital Innovation Hub
+                  101083465
+                  AGORA DIH
+                  Spain
+               Murcia Region DIH
+                  101083514
+                  AIR4S
+                  Spain
+               Digital Innovation Hub in Artificial Intelligence and Robotics for Sustainable Development Goals
+                  101083341
+                  AIR-Andalusia
+                  Spain
+               ANDALUSIAN DIGITAL INNOVATION HUB IN ARTIFICIAL INTELLIGENCE AND ROBOTICS
+                  101083914
+                  BDIH_EDIH
+                  Spain
+               Basque Digital Innovation Hub: EDIH
+                  101083591
+                  Cantabria DIH
+                  Spain
+               Cantabria Digital Innovation Hub (DIH)
+                  101120119
+                  CyberDIH
+                  Spain
+               Cybersecurity Innovation Hub
+                  101083698
+                  Digital Impulse Hub
+                  Spain
+               Digital Impulse Hub, Digital Made Easy in Catalonia
+                  101120210
+                  DIHBAI-TUR
+                  Spain
+               Digital Innovation Hub of the Balearic Islands in Artificial Intelligence in Tourism and the Agrifood sectors
+                  101083413
+                  DIH-bio
+                  Spain
+               DIH·bio (Digital Health – Biosciences)
+                  101083957
+                  DIHGIGAL
+                  Spain
+               Digital Innovation Hub of the Galician Industry
+                  101083151
+                  DIHSE
+                  Spain
+               DIGITAL INNOVATION HUB SILVER ECONOMY
+                  101083318
+                  eDIH La Rioja 4.0
+                  Spain
+               European Digital Innovation Hub EDIH La Rioja 4.0
+                  101083705
+                  INFAB HUB
+                  Spain
+               INFAB HUB
+                  101084072
+                  Agrihub Sweden EDIH
+                  Sweden
+               Smart Agtech Sweden EDIH
+                  101083819
+                  AI Sweden EDIH
+                  Sweden
+               AI Sweden EDIH – Applied AI transformation in SME and public sector.
+                  101083632
+                  AM-EDIH
+                  Sweden
+               European Digital Innovation Hub Boosting Additive Manufacturing through Digital Services
+                  101083682
+                  DIN
+                  Sweden
+               Digital Impact North – European Digital Innovation Hub
+                  101083624
+                  IndTech
+                  Sweden
+               The Industrial Technology European Digital Innovation Hub
+                  101120191
+                  MIGHTY EDIH
+                  Sweden
+               Mid Sweden Industry and GovTech EDIH
+                  101083390
+                  Sweden ICT
+                  Sweden
+               Sweden ICT – a constellation of six of Sweden’s leading Science Parks, have joined forces to accelerate impact towards a green and sustainable future by using new technology on a broader scale
+      (  
+            1)State as of Q2/2023, based on information provided by national authorities.

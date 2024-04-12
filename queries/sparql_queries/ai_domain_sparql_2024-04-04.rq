@@ -1,0 +1,47 @@
+PREFIX cdm:<http://publications.europa.eu/ontology/cdm#>
+PREFIX skos:<http://www.w3.org/2004/02/skos/core#>
+PREFIX dc:<http://purl.org/dc/elements/1.1/>
+PREFIX xsd:<http://www.w3.org/2001/XMLSchema#>
+PREFIX rdf:<http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX rdfs:<http://www.w3.org/2000/01/rdf-schema#>
+PREFIX owl:<http://www.w3.org/2002/07/owl#>
+
+SELECT 
+DISTINCT
+(GROUP_CONCAT(distinct ?work;separator="|") as ?cellarURIs)
+(GROUP_CONCAT(distinct ?langIdentifier;separator="|") as ?lang)
+(GROUP_CONCAT(distinct ?mtype;separator="|") as ?mtypes)
+(GROUP_CONCAT(distinct ?resType;separator="|") as ?workTypes)
+(GROUP_CONCAT(distinct ?subjectLabel;separator="|") as ?subjects)
+(GROUP_CONCAT(distinct ?subject;separator="|") as ?subject_ids)
+
+WHERE 
+{
+	graph ?g {
+		#?work rdf:type cdm:legislation_secondary .
+		?work rdf:type ?resType .
+
+	graph ?ga { 
+		?subject skos:prefLabel ?subjectLabel .
+		FILTER (lang(?subjectLabel)="en") }
+		FILTER( ?subject = <http://eurovoc.europa.eu/3231>  #	information and information processing
+				|| ?subject = <http://eurovoc.europa.eu/3236> ) . #	information technology and data processing
+				  
+	}
+	graph ?ge { 
+		?exp cdm:expression_belongs_to_work ?work .
+		?exp cdm:expression_uses_language ?lg . 
+		graph ?lgc { ?lg dc:identifier ?langIdentifier .}
+		FILTER(  str( ?langIdentifier)="ENG")
+	}
+	graph ?gm {
+		?manif cdm:manifestation_manifests_expression ?exp .
+		{?manif cdm:manifestation_type ?mtype .}
+		FILTER(  str( ?mtype)="html"|| str( ?mtype)="html_simpl"|| str( ?mtype)="txt"|| str( ?mtype)="xhtml"|| str( ?mtype)="xhtml_simpl"|| str( ?mtype)="xml")
+	}
+}
+GROUP BY ?work
+LIMIT 100000
+OFFSET 1000
+
+curl -L -H "Accept:application/xml;notice=tree" -H "Accept-Language:eng" http://publications.europa.eu/resource/oj/C_202151176

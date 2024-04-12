@@ -1,0 +1,45 @@
+ CONVEX # converter_version:9.15.0 # generated_on:20240219-1453 # ELI version:0.10 
+      L_202400484EN.000101.fmx.xml
+               Official Journal 
+               of the European Union
+            EN
+                  Series L
+               2024/484
+            22.2.2024
+            DECISION OF THE EEA JOINT COMMITTEE No 264/2021
+            of 24 September 2021
+            amending Protocol 31 to the EEA Agreement, on cooperation in specific fields outside the four freedoms [2024/484]
+         THE EEA JOINT COMMITTEE,
+            Having regard to the Agreement on the European Economic Area (“the EEA Agreement”), and in particular Articles 86 and 98 thereof,
+            Whereas:
+                        (1)
+                     It is appropriate to extend the cooperation of the Contracting Parties to the EEA Agreement to include Regulation (EU) 2021/694 of the European Parliament and of the Council of 29 April 2021 establishing the Digital Europe Programme and repealing Decision (EU) 2015/2240 
+                        (.1)
+                        (2)
+                     It is appropriate that the participation of EFTA States in the activities resulting from Regulation (EU) 2021/694 commence from 1 January 2021, irrespective of when this Decision is adopted, or whether the fulfilment of constitutional requirements for this Decision, if any, is notified after 10 July 2021.
+                        (3)
+                     Entities established in the EFTA States should be entitled to participate in activities which start before the entry into force of this Decision. The costs incurred for activities the implementation of which starts after 1 January 2021 may be considered eligible under the same conditions as those applicable to costs incurred by entities established in the EU Member States, provided that this Decision enters into force before the end of the action concerned.
+                        (4)
+                     The conditions for the participation of EFTA States and their institutions, undertakings, organizations and nationals in programmes of the European Union are set out in the EEA Agreement and in particular in Article 81 thereof.
+                        (5)
+                     Protocol 31 to the EEA Agreement should therefore be amended accordingly, in order to allow for this extended cooperation to take place from 1 January 2021,
+                        HAS ADOPTED THIS DECISION:
+            Article 1
+               The following is added in Article 2(5) of Protocol 31 to the EEA Agreement:
+                        ‘—
+                           32021 R 0694: Regulation (EU) 2021/694 of the European Parliament and of the Council of 29 April 2021 establishing the Digital Europe Programme and repealing Decision (EU) 2015/2240 (OJ L 166, 11.5.2021, p. 1).The costs incurred for activities the implementation of which starts after 1 January 2021 may be considered eligible as from the starting date of the action fixed in the grant agreement or the grаnt decision concerned, under the conditions set out therein, provided that Decision of the EEA Joint Committee No 264/2021 of 24 September 2021 enters into force before the end of the action.’
+            Article 2
+               This Decision shall enter into force on the day following the last notification under Article 103(1) of the EEA Agreement 
+               (.*1)It shall apply from 1 January 2021.
+         Article 3
+               This Decision shall be published in the EEA Section of, and in the EEA Supplement to, the 
+            Official Journal of the European Union.
+         Done at Brussels, 24 September 2021.
+                  For the EEA Joint Committee
+                  The President
+                  Rolf Einar FIFE
+         (  
+            1)OJ L 166, 11.5.2021, p. 1.
+      (  No constitutional requirements indicated.*1)
+      ELI: http://data.europa.eu/eli/dec/2024/484/oj
+      ISSN 1977-0677 (electronic edition)

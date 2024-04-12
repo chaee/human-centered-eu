@@ -1,0 +1,50 @@
+{
+    "head": {
+        "link": [],
+        "vars": [
+            "work"
+        ]
+    },
+    "results": {
+        "distinct": false,
+        "ordered": true,
+        "bindings": [
+            {
+                "work": {
+                    "type": "uri",
+                    "value": "http://publications.europa.eu/resource/cellar/d6a2aff1-b1f2-11eb-8aca-01aa75ed71a1"
+                }
+            },
+            {
+                "work": {
+                    "type": "uri",
+                    "value": "http://publications.europa.eu/resource/cellar/1e0fd213-6940-11ed-b14f-01aa75ed71a1"
+                }
+            },
+            {
+                "work": {
+                    "type": "uri",
+                    "value": "http://publications.europa.eu/resource/cellar/68586087-7217-11ed-9887-01aa75ed71a1"
+                }
+            },
+            {
+                "work": {
+                    "type": "uri",
+                    "value": "http://publications.europa.eu/resource/cellar/f634b3b7-2a85-11ee-839d-01aa75ed71a1"
+                }
+            },
+            {
+                "work": {
+                    "type": "uri",
+                    "value": "http://publications.europa.eu/resource/cellar/1b2b9f32-d126-11ee-b9d9-01aa75ed71a1"
+                }
+            },
+            {
+                "work": {
+                    "type": "uri",
+                    "value": "http://publications.europa.eu/resource/cellar/06d23b63-cae0-11ee-95d9-01aa75ed71a1"
+                }
+            }
+        ]
+    }
+}

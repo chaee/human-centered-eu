@@ -1,0 +1,8 @@
+curl 'http://publications.europa.eu/resource/cellar/d6a2aff1-b1f2-11eb-8aca-01aa75ed71a1' \
+  -H 'Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7' \
+  -H 'Accept-Language: en-GB,en-US;q=0.9,en;q=0.8' \
+  -H 'Connection: keep-alive' \
+  -H 'Referer: http://publications.europa.eu/webapi/rdf/sparql?default-graph-uri=&query=prefix+cdm%3A+%3Chttp%3A%2F%2Fpublications.europa.eu%2Fontology%2Fcdm%23%3E%0D%0Aselect+distinct%3Fwork%0D%0Awhere%0D%0A%7B%0D%0A%3Fwork+cdm%3Aresource_legal_in-force+%22true%22%5E%5E%3Chttp%3A%2F%2Fwww.w3.org%2F2001%2FXMLSchema%23boolean%3E+%3B%0D%0Aa+cdm%3Alegislation_secondary%3B%0D%0Acdm%3Awork_is_about_concept_eurovoc+%3Chttp%3A%2F%2Feurovoc.europa.eu%2F3030%3E+.%0D%0A%7D&format=text%2Fhtml&timeout=0&debug=on&run=+Run+Query+' \
+  -H 'Upgrade-Insecure-Requests: 1' \
+  -H 'User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' \
+  --insecure˜˜
