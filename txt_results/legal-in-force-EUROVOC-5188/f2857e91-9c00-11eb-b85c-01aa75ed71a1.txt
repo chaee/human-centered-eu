@@ -1,0 +1,52 @@
+ CONVEX # converter_version:9.6.0 # generated_on:20210413-0012 
+      L_2021125EN.01005401.xml
+               13.4.2021   
+               EN
+               Official Journal of the European Union
+            L 125/54
+      COUNCIL DECISION (EU) 2021/593
+         of 9 April 2021
+         on the position to be taken on behalf of the European Union within the European Committee for drawing up standards in the field of inland navigation and within the Central Commission for the Navigation of the Rhine on the adoption of standards concerning harmonised river information services
+         THE COUNCIL OF THE EUROPEAN UNION,
+         Having regard to the Treaty on the Functioning of the European Union, and in particular Article 91(1), in conjunction with Article 218(9) thereof,
+         Having regard to the proposal from the European Commission,
+         Whereas:
+                  (1)
+               The Revised Convention for the Navigation of the Rhine signed in Mannheim on 17 October 1868, as amended by the Convention amending the Revised Convention for the Navigation of the Rhine signed in Strasbourg on 20 November 1963, entered into force on 14 April 1967 (the ‘Convention’).
+                  (2)
+               Under the Convention, the Central Commission for the Navigation of the Rhine (‘CCNR’) may modify its regulatory framework related to river information services (‘RIS’) by referring to the standards adopted by the European Committee for drawing up standards in the field of inland navigation (‘CESNI’) and making those standards mandatory in the framework of the application of the Convention.
+                  (3)
+               CESNI was created on 3 June 2015 in the framework of the CCNR in order to develop technical standards for inland waterways in various fields, in particular as regards vessels, information technology and crew.
+                  (4)
+               Action by the Union in the sector of inland navigation aims to ensure uniformity in the development of technical specifications applied in the Union, in particular as regards RIS.
+                  (5)
+               For the purposes of efficient transport and safe navigation on the inland waterways, it is important that RIS are compatible and as harmonised as possible under different legal regimes across Europe.
+                  (6)
+               CESNI, in its next meeting on 15 April 2021, is expected to adopt the European Standard – River Information Services 2021/1 (‘ES-RIS 2021/1’).
+                  (7)
+               ES-RIS 2021/1 lays down uniform technical specifications and standards in order to support RIS and ensure their interoperability. The technical specifications and standards under ES-RIS 2021/1 correspond to the technical specifications and standards for which adoption is required by Directive 2005/44/EC of the European Parliament and of the Council 
+                  (, in particular in the following areas: electronic chart display and information system for inland navigation; electronic ship reporting; notices to skippers; vessel tracking and tracing systems and compatibility of the equipment necessary for the use of RIS.1)
+                  (8)
+               Technical specifications for RIS are based on the technical principles set out in Annex II to Directive 2005/44/EC and take account of work carried out in this field by relevant international organisations.
+                  (9)
+               It is appropriate to establish the position to be taken on the Union’s behalf within CESNI, as ES-RIS 2021/1 will be capable of decisively influencing the content of Union law, namely the binding technical specifications adopted within the framework of Directive 2005/44/EC.
+                  (10)
+               The CCNR, in its plenary meeting on 2 June 2021, is expected to adopt a resolution that will amend the CCNR Regulations to include a reference to ES-RIS 2021/1. Therefore, it is also appropriate to establish the position to be taken on the Union’s behalf within the CCNR.
+                  (11)
+               The Union is not a member of the CCNR or of CESNI. The Union’s position should therefore be expressed by the Member States that are members of those bodies, acting jointly in the interests of the Union,
+                  HAS ADOPTED THIS DECISION:
+         Article 1
+            1.   The position to be taken on the Union’s behalf within CESNI with regard to the adoption of ES-RIS 2021/1 shall be to agree to its adoption.
+         2.   The position to be taken on the Union’s behalf within the CCNR shall be to support all proposals aligning the CCNR Regulations with ES-RIS 2021/1.
+         Article 2
+            1.   The position set out in Article 1(1) shall be expressed by the Member States that are members of the CESNI, acting jointly in the interests of the Union.
+         2.   The position set out in Article 1(2) shall be expressed by the Member States that are members of the CCNR, acting jointly in the interests of the Union.
+         Article 3
+            Minor technical changes to the positions set out in Article 1 may be agreed upon without further decision of the Council.
+         Article 4
+            This Decision shall enter into force on the date of its adoption.
+         Done at Brussels, 9 April 2021.
+               For the Council
+               The President
+               A. P. ZACARIAS
+      (  Directive 2005/44/EC of the European Parliament and of the Council of 7 September 2005 on harmonised river information services (RIS) on inland waterways in the Community (1)OJ L 255, 30.9.2005, p. 152).

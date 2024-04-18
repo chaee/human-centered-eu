@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML//EN" "xhtml-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<!-- CONVEX # converter_version:6.7 # generated_on:20160129-0022 -->
+<head>
+   <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
+   <link type="text/css" rel="stylesheet"
+         href="http://publications.europa.eu/resource/presentation-style-sheet/oj/oj.css"/>
+   <title>L_2016023EN.01007701.xml</title>
+</head>
+<body>
+   <table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <col width="10%"/>
+      <col width="10%"/>
+      <col width="60%"/>
+      <col width="20%"/>
+      <tbody>
+         <tr>
+            <td>
+               <p class="hd-date">29.1.2016   </p>
+            </td>
+            <td>
+               <p class="hd-lg">EN</p>
+            </td>
+            <td>
+               <p class="hd-ti">Official Journal of the European Union</p>
+            </td>
+            <td>
+               <p class="hd-oj">L 23/77</p>
+            </td>
+         </tr>
+      </tbody>
+   </table>
+   <hr class="separator"/>
+   <p class="doc-ti" id="d1e40-77-1">COMMISSION IMPLEMENTING DECISION (EU) 2016/120</p>
+   <p class="doc-ti">of 28 January 2016</p>
+   <p class="doc-ti">on the identification of the extensible Business Reporting Language 2.1 for referencing in public procurement</p>
+   <p class="doc-ti">(Text with EEA relevance)</p>
+   <p class="normal">THE EUROPEAN COMMISSION,</p>
+   <p class="normal">Having regard to the Treaty on the Functioning of the European Union,</p>
+   <p class="normal">Having regard to Regulation (EU) No 1025/2012 of the European Parliament and of the Council of 25 October 2012 on European standardisation, amending Council Directives 89/686/EEC and 93/15/EEC and Directives 94/9/EC, 94/25/EC, 95/16/EC, 97/23/EC, 98/34/EC, 2004/22/EC, 2007/23/EC, 2009/23/EC and 2009/105/EC of the European Parliament and of the Council and repealing Council Decision 87/95/EEC and Decision No 1673/2006/EC of the European Parliament and of the Council<a id="ntc1-L_2016023EN.01007701-E0001" href="#ntr1-L_2016023EN.01007701-E0001"> (<span class="super">1</span>)</a>, and in particular Article 13(1) thereof,</p>
+   <p class="normal">After consulting the European multi-stakeholder platform on ICT standardisation and sectoral experts,</p>
+   <p class="normal">Whereas:</p>
+   <table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <col width="4%"/>
+      <col width="96%"/>
+      <tbody>
+         <tr>
+            <td valign="top">
+               <p class="normal">(1)</p>
+            </td>
+            <td valign="top">
+               <p class="normal">Standardisation plays an important role in supporting the Europe 2020 strategy, as set out in the Communication from the Commission entitled ‘Europe 2020: A strategy for smart, sustainable and inclusive growth’<a id="ntc2-L_2016023EN.01007701-E0002" href="#ntr2-L_2016023EN.01007701-E0002"> (<span class="super">2</span>)</a>. Several flagship initiatives of the Europe 2020 strategy underline the importance of voluntary standardisation in product or services markets to assure the compatibility and interoperability between products and services, foster technological development and support innovation.</p>
+            </td>
+         </tr>
+      </tbody>
+   </table>
+   <table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <col width="4%"/>
+      <col width="96%"/>
+      <tbody>
+         <tr>
+            <td valign="top">
+               <p class="normal">(2)</p>
+            </td>
+            <td valign="top">
+               <p class="normal">The completion of the Digital Single Market is a key priority for the European Union as highlighted in the Communication from the Commission entitled ‘Annual Growth Strategy 2015’<a id="ntc3-L_2016023EN.01007701-E0003" href="#ntr3-L_2016023EN.01007701-E0003"> (<span class="super">3</span>)</a>. The Commission in its Communication on a Digital Single Market Strategy for Europe<a id="ntc4-L_2016023EN.01007701-E0004" href="#ntr4-L_2016023EN.01007701-E0004"> (<span class="super">4</span>)</a> highlighted the role of standardisation and interoperability in creating a European Digital Economy with a long-term growth potential.</p>
+            </td>
+         </tr>
+      </tbody>
+   </table>
+   <table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <col width="4%"/>
+      <col width="96%"/>
+      <tbody>
+         <tr>
+            <td valign="top">
+               <p class="normal">(3)</p>
+            </td>
+            <td valign="top">
+               <p class="normal">In the digital society standardisation deliverables become indispensable to ensure the interoperability between devices, applications, data repositories, services and networks. The Communication from the Commission entitled ‘A strategic vision for European standards: moving forward to enhance and accelerate the sustainable growth of the European economy by 2020’<a id="ntc5-L_2016023EN.01007701-E0005" href="#ntr5-L_2016023EN.01007701-E0005"> (<span class="super">5</span>)</a> recognises the specificity of standardisation in the field of information and communication technologies (ICT) where solutions, applications and services are often developed by global ICT Fora and Consortia that have emerged as leading ICT standards development organisations.</p>
+            </td>
+         </tr>
+      </tbody>
+   </table>
+   <table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <col width="4%"/>
+      <col width="96%"/>
+      <tbody>
+         <tr>
+            <td valign="top">
+               <p class="normal">(4)</p>
+            </td>
+            <td valign="top">
+               <p class="normal">Regulation (EU) No 1025/2012 aims at modernising and improving the European standardisation framework. It establishes a system whereby the Commission may decide to identify the most relevant and most widely accepted ICT technical specifications issued by organisations that are not European, international or national standardisation organisations. The possibility of using the full range of ICT technical specifications when procuring hardware, software and information technology services will enable interoperability between devices, services and applications, will help public administrations to avoid lock-in that occurs when the public procurer cannot change a provider after the expiration of the procurement contract because using ICT proprietary solutions, and will encourage competition in the supply of interoperable ICT solutions.</p>
+            </td>
+         </tr>
+      </tbody>
+   </table>
+   <table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <col width="4%"/>
+      <col width="96%"/>
+      <tbody>
+         <tr>
+            <td valign="top">
+               <p class="normal">(5)</p>
+            </td>
+            <td valign="top">
+               <p class="normal">For the ICT technical specifications to be eligible for referencing in public procurement they must comply with the requirements set out in Annex II to Regulation (EU) No 1025/2012. Compliance with those requirements guarantees the public authorities that the ICT technical specifications are established in accordance with the principles of openness, fairness, objectivity and non-discrimination that are recognised by the World Trade Organisation in the field of standardisation.</p>
+            </td>
+         </tr>
+      </tbody>
+   </table>
+   <table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <col width="4%"/>
+      <col width="96%"/>
+      <tbody>
+         <tr>
+            <td valign="top">
+               <p class="normal">(6)</p>
+            </td>
+            <td valign="top">
+               <p class="normal">The decision to identify the ICT specification is to be adopted after consultation of the European multi-stakeholder platform on ICT standardisation set up by Commission Decision 2011/C-349/04<a id="ntc6-L_2016023EN.01007701-E0006" href="#ntr6-L_2016023EN.01007701-E0006"> (<span class="super">6</span>)</a> complemented by other forms of consultation of sectoral experts.</p>
+            </td>
+         </tr>
+      </tbody>
+   </table>
+   <table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <col width="4%"/>
+      <col width="96%"/>
+      <tbody>
+         <tr>
+            <td valign="top">
+               <p class="normal">(7)</p>
+            </td>
+            <td valign="top">
+               <p class="normal">On 26 February 2015, the European multi-stakeholder platform on ICT standardisation evaluated the eXtensible Business Reporting Language version 2.1 (XBRL 2.1) against the requirements set out in Annex II to Regulation (EU) No 1025/2012 and gave a positive advice to their identification for referencing in public procurement. The evaluation of XBRL 2.1 was subsequently submitted to consultation of sectoral experts that confirmed the positive advice to its identification.</p>
+            </td>
+         </tr>
+      </tbody>
+   </table>
+   <table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <col width="4%"/>
+      <col width="96%"/>
+      <tbody>
+         <tr>
+            <td valign="top">
+               <p class="normal">(8)</p>
+            </td>
+            <td valign="top">
+               <p class="normal">XBRL 2.1 is a technical specification for digital business reporting, managed by a global not for profit consortium, XBRL International. The consortium is made up of approximately 600 public and private sector organisational members from around the world. The goal of this consortium is to improve reporting in the public interest.</p>
+            </td>
+         </tr>
+      </tbody>
+   </table>
+   <table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <col width="4%"/>
+      <col width="96%"/>
+      <tbody>
+         <tr>
+            <td valign="top">
+               <p class="normal">(9)</p>
+            </td>
+            <td valign="top">
+               <p class="normal">XBRL 2.1 can be applied to a very wide range of business and financial data. It streamlines the preparation of business and financial reports for internal and external decision making. By using XBRL 2.1, companies and other producers of financial data and business reports can automate the processes of data collection.</p>
+            </td>
+         </tr>
+      </tbody>
+   </table>
+   <table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <col width="4%"/>
+      <col width="96%"/>
+      <tbody>
+         <tr>
+            <td valign="top">
+               <p class="normal">(10)</p>
+            </td>
+            <td valign="top">
+               <p class="normal">The XBRL 2.1 should therefore be identified as ICT technical specification eligible for referencing in public procurement,</p>
+            </td>
+         </tr>
+      </tbody>
+   </table>
+   <p class="normal">HAS ADOPTED THIS DECISION:</p>
+   <p id="d1e189-77-1" class="ti-art">Article 1</p>
+   <p class="normal">The eXtensible Business Reporting Language version 2.1 is eligible for referencing in public procurement.</p>
+   <p id="d1e194-77-1" class="ti-art">Article 2</p>
+   <p class="normal">This Decision shall enter into force on the twentieth day following that of its publication in the <span class="italic">Official Journal of the European Union</span>.</p>
+   <div class="final">
+      <p class="normal">Done at Brussels, 28 January 2016.</p>
+      <div class="signatory">
+         <p class="signatory">
+            <span class="italic">For the Commission</span>
+         </p>
+         <p class="signatory">
+            <span class="italic">The President</span>
+         </p>
+         <p class="signatory">Jean-Claude JUNCKER</p>
+      </div>
+   </div>
+   <hr class="note"/>
+   <p class="note">
+      <a id="ntr1-L_2016023EN.01007701-E0001" href="#ntc1-L_2016023EN.01007701-E0001">(<span class="super">1</span>)</a>  <a href="http://publications.europa.eu/resource/oj/JOL_2012_316_R_TOC">OJ L 316, 14.11.2012, p. 12</a>.</p>
+   <p class="note">
+      <a id="ntr2-L_2016023EN.01007701-E0002" href="#ntc2-L_2016023EN.01007701-E0002">(<span class="super">2</span>)</a>  COM(2010) 2020 final of 3 March 2010.</p>
+   <p class="note">
+      <a id="ntr3-L_2016023EN.01007701-E0003" href="#ntc3-L_2016023EN.01007701-E0003">(<span class="super">3</span>)</a>  COM(2014) 902 final of 28 November 2014.</p>
+   <p class="note">
+      <a id="ntr4-L_2016023EN.01007701-E0004" href="#ntc4-L_2016023EN.01007701-E0004">(<span class="super">4</span>)</a>  COM(2015) 192 final of 6 May 2015.</p>
+   <p class="note">
+      <a id="ntr5-L_2016023EN.01007701-E0005" href="#ntc5-L_2016023EN.01007701-E0005">(<span class="super">5</span>)</a>  COM(2011) 311 final of 1 June 2011.</p>
+   <p class="note">
+      <a id="ntr6-L_2016023EN.01007701-E0006" href="#ntc6-L_2016023EN.01007701-E0006">(<span class="super">6</span>)</a>  Commission Decision 2011/C-349/04 of 28 November 2011 setting up the European multi-stakeholder platform on ICT standardisation (<a href="http://publications.europa.eu/resource/oj/JOC_2011_349_R_TOC">OJ C 349, 30.11.2011, p. 4</a>).</p>
+   <hr class="doc-end"/>
+</body>
+</html>

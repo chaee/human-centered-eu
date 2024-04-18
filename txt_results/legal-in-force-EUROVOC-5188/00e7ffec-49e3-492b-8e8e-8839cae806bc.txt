@@ -1,0 +1,1033 @@
+ CONVEX # converter_version:9.15.0 # generated_on:20231205-2035 # ELI version:0.10 
+   L_2007032EN.01020001.xml
+            6.2.2007   
+            EN
+            Official Journal of the European Union
+         L 32/200
+            COMMISSION RECOMMENDATION
+         of 22 December 2006
+         on safe and efficient in-vehicle information and communication systems: update of the European Statement of Principles on human machine interface
+         (2007/78/EC)
+      THE COMMISSION OF THE EUROPEAN COMMUNITIES,
+         Having regard to the Treaty establishing the European Community, and in particular Article 211 thereof,
+                     (1)
+                  Whereas the Commission adopted Recommendation 2000/53/CE 
+                     ( on safe and efficient in-vehicle information and communication systems on 21 December 1999 and whereas the update of this Recommendation is essential to assure safe use of the in-vehicle information systems, taking into account the technological progress.1)
+                     (2)
+                  Whereas further work was carried out by an expert group appointed by the Commission after the publication of the Commission Recommendation, on the expansion of the original principles, explaining in more detail each principle, describing the rationale and giving examples of good practices as well as on the verification procedures, this report on the expansion of principles being published in July 2001.
+                     (3)
+                  Whereas the Commission adopted a Communication on Information and Communication Technologies for safe and intelligent vehicles on 15 September 2003, COM (2003) 542 final, including recommendations for human machine interface as one of the priority actions.
+                     (4)
+                  Whereas the joint industry-public sector eSafety Forum established a Working Group on human machine interface, which produced its final report in February 2005, confirming the necessity of updating the 1999 Recommendation;
+                     (5)
+                  Whereas the Commission adopted a Communication (COM (2006) 59 final) on the i2010 Intelligent Car Initiative of 15 February 2006, and announced this Recommendation as one of the priority actions,
+                     PRESENTS THE UPDATE OF THE 1999 RECOMMENDATION ON HUMAN MACHINE INTERFACE
+         This Recommendation asks all involved parties, such as the industry, professional organisations related to transport to adhere to the updated European Statement of Principles, and the Member States to monitor their application and use. The updated European Statement of Principles (version 2006) summarises the essential safe design and use aspects to be considered for the human machine interface (HMI) for in-vehicle information and communication systems. This 2006 Recommendation and its Annex attached replace the previous 1999 Recommendation and Annex,
+         AND HEREBY RECOMMENDS:
+                  1.
+               The European vehicle manufacturing and supply industries, which design and/or provide and/or fit in-vehicle information and communication systems, whether original equipment providers or after sales system providers, including importers and nomadic devices suppliers, should comply with the attached updated European Statement of Principles and should enter into a voluntary agreement on this matter within a period of nine months from the publication of this Recommendation;
+                  2.
+               Professional organisations related to transport (e.g. transport companies, vehicle rental companies) should commit to these principles within the same time frame;
+                  3.
+               Member States should monitor activities linked to HMI, disseminate the updated version of the statement of principles towards all relevant stakeholders, encourage them to adhere to these Principles. Where appropriate, they should discuss and co-ordinate their actions through the Commission, the eSafety Forum or other appropriate forums (nomadic devices forum etc); Member States should perform a continuous evaluation and monitoring of the impact of the European Statement of Principles of 2006 and report to the Commission about the dissemination activities carried out as well as the results of the application of the 2006 Principles within a period of 18 months from their publication.
+      Done at Brussels, 22 December 2006.
+               For the Commission
+               Viviane REDING
+            Member of the Commission
+   (  
+            1)OJ L 19, 25.1.2000, p. 64.
+   ANNEX
+         UPDATED VERSION OF THE EUROPEAN STATEMENT OF PRINCIPLES ON HUMAN MACHINE INTERFACE (HMI) FOR IN–VEHICLE INFORMATION AND COMMUNICATION SYSTEMS
+         1.   DEFINITION AND OBJECTIVES
+         This statement of principles summarises essential safety aspects to be considered for the Human Machine Interface (HMI) for in-vehicle information and communication systems. 
+         This updated text version 2006 replaces the previous one elaborated in 1999.
+         These principles promote the introduction of well designed systems into the market, and by taking into account both the potential benefits and associated risks they do not prevent innovation of the industry.
+         These principles presume that those applying them have technical knowledge of the products as well as access to resources necessary to apply the principles in designing these systems. Considering that the driver's primary task is the safe control of the vehicle in a complex and dynamic traffic environment
+         , the primary goal of the principles is to fulfil this requirement.These principles also take into account the capabilities and constraints of all stakeholders in their efforts in the design, installation and use of in-vehicle information and communications systems. They are applicable to the development process, addressing issues like complexity, product costs and time to market, and in particular take into account small system manufacturers. Since the driver finally decides whether (s)he buys and uses e.g. an integrated navigation system, a nomadic device or a paper map, 
+         the intention is to promote a good HMI design rather than prohibit the inclusion of some functionalities by simplistic pass/fail criteria.
+         The principles are not a substitute for any current regulations and standards, which should always be taken into consideration. These principles can be reinforced by national legislation or by individual companies. These principles constitute the minimum set of requirements to be applied.
+         2.   SCOPE
+         These principles apply primarily to in-vehicle information and communication systems intended for use by the driver while the vehicle is in motion
+         , for example navigation systems, mobile phones and traffic and travel information systems (TTI). Due to a lack of comprehensive research results and scientific proof, they are not intended to apply to systems that are voice controlled or to systems providing vehicle braking stabilization (such as ABS and ESP) or to system functionality providing information, warnings or support that requires immediate driver action (e.g. Collision Mitigation Systems, Night vision) sometimes referred to as Advanced Driver Assistance Systems (ADAS). ADAS are fundamentally different and require additional considerations in terms of Human Machine Interface. However, some of the principles may provide assistance in designing ADAS.The principles apply to all parts and aspects of all systems that are intended for interface with the driver while driving and also to certain other components. They also have provisions for systems and their functionality that should not be used while driving. In these principles, ‘system’ refers to the functions and parts, such as displays and controls, which constitute the interface between the in-vehicle system and the driver. The scope of the principles excludes head-up displays and aspects not related to HMI, such as the electrical characteristics, material properties and legal aspects not related to safe use. Some principles make a distinction between system use ‘while driving’ (also called ‘while the vehicle is in motion’) and other use. Where no distinction is made, the principles refer only to system use by the driver while driving.
+         The principles apply specifically to vehicles of class M and N 
+         (. The principles apply to both portable and permanently installed systems. The principles are intended to apply to systems and functionalities in OEM- , after-market-, and nomadic systems. The principles apply to HMI functionality independent of the degree of integration between systems. In general, a number of industries and organisations are involved in designing, producing and providing parts of such systems and the associated services, including, for example:1)
+                  —
+               Vehicle manufacturers offering in-vehicle devices with information and communication functionality;
+                  —
+               After-market system and service producers;
+                  —
+               Providers of nomadic devices, intended to be used by a driver while driving;
+                  —
+               Manufacturers of parts enabling the use of nomadic devices by the driver while driving (e.g. cradles, interfaces and connectors);
+                  —
+               Service providers including software providers or broadcasters of information meant to be used by the driver while driving, e.g. traffic, travel and navigation information, radio programmes with traffic information.
+                  3.   EXISTING PROVISIONS
+         The principles are not a substitute for regulations and standards and these should always be taken note of and used.
+         All standards are subject to revision, and users of this statement of principles should apply the most recent editions of the standards indicated here.
+         Applicable EC Directives with their subsequent amendments include:
+                  —
+               On the field of vision of motor vehicle drivers: Commission Directive 90/630/EEC of 30 October 1990
+                  (;2)
+                  —
+               The interior fittings of motor vehicles (interior parts of the passenger compartment other than the interior rear-view mirrors, layout of controls, the roof or sliding roof, the backrest and rear part of seats): Council Directive 74/60/EEC of 17 December 1973
+                  (;3)
+                  —
+               The interior fittings of motor vehicles (identification of controls, tell tales and indicators): Council Directive 78/316/EEC of 21 December 1977
+                  (;4)
+                  —
+               Council Resolution of 17 December 1998
+                  ( (4) on operating instructions for technical consumer goods;5)
+                  —
+               Council Directive 92/59/EEC of 29 June 1992 on general product safety 
+                  (
+                     6)Economic Committee for Europe (UN/ECE) regulations which are recognised by the Community after its adhesion to the Revised Agreement of 1958 (see Council Decision 97/836/EC of 27.11.1997:
+                  —
+               ECE-R21 of 1 December 1971
+                  —
+               71/127/EEC — Rearward field of view
+                  —
+               77/649/EEC — Field of vision of motor vehicles
+                  Standards and standard documents in preparation implicitly referred to in the principles are:
+                  —
+               ISO 3958 Road vehicles — Passenger car driver hand control reach
+                  —
+               ISO (DIS) 11429 Ergonomics — System danger and non-danger signals with sounds and lights.
+                  —
+               ISO 4513 (2003) Road vehicles — Visibility. Method for establishment of eyellipse for driver's eye location
+                  —
+               ISO 15008 (2003): ‘Road vehicles — Ergonomic aspects of transport information and control systems — Specifications and compliance procedures for in-vehicle visual presentation’.
+                  —
+               ISO 15005 (2002): ‘Road vehicles — Ergonomic aspects of transport information and control systems — Dialogue Management principles and compliance procedures’
+                  —
+               ISO 17287 (2003): ‘Road vehicles — Ergonomic aspects of transport information and control systems — Procedure for assessing suitability for use while driving’.
+                  —
+               ISO 4040 (2001): ‘Road vehicles — passenger cars — location of hand controls, indicators and tell-tales’.
+                  —
+               ISO 15006 (2004): Road vehicles — Ergonomic aspects of transport information and control systems — Specifications and compliance procedures for in-vehicle auditory presentation.
+                  —
+               ISO/TS16951 (2004): Road Vehicles — Ergonomic aspects of transport information and control systems — Procedure for determining priority of on-board messages presented to drivers.
+                  —
+               ISO 15007-1 (2002): Road vehicles — Measurement of driver visual behaviour with respect to transport information and control systems — Part 1: Definitions & parameters.
+                  —
+               ISO TS 15007-2 (2001): Road vehicles — Measurement of driver visual behaviour with respect to transport information and control systems — Part 2: Equipment and procedures.
+                  —
+               ISO FDIS 16673: Road vehicles — Ergonomic aspects of transport information and control systems — Occlusion method to assess visual distraction
+                  —
+               ISO 2575 (2004) — Road Vehicles — Symbols for Controls, Indications and Telltales
+                  —
+               ISO 7000 (2004) — Graphical symbols for use on equipment — Index and synopsis
+                  4.   EUROPEAN STATEMENT OF PRINCIPLES ON THE DESIGN OF HUMAN-MACHINE INTERFACE (ESOP 2006)
+         4.1.   Stakeholders involved in system design and construction
+         As described in the scope, the principles are intended to apply to systems and functionalities in OEM-, after-market-, and nomadic (portable) systems. In general, a number of organisations are involved designing, producing and providing elements of such systems and devices, including, for example:
+                  —
+               Vehicle manufacturers offering in-vehicle devices with information and communication functionality;
+                  —
+               After-market system and services producers;
+                  —
+               Providers of nomadic devices, intended to be used by a driver while driving;
+                  —
+               Manufacturers of parts enabling the use of nomadic devices by the driver while driving (e.g. cradles, interfaces and connectors);
+                  —
+               Service providers including software providers or broadcasters of information meant to be used by the driver while driving, e.g. traffic, travel and navigation information, radio programmes with traffic information.
+                  Where systems are provided by a vehicle manufacturer (OEM) it is clear that the manufacturer is responsible for the overall design. In other cases, the ‘Product-Responsible Organisation’ will include the organisation introducing a product or functionality into the market, part or all of which may have been designed and produced by different parties. Consequently the responsibility may often be shared between different organizations. Where the term ‘manufacturer’ is used in the following text, this may include several product-responsible organisations.
+         Generally, it will be clear where the responsibility lies, among manufacturers, suppliers and installers, of applying the principles. Where the responsibility rests with more than one party, those parties are encouraged to use the principles as a starting point to explicitly confirm their respective roles.
+         The responsibilities of the driver related to safe behaviour while driving and interacting with these systems remain unchanged.
+         4.2.   General comments
+         The need for special skills or training and the suitability of a system for different driver groups is a matter of definition by the manufacturers. Such definitions should be taken into account when considering the application of the principles to a system's HMI.
+         Where the manufacturer's intention has been clearly stated (such that the driver can reasonably be expected to be aware of it) and the driver subsequently uses the system in a way, which is not intended by the manufacturer, this can be considered as misuse.
+         The current state of scientific development is not sufficient to link robustly compliance criteria with safety for all the principles. That's why all principles are not linked systematically to standards or already defined and accepted criteria.
+         Systems designed in accordance with the principles are generally expected to be safer than those that do not take account of them. However, it may be possible to meet the overall design goals even if one or more principles are violated.
+         4.3.   Principles
+         Each principle is followed by an elaboration with the following sections:
+         Explanation: includes some rationale and further explanation for the principle.
+         Examples: ‘Good’ and ‘Bad’ examples provide additional explanation concerning implementation of the principle.
+         Application: describes which specific systems or HMI functionality are being addressed by the principle as a necessary first step in determining whether a particular system's HMI is in accordance with the principle.
+         Verification: provides some information to address the question of whether a system is in accordance with a principle. Where possible, a suitable method is outlined and interpretation of the resulting metric is given:
+                  —
+               Where the result can be expressed as ‘Yes/No’ this indicates the availability of a clear identification of compliance with a principle;
+                  —
+               In other cases the approach/methods identified do not lead to simple pass/fail criteria but offer the opportunity of increased optimisation of the HMI;
+                  —
+               If regulations are addressed the Base-Directive is mentioned. The Product-responsible organisation has to comply with the current version of this directive.
+         References: provide additional information which may be of interest in the context of the respective principle.Since international standards are subject to revision, the version referred to is mentioned.
+         Standards under revision and draft ISO standards are sometimes given in order to provide additional information for system designers.
+         4.3.1.   Overall design principles
+         4.3.1.1.   
+         Design goal I
+         The system supports the driver and does not give rise to potentially hazardous behaviour by the driver or other road users.
+         Explanation:
+         An important overall requirement can be simply stated as ‘Do no harm’. This means that the system should enhance or at least not reduce road safety. The approach taken by this document is to systematically guide a system's designer by principles addressing design relevant aspects like installation, information presentation or interface. This is because the overall effects may not be entirely predictable or measurable since they depend not only on the system design but also on the individual driver and the driving task/traffic situation.
+         Systems which are not designed with this principle in mind are unlikely to be in accordance with the other principles.
+         4.3.1.2.   
+         Design goal II
+         The allocation of driver attention while interacting with system displays and controls remains compatible with the attentional demand of the driving situation.
+         Explanation:
+         The driver has a limited but variable attentional resource and physical capacity which can be distributed dynamically by the driver between tasks. The resources activated by the driver depend not only on personal factors but may also vary according to his motivation and state. Interfaces (including visual, tactile and auditory) can induce both physical and cognitive workload.
+         The relevant tasks addressed in this overall design goal are:
+                  the task of driving (controlling the vehicle, participating in traffic flow and reaching a destination). This has an associated attentional demand which varies with the driving situation;
+                  the task of interacting with system displays and controls. Except for very simple systems, the attentional demand of this task will also vary as the system is used.Reaching this goal requires compatibility between the two tasks and this means that the attentional demand of the system does not cause the available resource to be less than that required to attend properly to the prevailing driving task. This means that the driver needs to be able to anticipate the attentional demand associated with both the driving task and secondary tasks.
+         The concept of compatibility is preferable compared with a limit on the total amount of interface because:
+         The concept of task is controversial since the same task can vary substantially in terms of its parameters e.g. duration; moreover a suitable definition of task is not available;
+         Dependent on the motivation and state of the driver, an interface with displays and controls may have a different effect; this is due to the fact that less workload is not necessarily better;
+         The relation between the components of interface (complexity, intensity, duration etc.), workload and driving performance is not well enough understood.
+         Systems which are designed in accordance with the ESoP should be such that the attentional demand of the system can be modified by the driver by choosing to interact (or not), and by choosing when and how to interact. This also means that the driver can anticipate the attentional demand of the interface with the system.
+         4.3.1.3.   
+         Design goal III
+         The system does not distract or visually entertain the driver.
+         Explanation:
+         The aim of this principle is to ensure that the driver is distracted as little as possible by the use of a driver information or communication system while driving such that his/her ability to be in full control of the vehicle is not compromised. This Design Goal is also formulated to highlight the special importance of avoiding distraction caused by visual entertainment.
+         Visual entertainment may occur by visually displaying images which are attractive (
+         i.e. likely to catch the attention) because of their form or content. It is of particular relevance in the driving context because of the importance of vision for safe driving.4.3.1.4.   
+         Design goal IV
+         The system does not present information to the driver which results in potentially hazardous behaviour by the driver or other road users.
+         Explanation:
+         The content of the information should not encourage the driver to engage in behaviour which may increase the risk of an accident while driving. A hazardous behaviour may influence other road user behaviour. An example could be the display of a race-driving-strategy in order to achieve a maximum speed while cornering.
+         Other road users may be concerned if the hazardous behaviour of the driver occurs when he/she is interacting with them, as well as if the system generates signals perceptible from the exterior which may induce erroneous interpretation by other road users, and possibly dangerous manoeuvres.
+         4.3.1.5.   
+         Design goal V
+         Interfaces and interface with systems intended to be used in combination by the driver while the vehicle is in motion are consistent and compatible.
+         Explanation:
+         All HMI components of individual systems should be designed according to principles for single systems and this will give a minimum level of consistency. However, consistency can still be an issue between individual well-designed products.
+         System use ‘
+         in combination
+                     ’ occurs when more than one system is used to achieve a desired result. This includes parallel use (i.e. use of more than one system at the same time) and serial use when the systems are used one after another. So, when designing a system for use in combination with another (possibly pre-existing system), account should be taken of the existing system. When the functionality is completely different, it may be good design to have a different HMI to avoid confusion.Consistency involves for example the following design issues:
+                  —
+               Use of common terminology between systems; e.g. ‘slow traffic’, ‘next junction’;
+                  —
+               Use of words and/or use of icons to represent concepts or functions; e.g. ‘Help’, ‘Enter’;
+                  —
+               Use of colours, icons, sounds, labels (to optimise a balance between similarity and differentiation);
+                  —
+               Physical dialogue channel issues; e.g. single/double-click, timing of response and time-outs, mode of feedback e.g. visual, auditory, tactile (depending on functionality feedback should be different in order to avoid misinterpretation);
+                  —
+               Grouping of concepts and similar menu structures (for related functionalities);
+                  —
+               Overall design of dialogue and order of concepts.
+                  4.3.2.   Installation principles
+         4.3.2.1.   
+         Installation principle I
+         The system should be located and securely fitted in accordance with relevant regulations, standards and manufacturers instructions for installing the system in vehicles.
+         Explanation:
+         Manufacturers design products (e.g. systems, holders, functionalities) for an intended use. If suitable means for correct installation (
+         e.g. a holder) are not provided or the manufacturer's installation instructions are not followed, this may cause the system to be used by the driver in a way which was not intended by the manufacturer, and this could have safety consequences.The system should be located (
+         i.e. physically positioned) within the vehicle during use by the driver in the following ways:
+                  —
+               Fixed within the vehicle;
+                  —
+               Moveable over a pre-determined range (for systems that have an adjustable position by means of cable, stalk or bracket, for example);
+                  —
+               Holder mounted with the intention that the system is used within the holder.
+                  Special attention should be given to the installation of systems in terms of passive safety in order to avoid an increased risk of injury in case of a vehicle crash.
+         Examples:
+         Good: A hands-free mobile phone fitted fully in accordance with all required standards, regulations and manufacturers instructions.
+         Bad: A traffic information display fixed to the dashboard with a poor quality temporary fastening (such as adhesive tape) rather than the holder recommended by the manufacturer.Applicability:
+         The principle applies to all in-vehicle systems, and is very important to be considered for after-market systems and nomadic devices.
+         Verification/Applicable methods:
+         This principle requires the location and fitting of systems to be undertaken in accordance with:
+                  —
+               Interior fittings of motor vehicles (Council Directive 74/60/EEC of 17 December 1973, ECE-R21 of 1 December 1971 and Council Directive 78/316/EEC of 21 December 1977)
+                  —
+               Instructions provided by the product-responsible organisation (i.e. the formal written instructions provided by the manufacturer)
+                  —
+               Inspection whether the relevant requirements have been taken into account.
+                  Result = Yes/No.
+         References:
+                  —
+               ISO 4040 (2001) — location of hand controls, indicators and tell-tales.
+                  4.3.2.2.   
+         Installation principle II
+         No part of the system should obstruct the driver's view of the road scene.
+         Explanation:
+         Successful performance of the driving task is mainly based on the acquisition of visual information about the local road and traffic environment. Consequently, construction regulations ensure that each road vehicle provides the driver with an adequate external field of view out of the vehicle from the driver's seat. Additional systems must not compromise this basic design provision. This principle is likely to be particularly important for the installation of after-market and nomadic systems.
+         The ‘driver's view’ is the mandatory minimum requirement in accordance with EEC Regulations. It should be interpreted as pertaining to the forward view directly through the windscreen, side views and rear view either directly or indirectly.
+         If the physical position of a component of the system can be modified by the driver and can (as part of its intended range of movement) obstruct the driver's vision, then the driver should be informed, through the system instructions (see section 6) about the use as intended by the manufacturer. If no such information is provided to the driver, then the principle should apply throughout the range of adjustment of the system or its component.
+         Examples:
+         Good: A display mounted within the instrument panel such that it can be easily viewed by the driver but does not interfere with the driver field of view requirements.
+         Bad: A display mounted on a long flexible stalk from the upper surface of the instrument panel which can be adjusted such that the display obscures a substantial part of the external road scene.Applicability:
+         The principle applies to all in-vehicle systems, and is very important to be considered for after-market systems and nomadic devices. It does not apply to head-up displays.
+         Verification/Applicable methods:
+         When installed in a vehicle no part of the system should be in a physical position such that the driver's view of the road scene is obstructed to such an extent that the Regulations cannot be complied with.
+         A system is in compliance with this principle if all parts of it are correctly located taking into account:
+                  —
+               71/127/EEC — Rearward field of view
+                  —
+               77/649/EEC — Field of vision of motor vehicles
+                  Verification is by inspection or by measurement.
+         Result = Yes/No.
+         References:
+         No additional references.
+         4.3.2.3.   
+         Installation principle III
+         The system should not obstruct vehicle controls and displays required for the primary driving task.
+         Explanation:
+         The aim of this principle is to ensure that the driver's ability to use mandatory displays and controls and other displays and controls required for the primary driving task is not compromised by the physical presence of a system (such as a display). This ensures that the driver's ability to be in full control of the vehicle is not affected by installation of the system.
+         Obstruction of controls in this context means to prevent operation, or render significantly more difficult to identify, reach and/or operate the relevant controls throughout their intended range of movement.
+         Obstruction of displays in this context means to render not visible some portion (any portion) of the relevant displays from the drivers' normal seating position.The required controls and displays are those relevant for undertaking the primary driving task and all those which are mandatory.
+         Required controls include: accelerator, brake, (clutch, if fitted), steering wheel, gear changer, parking brake, horn, light switches, turn indicators, washers and wipers (all modes and speeds), hazard flashers, de-mister controls.
+         Required displays include: the speedometer, all warning lights, mandatory control labels and mandatory tell-tales.Obstruction or impairment of other controls and displays should be balanced against the additional benefits provided by the system.
+         Examples:
+         Good: A route-guidance display integrated into the dashboard in a high central position which does not obstruct any other displays or controls.
+         Bad:An after-market route guidance system which obstructs the light switches;
+         A display that covers the hazard flasher control
+         An additional control on the exterior of the steering wheel rim which could make the steering wheel more difficult to use during cornering.
+         Applicability:
+         The principle applies to all in-vehicle systems, and is very important to be considered for after-market systems and nomadic devices.
+         Verification/Applicable methods:
+         Verification is by inspection whether the driver can see all displays and controls required for the primary driving task.
+         Result = Yes/No.
+         References:
+                  —
+               ISO 4513 (2003) Road Vehicle — Visibility, method for establishment of eyellipse for driver's eye location
+                  4.3.2.4.   
+         Installation principle IV
+         Visual displays should be positioned as close as practicable to the driver's normal line of sight
+         Explanation:
+         For a driver to be in full control of the vehicle and aware of the dynamic road scene there is a broad consensus that, apart from brief glances at mirrors or instrumentation, the driver's gaze should be directed towards the road scene. Visual displays positioned close to the normal line of sight reduce the total eyes-off-the-road time relative to those which are positioned further away and maximises the possibility for a driver to use peripheral vision to monitor the road scene for major developments while looking at a display. The further away from the driver's normal line of sight the display is positioned, the more difficult it is to obtain information and the greater the possible impact on driving performance.
+         It is recommended that the most important or safety critical information be closest to the normal line of sight.
+         This principle therefore requires the designer/installer to make an explicit, but essentially qualitative, trade-off between practicability and closeness. Important factors include:
+                  —
+               The requirement not to obstruct the road scene (see principle 4.3.2.2);
+                  —
+               The requirement not to obstruct other controls or displays (see principle 4.3.2.3);
+                  —
+               The requirement that the display should not itself be substantially obstructed by, for example, controls such as the steering wheel or gear change lever.
+                  In particular for passenger cars it is recommended that displays containing information relevant for driving and all displays requiring long sequences of interface be placed within approximately 30
+         o downward viewing angle of the driver's normal forward view. For a discussion on long sequences of interface refer to principle 4.3.4.2.Examples:
+         Good: A display for navigation in a passenger car is installed within approximately 30o downward viewing angle because the information is related to driving.
+         Bad: A display for communication, e.g. of a Personal Digital Assistant (PDA) or Phone, is positioned near the gear lever between the front seats in a passenger car in spite of long sequences of interfaces necessary to enter or search for a telephone number.Applicability:
+         The principle applies to all in-vehicle systems equipped with visual displays and for situations of use that involve forward vision. Displays that support specific driving conditions such as reversing are a separate issue.
+         Verification/Applicable methods:
+         In general, the aim should be the best compromise in allocation of dashboard space, which can be assessed by designers and ergonomics specialists.
+         References:
+                  —
+               ISO 4513 (2003) Road Vehicle — Visibility, method for establishment of eyellipse for driver's eye location.
+                  4.3.2.5.   
+         Installation principle V
+         Visual displays should be designed and installed to avoid glare and reflections.
+         Explanation:
+         Glare and reflections that are likely to make it more difficult to extract information from the display may cause distraction from the driving task or other tasks performed while driving. This is likely to lead to increased driver frustration and annoyance and may evoke behavioural adaptations such as squinting, closing of the eyes for brief periods and head movements to obtain a more comfortable view. All of these effects are likely to reduce driver comfort and, therefore, may compromise road safety to some extent.
+         Glare is the distracting (and potentially disabling) effect of bright light in an otherwise relatively dark scene which interferes with visual attention and selection. In the in-vehicle context, this can occur in a number of ways:External light (usually sunlight) falls on the visual display reducing display contrast and makes the information on the screen more difficult to see from the driver's normal viewing position;
+         The display is itself too bright and causes distraction from the road scene and other in-vehicle displays and controls. This is most likely to be apparent to the driver in low ambient light conditions.
+         Reflection is the generation of a secondary image of an object as a result of light from the object bouncing off intermediate surfaces. This is relevant in a number of ways:Light from a light emitting display travels to another surface (or via several surfaces) producing a secondary image of the display screen; for example, on the windscreen. This is most likely to be perceived by the driver when there is high contrast between the secondary image and its background, such as against the windscreen during darkness;
+         Light from an external source (
+         e.g. the sun, streetlights, or other bright objects) is reflected by the display surface into the driver's eyes (see also glare above).The effects should be considered during design and installation process. Issues that could be considered include provision of a (manual or automatic) display brightness control, choice of display technology, choice of display surface texture and finish, choice of colour and gloss of surfaces being reflected in the display surface, choice of image polarity, sighting of the display and adjustability, the use of a recess or cowl.
+         Examples:
+         Good: A screen with an automatic brightness control which does not produce secondary images on the vehicle's glass and which has a display front surface which can be easily read under all normal lighting conditions.
+         Bad: A display which is so bright at night that it is significant in the driver's peripheral vision when looking at the forward road-scene and whose information is difficult to read in sunlight because the contrast is so low.Applicability:
+         The principle applies to all in-vehicle information and communication systems equipped with visual displays.
+         Verification/Applicable methods:
+         The verification should be based upon procedures to determine glare and reflections. Specific criteria depend on the vehicle concept.
+         References:
+                  —
+               ISO 15008 (2003): Road vehicles — ergonomic aspects of transport information and control systems — specification and compliance procedures for in-vehicle visual presentation.
+                  4.3.3.   Information presentation principles
+         4.3.3.1.   
+         Information presentation principle I
+         Visually displayed information presented at any one time by the system should be designed such that the driver is able to assimilate the relevant information with a few glances which are brief enough not to adversely affect driving.
+         Explanation:
+         Visual processing by the driver to take account of the traffic environment forms the basis for completion of vehicle control and manoeuvring tasks. Therefore, demand to detect and acquire visually presented relevant information at any one time should be limited. Increasing the frequency and/or duration of glances required to detect and acquire visually displayed information may increase the risk for potentially dangerous traffic situations caused by driver preoccupation with non-primary driving-related tasks. Relevant information is the portion of all visually displayed information sought by the driver to satisfy a particular need.
+         Examples:
+         Good: Easily legible and well structured graphics on a well positioned visual display which allows identification of the relevant menu item with one single glance of 1 second.
+         Bad: A navigation system which only offers support by a visual display rich in detail, which needs full and lengthy attention of the driver to identify a target on a moving map.Applicability:
+         The principle applies to all in-vehicle information and communication systems with visual displays presenting information intended to be viewed by the driver while driving.
+         Verification/Applicable methods:
+         Compare design alternatives for the presentation of information: the number and duration of glances needed to detect and acquire relevant information presented at a time should be minimized.
+         Result: Optimized design of a single screen.
+         References:
+                  —
+               ISO 15007-1 (2002): Road vehicles — Measurement of driver visual behaviour with respect to transport information and control systems — Part 1: Definitions & parameters.
+                  —
+               ISO TS 15007-2 (2001): Road vehicles — Measurement of driver visual behaviour with respect to transport information and control systems — Part 2: Equipment and procedures.
+                  —
+               ISO 15008 (2003): Road vehicles — ergonomic aspects of transport information and control systems — specification and compliance procedures for in-vehicle visual presentation.
+                  —
+               ISO FDIS 16673: Road vehicles — ergonomic aspects of transport information and control systems — Occlusion method to assess visual distraction
+                  Additional Methods/Scales are under development in ISO TC22/SC13/WG8 for quantification of visual distraction; e.g. revision of ISO 15008, display legibility and TC22/SC13/WG8/AWI on the Lane Change Test, method to measure driver distraction.
+         4.3.3.2.   
+         Information presentation principle II
+         Internationally and/or nationally agreed standards relating to legibility, audibility, icons, symbols, words, acronyms and/or abbreviations should be used.
+         Explanation:
+         Standards related to legibility, audibility and symbols prescribe geometrical and/or physical characteristics for information which is displayed visually and/or aurally and are intended to give information the highest probability of being easily comprehended by drivers in a large range of circumstances and environments.
+         The continuously increasing number of functions available to the driver makes it necessary to adopt the most common practice in the selection of symbols, icons, abbreviations and words for function identification.
+         Examples:
+         Good: Road signs are used on in-vehicle displays to augment traffic information
+         Bad: Symbols and icons used in a navigation system are unique to a particular manufacturer and are not comprehended by a majority of drivers.Applicability:
+         The principle applies to all cues used to identify functionality and functions provided by information or communication systems in a vehicle.
+         Verification/Applicable methods:
+         Verification by inspection, whether internationally and/or nationally agreed standards relating to legibility, audibility, icons, symbols, words, acronyms and/or abbreviations are used, taking into account the main relevant standards.
+         Result = Yes/No.
+         References:
+                  —
+               ISO 15008 (2003) — Road Vehicles — Traffic Information and Control Systems (TICS) — Ergonomic Aspects of In-Vehicle Information Presentation (under revision)
+                  —
+               ISO15006 (2004) — Road Vehicles — Traffic Information and Control Systems (TICS) — Auditory Presentation of Information
+                  —
+               ISO 2575 (2004) — Road Vehicles — Symbols for Controls, Indications and Telltales
+                  —
+               ISO 7000 (2004) — Graphical symbols for use on equipment — Index and synopsis
+                  4.3.3.3.   
+         Information presentation principle III
+         Information relevant to the driving task should be accurate and provided in a timely manner.
+         Explanation:
+         Information relevant to the driving task should be provided to the driver at the most appropriate moment and be sufficiently accurate to assist the driver in dealing adequately with the situation.
+         The driving task requires the driver to continuously monitor the environment to select relevant stimuli and to concentrate and focus attention on those stimuli which require an adjustment of his/her behaviour. This adjustment depends on which action is most suitable for the situation and on the goals and priorities of the driver. The actions may involve changing speed, changing lane, warning others, etc.
+         Correctly timed and accurate information reduces uncertainty by giving valid and clear answers to questions such as: ‘What?’
+                     ‘When?’
+                     ‘Where?’
+                     ‘For how long?’ etc. The requirement of accuracy and timing of information also implies that it is necessary for the displayed message to match the driver's judgement of the environment. Therefore, information should not conflict with, for instance, road signs. Systems providing ill-timed and/or incorrect information may create safety critical driver distraction and frustration.
+         Examples:
+         Good: The distance to the next manoeuvre is provided exactly at the point where the driver needs to know if a manoeuvre is to be undertaken and which manoeuvre it should be.
+         Bad: Direction instructions from a navigation system are displayed well after the manoeuvre needs to be performed.Applicability:
+         The principle applies to all auditory and visual time-critical information from information and communication systems.
+         Verification/Applicable methods:
+         Verification by inspection, whether the information provided by the system is sufficiently correct and presented at the expected point of time.
+         Result: Yes/No.
+         References:
+         No additional references.
+         4.3.3.4.   
+         Information presentation principle IV
+         Information with higher safety relevance should be given higher priority.
+         Explanation:
+         The driver may need to perceive and act on safety-relevant information within a short timescale. Such information therefore needs to be presented as rapidly as possible and should not be delayed by more routine information.
+         Information priority from the point of view of safety-relevance depends on its urgency and criticality (i.e. severity of the consequences if the information is not acted upon). These factors, in turn, also depend on the driving situation as explained in ISO/TS 16951. Where information is generated off-board (from the roadside or remote system) prioritisation cannot take account of the driving situation and only a more generic priority allocation is possible. Where information is derived from autonomous vehicle systems, or where external and on-board information can be combined, the possibility of appreciating the driving situation exists and message priority can be refined.
+         For off-board information, the dynamic information providers (service providers) should implement an information dissemination strategy which ensures — apart from currency and reliability — transmission priority to messages with highest importance. In-vehicle systems need to recognise incoming safety-relevant messages and treat them accordingly.
+         Safety relevance of information may not always be easily determined and not all information may be technically available for prioritization.
+         Examples:
+         Good: Information concerning manoeuvring around a complex intersection is given priority over an incoming telephone call.
+         Bad: A high-priority message concerning ice at the current location is prevented from immediate delivery because the information screen is in the process of displaying a message concerning distant traffic congestion.Applicability:
+         The principle applies to systems that provide dynamic information (i.e. information that changes as a result of conditions immediately surrounding the vehicle or traffic conditions more generally).
+         Verification/Applicable methods:
+         Verification by inspection whether priority of information is taken into account.
+         Result = Yes/No.
+         References:
+                  —
+               ISO/TS16951 (2004): Road Vehicles — Ergonomic aspects of transport information and control systems — Procedure for determining priority of on-board messages presented to drivers.
+                  4.3.3.5.   
+         Information presentation principle V
+         System generated sounds, with sound levels that can not be controlled by the driver, should not mask audible warnings from within the vehicle or the outside.
+         Explanation:
+         Auditory information at a sound level which is too high may affect driving or road safety by masking significant and important warning sounds concerning road and vehicle safety. In addition, improperly designed sounds might result in driver distraction and annoyance. Therefore, auditory information needs to be designed such that it does not mask warning sounds from the interior or exterior to the driver. Any system, including audio systems, should bear in mind the effect the system could have on the driver before being introduced.
+         This can be achieved in a number of ways including:
+                  —
+               The sounds produced by the system are not at such a level that warning sounds are likely to be masked;
+                  —
+               The duration of the sounds is sufficiently short that warnings are not missed;
+                  —
+               Intermittent sounds are such that the interval between them is long enough for warnings to be received by the driver.
+                  Examples:
+         Good: Auditory signals from the system are set at a level that is below the sound level of warnings from within and outside the vehicle.
+         Bad: An incoming telephone call is at a very high sound level liable to mask warnings, and out of the driver's control.Applicability:
+         The principle applies to all audible sounds from information- and communication systems with sound levels that can not be controlled by the driver, either from in-vehicle systems, after-market or nomadic devices, or as a result of information received through communication with the outside world.
+         Verification/Applicable methods:
+         Verification by inspection whether warnings are still clearly perceptible while the system produces uncontrollable sound levels.
+         Result = Yes/No.
+         References:
+                  —
+               ISO 15006 (2004) — Road Vehicles — Traffic Information and Control Systems (TICS) — Auditory Presentation of Information.
+                  4.3.4.   Interface with displays and controls
+         4.3.4.1.   
+         Interaction with displays and controls principle I
+         The driver should always be able to keep at least one hand on the steering wheel while interacting with the system.
+         Explanation:
+         This principle is concerned with interfaces which require the driver to provide manual control inputs (e.g. using buttons or knobs).
+         There are driving situations which require the driver to have precise control of the vehicle's steering and this can be achieved most effectively with both hands on the steering wheel. For other driving situations, one hand on the steering wheel is acceptable as long as the other hand is immediately available for steering if circumstances demand it. That leads to the consideration that handheld devices are not recommended for use whilst driving.
+         To be in accord with this Principle, the system should be designed such that only one hand is needed away from the steering wheel to interact with the system leaving one hand remaining on the steering wheel. In addition, if one hand must be removed from the steering wheel to undertake the interface, the other hand should not simultaneously be needed for interface (
+         e.g. for operating fingertip controls).Examples:
+         Good: A control device that is securely mounted in a conveniently positioned holder and can be used one-handed without removal from the holder.
+         Bad: An unfixed control device that the driver needs to hold in his hand while interacting.Applicability:
+         All information and communications systems.
+         Verification/Applicable methods:
+         Verification by inspection whether the driver can operate the system with only one hand.
+         Result = Yes/No.
+         References:
+         No additional references.
+         4.3.4.2.   
+         Interaction with displays and controls principle II
+         The system should not require long and uninterruptible sequences of manual-visual interfaces. If the sequence is short, it may be uninterruptible.
+         Explanation:
+         The principle allows for uninterruptible sequences of interfaces as long as they are short whereas long sequence of interfaces should be interruptible by the driver. This means that the system should not delete any driver input during interruption unless the sequence of interfaces is short or a sufficiently large time-out period has passed.
+         If a driver is aware that a sequence of interfaces is ‘interruptible’, there will be a greater tendency to attend to developing traffic situations in the knowledge that the system interface can be completed when the traffic situation has been attended to.
+         On the other hand an interface may be uninterruptible if it is short in order to avoid an additional input for returning the system's state to normal. A well established example is a two- or three-step interface for changing the sound settings of a conventional radio.
+         Examples:
+         Good: A sequence of interfaces for looking up traffic information can be interrupted without the system changing its state.Only a few of the ‘short-sequence-interfaces’, 3 button presses or less, have a 10-second-time-out period.
+         Bad: Key presses when entering a telephone number must not be more than 5 seconds apart or all previously entered numbers are cancelled.Applicability:
+         The principle applies to systems with manual-visual sequences of interfaces, i.e. the function requires more than one input (by inspection). It does not apply to speech-based systems.
+         Verification/Applicable methods:
+                  1.
+               Analyse whether the sequence of interfaces can be considered as short taking into account the following dimensions of an interface:
+                              —
+                           the number of individual control inputs (e.g. less than 4-5 button presses);
+                              —
+                           the complexity of the interface (e.g. less than 2 menu changes);
+                              —
+                           the time to make the control inputs;
+                              —
+                           the visual intensity of the interface.
+                  2.
+               Inspection whether system state changes when interrupting those sequences of interfaces identified to be long by step 1.
+                  Result: Yes/No.
+         References:
+                  —
+               Visual intensity of interface: see ISO FDIS 16673 on occlusion.
+                  4.3.4.3.   
+         Interaction with displays and controls principle III
+         The driver should be able to resume an interrupted sequence of interfaces with the system at the point of interruption or at another logical point.
+         Explanation:
+         If partly entered data disappears when an input sequence is interrupted, the driver may be incited to achieve the full sequence even if the driving situation requires full attention.
+         The principle requires that the driver is given the possibility of continuing an interrupted sequence of interfaces (with no need to restart it) either from the point of interruption, or from another previously completed step.
+         When the driver resumes the sequence, it may happen that some events have made the point of interruption no longer relevant. In such cases, the logical point provided by the system will simplify the task and lessen the workload.
+         Examples:
+         Good: The driver can interrupt entering a phone number, look for several seconds at the road scene and then complete the partly entered number.
+         Bad: When the driver is reading a list of traffic messages and interrupts viewing half way through the list, the system cancels the list after a short time-out period. Consequently the driver needs to ‘call’ the list again in order to resume reading.Applicability:
+         All information and communication systems with sequences of interfaces.
+         Verification/Applicable methods:
+         Inspection whether the system state changes after interrupting a sequence of interfaces.
+         Result = Yes/No.
+         If no, check/assess that the resuming point is logical. Verification of this requires assessment and judgement
+         References:
+         No additional references.
+         4.3.4.4.   
+         Interaction with displays and controls principle IV
+         The driver should be able to control the pace of interface with the system. In particular the system should not require the driver to make time-critical responses when providing inputs to the system.
+         Explanation:
+         Interface with the system refers here to making input by a control action, or by voice, into the system, either at the driver's initiative or as a response to displayed information initiated by the system itself. The provision of an appropriate response usually requires the driver to perceive and process information before deciding on the correct action. This pre-supposes that the situation develops such that the driver has sufficient time and mental resources available. As systems are not actually available which can predict the level of driver workload in a continuous and reliable manner, for the sake of safety and convenience it should be for the driver alone to decide when he/she is ready to respond to the system.
+         Time critical responses are responses which must be made by the driver within a short imposed time window. The driver is able to control the pace if he/she always remains in command of the time before which an input must be provided and the time for which the output is displayed.
+         Exceptions:
+         If the information displayed is directly related to the immediate driving situation (e.g. the precise speed of the vehicle, the distance to the next turn — which determines the time for which a displayed route direction is valid, etc.);
+         If the system provides assistance to help the driver to escape from hazards or avoid mistakes and requires the driver to react within a specific time;
+         The second click on an input device, which requires a double click, as a specific signal is acceptable;
+         Inputs provided by the same control giving different results depending on the duration of the control activation (e.g. a button kept pressed for several seconds for radio station storage) are not within the scope of this principle.
+         Examples:
+         Good: The driver can choose to listen to incoming touristic messages when the situation permits and messages are not automatically presented to the driver when they arrive.
+         Bad: Confirmation or rejection of a re-routing proposal of a navigation system due to traffic problems is available only for a few seconds before re-routing automatically starts.Applicability:
+         Systems which provide information not directly related to the immediate driving situation. (Compare exceptions under explanation)
+         Verification/Applicable methods:
+         Inspection, whether the driver can interact with the system at his own pace, i.e. can he decide when to provide an input and how long information is displayed?
+         Result = Yes/No
+         References:
+         No additional references.
+         4.3.4.5.   
+         Interaction with displays and controls principle V
+         System controls should be designed such that they can be operated without adverse impact on the primary driving controls.
+         Explanation:
+         This principle addresses the relationship between the primary driving controls and the system controls in order to avoid an unintended interference of operation. This means that the location, kinematics, control forces and control travel of a system control should be designed such that its operation does neither hinder an intended nor facilitate an unintended primary control input.
+         Examples:
+         Good: The most frequently used controls of the system are located within fingertip reach from the steering wheel rim.
+         Bad: A rotary control with concentric axis on the steering wheel, which requires a momentum for operation that may also induce a change in steering angle.Applicability:
+         All systems intended to be used while driving, especially nomadic devices and aftermarket systems.
+         Verification/Applicable methods:
+         Verification by inspection whether system operation interferes with operation of primary driving controls resulting in an unintended effect on vehicle motion.
+         Result = Yes/No.
+         References:
+         ISO 4040 (2001) Road vehicles — Location of hand controls, indicators and tell-tales.
+         4.3.4.6.   
+         Interaction with displays and controls principle VI
+         The driver should have control of the loudness of auditory information where there is likelihood of distraction.
+         Explanation:
+         To have control of auditory information means that the driver can adjust the volume and mute the sound to a virtually unperceivable level.
+         Distraction is the capture of significant driver attention by stimulations which can arise from non driving-relevant information, or from driving-relevant information presented in such a way that the stimulation attracts more driver attention than needed. This undesirable capture of driver attention may be caused by the frequency of the stimulus, its duration, its intensity and, more generally, by its irrelevance to the driving task and may subsequently cause irritation.
+         Since some important information may have to be conveyed to the driver while the sound is off or while the sound level has been turned down to an inaudible level, the system may provide non-auditory information on the system's state.
+         Examples:
+         Good: The driver may control the ‘incoming phone call’ acoustic signal and select a mode where only a visual signal is displayed.
+         Bad: An obsolete traffic message is repeated many times and cannot be switched off.Applicability:
+         All systems which provide non-safety relevant auditory information. Systems providing warnings related to the driving task are excluded.
+         Verification/Applicable methods:
+         Inspection whether the system's auditory output can be switched off and on, or whether its loudness can be adjusted by the driver down to a virtually muted level.
+         Result = Yes/No.
+         References:
+         ISO 15006 (2004): Road vehicles — Ergonomic aspects of transport information and control systems — Specifications and compliance procedures for in-vehicle auditory presentation.
+         4.3.4.7.   
+         Interaction with displays and controls principle VII
+         The system's response (e.g. feedback, confirmation) following driver input should be timely and clearly perceptible.
+         Explanation:
+         The 
+         system's response applies at two levels:
+                  —
+               The control activation feedback level, e.g. button displacement, auditory beep;
+                  —
+               The dialogue level, which is the system's response to the driver's input, 
+                  e.g. recommended route.The system's response is timely if it is perceived as quite instantaneous. For control activation feedback timing should be from the moment at which the system recognises each driver input. For the dialogue level response (which may be either the requested information, or an indication that processing is underway) the timing should be from the end of the driver's input.
+         When the system needs significant processing time, some signal should be displayed to inform the driver that the system has recognised the input and is preparing the requested response.
+         The systems response is clearly perceptible if it is obvious for the driver that a change has occurred in the system and that this change is the consequence of the input.
+         A system which reacts as expected by the driver contributes to the reliability of the driver-system interface. Any delayed, ambiguous or uncertain system response may be misinterpreted, may be taken as an error by the system or by the driver, and may lead to the driver making a second input.
+         Uncertainty about whether input has been completed also reduces driver attention to the road scene.
+         Examples:
+         Good: A message ‘BUSY’ is displayed immediately following a driver request to change the area shown on a map.
+         Bad: The last RDS message displayed on driver request differs only from the previous one by one item: the number of km. This item is not enhanced, which creates doubt about whether the input has been acknowledged by the system or not.Applicability:
+         All information and communication systems with manual input.
+         Systems controlled by voice are not currently considered as within the scope of this principle because the nature and structure of speech is such that mid-sentence pauses can be significant. There is insufficient experience to properly define ‘timely’ for voice controlled systems at this time.
+         Verification/Applicable methods:
+         Verification by measurement of system response time: The system should respond quickly upon a manual control input or display a ‘system busy’ message.
+         Result = Yes/No.
+         References:
+         No additional references.
+         4.3.4.8.   
+         Interface with displays and control principle VIII
+         Systems providing non-safety related dynamic visual information should be capable of being switched into a mode where that information is not provided to the driver.
+         Explanation:
+         Dynamic visual information is visual information which changes as a result of system initiation. Non-safety related information is information which is not relevant to the driver in avoiding or reducing the risk of an immediate or imminent hazardous situation.
+         Examples of non-safety related information include navigation map, freight and fleet data, banking services.
+         Since an unacceptable distraction from the driving task may be caused by a dynamic presentation of non-safety related information the driver should be able to switch the information off.
+         Examples:
+         Good: The driver can select from a menu whether non-safety related dynamic visual information is displayed or not.
+         Bad: A navigation map, which is updated every second, cannot be switched off without losing complete guidance support.Applicability:
+         Information and Communication systems providing non-safety related dynamic visual information.
+         Verification/Applicable methods:
+         Inspection whether the system can be switched into a mode where non-safety related dynamic visual information is not provided to the driver.
+         Result = Yes/No.
+         References:
+         No additional references.
+         4.3.5.   System behaviour principles
+         4.3.5.1.   
+         System behaviour principle I
+         While the vehicle is in motion, visual information not related to driving that is likely to distract the driver significantly should be automatically disabled, or presented in such a way that the driver cannot see it.
+         Explanation:
+         This principle emphasises the importance of the visual modality for safe driving and seeks to limit visual information from within the vehicle which can provide a distraction from the primary driving task. Likelihood of significant distraction refers to modes of presentation where the information has a dynamic and unpredictable component such that the entirety of information presented cannot be obtained by the driver with a few brief glances (
+         e.g. TV, video and automatically scrolling images and text).One example is automatically scrolling images and text that cover a variety of forms of dynamic presentation where the driver is not able to pace the presentation and where the entire information is not available at any one time. Any other specific modes of presentation, 
+         e.g.
+                     ‘Internet pages’, should be examined within the context of these examples. Scrolling lists under the control of the driver, such as navigation system destinations, are not within the scope of this principle as the driver can always interrupt and resume the interface.Even after a vehicle ceases motion, it is recommended that a time delay of a few seconds be included before one of the visual presentation modes covered by this principle is activated. This deals, at least partially, with the situation of divided attention of the driver in ‘stop-and-go’ traffic conditions.
+         Examples:
+         Good: A TV picture which goes blank when the vehicle is in motion and does not re-appear immediately when the vehicle stops.
+         Bad: A passenger entertainment system which can be seen by the driver while the vehicle is in motion.Applicability:
+         This principle refers to visual information only which is not related to driving. Therefore it does not apply to non-visual information, like tonal or verbal information, or to visual information related to driving.
+         Verification/Applicable methods:
+         Verification by inspection whether information which is not intended to be seen by the driver while the vehicle is in motion is not shown or cannot be seen by the driver.
+         Result = Yes/No
+         References:
+                  —
+               ISO 15005 (2002) ‘Road vehicles — Ergonomic aspects of transport information and control systems — Dialogue Management principles and compliance procedures’ (2002);
+                  —
+               ISO 4513 (2003) Road Vehicle — Visibility, method for establishment of eyellipse for driver's eye location.
+                  4.3.5.2.   
+         System behaviour principle II
+         The behaviour of the system should not adversely interfere with displays or controls required for the primary driving task and for road safety.
+         Explanation:
+         This principle is intended to ensure that the driver's ability to be in full control of the vehicle is not affected (in a way which decreases safety) by the behaviour of the information and communication system during normal operation or failure. This means that the system should not override information or controls relevant for the safe operation of the vehicle. In this context, interference is any influence or interface which modifies the performance, characteristics or behaviour, of existing displays or controls.
+         Adverse interference with displays or controls results in an overall impairment of performance (from that intended) of the display or control. Examples include changes to mandatory displays or controls. In addition, the behaviour of a system should not obstruct or render inoperative other systems which are specifically intended as safety systems.
+         Examples:
+         Good: On a multipurpose display, navigation directions are given in a way that the speedometer always remains easily readable.
+         Bad: On a multipurpose display, mandatory information is overlaid by radio station identification information.Applicability:
+         Refers to systems which can be reasonably foreseen to induce display and control interference.
+         Verification/Applicable methods:
+         Verification by inspection whether the system's behaviour does not interfere with the use of displays and controls required for the primary task of driving.
+         Result = Yes/No.
+         References:
+                  —
+               ISO 4040 (2001): ‘Road vehicles — passenger cars — location of hand controls, indicators and tell-tales’.
+                  4.3.5.3.   
+         System behaviour principle III
+         System functions not intended to be used by the driver while driving should be made impossible to interact with while the vehicle is in motion, or, as a less preferred option, clear warnings should be provided against the unintended use.
+         Explanation:
+         This principle seeks to ensure clarity, particularly for the driver, in terms of the manufacturer's intention for use of the system. If this principle is complied with, subsequent use of the system not within the envelope of intended use can be considered as misuse.
+                     ‘Impossible’ in this context means that the designated system function is not operable by the driver during normal use or during reasonably foreseeable misuse. In this context, it would not be reasonable for a manufacturer to anticipate that a driver would undertake sophisticated technical measures to defeat the manufacturer's intentions. The manufacturer's rationale may be based on regulation or their own judgement.
+         A clear warning gives information or advice about the negative consequences of a situation or action in sufficient detail. The warning is available in such a way or form that the driver can readily perceive it. It can be written information or an automatic display by the system. Reasonable drivers should be in no doubt concerning the use of the system intended by the manufacturer after taking account of the clear warning.
+         There are a number of ways of conveying warnings. A continuously displayed warning is one option. If the warning is not continuously displayed, then it should remain available for a sufficient duration to ensure that the driver has the opportunity to become aware of it. One suitable solution is for the driver to acknowledge the warning by pressing a button.
+         Examples:
+         Good: When the vehicle starts to move, the driver's interface with an internet website is cancelled and a message ‘not available while driving’ is displayed. When the vehicle comes to a full stop, the driver can resume the interface.
+         Bad: A television facility is designated as an unavailable function while the vehicle is in motion as detected by a hand-brake position sensor. The sensor on the hand brake can be deactivated by a partially engaged hand brake. (This is an example of misuse which is reasonably foreseeable and should, therefore, have been designed out, or clear warnings provided.)Applicability:
+         This principle applies only to system functions intended by the manufacturer not to be used by the driver while driving.
+         Verification/Applicable methods:
+         Verification by inspection whether system functionality not intended to be used while driving is inaccessible by the driver while the vehicle is in motion (this is the preferred option) or a clear warning is provided to the driver.
+         Result = Yes/No.
+         References:
+                  —
+               ISO 15005 (2002): ‘Road vehicles — Ergonomic aspects of transport information and control systems — Dialogue Management principles and compliance procedures’;
+                  —
+               ISO 17287 (2003): ‘Road vehicles — Ergonomic aspects of transport information and control systems — Procedure for assessing suitability for use while driving’.
+                  4.3.5.4.   
+         System behaviour principle IV
+         Information should be presented to the driver about current status, and any malfunction within the system that is likely to have an impact on safety.
+         Explanation:
+         There can be safety implications when there is a divergence between the actual function of a system and the driver's reasonable expectations based on previous information and/or experience. Therefore a change in status or a malfunction which modifies system performance needs to be made apparent to the driver.
+         The information to be presented should be designed to be readily perceived by the driver (
+         i.e. easily understood and meaningful) in terms of the consequences of the current status or system malfunction, particularly on vehicle control and manoeuvring with respect to other traffic and the road infrastructure.Examples:
+         Good: An in-vehicle speed advice system informs the driver that the system is unable to provide dynamic information rather than continuing to show the prevailing inter-urban speed even on entry to an urban area.
+         Bad: A route guidance system displays the information ‘Illegal Entry Mode 31’ before each turn instruction. The implications of this message are not readily perceived by the driver.Applicability:
+         This principle applies only to information about status and malfunctions of information and communication systems which are likely to have an impact on safety.
+         Verification/Applicable methods:
+         Verification by inspection whether information is presented to the driver in an appropriate way about status and malfunction of the system which is likely to have an impact on safety.
+         Result = Yes/No.
+         References:
+                  —
+               ISO 15008 (2003): ‘Road vehicles — Ergonomic aspects of transport information and control systems — Specifications and compliance procedures for in-vehicle visual presentation’.
+                  —
+               ISO 15005 (2002): ‘Road vehicles — Ergonomic aspects of transport information and control systems — Dialogue Management principles and compliance procedures’.
+                  4.3.6.   Information about the system
+         4.3.6.1.   
+         Information about the system principle I
+         The system should have adequate instructions for the driver covering use and relevant aspects of installation and maintenance.
+         Explanation:
+         This principle aims to ensure that instructions are available to as many drivers as possible so that they can easily become aware of the capabilities and limitations of the system, its context of use, proper installation and maintenance. Drivers should rarely need to seek information beyond that provided in the instructions.
+         Adequate instructions are sufficient for the purpose of the driver that is reasonable for the manufacturer to anticipate. This will depend on the intended use of the system (functionality, context etc.). One indication of adequacy is the size and quality of any text or diagrams. For example, print is not expected to be smudged or in a font style which is too small or difficult to read. For written instructions ‘adequate’ relates to the physical media of presentation. For example, printed material should be on paper (or other material) providing a reasonable durability and the printing should be permanent on that material. Instructions which are only on packaging material are not considered adequate as packaging is likely to be discarded rather than being passed to subsequent owners. In the case that instructions are only available in form of ‘help functions’ these should be designed in a way that allows their operation without prior reading of written material.
+         Examples:
+         Good: Good quality printed colour manual on A5 pages with text and illustrations which fits within the glove box.
+         Bad: No instructions; sketchy instructions just on the packaging material; instructions on poor quality paper; instructions that are so small that they can be easily mislaid.Applicability:
+         This principle applies to system instructions in all forms.
+         This principle refers to system instructions intended for the driver, not a full workshop manual as might be required by garage or maintenance institutions.
+         The principle applies to all aspects of systems which it is reasonable for the manufacturer to anticipate that drivers will require at some time within the expected life of the system. The principle excludes aspects of systems specifically designated by the manufacturer as not intended for use while driving.
+         Verification/Applicable methods:
+         Verification requires assessment and judgement specifically taking into account the system's functionality and the intended user groups.
+         4.3.6.2.   
+         Information about the system principle II
+         System instructions should be correct and simple.
+         Explanation:
+         Design of user instructions is an HMI issue in itself. Instructions are typically ignored by drivers and this is exacerbated by poor design of the instructions. This principle is intended to promote high acceptance of instructions by drivers.
+         Instructions should be factually accurate in all important aspects. Each element of the instructions (group of words, diagram, function-described etc.) should be correct for the actual system to which it relates.
+         Simple has to be interpreted in the context of the system being described and will vary with the complexity and functionality of the system. The instructions should be unambiguous and easy to understand, if possible by all members of the intended user population (
+         e.g. documents in ‘Plain Language’). Instructions should not be overly technical and should use user-oriented language. It is important that the instructions are simple even if the system is complex.Examples:
+         Good: Good examples might be expected to have some of the following features: well presented manual with factually accurate text and diagrams, contents page, page numbers, good use of colour, written in a plain language style using common words. Good Index. Use of different fonts, italics, bold, underlines etc. to distinguish portions of the text.
+         Bad: Instructions which refer to a previous model with different functions and controls.Applicability:
+         This principle applies to system instructions in all forms.
+         Verification/Applicable methods:
+         Assessment of correctness is a matter of comparison between the actual system and the system instructions. Assessment of simplicity is a matter of judgement taking driver knowledge and expectations into account.
+         A system instruction can conform with this principle even if small errors are present as long as these can be shown to be unimportant and are not too numerous.
+         Verification requires assessment and judgement.
+         4.3.6.3.   
+         Information about the system principle III
+         System instructions should be in languages or forms designed to be understood by the intended group of drivers.
+         Explanation:
+         The aim of this principle is to ensure that instructions are of use to as many drivers as possible and that drivers are aware of the capabilities and limitations of the system, its context of use etc.
+         Different forms of instructions may exist which could be presented in different modalities: Auditory instructions may be spoken or presented by noises or earcons. Visually presented information includes diagrams, photographs, highlighting of the next element, programmed tutorials etc.
+         Spoken instructions and written instructions (either printed or within a system) will be in one or a number of languages (e.g. English, Finnish etc.)
+         This principle requires that when instructions are being devised, consideration is given to the intended and most likely driver population and that instructions are designed which can reasonably be expected to be understood and used by as many drivers as possible.
+         Manufacturers should consider the driver population and the likely and intended use of the system as well as the native languages and other languages spoken and read. Published statistics on language proficiency by country could be used as reference. At minimum, the majority language of the country in which the system is sold should be considered. Diagrams often provide additional clarity. Where used these should follow accepted stereotypes and conventions for the intended population.
+         Examples:
+         Good: For a system sold in Sweden, instructions are formulated in easily understandable Swedish and incorporate pictorial help at relevant passages.
+         Bad: Written instructions (without diagrams or photographs) automatically translated from Japanese (unedited) for a system presented for sale in the European market.Applicability:
+         This principle applies to instructions in all forms.
+         Verification/Applicable methods:
+         Verification requires assessment and judgement taking into account the system's functionality and the intended user groups.
+         4.3.6.4.   
+         Information about the system principle IV
+         The instructions should clearly state which functions of the system are intended to be used by the driver while driving and those which are not.
+         Explanation:
+         Instructions that are in accord with this principle allow the driver the opportunity to be fully aware of the use of the system intended by the manufacturer and to make clear the responsibilities in the case where the driver uses the system beyond the manufacturer's intentions. Functions which are specifically not intended by the manufacturer to be used by the driver while driving should be explicitly designated as such whether disabled while the vehicle is in motion or not.
+         After becoming aware of the instructions, reasonable drivers should be in no doubt about which functions of the system have been designed to be used by the driver while driving (i.e. the intended use of the system). They should also be in no doubt about those functions which have not been designed for use while driving.
+         A specific recommendation is that if drivers need to equip themselves before using a hands-free communication system, they should be instructed to do so while the vehicle is not in motion.
+         Examples:
+         Good: Instructions for a mobile phone which states that the hand-set is not intended for use in a moving vehicle (and the hand-set is disabled and switches to hands free microphone/speaker when the vehicle is in motion).
+         Bad: A feature-rich driver information and communications system which has additional functionality for use by a passenger, or driver while stationary, but whose instructions make no clear distinction concerning the features intended for use by the driver while driving.Applicability:
+         This principle applies to instructions in all forms.
+         Verification/Applicable methods:
+         Verification is by inspection.
+         Result = Yes/No.
+         4.3.6.5.   
+         Information about the system principle V
+         Product information should be designed to accurately convey the system functionality.
+         Explanation:
+         The aim of this principle is to encourage good design of all product information and to assist potential or current user of the system in appreciating the benefits and limitations of the system.
+         All product information should be factually correct and presented transparently and without ambiguity. Information does not have to be comprehensive to be accurate.
+         Functionality is concerned with what the system does and, by implication, the benefits that the functionality provides to the driver. Functionality should distinguish between that which is designed to be used by the driver while driving and that which is not; i.e. the information should not claim or imply that a function which has not been designed to be used while driving can be so used. The product information should make it clear if additional software of hardware is required (other than that with the base model) for specific functionality.
+         This principle is also in line with consumer protection requirements, EC Regulations and existing codes concerning advertising and all product information should conform to the report on advertising.
+         Examples:
+         Good: A communications system which is not designed to store telephone numbers while driving provides the information that ‘pre-stored numbers can be selected using a single button’.
+         Bad: The same communications system provides the information ‘Telephone numbers can be stored for later use’ adjacent to a picture of a driver and vehicle in motion. This association implies that number storage is designed for use while driving.Applicability:
+         This principle refers to product information intended for the driver, not a full workshop manual as might be required by garage or maintenance institutions.
+         Verification/Applicable methods:
+         Verification requires assessment and judgement taking into account the system's functionality and the intended user groups.
+         References:
+                  —
+               Advertising in the context of road safety. Final Report VII/671/1995, High Level Working Party of Representatives of the Government of the Member States.
+                  4.3.6.6.   
+         Information about the system principle VI
+         Product information should make it clear if special skills are required to use the system as intended by the manufacturer or if the product is unsuitable for particular users.
+         Explanation:
+         This principle is intended to ensure that the design population intended by the manufacturer is made clear to potential and actual users of the system. The normal presumption is that a system can be used by all drivers. However, initial training may be required; for example, for systems designed for specialist professional use. Although all drivers are required to have a minimum level of (far) vision, other capabilities may vary considerably and this includes the capabilities of drivers with special needs.
+         This principle is also designed to encourage compliance with consumer protection requirements, EC Regulations and existing codes concerning advertising.
+         Product information refers to any information that the driver has access to concerning the system. It includes system instructions, technical specifications, promotional materials, packaging etc. However, full workshop and technical manuals are excluded from the scope of this principle.
+         The need for special skills and the unsuitability for particular user groups are matters for definition by the manufacturers. If any special skill requirement or initial training is envisaged by the manufacturer, then all product information should make this clear. Similarly, any restriction on use intended by the manufacturer should be described in the product information.
+         Examples:
+         Good: The product information makes it clear that routing instructions are provided exclusively using the auditory modality and the system is therefore unsuitable for drivers with a hearing impairment.
+         Bad: A voice input system only works reliably with deep male voices, but this limitation is not made clear in the product information.Applicability:
+         This principle refers to product information intended for the driver, not a full workshop manual as might be required by garage or maintenance institutions.
+         Verification/Applicable methods:
+         Verification is by inspection.
+         Result = Yes/No.
+         4.3.6.7.   
+         Information about the system principle VII
+         Representations of system use (e.g. descriptions, photographs and sketches) should neither create unrealistic expectations on the part of potential users nor encourage unsafe use
+         Explanation:
+         The aim of this principle is to assist the driver in appreciating the functionality, benefits and limitations of the system before (and during) use. It is also intended to promote road safety and compliance with existing traffic regulations and codes of road and vehicle use as well as consumer protection requirements, EC Regulations and existing codes concerning advertising.
+         Unrealistic expectations are expectations held by reasonable potential users (based on their own knowledge and experience and any product information available) which are false, partial, too high, or overly general.
+         Unsafe use covers a range of behaviours but includes any behaviour which is in conflict with the road code of the EC Member States where the system is used.
+         Examples:
+         Good: Photographs of the system being used as intended by the manufacturer and following all relevant codes and Regulations.
+         Bad: A photograph showing a hand-held telephone being used while driving.Applicability:
+         This applies to all representations of system use included those provided by the manufacturer in instruction manuals (diagrams etc.), photographs, films, computer animations, sound clips and any form of product information or advertising that users or potential users of the system may be exposed to.
+         Verification/Applicable methods:
+         Verification requires assessment and judgement taking into account the system's functionality and the intended user groups.
+         5.   RECOMMENDATIONS ON SAFE USE (RSU)
+         5.1.   Stakeholders involved in system use
+         The driver can be supported in the safe operation of in-vehicle systems while driving by:
+         Making individual system design as good as possible (installation, information presentation, interface, system behaviour, user documentation);
+         Making other aspects of the context of use as benign as possible. These non-system design aspects of the context of use can be called the ‘Human Machine Environment’.
+         In the same way that the principles in the ESoP 2006 have been formulated to inform and influence those organisations responsible for (or contributing to) system design and construction, the use recommendations here in the RSU have been formulated to inform and influence those organisations that are responsible for (or contribute to) the human-machine environment of system use. This environment includes:
+                  —
+               The combined use of systems to complete a task;
+                  —
+               The knowledge and skill of the driver (in terms of the systems and tasks);
+                  —
+               The driving task/situation;
+                  —
+               The social environment (including time pressure).
+                  For a professional driver, this environment also includes:
+                  —
+               Tasks that are required as part of the job (in addition to the driving task);
+                  —
+               Company instructions and practices;
+                  —
+               Principles are presented relevant for Employers, Point-of-sale, Vehicle Hire Companies and drivers themselves.
+                  5.2.   Recommendations
+         5.2.1.   Recommendations on influencing use
+         5.2.1.1.   
+         Recommendation on influencing use I
+         Employers should ensure that all in-vehicle information systems are maintained in accordance with the manufacturer's instructions.
+         Explanation:
+         It is expected that the product-responsible organisation will, according to ESoP principle 4.3.6.1, produce instructions concerning how the information systems should be maintained (physical issues, hardware, replaceable parts, software and software updates etc.)
+         The employer should ensure (by direct action, contract or instruction) that all recommended maintenance actions are carried out. This is to help ensure that the product supports the driver as much as possible.
+         Examples:
+         Good: The route guidance system's map CD is updated regularly (e.g. annually) as recommended by the manufacturer.
+         Bad: The employer has no records of their vehicles' information systems and undertakes no maintenance. As a result digital maps become progressively out-dated.Applicability:
+         The recommendation applies to in-vehicle information and communication systems that, based on the product responsible organisation's recommendations, require maintenance.
+         Verification/Applicable methods:
+         The employer should maintain a permanent record of maintenance actions. These records should be in accordance with the manufacturer's instructions.
+         5.2.1.2.   
+         Recommendation on influencing use II
+         Employer's procedures and incentive schemes should not cause or encourage system misuse. There should be a clear distinction between systems or functions that are intended (by the employer) to be used while driving and those that are not.
+         Explanation:
+         Employers are expected to have procedures concerning the conduct of their employees. Those related to use of in-vehicle information and communication systems should support safe driving practice. Therefore, the procedures should discourage listening to, or reading, complex information while driving. They should not put the employee in a position where they are required to make difficult business decisions ‘live’ on the phone.
+         Similarly, company reward (incentive) or punishment schemes should not encourage system misuse by implicitly encouraging time saving by inappropriate use of systems while driving.
+         For each system, the employer should make it clear, by specific written instructions and procedures, whether a system (or functions of a system) may be used while driving or whether it is not permitted. This removes the situation where individual drivers make personal (and often not well-founded) decisions concerning system use.
+         Where multiple (non-integrated) systems are available to drivers, restrictions for use of multiple systems should be documented (e.g. do not use system A simultaneously with system B while driving).
+         Examples:
+         Good: Company policy forbids all mobile phone use while driving
+         Bad: The company reward scheme is related to the number of deliveries completed in a fixed time period and this encourages use of a system not designed for use while driving to be so used.Applicability:
+         The recommendation applies where there is an employer-employee relationship, where driving is part of the task, and where the information systems are supplied by the employer.
+         Verification/Applicable methods:
+         Clear permanent instructions are provided to the drivers that list any systems or functions of a system that should not be used simultaneously with driving;
+         The employer periodically checks the employee's knowledge and understanding of company procedures and which functions or systems should not be used while driving.
+         5.2.1.3.   
+         Recommendation on influencing use III
+         Adequate training should be given on all in-vehicle systems that drivers are required to use by employers while driving. Employers should ensure that employees can use the systems without endangering themselves or other road users.
+         Explanation:
+         The recommendation requires employers to identify which information systems their drivers need to use and to provide training such that recommendations for safe use are fully explained to them. It also requires some assessment of whether, in practice, each employee can undertake the dual task of system use and safe driving at the same time.
+         The need for this recommendation arises from the different physical and cognitive abilities of drivers and the need to assess, on an individual basis, that they are capable of undertaking the required job. The job in this case involves driving and simultaneous use of an information or communication system. The rationale is that training improves performance and safety.
+         Where multiple (non-integrated) systems are involved, training and documentation should describe how tasks can be achieved using multiple systems; training on individual systems is not a complete solution.
+         Note that the driver will always be expected to attend to safe driving as the primary task (as required by the 1968 Vienna Convention) and may, therefore, abandon or suspend use of an in-vehicle information or communications system as external circumstances require.
+         A relevant EC directive exists:
+         Council regulation 3820/85/EEC (harmonization of certain social legislation relating to road transport) — last amended on 15 July 2003 by the European Parliament (2003/59/EC) — on the initial qualification and periodic training of drivers of certain road vehicles for the carriage of goods or passengers.
+         Examples:
+         Good: The Employer has an ongoing monitoring and assessment programme that includes expert assessor observation of driving performance whilst simultaneously using the information system. It also solicits feedback from drivers.
+         Bad: The employer states that a system may (or should) be used while driving, but does not monitor in any way the impact that this has on driving performance and safety.Applicability:
+         The recommendation applies where there is an employer-employee relationship and where driving is part of the task and where the information systems supplied by the employer need to be used while driving, or may be used while driving according to the employers procedures.
+         Verification/Applicable methods:
+         Employer identifies systems that their drivers are required to use as part of their job;
+         Drivers are trained on system use;
+         Employer periodically checks the employee's knowledge and understanding of the system's operation and functionality;
+         Employer periodically checks that the employee can use the system safely while driving.
+         5.2.1.4.   
+         Recommendation on influencing use IV
+         Employers should ensure that a copy of the manufacturer's instructions for use is available in every equipped vehicle.
+         Explanation:
+         Since some information and communication systems are rich in features and some of the functions are used rarely, there are often situations when a driver needs to refer to some instructions in order to undertake a task. Without instructions, the driver may be more frustrated or distracted by the system or may be unable to complete their task.
+         The recommendation requires the employer to ensure that there are user instructions available and that a copy is provided in each vehicle used by their employees.
+         Where multiple (non-integrated) systems are involved, training and documentation should describe how tasks can be achieved using multiple systems; one instruction manual per system is not a complete solution.
+         Examples:
+         Good: The telephone manufacturer provides user instructions and the employer places a copy in each vehicle and periodically checks that it is present.
+         Bad: No user manual is provided or no system is in place to ensure that a copy remains in each equipped vehicle.Applicability:
+         The recommendation applies where there is an employer-employee relationship and where driving is part of the task and where the information systems are supplied by the employer.
+         Verification/Applicable methods:
+         The test is presence within each relevant vehicle of the correct user instructions.
+         Verification by inspection.
+         Result = Yes/No.
+         5.2.1.5.   
+         Recommendation on influencing use V
+         Point of sale promotion (e.g. advertising) should not encourage unsafe use.
+         Explanation:
+         This recommendation is intended to assist the driver in appreciating the functionality, benefits and limitations of the system before (and during) use and to promote road safety. It is also designed to encourage compliance with consumer protection requirements, EC Regulations and existing codes concerning advertising.
+         Promotional materials include those provided by the point-of-sale in instructions (diagrams etc.), photographs, films computer animations, sound clips and any form of product information or advertising that users or potential users of the system may be exposed to.
+         Unsafe use means anything which is in conflict with these recommendations or with safe driving codes.
+         Examples:
+         Good: Photographs of the system being used as intended by the manufacturer and following all relevant codes and Regulations.
+         Bad: A photograph showing a hand-held telephone being used while driving.Applicability:
+         The recommendation applies to any product related information provided by the point-of-sale for all in-vehicle information and communication systems.
+         Verification/Applicable methods:
+         The test is in accordance with the advertising code of practice.
+         Verification by inspection.
+         Result = Yes/No.
+         5.2.1.6.   
+         Recommendation on influencing use VI
+         Point of sale information should inform vehicle purchasers of the safety issues associated with in-vehicle information systems.
+         Explanation:
+         Drivers are influenced in their use of in-vehicle information and communication systems according to their knowledge about the system and their appreciation of the risks of use. In order to promote risk-aware driving, and hence contribute to safety, drivers need to be well informed concerning the systems that they use.
+         In addition to user experience and the manufacturer's user instructions, drivers should be able to obtain information from the point-of-sale.
+         Therefore, this recommendation requires that suitable information exists and/or that point-of-sale personnel have adequate knowledge in order to inform purchasers of the safety issues.
+         Examples:
+         Good: At the point-of-sale all personnel involved with customers have basic knowledge concerning safe use of information and communication systems. In addition, certain personnel have more in-depth knowledge and can advise drivers concerning safe practice.
+         Bad: No-one at the point-of-sale is aware of the information systems, how they function and the safety issues associated with their use. There is also no information available to potential purchasers.Applicability:
+         The recommendation applies to first sale of all in-vehicle information and communication systems.
+         Verification/Applicable methods:
+         Undertake a risk assessment concerning use of the system;
+         For major risks, develop suitable material for the purchasers;
+         Verification of the adequacy of the procedures requires judgement. Adequacy can also be assessed from the point of view of the purchasers.
+         5.2.1.7.   
+         Recommendation on influencing use VII
+         Vehicle hire companies should ensure that all information and communication systems are maintained in accordance with the manufacturer's instructions.
+         Explanation:
+         It is expected that the product-responsible organisation will, according to principle 6.1, produce instructions concerning how the information systems should be maintained (physical issues, hardware, replaceable parts, software and software updates etc.)
+         The vehicle hire company should ensure (by direct action or contract) that all recommended maintenance actions are carried out.
+         Examples:
+         Good: The route guidance system's map CD is updated annually as recommended by the manufacturer.
+         Bad: The hire company has no records of their vehicles' information systems and undertakes no maintenance. As a result digital maps become progressively out-dated.Applicability:
+         The recommendation only applies to in-vehicle information and communication systems that, based on the product responsible organisation's recommendations, require maintenance.
+         Verification/Applicable methods:
+         The test is:
+                  —
+               The vehicle hire company should maintain a permanent record of maintenance actions.
+                  —
+               These should be in accordance with the manufacturer's instructions.
+                  Verification by inspection.
+         Result = Yes/No.
+         5.2.1.8.   
+         Recommendation on influencing use VIII
+         Vehicle hire companies should ensure that a copy of the manufacture's instructions for use is available in every equipped vehicle.
+         Explanation:
+         Since some information and communication systems are rich in features and some of the functions are used rarely, there are often situation when the driver needs to refer to some instructions in order to undertake a task. Without some instructions, the drivers may be more frustrated or distracted by the system or may be unable to complete their task.
+         The recommendation requires the hire company to ensure that there are user instructions available and that a copy is provided in each vehicle used by their customers.
+         Examples:
+         Good: The telephone manufacturer provides user instructions and the hire company places a copy in each vehicle and periodically checks that it is present.
+         Bad: No user manual is provided or no system is in place to ensure that a copy remains in each equipped vehicle.Applicability:
+         The recommendation applies where there is a hire relationship and where the information systems are supplied with the vehicle.
+         Verification/Applicable methods:
+         The test is presence or absence within each relevant vehicle of the correct user instructions.
+         Verification by inspection.
+         Result = Yes/No.
+         5.2.1.9.   
+         Recommendation on influencing use IX:
+         Vehicle hire personnel should have adequate knowledge concerning in-vehicle information systems within the vehicles they make available and should offer instructions in their safe use.
+         Explanation:
+         Drivers are influenced in their use of in-vehicle information and communication systems according to their knowledge about the system and their appreciation of the risks of use. In order to promote risk-aware driving, and hence contribute to safety, drivers need to be well informed concerning the systems that they use.
+         In addition to user experience and the manufacturer's user instructions, drivers should be able to obtain information from their point of rental of the vehicle.
+         Therefore, this recommendation requires vehicle hire personnel to have adequate knowledge in order to inform purchasers of the safety issues.
+         Examples:
+         Good: At the rental outlet all personnel involved with customers have basic knowledge concerning safe use of information and communication systems. In addition, certain personnel have more in-depth knowledge and can advise drivers concerning safe practice.
+         Bad: No-one at the point of vehicle hand-over is aware of the information systems, how they function and the safety issues associated with their use.Applicability:
+         The recommendation applies where there is a hire relationship and the vehicle is equipped with in-vehicle information and communication systems.
+         Verification/Applicable methods:
+         Undertake a risk assessment concerning use of the system;
+         For major risks, develop suitable material for the hirers.
+         Verification of the adequacy of the procedures requires judgement. Adequacy can also be assessed from the point of view of the hirers.
+         5.2.2.   Recommendations for drivers
+         According to the Vienna Convention (1968), the driver must always be in full control of the vehicle and consequently has full responsibility for system use while driving. In addition, the following recommendations can be expressed to promote the safe use of in-vehicle information and communication systems:
+                  —
+               Drivers should ensure that nomadic systems and after-market systems are installed in accordance with the manufacturer's instructions;
+                  —
+               Drivers should ensure that all in-vehicle systems are maintained in accordance with the manufacturer's instructions;
+                  —
+               Drivers are responsible for modifications to any system. These need to be in accordance with technical descriptions and should not contradict the information provided by the manufacturer;
+                  —
+               Drivers should only use in-vehicle equipment as recommended by the manufacturer. This may require a period of familiarisation or training;
+                  —
+               Drivers should only use information and communication systems while driving if it is safe to do so;
+                  —
+               Nomadic systems should not be used hand-held or unsecured within the vehicle while driving;
+                  —
+               All instructions associated with in-vehicle equipment should be retained with the vehicle and passed to the next vehicle owner or user.
+                  6.   IMPLEMENTATION OF THE ESOP 2006 AND RSU
+         6.1.   Stakeholders involved in the implementation of the EsOP 2006 and RSU
+         The following actions are relevant for industry with a special emphasis on nomadic devices, for providers of transport and haulage services, for fleet owners and managers, for point of sales promotion, for vehicle rental companies, and for the Member States.
+         6.2.   Implementation actions
+         6.2.1.   Implementation actions by industry
+         The primary need is for all sections of industry to be aware of the ESoP 2006 and RSU and to include the principles within their considerations of design and use of in-vehicle systems.
+         For vehicle OEMs, a key organisation is ACEA, who self-committed to the principles within the 1999 ESoP. ACEA is invited to similarly endorse the 2006 ESoP and ensure that it is distributed and acknowledged within their industry,including their supply chains.
+         Additional industry stakeholders are involved with nomadic devices and the products and services that they support. There is no single appropriate industry body, but many of the issues specific to the design of nomadic devices and their use and integration within vehicles can be discussed through the Nomadic Devices Forum.
+         This deserves strong support across industry.
+         An important objective for the Nomadic Devices Forum is achieving an agreement over definitions and safety issues:
+                  —
+               Clarification of legal aspects (responsibility and liability) associated with nomadic devices integration
+                  —
+               Agreement on an ESoP implementation plan for the entire industry, e.g. by self-commitments, MOUs, device certification
+                  —
+               Arrangements for provision of a fitting kit in accordance with the ESoP 2006
+                  —
+               Design of devices and functions intended for use while driving, in accordance with the ESoP 2006
+                  —
+               Provision of clear safety instructions to drivers, in accordance with the ESoP 2006
+                  —
+               Co-operation between nomadic devices and vehicle manufacturers leading to smart interfaces
+                  Industry is encouraged to promote these principles at the international level (relevant groups include among others: JAMA 
+         (, AAM 7)(, IHRA-ITS 8)( and UNECE 9)( as well as at the standardisation level.10)6.2.2.   Implementation actions by professional transport companies
+         The providers of transport and haulage services as well as fleet owners and managers are invited to ensure that all in-vehicle information systems in their vehicles are maintained in accordance with the manufacturers' instructions. Their procedures and incentive schemes should not cause or encourage system misuse. There should be a clear distinction between systems or functions that are intended (by the employer) to be used while driving and those that are not.
+         Furthermore, they should ensure that employees can use the systems without endangering themselves or other road users. Adequate training should be given on all in-vehicle systems that drivers are required to use by employers while driving. They should also ensure that a copy of the manufacturer's instructions for use is available in every equipped vehicle.
+         6.2.3.   Implementation actions by point of sales promotion
+         Point of sale promotion (
+         e.g. advertising) should not encourage unsafe use.Point of sale information should include information to vehicle purchasers of the safety issues associated with the in-vehicle information and communication systems and their use.
+         6.2.4.   Implementation actions by vehicle rental companies
+         Vehicle rental companies should ensure that all the in-vehicle information and communication systems in their vehicles are maintained in accordance with the manufacturers' instructions.
+         They should ensure that a copy of the manufactures' instructions for use are available in every equipped vehicle.
+         Vehicle rental personnel should have adequate knowledge concerning in-vehicle information systems within the vehicles they make available and should offer instructions about their safe use.
+         6.2.5.   Implementation actions by Member States
+         Member States should promote these principles, encourage stakeholders to adhere to them by written commitment if possible, and monitor the concrete adherence to these principles. They should ensure that the ESoP is effectively disseminated, known and applied by designers, installers, manufacturers, retailers, rental companies and fleet managers at national and local levels.
+         They should provide general information to drivers on safe use of the in-vehicle information and communication systems e.g. by means of safety campaigns.
+         They should promote self-commitment of ESoP compliance for after-market systems and nomadic devices providers and support provision of consumer information concerning the safety implication and usability of in-vehicle information and communication devices (
+         e.g. via consumer organisations, automobile clubs, driving schools, EURONCAP, etc)They should ensure that regularly updated information is available on the definition and dynamics of the market for after-market and nomadic devices to be informed about the evolution of the market and of the techniques, and so that the Commission can be informed about the evolution of the market.
+         They should ensure that their data collection is sufficiently detailed to enable further evaluation and monitoring of the safety-impact of in-vehicle information and communication systems especially of aftermarket systems and nomadic devices.
+         Furthermore, they should take appropriate measures (
+         i.e. legislative, enforcement measures) to ensure secure fixing of aftermarket systems and nomadic devices.They should continue to actively enforce existing Health and Safety legislation concerning at-work driving practices.
+         They should take measures, as they see appropriate, to ensure that use of nomadic devices by drivers while driving does not compromise traffic safety and, in particular, identify and take necessary actions to prevent unintended use or misuse of visual entertainment systems by drivers while driving (
+         e.g. movies, TV, video games).7.   GLOSSARY
+         Advanced Driver Assistance Systems (ADAS): Systems which are designed to support the driving task on the level of vehicle manoeuvring by providing specific, information, warnings, support or actions, being relevant for immediate driver action.
+         Aftermarket Systems: Systems which are fitted into a vehicle not during, but after its production.
+         Context of use: Users, tasks, equipment (hardware, software and materials), and the physical and social environments in which a product is used (ISO 9241-11, 1998)
+         Distraction: Attention given to a non-driving related activity, typically to the detriment of driving performance.
+         Display (noun): Device capable of presenting information to the driverEXAMPLES: Visual displays (such as LCD screens), auditory displays (such as tones) and tactile displays (such as pedal vibration).
+         Driving: Activity of the primary driving task and secondary tasks associated with or supporting the primary driving task
+         Employer: Person or organisation that has a contract with an employee
+         NOTE: Those employers addressed by these principles require the employees to drive as part of their job.
+         EXAMPLES: fleet managers, taxi companies, delivery companies, emergency service organisations
+         Hands-free: With no need to permanently hold with the hand any component of the system
+         Information related to driving: Information on aspects of the vehicle which are mandatory or which are related to safety or which are related to the road and traffic environment and driver related infrastructure servicesNOTE: the information will be presented by means of a display; e.g. a visual or auditory display
+         EXAMPLES: tyre and brake parameters, proximity of other vehicles, route guidance, congestion information, ice warning, speed limits, parking information
+         EXAMPLES of information not related to driving include news, entertainment and advertising
+         In-vehicle information and communication systems: provide the driver with information or communication either not related to driving (e.g. news, music) or related to driving but not relevant for immediate, time critical driver action (e.g. traffic messages, navigation map, route guidance).
+         Installation: Fitting of systems and sub-systems within the vehicle including loading of softwareNOTE: Systems which are fully pre-installed do not require these operations
+         Maintenance: Action(s) to enhance or continue the product's operation
+         NOTE: Surface dusting and cleaning (which may apply to other in-vehicle equipment) is not included within the term ‘maintenance’.
+         EXAMPLES: replacement of sub-systems (e.g. batteries, licenses, software) periodic cleaning and checking and calibration procedures
+         Malfunction: Departure from the expected range of operation during system use as intended by the manufacturerEXAMPLE: External signal loss or loss of sensor calibration data reducing the accuracy of a route guidance system.
+         Manoeuvring: The longitudinal and lateral control of the vehicle relative to the traffic environment.
+         Nomadic devices: Non stationary devices which accompany people whilst travelling.EXAMPLES: mobile phones, Personal Digital Assistants (PDA)
+         Point-of-sale (PoS): Access point for the potential buyer to the person or organisation offering systems for sale
+         EXAMPLES: Car dealer (for OEM equipment); shop (for after-market equipment) website, helpline or telephone sales point
+         Primary driving control: Control which is directly necessary to drive a vehicle.
+         Primary driving task: Activities that the driver has to undertake while driving in navigating, manoeuvring and handling a vehicle including steering, braking and accelerating
+         Priority: Relative importance of two or more entities which determines their ranking in a time sequence or emphasis of presentation (ISO/TS 16951, 2004)
+         Product information: All information that the driver has access to concerning the systemEXAMPLES: system instructions, technical specifications, promotional materials, packaging
+         Product-responsible organisation (PRO): Any participant in the production process, any importer, supplier or any person putting his name, trademark or other distinguishing feature on the product.NOTE: Responsibility is shared between these organizations or persons.
+         Reasonably foreseeable misuse: Use of a product, process or service under conditions or for purposes not intended by the manufacturer, but which can happen, induced by the product, process or service in combination with, or as a result of, common human behaviour.
+         Sequence of interfaces: Related set of successive inputs/outputs also called a dialogue;EXAMPLE: Entering a new destination or a phone number
+         Stationary: Having a zero speed relative to the vehicle's supporting surface
+         Status: Available and/or active system mode(s)EXAMPLE: ‘processing’
+         Support means that an action by the driver is enhanced by the system.
+         System instructions: Information about the system intended to teach the driver about the system and assist in using it for specific purposes.NOTE: Instructions may be in a printed form using text or pictorial information or may be integrated within the system in the form of ‘help’ functions or a tutorial.
+         System failure: State of non-operation or malfunction of the systemNOTE 1: Partial failure may involve some component, sub-function or mode of operation of the system becoming inoperable or performing outside of the specifications intended by the manufacturer.
+         NOTE 2: Total system failure renders all aspects of the system inoperative.
+         Visual information: Graphical, pictorial, textual or other messages presented to the driver using the visual modality.
+         Vehicle in motion: vehicle with a speed above approximately 5 km/h (.11)
+         Vehicle-hire Company: Person or organisation that offers a contract to hire a vehicle equipped with an in-vehicle information or communication system.
+         (  Classification and definition of power-driven vehicles and trailers: Council Directive 70/156/EEC (as amended by 92/53/EEC), annex 2.1)
+         (  
+            2)OJ L 341, 6.12.1990, p. 20.
+         (  
+            3)OJ L 38, 11.2.1974, p. 2.
+         (  
+            4)OJ L 81, 28.3.1978, p. 3.
+         (  
+            5)OJ C 411, 31.12.1998, p. 24.
+         (  
+            6)OJ L 228, 11.8.1992, p. 24.
+         (  Japan Automobile Manufacturers Association.7)
+         (  Alliance of Automobile Manufacturers8)
+         (  International Harmonized Research Activities — Intelligent Transport Systems9)
+         (  United Nation Economic Commission for Europe10)
+      (  the value of 5 km/h is chosen for technical reasons because it is difficult to determine whether the vehicle speed is zero.11)

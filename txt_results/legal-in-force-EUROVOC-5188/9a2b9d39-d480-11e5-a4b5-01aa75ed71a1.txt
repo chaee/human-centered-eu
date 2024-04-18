@@ -1,0 +1,259 @@
+ CONVEX # converter_version:9.15.0 # generated_on:20231207-0002 # ELI version:0.10 
+   L_2016039EN.01004801.xml
+            16.2.2016   
+            EN
+            Official Journal of the European Union
+         L 39/48
+            COMMISSION IMPLEMENTING DECISION (EU) 2016/209
+         of 12 February 2016
+         on a standardisation request to the European standardisation organisations as regards Intelligent Transport Systems (ITS) in urban areas in support of Directive 2010/40/EU of the European Parliament and of the Council on the framework for the deployment of Intelligent Transport Systems in the field of road transport and for interfaces with other modes of transport
+         (notified under document C(2016) 808)
+            (Only the English, French and German texts are authentic)
+         (Text with EEA relevance)
+      THE EUROPEAN COMMISSION,
+         Having regard to the Treaty on the Functioning of the European Union,
+         Having regard to Regulation (EU) No 1025/2012 of the European Parliament and of the Council of 25 October 2012 on European standardisation amending Council Directives 89/686/EEC and 93/15/EEC and Directives 94/9/EC, 94/25/EC, 95/16/EC, 97/23/EC, 98/34/EC, 2004/22/EC, 2007/23/EC, 2009/23/EC and 2009/105/EC of the European Parliament and of the Council and repealing Council Decision 87/95/EEC and Decision No 1673/2006/EC of the European Parliament and of the Council 
+         (, and in particular Article 10(1) thereof,1)Whereas:
+                     (1)
+                  In accordance with Article 8 of Directive 2010/40/EU of the European Parliament and of the Council 
+                     ( the Commission may request the European standardisation organisations (ESOs) to develop necessary standards to provide interoperability, compatibility and continuity for the deployment and operational use of ITS. Such standards are scoped by Articles 2 and 3, Article 4(1) and Annex I to Directive 2010/40/EU to specific priority areas and priority actions in the field of ITS. Annex I also stresses the need for urban and interurban interfaces for data exchange, and the interoperability and compatibility of the urban dimension within the overarching European ITS architecture.2)
+                     (2)
+                  The scope for implementation of the specifications already adopted under Article 6 of Directive 2010/40/EU 
+                     ( is mainly the trans-European transport network (TEN-T). Nonetheless Directive 2010/40/EU acknowledges the need for urban-interurban interfaces enabling interoperability and continuity of services across networks and borders. Urban areas are identified as optional ‘priority zones’ for the implementation of the specifications for the provision of EU-wide real-time traffic information services. First and last miles of travellers' journeys usually take place within urban areas and are therefore essential for the provision of EU-wide multimodal travel information services contributing to seamless mobility.3)
+                     (3)
+                  Within the overarching ITS objectives set by Directive 2010/40/EU, the urban dimension has its own needs envisioned in the Action Plan on ITS (2008) 
+                     ( and the Action Plan on Urban Mobility (2009) 4)(. In 2010, the European Commission set up an Expert Group on urban ITS 5)(, with the participation of representatives of local authorities and their main partners, from the fields of research, industry, transport authorities and operators, standardisation bodies, etc. This Expert Group on urban ITS developed Guidelines on the deployment of key applications of urban ITS (namely: multimodal information, smart ticketing, traffic management and urban logistics), collected a number of best practices and reflected upon the need for further standardisation in the domain of urban ITS.6)
+                     (4)
+                  In its Urban Mobility Package 
+                     ( adopted in December 2013 the Commission restated the need to enhance the efficiency and safety of urban mobility and announced planned actions and recommendations for Member States in a number of areas, including: urban logistics, urban access regulations and road user charging, coordinated deployment of urban Intelligent Transport Systems, and urban road safety.7)
+                     (5)
+                  Directive 2007/2/EC of the European Parliament and of the Council 
+                     ( requires that public authorities publish geographical information on the transport network. This digital network graph can be enhanced to be used as a common location referencing system for reliable ITS services. This enhancement should take into account pre-existing standards, in particular Geographic Data File (GDF) 8)(.9)
+                     (6)
+                  In its Communication ‘Against lock-in: building open ICT systems by making better use of standards in public procurement’ 
+                     ( and accompanying Staff Working Document ‘Guide for the procurement of standards-based ICT — Elements of Good Practice’ 10)(, the Commission points to the benefits of using standards and open specifications to avoid vendor lock-in of technological solutions, and promote the deployment of more cost-effective solutions.11)
+                     (7)
+                  The intention to request European standards and European standardisation deliverables in support of Directive 2010/40/EU is stated in points 2.4.10 
+                     ( and 3.3.8 12)( of two consecutive annual Union work programmes for European standardisation.13)
+                     (8)
+                  The Commission has established guidelines 
+                     ( for the execution of standardisation requests and the European standardisation organisations have agreed to apply those guidelines when executing standardisation requests.14)
+                     (9)
+                  The European standardisation organisations, the European standardisation stakeholders organisations receiving Union financing and the European ITS Committee established on the basis of Article 15 of Directive 2010/40/EU have been consulted.
+                     (10)
+                  The measures provided for in this Decision are in accordance with the opinion of the Committee established by Article 22 of Regulation (EU) No 1025/2012,
+                     HAS ADOPTED THIS DECISION:
+         Article 1
+            Requested standardisation activities
+            The European Committee for Standardisation (CEN), the European Committee for Electrotechnical Standardisation (Cenelec) and European Telecommunications Standards Institute (ETSI), hereafter referred as the ESOs (European standardisation organisations), are requested to draft new European standards and European standardisation deliverables in support of the implementation of Article 8 of Directive 2010/40/EU for multimodal information, traffic management and urban logistics in the urban ITS domain. The requested European standards and European standardisation deliverables are listed in Tables 1, 2, 3 and 4 of Annex II and shall meet the requirements set out in Annex I.
+         Article 2
+            Establishment of the work programme
+            The ESOs shall prepare the joint work programme indicating all requested deliverables, responsible technical bodies and a timetable for the execution of the work in line with the deadlines set out in Annex II. The ESOs shall submit the work programme to the Commission by 31 July 2016 and shall provide access to an overall project plan to the Commission.
+            The ESOs may decide how many European standards and European standardisation deliverables are needed in order to execute the request referred to in Article 1.
+         Article 3
+            Agreement on the work programme
+            The ESOs shall follow in its work programme the possible priorities expressed by the Commission for the execution of the request referred to in Article 1.
+            The ESOs shall inform the Commission on any amendments to the work programme.
+            New subjects for European standards or European standardisation deliverables may be added to the work programme where Annex I includes requirements for such subjects and these subjects relate to the priority areas and priority actions mentioned in Articles 2 and 3 and Annex I to Directive 2010/40/EU, and where the Commission has been consulted and agrees to that addition, after having informed the Committee established by Article 22 of Regulation (EU) No 1025/2012.
+         Article 4
+            Reporting
+            The ESOs shall report annually to the Commission on the execution of the request referred to in Article 1. These organisations shall submit to the Commission the first joint annual report by 30 March 2017.
+            The ESOs shall provide the Commission with the joint final report by 30 June 2019. The final report shall include measurement criteria to measure achievements with respect to standardisation in the areas of multimodal information, traffic management and urban logistics, and the level of stakeholder engagement during the standardisation work requested by Article 1.
+         Article 5
+            Validity
+            If the request referred to in Article 1 is not accepted by any of the ESOs within 1 month following its receipt, that request may not constitute a basis for the drafting of European standards and European standardisation deliverables.
+         Article 6
+            Interoperability requirements
+            The requested European standards and European standardisation deliverables shall be developed to be consistent and compliant with the requirements of the Delegated Acts adopted by the Commission under Directive 2010/40/EU, in particular the specifications for the provision of EU-wide real-time traffic information services adopted on 18 December 2014 
+         (, and the specifications for the provision of EU-wide multimodal travel information services 15)(.16)
+      Article 7
+            Addressees
+            This Decision is addressed to the European Committee for Standardisation, the European Committee for Electrotechnical Standardisation and European Telecommunications Standards Institute.
+      Done at Brussels, 12 February 2016.
+               For the Commission
+               Elżbieta BIEŃKOWSKA
+            Member of the Commission
+      (  
+            1)OJ L 316, 14.11.2012, p. 12.
+      (  Directive 2010/40/EU of the European Parliament and of the Council of 7 July 2010 on the framework for the deployment of Intelligent Transport Systems in the field of road transport and for interfaces with other modes of transport (2)OJ L 207, 6.8.2010, p. 1).
+      (  Commission Delegated Regulations (EU) No 305/2013 (3)OJ L 91, 3.4.2013, p. 1), (EU) No 885/2013 (OJ L 247, 18.9.2013, p. 1), (EU) No 886/2013 (OJ L 247, 18.9.2013, p. 6), and (EU) 2015/962 (OJ L 157, 23.6.2015, p. 21).
+      (  COM(2008) 886 final.4)
+      (  COM(2009) 490 final.5)
+      (  http://ec.europa.eu/transparency/regexpert/index.cfm?do=groupDetail.groupDetail&groupID=25206)
+      (  http://ec.europa.eu/transport/themes/urban/urban_mobility/ump_en.htm7)
+      (  Directive 2007/2/EC of the European Parliament and of the Council of 14 March 2007 establishing an Infrastructure for Spatial Information in the European Community (INSPIRE) (8)OJ L 108, 25.4.2007, p. 1).
+      (  ISO (14825:2004) which notably describes the road infrastructure for ITS needs and embed a comprehensive common location referencing system.9)
+      (  COM(2013) 455 final.10)
+      (  SWD(2013) 224 final.11)
+      (  COM(2013) 561 final.12)
+      (  COM(2014) 500 final.13)
+      (  SWD(2015) 205 final, 27 October 2015, Vademecum on European standardisation in support of Union legislation and policies, Part III Guidelines for the execution of standardisation requests.14)
+      (  C(2014) 9672 final.15)
+   (  Work in progress. Specifications foreseen for end 2015/early 2016.16)
+   ANNEX I
+         REQUIREMENTS FOR THE EUROPEAN STANDARDS AND EUROPEAN STANDARDISATION DELIVERABLES
+         1.   GENERAL REQUIREMENTS
+         1.1.   
+         General requirements for establishing the work programme
+         The Expert Group on urban ITS 
+         ( recommended better integrating the urban dimension within European standardisation activities and focusing standardisation efforts on specific topics with a view to ensure the establishment of the needed urban-interurban interfaces.1)The Expert Group also recommended involving local authorities and experts with specific urban knowledge in the ITS standardisation process.
+         Therefore the work programme to be established on the basis of this request shall be developed:
+         Focusing in priority on three areas of urban ITS, namely: multimodal information services, traffic management including access regulation, and urban logistics including parking management. In order to enable ITS connectivity (avoiding silos or lock-in effects) the ESOs shall demonstrate how the three areas abovementioned are linked together within a broader urban ITS architecture, and accommodate their relationships and interfaces with other related ITS applications (not directly in the scope of this request).
+         Keeping in mind the need to address the variety of users' needs (
+         from consumers to operators and providers), the ranges of environments (including urban-interurban interfaces), and the different types of vehicles or modes of transport or mobility services (including for mobility impaired) related to the three areas abovementioned. For this purpose the ESOs are invited to liaise with relevant bodies representing urban mobility and interested in urban ITS, such as standardisation coordination groups and organisations, local standardisation frameworks, experts and stakeholder platforms, cities and regions associations, users associations, transport operators and service providers representatives. They can invite such stakeholders to participate to their activities and contribute to their deliverables. They shall demonstrate how to engage the right (urban) experts and stakeholders throughout the whole process (planning, standard making, deployment). The diversity of local situations and policies should be considered. In particular, when possible, tests with voluntary pilot cities could be foreseen during execution of this request.Establishing the necessary organisational arrangements supporting an effective cooperation and good coordination across ITS standardisation initiatives and working groups.
+         1.2.   
+         General requirements for the requested deliverables
+         1.2.1.   
+         Compliance
+         The requested European standards and European standardisation deliverables shall be developed to be compliant with:
+                  —
+               the principles mentioned in Annex II to Directive 2010/40/EU,
+                  —
+               the principles of the personal data protection regulation (Directive 95/46/EC of the European Parliament and of the Council 
+                  ( and proposal for a Regulation of the European Parliament and Council on the protection of individuals with regard to the processing of personal data and on the free movement of such data 2)(),3)
+                  —
+               the principles of e-accessibility and web accessibility (Communication ‘Towards an accessible information society’
+                  ().4)1.2.2.   
+         Harmonisation
+         The Expert Group on urban ITS stressed that standardisation efforts should cover existing gaps, upgrade and complement existing standards.
+         Therefore the requested European standards and European standardisation deliverables should reuse, harmonise or interface as far as possible with the following existing standards, specifications and projects: the CIVITAS projects 
+         (, CAPITAL CIVITAS ITS Advisory Group 5)(, Promoting Open Specifications and Standards in Europe (POSSE) project 6)(, OPTICITIES project 7)(, FREILOT project, Smart Cities and Communities Coordination Group, standardisation request M/453 on Cooperative Systems 8)(, the C-ITS platform, DATEX II Strategic and Technical Groups 9)(, the Urban Traffic Management Control programme (UTMC) 10)(, the Open Traffic Systems City Association (OCA) 11)( and the Open Communication Interface for Road Traffic Control Systems (OCIT) 12)(, FRAME project 13)(, Co-Cities project 14)(, European Digital Traffic Infrastructure Network for Intelligent 15)Transport Systems (EDITS) project (, European Bus System of the Future (EBSF) project 16)(, Data Catalog Vocabulary (DCAT) 17)(, spatial ‘standardised’ data and geo standardisation, and existing national standards 18)(.19)Against this background the requested European standards and European standardisation deliverables should provide consideration to the reuse, harmonisation or interface with existing reference data models, common data dictionaries and metadata structure requirements with a view to foster interoperability, consistency and continuity of services.
+         1.2.3.   
+         Implementability
+         The Expert Group on urban ITS suggested looking for ways of supporting more flexible and less constrictive standardisation deliverable in addition to standards in order to better address ITS fast-moving technological environment.
+         Therefore the requested European standards and European standardisation deliverables should fit the needs of the various users, the diversity of cities, and be easily implementable.
+         This should include the following aspects as far as possible:
+                  (1)
+               legacy systems and existing protocols, cost-effective migration paths, business models and guidelines for procurers;
+                  (2)
+               special needs of consumers, businesses and operators, including small and medium-sized enterprises;
+                  (3)
+               executable and freely available guidance, code lists, datasets, tools and processes to facilitate operational implementation and conformance tests;
+                  (4)
+               data availability, access, quality, reliability and accuracy.
+                  2.   REQUIREMENTS TO STRENGTHEN COMPATIBILITY AND COHERENCE WITH EXISTING STANDARDS AND TECHNICAL SPECIFICATIONS
+         The coherence of existing European, international or other globally used standards shall be checked (i.e. taking into account the work not only of CEN, Cenelec and ETSI, but also DATEX II, UTMC, OTS, ISO, IEC, ITU, etc.), potential gaps shall be assessed and compatible or open solutions proposed, either with the intention of providing for harmonisation and enhancement of existing standards or development of new interoperable standards and other specifications where appropriate. The development of new standards and specifications needs to build on the existing ones and to identify architectural or connectivity requirements.
+         In the domain of public transport, and particularly with respect to multimodal information and smart ticketing, such a need for coherence will concern a broad set of standards and technical specifications, in particular: Transmodel 
+         (, IFOPT 20)(, SIRI 21)(, NeTEx 22)(, IOPTA 23)( and ISO 24)(.25)In the domain of alternative fuel vehicles and infrastructure, any new standards and specifications should be made compatible and complementary to ETSI TS 101 556-3 
+         (.26)The adaptability of general standards to the urban environment also needs to be considered, and potentially further developed. It is notably the case of DATEX II 
+         ( providing for the exchange of traffic related data, described through specific profiles. It appears as a pre-requisite for establishing interoperability and continuity of services between the urban and interurban environments or networks. Such task can be best performed by ensuring a close cooperation with the DATEX II Strategic Group and Technical Group.27)The work conducted through this mandate will need to anticipate the future deployment of cooperative systems within urban areas. It will be related to previous standardisation efforts in the domain of vehicle to vehicle and vehicle to infrastructure communications, that were led within the scope of the standardisation request M/453, jointly managed by CEN and ETSI, and the outcome of the ongoing work carried out by the experts of the C-ITS platform established in November 2014 by the Commission (in particular its standardisation and business cases working groups) 
+         (.28)3.   SPECIFIC REQUIREMENTS FOR THE REQUESTED DELIVERABLES
+         3.1.   
+         Defining a diversity of relevant use cases embedded within an urban ITS architecture and supporting the implementation of standards and other specifications
+         With the aim to develop a pragmatic approach, the activities under this request shall be based on high level use cases, addressing multimodal information services, traffic management including access regulation and urban logistics including parking management. The definition or selection of these use cases will have to balance user needs, urban mobility trends, technological developments, financial sustainability and policy priorities (e.g. road safety). The prioritisation of these use cases and their possible interdependencies shall also be explained together with the work programme.
+         The use cases will be embedded within an urban ITS architecture (
+         logical structure and connectors between standards and specifications and their stakeholders) covering the whole information chain for each of the three areas abovementioned and fitting within the overall European ITS Architecture. Therefore such an architecture for urban ITS shall be coherent with the e-FRAME model (.29)This holistic and systemic overview will support stakeholder collaboration as well as the development or enhancement of standards and other specifications compatible and complementary with each other, therefore enabling ITS connectivity.
+         The deployment strategy deliverable shall express how to foster easy deployment of such standards and other specifications, through the deployment of multimodal information services, traffic management measures and urban logistics operations. For this purpose the lessons learnt from the use cases, the involvement of the right stakeholders, and the provision of realistic implementation guidance will be essential.
+         3.2.   
+         Addressing multimodal information services, contributing to seamless mobility
+         Among the main issues today are the fragmentation of traffic and travel information services, and lack of interoperable multimodal information and planning services of broad pan-European coverage that would incorporate first and last miles of the journey in conjunction with the A to B long-distance leg of the journey. The range of available data about mobility services must be extended and needs to be available in standardised format, in order to enable its introduction into innovative traffic and travel information services. Only comprehensive multimodal information services would enable the user to have a complete range of travel choices, routing options, contributing to making optimal mobility choices, fostering more sustainable travel behaviours and making the whole transport system more efficient and accessible to all users.
+         Compatible data formats, open and documented interfaces and protocols for transmission of relevant data and their integration in multimodal datasets and (existing) multimodal information and planning services (including integrated ticketing) shall be ensured (i.e. worked out where necessary). It is essential that the existing and new standards and other specifications enable, with supplementary interfaces and protocols where necessary, the effective integration or connection of the different aspects or blocks of multimodal information and planning services.
+         3.3.   
+         Addressing traffic management, including access regulation
+         Traffic management systems are constantly developing, while in the past they were mostly control centre to control centre oriented, they tend to become more cooperative amongst systems (including field devices), networks and operators. For this reason, the right standards, interfaces and/or protocols shall be developed to support cooperating traffic control and management solutions at the different geographical scales or across different administrative boundaries of the city (e.g. from small neighbourhood traffic calming solutions and peri-urban traffic spill-over management to efficient integration of urban nodes within interurban corridors).
+         There are a variety of means to manage the road network and address traffic congestion and traffic disruption (e.g. planned/unplanned events, accidents, floods, fires, etc.) through traffic management in an efficient and innovative manner. For instance, a number of cities put in place different types of traffic rerouting, traffic prioritisation and access regulation measures, including intersections management, targeting all or a subset of vehicles (e.g. deviations, priority lanes, green waves, road user charging or tolling, low emission zones, low speed zones, pedestrian zones, etc.). Unfortunately these measures are not necessarily managed in a holistic and coordinated manner and often not correctly taken into account in traffic information systems towards users (e.g. navigation devices). Therefore, establishing on one side coherent specifications, compatible standards and practical interfaces supporting the interoperability of data necessary for up-to-date traffic information, and optimising on another side a variety of traffic management and prioritisation measures, rightly supplemented by standardised technological solutions for vehicle identification (i.e. as regards vehicle categorisation, emission class, character of emergency, load factor), would both contribute to the overall efficiency of traffic information and management in urban areas, including access regulation management and enforcement.
+         Compatible data formats, open and documented interfaces and protocols for transmission of relevant data, independently of their source (e.g. sensors, floating car data, traffic control centres), and their integration in current and future traffic information systems and traffic management operations, for various road networks including urban-interurban links, shall be ensured (i.e. worked out where necessary).
+         3.4.   
+         Addressing urban logistics, including parking management
+         In the urban environment, the search for parking spaces and the distribution of freight is estimated to exacerbate traffic congestion. Therefore, providing real-time information on the availability of parking possibilities, and easy reservation options, would contribute to alleviate this problem. Differentiated approaches should be provided to cater for specific logistics sectors and freight vehicles or loads needs (e.g. alternative fuels, refrigerated goods, reverse logistics or waste, dangerous goods).
+         Compatible data formats, open and documented interfaces and protocols for transmission of relevant data, independently of their source and their integration in current and future traffic information systems and traffic management operations, for various road networks including urban-interurban links, shall be ensured (i.e. worked out where necessary).
+         4.   REQUIREMENTS CONCERNING LATER REVIEWS TO THE REQUESTED DELIVERABLES
+         After adoption of the requested European standards and European standardisation deliverables the list of syntaxes and related mappings given in those deliverables shall be reviewed by the ESOs at least once every 2 years with a view to ensuring that they reflect the most recent technological developments and includes best-of-class syntaxes. Special care should be taken to accommodate or migrate from legacy systems and ensure backward compatibility for the implementations.
+         (  http://ec.europa.eu/transparency/regexpert/index.cfm?do=groupDetail.groupDetail&groupID=25201)
+         (  Directive 95/46/EC of the European Parliament and of the Council of 24 October 1995 on the protection of individuals with regard to the processing of personal data and on the free movement of such data (2)OJ L 281, 23.11.1995, p. 31).
+         (  COM(2012) 11 final — 2012/0011.3)
+         (  COM(2008) 804 final.4)
+         (  http://www.civitas.eu/display-all-projects5)
+         (  http://www.civitas.eu/6)
+         (  www.posse-openits.eu7)
+         (  http://www.opticities.com/8)
+         (  http://ec.europa.eu/enterprise/sectors/ict/files/standardisation_mandate_en.pdf9)
+         (  www.datex2.eu10)
+         (  http://www.utmc.eu/11)
+         (  www.oca-ev.info12)
+         (  www.ocit.org/13)
+         (  http://www.frame-online.net/14)
+         (  www.co-cities.eu15)
+         (  www.cei.int16)
+         (  http://www.ebsf.eu/17)
+         (  http://www.w3.org/TR/vocab-dcat/18)
+         (  E.g. ‘Intermodal verkehrsgraph graphenintegrationsplattform (GIP)’ http://www.fsv.at/shop/produktdetail.aspx?IDProdukt=837823b7-8697-45e8-9dc6-06392406617619)
+         (  Transmodel, the European Reference Data Model for Public Transport, EN 12896:2006 (Transmodel 5.1) and EN 12896:2014 (Transmodel V6: Parts 1 to 3).20)
+         (  IFOPT (EN 28701), a European standard defining a data model for the Identification of Fixed Objects in Public Transport (e.g. stop points, stop areas, stations, pedestrian navigation paths, entrances, etc.) — currently integrated into EN 12896: 2014.21)
+         (  SIRI (FprEN 15531-1 to 3 and CEN/TS 15531-4 and 5) a European standard defining Service Interface for Real-Time Information relating to public transport operations.22)
+         (  NeTEx is based on Transmodel 5.1, extended with additional concepts from IFOPT and SIRI, and is divided into three parts: Part 1 — Transport Network; Part 2 — Schedules and Part 3 — Fares:23)
+                  —
+               CEN/TS 16614-1; Network and Timetable Exchange — Part 1: Network Topology (NeTEx)
+                  —
+               CEN/TS 16614-2, Network and Timetable Exchange — Part 2: Timing Information (NeTEx)
+                  —
+               WI 00278330 (prCEN/TS 16614-3), Network and Timetable Exchange — Part 3: Fare Information (NeTEx).
+         (  IOPTA, Interoperable Public Transport Applications, EN 15320 in combination with EN 1545 on Identification card systems — Surface transport applications.24)
+         (  EN ISO 24014-1:2007, Public transport — Interoperable fare management system — Part 1: Architecture25)
+                  —
+               CEN ISO/TR, 24014-2:2013 Public transport — Interoperable fare management system — Part 2: Business practices (ISO/TR 24014-2:2013)
+                  —
+               ISO/IEC 14443 Contactless integrated circuit cards — Proximity cards, Parts 1-4
+                  —
+               ISO/IEC 18092 Near Field Communication.
+         (  ETSI TS 101 556-3 V1.1.1 (2014-10); Intelligent Transport Systems (ITS); Infrastructure to Vehicle Communications; Part 1: ‘Electric Vehicle Charging Spot Notification Specification’; and Part 3: ‘Communications system for the planning and reservation of EV energy supply using wireless networks’.26)
+         (  CEN/TS 16157 Parts 1-6: Intelligent transport systems — DATEX II data exchange specifications for traffic management and information.27)
+         (  http://ec.europa.eu/transport/themes/its/news/c-its-deployment-platform_en.htm28)
+      (  http://www.frame-online.net/?q=e-frame-project.html29)
+   ANNEX II
+         EUROPEAN STANDARDS AND EUROPEAN STANDARDISATION DELIVERABLES AND DEADLINES FOR ADOPTION
+         1.   USE CASES, URBAN ITS ARCHITECTURE, AND IMPLEMENTATION
+         Table 1
+         Requested new European standards and European standardisation deliverables for use cases, urban ITS architecture, and implementation
+                  Reference information
+               Deadline for adoption
+                   (
+                     1)
+                  A European standardisation deliverable on use cases addressing the three areas of this request and highlighting their possible interdependencies
+               12 months after notification of this Decision to the ESOs
+                  European standardisation deliverable for urban ITS architecture integrating the three areas of this request and highlighting connexions or interfaces with surrounding ITS applications as well as compatibility or coherence with existing standards, technical specifications, data models
+               12 months after notification of this Decision to the ESOs
+                  A European standardisation deliverable on a deployment strategy including practical guidance for the implementation of the European standards of this request
+               39 months after notification of this Decision to the ESOs
+                  2.   MULTIMODAL INFORMATION SERVICES, CONTRIBUTING TO SEAMLESS MOBILITY
+         Table 2
+         Requested new European standards and European standardisation deliverables for multimodal information services
+                  Reference information
+               Deadline for adoption
+                     European standards for:
+                              —
+                           New mobility services, such as car sharing, car-pooling, public bike sharing services, park & ride, bike & ride, etc.
+                              —
+                           Alternative fuels infrastructure, including information on location and availability of stations, charging models and capacity at stations, (integrated) payment schemes, etc.
+               39 months after notification of this Decision to the ESOs
+                  A European standardisation deliverable on reference data model, common data dictionary and metadata structure for multimodal information services
+               39 months after notification of this Decision to the ESOs
+                  3.   TRAFFIC MANAGEMENT, INCLUDING ACCESS REGULATION
+         Table 3
+         Requested new European standards and European standardisation deliverables for traffic management, including access regulation
+                  Reference information
+               Deadline for adoption
+                     European standards for:
+                              —
+                           A set of traffic management measures (encompassing the necessary infrastructure/static road data, dynamic road status data, traffic data or traffic control data, weather data),
+                              —
+                           A set of traffic rerouting, traffic prioritisation and access regulation measures including intersections management (supplemented by vehicle identification data). In particular the different types of road user charging models set up in various cities as well as the modalities of shared use of dedicated lanes by different types of vehicles (e.g. freight, public transport, emergency vehicles) should be considered
+               39 months after notification of this Decision to the ESOs
+                  European standards or European Standardisation deliverables on reference data model, common data dictionary and metadata structure for traffic management including access regulation
+               39 months after notification of this Decision to the ESOs
+                  4.   URBAN LOGISTICS, INCLUDING PARKING MANAGEMENT
+         Table 4
+         Requested new European standards and European standardisation deliverables for urban logistics, including parking management
+                  Reference information
+               Deadline for adoption
+                     European standards for:
+                              —
+                           Intelligent parking for light vehicles, commercial vehicles and trucks. The option of extending existing technical specifications or profiles regarding parking
+                               ( or adapting them to the needs of the urban areas should be considered.2)
+                              —
+                           Loading bays information and reservation services for specific freight vehicles and logistic sectors. Standards and specifications proposed will need to address both infrastructure and vehicles (including vehicle and/or load identification where relevant). Moreover the use of alternatively fuelled vehicles for urban logistics, and the options of their charging (e.g. during loading/unloading at the specific bays) should also be looked into.
+               39 months after notification of this Decision to the ESOs
+                  A European standardisation deliverable on reference data model, common data dictionary and metadata structure for urban logistics including parking management
+               39 months after notification of this Decision to the ESOs
+         (  Adoption makes reference to the moment when the relevant European standardisation organisation makes a standard available for its members or to the public.1)
+      (  DATEX II data exchange specifications for traffic management and information — CEN/TS 16157 Part 6 — parking extension.2)

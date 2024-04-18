@@ -1,0 +1,1116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML//EN" "xhtml-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<!-- CONVEX # converter_version:3.2 # generated_on:20140125-0429 -->
+<head>
+   <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
+   <link type="text/css" rel="stylesheet"
+         href="http://publications.europa.eu/resource/presentation-style-sheet/oj/oj.css"/>
+   <title>L_2008190EN.01003701.xml</title>
+</head>
+<body>
+   <table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <col width="10%"/>
+      <col width="10%"/>
+      <col width="60%"/>
+      <col width="20%"/>
+      <tbody>
+         <tr>
+            <td>
+               <p class="hd-date">18.7.2008   </p>
+            </td>
+            <td>
+               <p class="hd-lg">EN</p>
+            </td>
+            <td>
+               <p class="hd-ti">Official Journal of the European Union</p>
+            </td>
+            <td>
+               <p class="hd-oj">L 190/37</p>
+            </td>
+         </tr>
+      </tbody>
+   </table>
+   <hr class="separator"/>
+   <p class="doc-ti" id="d1e39-37-1">
+      <span>COMMISSION RECOMMENDATION</span>
+   </p>
+   <p class="doc-ti">of 2 July 2008</p>
+   <p class="doc-ti">on cross-border interoperability of electronic health record systems</p>
+   <p class="doc-ti">(notified under document number C(2008) 3282)</p>
+   <p class="doc-ti">(2008/594/EC)</p>
+   <p class="normal">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+   <p class="normal">Having regard to the Treaty establishing the European Community, and in particular Article 211 thereof,</p>
+   <p class="normal">Whereas:</p>
+   <table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <col width="4%"/>
+      <col width="96%"/>
+      <tbody>
+         <tr>
+            <td valign="top">
+               <p class="normal">(1)</p>
+            </td>
+            <td valign="top">
+               <p class="normal">The strategic initiative i2010, which is an initiative for growth and employment, builds on information and communication technology policies, research and innovation to help achieve the goals of the Lisbon Strategy. The i2010 initiative promotes the building of European information society and encourages provision of better public services, including eHealth.</p>
+            </td>
+         </tr>
+      </tbody>
+   </table>
+   <table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <col width="4%"/>
+      <col width="96%"/>
+      <tbody>
+         <tr>
+            <td valign="top">
+               <p class="normal">(2)</p>
+            </td>
+            <td valign="top">
+               <p class="normal">Resolving existing and future challenges to European healthcare systems is possible, at least partly, through deployment of proven information and communication technology-enabled solutions (eHealth). A major requirement to use benefits of eHealth is improved cooperation regarding interoperability of Member States’ eHealth systems and applications. Electronic health record systems form a fundamental part of eHealth systems.</p>
+            </td>
+         </tr>
+      </tbody>
+   </table>
+   <table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <col width="4%"/>
+      <col width="96%"/>
+      <tbody>
+         <tr>
+            <td valign="top">
+               <p class="normal">(3)</p>
+            </td>
+            <td valign="top">
+               <p class="normal">Electronic health record systems have the potential to achieve greater quality and security in health information than the traditional forms of health records. Interoperability of electronic health record systems should make access easier, and enhance the quality and safety of patient care throughout the Community by providing patients and health professionals with relevant and up-to-date information while ensuring the highest standards of protection of personal data and confidentiality. Enhancing cross-border cooperation in the domain of eHealth requires cooperation between providers, purchasers and regulators of healthcare services in different Member States. At the same time any measure relating to interoperability need not necessarily lead to the harmonisation of laws and regulations of the organisation and delivery of healthcare in Member States.</p>
+            </td>
+         </tr>
+      </tbody>
+   </table>
+   <table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <col width="4%"/>
+      <col width="96%"/>
+      <tbody>
+         <tr>
+            <td valign="top">
+               <p class="normal">(4)</p>
+            </td>
+            <td valign="top">
+               <p class="normal">Lack of interoperability of electronic health record systems is one of the major obstacles for realising the social and economic benefits of eHealth in the Community. Market fragmentation in eHealth is aggravated by the lack of technical and semantic interoperability. The health information and communication systems and standards currently used in Member States are often incompatible and do not facilitate access to vital information for provision of safe and good quality healthcare across different Member States.</p>
+            </td>
+         </tr>
+      </tbody>
+   </table>
+   <table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <col width="4%"/>
+      <col width="96%"/>
+      <tbody>
+         <tr>
+            <td valign="top">
+               <p class="normal">(5)</p>
+            </td>
+            <td valign="top">
+               <p class="normal">The Communication from the Commission to the Council, the European Parliament, the European Economic and Social Committee and the Committee of the Regions ‘eHealth — making healthcare better for European citizens: An action plan for a European eHealth Area’, presented on 30 April 2004<a id="ntc1-L_2008190EN.01003701-E0001" href="#ntr1-L_2008190EN.01003701-E0001"> (<span class="super">1</span>)</a>, outlines the potential of eHealth systems and major challenges for its wide deployment. The Action Plan outlined in this Communication calls for joint Community and Member States action on interoperability of electronic health record systems.</p>
+            </td>
+         </tr>
+      </tbody>
+   </table>
+   <table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <col width="4%"/>
+      <col width="96%"/>
+      <tbody>
+         <tr>
+            <td valign="top">
+               <p class="normal">(6)</p>
+            </td>
+            <td valign="top">
+               <p class="normal">The Declaration of the High Level eHealth Conference in 2007 acknowledged the importance of starting joint initiatives among Member States by strengthening a range of activities related to interoperability of electronic health record systems.</p>
+            </td>
+         </tr>
+      </tbody>
+   </table>
+   <table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <col width="4%"/>
+      <col width="96%"/>
+      <tbody>
+         <tr>
+            <td valign="top">
+               <p class="normal">(7)</p>
+            </td>
+            <td valign="top">
+               <p class="normal">The Commission responded to the report ‘Creating an Innovative Europe’ of the independent expert group with the Communication ‘A Lead Market Initiative for Europe’<a id="ntc2-L_2008190EN.01003701-E0002" href="#ntr2-L_2008190EN.01003701-E0002"> (<span class="super">2</span>)</a> that aims at the creation and marketing of innovative products and services in lead industrial and social areas, including eHealth. One of the main targets of the proposed initiatives to boost the interoperability of electronic health record systems, since the health information and communication systems and standards currently used in Member States are often incompatible and thus present a barrier to the emergence of cost-effective and innovative information technology solutions for healthcare.</p>
+            </td>
+         </tr>
+      </tbody>
+   </table>
+   <table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <col width="4%"/>
+      <col width="96%"/>
+      <tbody>
+         <tr>
+            <td valign="top">
+               <p class="normal">(8)</p>
+            </td>
+            <td valign="top">
+               <p class="normal">The European Parliament, on 23 May 2007, passed a Resolution on the impact and consequences of the exclusion of health services from the Directive on services in the internal market<a id="ntc3-L_2008190EN.01003701-E0003" href="#ntr3-L_2008190EN.01003701-E0003"> (<span class="super">3</span>)</a>. The Resolution invites the Commission to encourage Member States to actively support the introduction of eHealth and telemedicine, particularly by developing interoperable systems allowing the exchange of patient information between healthcare providers in different Member States.</p>
+            </td>
+         </tr>
+      </tbody>
+   </table>
+   <table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <col width="4%"/>
+      <col width="96%"/>
+      <tbody>
+         <tr>
+            <td valign="top">
+               <p class="normal">(9)</p>
+            </td>
+            <td valign="top">
+               <p class="normal">The purpose of the Recommendation is to contribute to development of overall European eHealth interoperability by the end of 2015.</p>
+            </td>
+         </tr>
+      </tbody>
+   </table>
+   <table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <col width="4%"/>
+      <col width="96%"/>
+      <tbody>
+         <tr>
+            <td valign="top">
+               <p class="normal">(10)</p>
+            </td>
+            <td valign="top">
+               <p class="normal">This Recommendation respects and observes the principles recognised by the Charter of Fundamental Rights of the European Union, in particular Article 7 on the right to respect for private and family life and Article 8 on the right of every individual to the protection of his or her personal data.</p>
+            </td>
+         </tr>
+      </tbody>
+   </table>
+   <table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <col width="4%"/>
+      <col width="96%"/>
+      <tbody>
+         <tr>
+            <td valign="top">
+               <p class="normal">(11)</p>
+            </td>
+            <td valign="top">
+               <p class="normal">Health records are among the most sensitive records available containing information concerning an individual. The unauthorised disclosure of a medical condition or diagnosis could negatively impact an individual’s personal and professional life. Maintaining health records in an electronic form increases the risk that patients’ information could be accidentally exposed or easily distributed to unauthorised parties.</p>
+            </td>
+         </tr>
+      </tbody>
+   </table>
+   <table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <col width="4%"/>
+      <col width="96%"/>
+      <tbody>
+         <tr>
+            <td valign="top">
+               <p class="normal">(12)</p>
+            </td>
+            <td valign="top">
+               <p class="normal">Interoperability of electronic health records involves transfer of personal data concerning a patient’s health. These data should be able to flow freely from one Member State to another, but at the same time the fundamental rights of the individual should be safeguarded. This Recommendation should therefore be without prejudice to the Community provisions on the protection of personal data consisting in particular of Directive 95/46/EC of the European Parliament and of the Council of 24 October 1995 on the protection of individuals with regard to the processing of personal data and on the free movement of such data<a id="ntc4-L_2008190EN.01003701-E0004" href="#ntr4-L_2008190EN.01003701-E0004"> (<span class="super">4</span>)</a>, and Directive 2002/58/EC of the European Parliament and of the Council of 12 July 2002 concerning the processing of personal data and the protection of privacy in the electronic communications sector (Directive on privacy and electronic communications)<a id="ntc5-L_2008190EN.01003701-E0005" href="#ntr5-L_2008190EN.01003701-E0005"> (<span class="super">5</span>)</a>.</p>
+            </td>
+         </tr>
+      </tbody>
+   </table>
+   <table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <col width="4%"/>
+      <col width="96%"/>
+      <tbody>
+         <tr>
+            <td valign="top">
+               <p class="normal">(13)</p>
+            </td>
+            <td valign="top">
+               <p class="normal">The Commission considers that Privacy Enhancing Technologies (PETs) should be developed and more widely used where personal data is processed through ICT networks in relevant fields such as eHealth<a id="ntc6-L_2008190EN.01003701-E0006" href="#ntr6-L_2008190EN.01003701-E0006"> (<span class="super">6</span>)</a>,</p>
+            </td>
+         </tr>
+      </tbody>
+   </table>
+   <p class="normal">HEREBY RECOMMENDS:</p>
+   <p class="normal">1.   This Recommendation provides a set of guidelines for developing and deploying interoperable electronic health record systems, allowing for cross-border exchange of patient data within the Community so far as necessary for a legitimate medical or healthcare purpose. Such electronic health record systems should enable healthcare providers to ensure that a patient receives care more effectively and efficiently by having timely and secure access to basic, and possibly vital, health information, if so needed and in conformity with the patient’s fundamental rights to privacy and data protection.</p>
+   <p class="normal">2.   This Recommendation provides guidance for interoperability of electronic health record systems, including patient summaries, emergency data sets, medication records facilitating ePrescription solutions.</p>
+   <p class="normal">3.   For the purposes of this Recommendation the following definitions are applied:</p>
+   <table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <col width="4%"/>
+      <col width="96%"/>
+      <tbody>
+         <tr>
+            <td valign="top">
+               <p class="normal">(a)</p>
+            </td>
+            <td valign="top">
+               <p class="normal">‘patient’ means any natural person who receives or wishes to receive health care in a Member State;</p>
+            </td>
+         </tr>
+      </tbody>
+   </table>
+   <table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <col width="4%"/>
+      <col width="96%"/>
+      <tbody>
+         <tr>
+            <td valign="top">
+               <p class="normal">(b)</p>
+            </td>
+            <td valign="top">
+               <p class="normal">‘health professional’ means a doctor of medicine or a nurse responsible for general care or a dental practitioner or a midwife or a pharmacist within the meaning of Directive 2005/36/EC of the European Parliament and of the Council of 7 September 2005 on the recognition of professional qualifications<a id="ntc7-L_2008190EN.01003701-E0007" href="#ntr7-L_2008190EN.01003701-E0007"> (<span class="super">7</span>)</a> or another professional exercising activities in the healthcare sector which are restricted to a regulated profession as defined in Article 3(1)(a) of Directive 2005/36/EC;</p>
+            </td>
+         </tr>
+      </tbody>
+   </table>
+   <table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <col width="4%"/>
+      <col width="96%"/>
+      <tbody>
+         <tr>
+            <td valign="top">
+               <p class="normal">(c)</p>
+            </td>
+            <td valign="top">
+               <p class="normal">‘electronic health record’ means a comprehensive medical record or similar documentation of the past and present physical and mental state of health of an individual in electronic form, and providing for ready availability of these data for medical treatment and other closely related purposes;</p>
+            </td>
+         </tr>
+      </tbody>
+   </table>
+   <table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <col width="4%"/>
+      <col width="96%"/>
+      <tbody>
+         <tr>
+            <td valign="top">
+               <p class="normal">(d)</p>
+            </td>
+            <td valign="top">
+               <p class="normal">‘electronic health record system’ means a system for recording, retrieving and manipulating information in electronic health records;</p>
+            </td>
+         </tr>
+      </tbody>
+   </table>
+   <table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <col width="4%"/>
+      <col width="96%"/>
+      <tbody>
+         <tr>
+            <td valign="top">
+               <p class="normal">(e)</p>
+            </td>
+            <td valign="top">
+               <p class="normal">‘patient’s summary, emergency data set, medication record’ mean subsets of electronic health records that contain information for a particular application and particular purpose of use, such as an unscheduled care event or ePrescription;</p>
+            </td>
+         </tr>
+      </tbody>
+   </table>
+   <table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <col width="4%"/>
+      <col width="96%"/>
+      <tbody>
+         <tr>
+            <td valign="top">
+               <p class="normal">(f)</p>
+            </td>
+            <td valign="top">
+               <p class="normal">‘ePrescription’ means a medicinal prescription, as defined by Article 1(19) of Directive 2001/83/EC of the European Parliament and of the Council<a id="ntc8-L_2008190EN.01003701-E0008" href="#ntr8-L_2008190EN.01003701-E0008"> (<span class="super">8</span>)</a>, issued and transmitted electronically;</p>
+            </td>
+         </tr>
+      </tbody>
+   </table>
+   <table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <col width="4%"/>
+      <col width="96%"/>
+      <tbody>
+         <tr>
+            <td valign="top">
+               <p class="normal">(g)</p>
+            </td>
+            <td valign="top">
+               <p class="normal">‘interoperability of electronic health record systems’ means the ability of two or more electronic health record systems to exchange both computer interpretable data and human interpretable information and knowledge;</p>
+            </td>
+         </tr>
+      </tbody>
+   </table>
+   <table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <col width="4%"/>
+      <col width="96%"/>
+      <tbody>
+         <tr>
+            <td valign="top">
+               <p class="normal">(h)</p>
+            </td>
+            <td valign="top">
+               <p class="normal">‘cross-border interoperability’ means interoperability between neighbouring and non-neighbouring Member States and their entire territories;</p>
+            </td>
+         </tr>
+      </tbody>
+   </table>
+   <table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <col width="4%"/>
+      <col width="96%"/>
+      <tbody>
+         <tr>
+            <td valign="top">
+               <p class="normal">(i)</p>
+            </td>
+            <td valign="top">
+               <p class="normal">‘semantic interoperability’ means ensuring that the precise meaning of exchanged information is understandable by any other system or application not initially developed for this purpose.</p>
+            </td>
+         </tr>
+      </tbody>
+   </table>
+   <p class="normal">4.   Achieving and maintaining cross-border interoperability of electronic health record systems implies managing a continuous process of change and the adaptation of a multitude of elements and issues within and across electronic infrastructures in Member States. These electronic infrastructures are necessary to exchange information, interact cooperate in order to ensure the highest possible levels of quality and safety in healthcare provision to patients. Implementing interoperability of electronic health record systems will require a complex set of framework conditions, organisational structures and implementation procedures involving all relevant stakeholders.</p>
+   <table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <col width="4%"/>
+      <col width="96%"/>
+      <tbody>
+         <tr>
+            <td valign="top">
+               <p class="normal">(a)</p>
+            </td>
+            <td valign="top">
+               <p class="normal">To achieve this, Member States are invited to undertake actions at five levels, namely the overall political, the organisational, the technical, the semantic and the level of education and awareness raising.</p>
+            </td>
+         </tr>
+      </tbody>
+   </table>
+   <table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <col width="4%"/>
+      <col width="96%"/>
+      <tbody>
+         <tr>
+            <td valign="top">
+               <p class="normal">(b)</p>
+            </td>
+            <td valign="top">
+               <p class="normal">Underpinning these activities will be full compliance with national as well as Community legal instruments, in particular for the protection of personal data, including confidentiality and data security. The necessary legal safeguards should be ensured, together with the embedding of data protection safeguards in the design and implementation of electronic health record systems. Furthermore, it is indispensable to develop mechanisms for education of both patients and professionals as well as for the evaluation and monitoring of activities necessary for ensuring the interoperability of electronic health record systems.</p>
+            </td>
+         </tr>
+      </tbody>
+   </table>
+   <p id="d1e338-37-1" class="ti-grseq-1">The political level of cross-border interoperability of electronic health record systems</p>
+   <p class="normal">5.   At the level of political feasibility and commitment to electronic health record systems interoperability, it is recommended that Member States:</p>
+   <table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <col width="4%"/>
+      <col width="96%"/>
+      <tbody>
+         <tr>
+            <td valign="top">
+               <p class="normal">(a)</p>
+            </td>
+            <td valign="top">
+               <p class="normal">commit politically and strategically to the implementation at local, regional and national level of electronic health record systems that are capable also of interoperating with electronic health record systems in other Member States;</p>
+            </td>
+         </tr>
+      </tbody>
+   </table>
+   <table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <col width="4%"/>
+      <col width="96%"/>
+      <tbody>
+         <tr>
+            <td valign="top">
+               <p class="normal">(b)</p>
+            </td>
+            <td valign="top">
+               <p class="normal">engage in active cooperation with other Member States and relevant stakeholders to ensure the adoption and implementation of standards that make the cross-border interoperability of electronic health record systems feasible and; secure</p>
+            </td>
+         </tr>
+      </tbody>
+   </table>
+   <table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <col width="4%"/>
+      <col width="96%"/>
+      <tbody>
+         <tr>
+            <td valign="top">
+               <p class="normal">(c)</p>
+            </td>
+            <td valign="top">
+               <p class="normal">implement interoperability of electronic health record systems as an integral part of regional and national eHealth strategies;</p>
+            </td>
+         </tr>
+      </tbody>
+   </table>
+   <table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <col width="4%"/>
+      <col width="96%"/>
+      <tbody>
+         <tr>
+            <td valign="top">
+               <p class="normal">(d)</p>
+            </td>
+            <td valign="top">
+               <p class="normal">consider the inclusion of eHealth in national and regional strategies for territorial cohesion and development and analyse the results of already deployed electronic health record systems at the level of eHealth policy and financing possibilities. For the period 2007-2013 the support for developing eHealth interoperability through investments in eHealth and trans-national and cross-border activities is provided within the framework of cohesion policy;</p>
+            </td>
+         </tr>
+      </tbody>
+   </table>
+   <table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <col width="4%"/>
+      <col width="96%"/>
+      <tbody>
+         <tr>
+            <td valign="top">
+               <p class="normal">(e)</p>
+            </td>
+            <td valign="top">
+               <p class="normal">analyse the risks, barriers or missing elements in relation to achieving cross-border interoperability of electronic health record systems, and identify the necessary preconditions and relevant incentives to solve the problems;</p>
+            </td>
+         </tr>
+      </tbody>
+   </table>
+   <table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <col width="4%"/>
+      <col width="96%"/>
+      <tbody>
+         <tr>
+            <td valign="top">
+               <p class="normal">(f)</p>
+            </td>
+            <td valign="top">
+               <p class="normal">reserve adequate resources, for example by means of direct incentives, to invest in electronic health record systems;</p>
+            </td>
+         </tr>
+      </tbody>
+   </table>
+   <table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <col width="4%"/>
+      <col width="96%"/>
+      <tbody>
+         <tr>
+            <td valign="top">
+               <p class="normal">(g)</p>
+            </td>
+            <td valign="top">
+               <p class="normal">recognise that investments in both technical and semantic interoperability can be beneficial in the shorter term, applying a step-by-step approach and examples of best practice, drawing on priorities and expertise of Member States;</p>
+            </td>
+         </tr>
+      </tbody>
+   </table>
+   <table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <col width="4%"/>
+      <col width="96%"/>
+      <tbody>
+         <tr>
+            <td valign="top">
+               <p class="normal">(h)</p>
+            </td>
+            <td valign="top">
+               <p class="normal">consider the creation of other financial indirect incentive mechanisms to enable the adoption, acquisition and/or modernisation of interoperable electronic health record systems;</p>
+            </td>
+         </tr>
+      </tbody>
+   </table>
+   <table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <col width="4%"/>
+      <col width="96%"/>
+      <tbody>
+         <tr>
+            <td valign="top">
+               <p class="normal">(i)</p>
+            </td>
+            <td valign="top">
+               <p class="normal">plan the activities directed to ensure the interoperability of electronic health record systems ahead for at least five years. Such a timescale is deemed appropriate to ensure policy consistency — which is often a precondition for increasing investment and innovation;</p>
+            </td>
+         </tr>
+      </tbody>
+   </table>
+   <table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <col width="4%"/>
+      <col width="96%"/>
+      <tbody>
+         <tr>
+            <td valign="top">
+               <p class="normal">(j)</p>
+            </td>
+            <td valign="top">
+               <p class="normal">accompany implementation of electronic health record systems by strong involvement of users and other stakeholders in establishing adequate governance, management, public-private partnerships, public procurement, planning, implementation, evaluation, training, information and education;</p>
+            </td>
+         </tr>
+      </tbody>
+   </table>
+   <table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <col width="4%"/>
+      <col width="96%"/>
+      <tbody>
+         <tr>
+            <td valign="top">
+               <p class="normal">(k)</p>
+            </td>
+            <td valign="top">
+               <p class="normal">raise awareness among relevant stakeholders such as local and regional authorities, health professionals, patients and industry of the benefits and need for interoperability of electronic health record systems.</p>
+            </td>
+         </tr>
+      </tbody>
+   </table>
+   <p id="d1e415-37-1" class="ti-grseq-1">The organisational level of cross-border interoperability of electronic health record systems</p>
+   <p class="normal">6.   It is essential to create an organisational framework and process that will enable cross-border interoperability of electronic health record systems. This should be based on a roadmap, developed by Member States, which covers a five-year period and provides details with regard to the following milestones:</p>
+   <table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <col width="4%"/>
+      <col width="96%"/>
+      <tbody>
+         <tr>
+            <td valign="top">
+               <p class="normal">(a)</p>
+            </td>
+            <td valign="top">
+               <p class="normal">agree on a European governance process to establish guidelines for developing, implementing and sustaining cross-border interoperability of electronic health record systems covering management for reliable identification of patients and authentication of health professionals as well as other relevant issues as described in points 7, 8, 9 and 14;</p>
+            </td>
+         </tr>
+      </tbody>
+   </table>
+   <table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <col width="4%"/>
+      <col width="96%"/>
+      <tbody>
+         <tr>
+            <td valign="top">
+               <p class="normal">(b)</p>
+            </td>
+            <td valign="top">
+               <p class="normal">consider policies and incentives to increase demand for procuring eHealth services to enable interoperability of electronic health record systems;</p>
+            </td>
+         </tr>
+      </tbody>
+   </table>
+   <table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <col width="4%"/>
+      <col width="96%"/>
+      <tbody>
+         <tr>
+            <td valign="top">
+               <p class="normal">(c)</p>
+            </td>
+            <td valign="top">
+               <p class="normal">analyse the factors which render the standardisation processes leading to higher levels of interoperability of electronic health record systems such a long, complex and expensive activity, and devise measures to speed up these processes.</p>
+            </td>
+         </tr>
+      </tbody>
+   </table>
+   <p id="d1e444-37-1" class="ti-grseq-1">Technical interoperability of electronic health record systems</p>
+   <p class="normal">7.   Compatibility of electronic health record systems at the technical level is the essential prerequisite for interoperable electronic health record systems. Member States should:</p>
+   <table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <col width="4%"/>
+      <col width="96%"/>
+      <tbody>
+         <tr>
+            <td valign="top">
+               <p class="normal">(a)</p>
+            </td>
+            <td valign="top">
+               <p class="normal">undertake a comprehensive survey of existing technical standards and infrastructures that may facilitate the implementation of systems supporting cross-border healthcare and the provision of healthcare services throughout the Community, especially those related to electronic health records and exchange of information;</p>
+            </td>
+         </tr>
+      </tbody>
+   </table>
+   <table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <col width="4%"/>
+      <col width="96%"/>
+      <tbody>
+         <tr>
+            <td valign="top">
+               <p class="normal">(b)</p>
+            </td>
+            <td valign="top">
+               <p class="normal">analyse the use of standardised information models and standards-based profiles when developing and implementing interoperable electronic health record systems and services solutions. Consider standardised information models and standards-based profiles to be part of national or regional specific interoperability specifications. Where appropriate, these information models and profiles should make use of existing European and international standards, and be based on the approaches and achievements of relevant industrial initiatives;</p>
+            </td>
+         </tr>
+      </tbody>
+   </table>
+   <table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <col width="4%"/>
+      <col width="96%"/>
+      <tbody>
+         <tr>
+            <td valign="top">
+               <p class="normal">(c)</p>
+            </td>
+            <td valign="top">
+               <p class="normal">commit to the development of any necessary additional standards, preferably open standards on a global scale, involving the relevant European and international standardisation bodies in the key areas where shortcomings have been identified;</p>
+            </td>
+         </tr>
+      </tbody>
+   </table>
+   <table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <col width="4%"/>
+      <col width="96%"/>
+      <tbody>
+         <tr>
+            <td valign="top">
+               <p class="normal">(d)</p>
+            </td>
+            <td valign="top">
+               <p class="normal">analyse the achievements of the Mandate M 403: ‘Mandate to the European Standardisation Organisations CEN, Cenelec and ETSI in the field of Information and Communication Technologies, applied to the domain of eHealth’ in order to provide optimal technological foundations, infrastructure, safety and regulatory integration in Europe and within global markets.</p>
+            </td>
+         </tr>
+      </tbody>
+   </table>
+   <p id="d1e483-37-1" class="ti-grseq-1">Semantic interoperability of electronic health record systems</p>
+   <p class="normal">8.   Semantic interoperability is an essential factor in achieving the benefits of electronic health records to improve the quality and safety of patient care, public health, clinical research, and health service management. The Member States should:</p>
+   <table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <col width="4%"/>
+      <col width="96%"/>
+      <tbody>
+         <tr>
+            <td valign="top">
+               <p class="normal">(a)</p>
+            </td>
+            <td valign="top">
+               <p class="normal">establish an appropriate mechanism in cooperation with the relevant standards development organisations, the Commission and the World Health Organisation, to involve national research centres, relevant industries and stakeholders in the development of health semantics to advance in implementation efforts of interoperable electronic health record systems;</p>
+            </td>
+         </tr>
+      </tbody>
+   </table>
+   <table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <col width="4%"/>
+      <col width="96%"/>
+      <tbody>
+         <tr>
+            <td valign="top">
+               <p class="normal">(b)</p>
+            </td>
+            <td valign="top">
+               <p class="normal">wherever possible, consider the suitability of international medical-clinical terminologies, nomenclatures and classifications of diseases, including those for pharmacovigilance and clinical trials; the establishment of competence centres for multilingual and multicultural adaptation of international classifications and terminologies should also be encouraged;</p>
+            </td>
+         </tr>
+      </tbody>
+   </table>
+   <table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <col width="4%"/>
+      <col width="96%"/>
+      <tbody>
+         <tr>
+            <td valign="top">
+               <p class="normal">(c)</p>
+            </td>
+            <td valign="top">
+               <p class="normal">agree on standards for semantic interoperability to represent the relevant health information for a particular application through data structures (such as archetypes and templates), and subsets of terminology systems and ontologies responsive to local user needs;</p>
+            </td>
+         </tr>
+      </tbody>
+   </table>
+   <table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <col width="4%"/>
+      <col width="96%"/>
+      <tbody>
+         <tr>
+            <td valign="top">
+               <p class="normal">(d)</p>
+            </td>
+            <td valign="top">
+               <p class="normal">consider the need for a sustainable reference system of concepts (ontology) as a basis for mapping multilingual lexicons that take into account the difference between professional healthcare languages, lay terminologies and traditional coding schemes;</p>
+            </td>
+         </tr>
+      </tbody>
+   </table>
+   <table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <col width="4%"/>
+      <col width="96%"/>
+      <tbody>
+         <tr>
+            <td valign="top">
+               <p class="normal">(e)</p>
+            </td>
+            <td valign="top">
+               <p class="normal">support the widespread availability of methodologies and tools for incorporating the semantic content into practical applications as well as the development of relevant human capacity and skills in this domain;</p>
+            </td>
+         </tr>
+      </tbody>
+   </table>
+   <table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <col width="4%"/>
+      <col width="96%"/>
+      <tbody>
+         <tr>
+            <td valign="top">
+               <p class="normal">(f)</p>
+            </td>
+            <td valign="top">
+               <p class="normal">demonstrate the benefits and/or shortcomings of current and future systems through scientifically sound evaluation and assessment.</p>
+            </td>
+         </tr>
+      </tbody>
+   </table>
+   <p id="d1e530-37-1" class="ti-grseq-1">Certification of electronic health record systems</p>
+   <p class="normal">9.   There is a need for a mutually recognisable conformity testing procedures that are valid throughout the Community or which serve as a basis for each Member State’s certification mechanism. Therefore Member States should:</p>
+   <table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <col width="4%"/>
+      <col width="96%"/>
+      <tbody>
+         <tr>
+            <td valign="top">
+               <p class="normal">(a)</p>
+            </td>
+            <td valign="top">
+               <p class="normal">apply properly the existing eHealth standards and profiles, namely those related to interoperability of electronic health record systems, in order to enhance users’ confidence in those standards;</p>
+            </td>
+         </tr>
+      </tbody>
+   </table>
+   <table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <col width="4%"/>
+      <col width="96%"/>
+      <tbody>
+         <tr>
+            <td valign="top">
+               <p class="normal">(b)</p>
+            </td>
+            <td valign="top">
+               <p class="normal">put into place a joint or mutually recognised mechanism for conformity testing and certification of interoperable electronic health records and other eHealth applications, such as the techniques and methodologies offered by various industry consortia;</p>
+            </td>
+         </tr>
+      </tbody>
+   </table>
+   <table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <col width="4%"/>
+      <col width="96%"/>
+      <tbody>
+         <tr>
+            <td valign="top">
+               <p class="normal">(c)</p>
+            </td>
+            <td valign="top">
+               <p class="normal">consider the industry self-certification and/or conformity testing activities as a mechanism to reduce delays in bringing interoperable eHealth solutions to the market;</p>
+            </td>
+         </tr>
+      </tbody>
+   </table>
+   <table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <col width="4%"/>
+      <col width="96%"/>
+      <tbody>
+         <tr>
+            <td valign="top">
+               <p class="normal">(d)</p>
+            </td>
+            <td valign="top">
+               <p class="normal">take into account national and international practices, including those which exist outside Europe.</p>
+            </td>
+         </tr>
+      </tbody>
+   </table>
+   <p id="d1e565-37-1" class="ti-grseq-1">Protection of personal data</p>
+   <p class="normal">10.   Member States should ensure that the fundamental right to protection of personal data is fully and effectively protected in interoperable eHealth systems, in particular in electronic health record systems, in conformity with Community provisions on the protection of personal data, in particular Directives 95/46/EC and 2002/58/EC.</p>
+   <p class="normal">11.   Directive 95/46/EC applies to personal data processed in application of this Recommendation. Processing of personal data contained in the electronic health records and their systems is particularly sensitive and therefore subject to the special data protection rules on the processing of sensitive data. Article 8 of Directive 95/46/EC prohibits in principle the processing of sensitive data concerning health. Limited exemptions to this prohibition principle are laid down in the Directive, in particular if processing is required for specified medical and healthcare purposes.</p>
+   <p class="normal">12.   Member States should be aware that interoperable electronic health record systems increase the risk that personal data concerning health could be accidentally exposed or easily distributed to unauthorised parties, by enabling greater access to a compilation of the personal data concerning health, from different sources, and throughout a lifetime.</p>
+   <p class="normal">13.   Member States should follow the guidance on electronic health record systems provided for by the Working Party set up under Article 29 of Directive 95/46/EC<a id="ntc9-L_2008190EN.01003701-E0009" href="#ntr9-L_2008190EN.01003701-E0009"> (<span class="super">9</span>)</a>.</p>
+   <p class="normal">14.   Member States should lay down a comprehensive legal framework for interoperable electronic health record systems. Such a legal framework should recognise and address the sensitive nature of personal data concerning health and provide for specific and suitable safeguards so as to protect the fundamental right to protection of personal data of the individual concerned.</p>
+   <p class="normal">This legal framework should in particular:</p>
+   <table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <col width="4%"/>
+      <col width="96%"/>
+      <tbody>
+         <tr>
+            <td valign="top">
+               <p class="normal">(a)</p>
+            </td>
+            <td valign="top">
+               <p class="normal">analyse different personal data protection impacts of organisational alternatives for storing personal data concerning health and establish organisational structures for electronic health record systems in view of the specific risks for the rights and freedoms of data subjects, which best reflect the national, regional and local specifications and practices;</p>
+            </td>
+         </tr>
+      </tbody>
+   </table>
+   <table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <col width="4%"/>
+      <col width="96%"/>
+      <tbody>
+         <tr>
+            <td valign="top">
+               <p class="normal">(b)</p>
+            </td>
+            <td valign="top">
+               <p class="normal">guarantee the patient’s self-determination by allowing for the patient’s autonomous and freely taken decision, supported by means of user-friendly technology, as to which personal data concerning health are to be stored and disclosed to whom in his or her electronic health record unless expressly required by national law. This decision shall be without prejudice to the possibility for the relevant healthcare body or doctor to store this data for treatment purposes;</p>
+            </td>
+         </tr>
+      </tbody>
+   </table>
+   <table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <col width="4%"/>
+      <col width="96%"/>
+      <tbody>
+         <tr>
+            <td valign="top">
+               <p class="normal">(c)</p>
+            </td>
+            <td valign="top">
+               <p class="normal">establish that electronic health record systems are designed and selected in accordance with the aim of collecting, processing or using no personal data or as little personal data as possible. In particular, use is to be made of the possibilities for pseudonymisation or rendering persons anonymous, insofar as this is possible and the effort involved is reasonable in relation to the desired level of protection;</p>
+            </td>
+         </tr>
+      </tbody>
+   </table>
+   <table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <col width="4%"/>
+      <col width="96%"/>
+      <tbody>
+         <tr>
+            <td valign="top">
+               <p class="normal">(d)</p>
+            </td>
+            <td valign="top">
+               <p class="normal">provide for an assessment of the information security risks and personal data protection impacts prior to the implementation of an electronic health record system, in view of the specific risks for the rights and freedoms of data subjects;</p>
+            </td>
+         </tr>
+      </tbody>
+   </table>
+   <table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <col width="4%"/>
+      <col width="96%"/>
+      <tbody>
+         <tr>
+            <td valign="top">
+               <p class="normal">(e)</p>
+            </td>
+            <td valign="top">
+               <p class="normal">clarify the extent to which categories of personal data concerning health should be made available in electronic form or online. In particular, certain categories of personal data concerning health such as genetic or psychiatric data may have to be excluded from online processing altogether or at least be subject to especially strict access controls;</p>
+            </td>
+         </tr>
+      </tbody>
+   </table>
+   <table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <col width="4%"/>
+      <col width="96%"/>
+      <tbody>
+         <tr>
+            <td valign="top">
+               <p class="normal">(f)</p>
+            </td>
+            <td valign="top">
+               <p class="normal">prescribe that processing of personal data in electronic health records and their systems must be required and carried out only by a health professional subject under national law or rules established by national competent bodies to the obligation of professional secrecy or by another person subject to an equivalent obligation of secrecy; ensure a reliable identification of patients and health professionals;</p>
+            </td>
+         </tr>
+      </tbody>
+   </table>
+   <table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <col width="4%"/>
+      <col width="96%"/>
+      <tbody>
+         <tr>
+            <td valign="top">
+               <p class="normal">(g)</p>
+            </td>
+            <td valign="top">
+               <p class="normal">determine the conditions under which health data contained in electronic health record systems can be lawfully accessed and processed by persons other than the individual concerned, and for what predefined health purposes, including the security that should be assured while processing health data; specify these issues as policies that can be practically applied, technically implemented and enforced, <span class="italic">inter alia</span>, by the national data protection supervisory authorities;</p>
+            </td>
+         </tr>
+      </tbody>
+   </table>
+   <table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <col width="4%"/>
+      <col width="96%"/>
+      <tbody>
+         <tr>
+            <td valign="top">
+               <p class="normal">(h)</p>
+            </td>
+            <td valign="top">
+               <p class="normal">ensure that patients are fully informed on the nature of the data and the structure of the electronic health record containing them. Patients should have alternative (conventional) means to access personal data concerning health related to him or her. In this context it is important to ensure that information provided to data subjects uses language and a layout that is easy to understand and is given in an appropriate manner to persons with special needs (e.g. children or elderly persons);</p>
+            </td>
+         </tr>
+      </tbody>
+   </table>
+   <table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <col width="4%"/>
+      <col width="96%"/>
+      <tbody>
+         <tr>
+            <td valign="top">
+               <p class="normal">(i)</p>
+            </td>
+            <td valign="top">
+               <p class="normal">provide for special measures to prevent patients from being illegally induced to disclose their personal data contained in electronic health record systems;</p>
+            </td>
+         </tr>
+      </tbody>
+   </table>
+   <table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <col width="4%"/>
+      <col width="96%"/>
+      <tbody>
+         <tr>
+            <td valign="top">
+               <p class="normal">(j)</p>
+            </td>
+            <td valign="top">
+               <p class="normal">make sure that any processing — especially the storage — of personal data in electronic health record systems takes place within jurisdictions applying Directive 95/46/EC or those with an adequate level of protection of personal data;.</p>
+            </td>
+         </tr>
+      </tbody>
+   </table>
+   <table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <col width="4%"/>
+      <col width="96%"/>
+      <tbody>
+         <tr>
+            <td valign="top">
+               <p class="normal">(k)</p>
+            </td>
+            <td valign="top">
+               <p class="normal">lay down detailed auditing requirements for the purpose of ensuring compliance with data protection obligations, such as reliable system of electronic identification and authentication, data access logging, documentation of all processing steps, duration of maintaining the auditing information, effective back up and recovery systems, and enforce the adoption of these requirements or solutions according to best practices for information handling;</p>
+            </td>
+         </tr>
+      </tbody>
+   </table>
+   <table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <col width="4%"/>
+      <col width="96%"/>
+      <tbody>
+         <tr>
+            <td valign="top">
+               <p class="normal">(l)</p>
+            </td>
+            <td valign="top">
+               <p class="normal">guarantee the confidentiality of electronic health record systems as well as provide for appropriate technical and organisational measures, including rules on incident detection and management processes, in case of a breach of security or identity mechanisms leading to the accidental or unlawful destruction, loss, alteration, unauthorised disclosure of or access to personal data transmitted, stored or otherwise processed in electronic health record systems. Incidents or violations should be identified promptly and effectively and measures or solutions should be put in place to manage such incidents, including informing and involving the individuals concerned, the national data protection supervisory authorities, and other appropriate stakeholders.</p>
+            </td>
+         </tr>
+      </tbody>
+   </table>
+   <p class="normal">15.   Member States should furthermore:</p>
+   <table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <col width="4%"/>
+      <col width="96%"/>
+      <tbody>
+         <tr>
+            <td valign="top">
+               <p class="normal">(a)</p>
+            </td>
+            <td valign="top">
+               <p class="normal">stimulate the deployment of security-enhancing products, processes and services to prevent and fight identity theft and other privacy-intrusive attacks;</p>
+            </td>
+         </tr>
+      </tbody>
+   </table>
+   <table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <col width="4%"/>
+      <col width="96%"/>
+      <tbody>
+         <tr>
+            <td valign="top">
+               <p class="normal">(b)</p>
+            </td>
+            <td valign="top">
+               <p class="normal">ensure that data protection safeguards are embedded in electronic health record systems, including through the widest possible use of Privacy Enhancing Technologies (PETs) in their design and implementation.</p>
+            </td>
+         </tr>
+      </tbody>
+   </table>
+   <p id="d1e699-37-1" class="ti-grseq-1">Monitoring and evaluation</p>
+   <p class="normal">16.   In order to ensure monitoring and evaluation of cross-border interoperability of electronic health record systems, Member States should:</p>
+   <table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <col width="4%"/>
+      <col width="96%"/>
+      <tbody>
+         <tr>
+            <td valign="top">
+               <p class="normal">(a)</p>
+            </td>
+            <td valign="top">
+               <p class="normal">consider the possibilities for setting up a monitoring observatory for interoperability of electronic health record systems in the Community to monitor, benchmark and assess progress on technical and semantic interoperability for successful implementation of electronic health record systems;</p>
+            </td>
+         </tr>
+      </tbody>
+   </table>
+   <table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <col width="4%"/>
+      <col width="96%"/>
+      <tbody>
+         <tr>
+            <td valign="top">
+               <p class="normal">(b)</p>
+            </td>
+            <td valign="top">
+               <p class="normal">undertake a number of assessment activities. These could include defining the quantitative and qualitative criteria for measuring the eventual benefits and risks (including economic benefits and cost-effectiveness) of interoperable electronic health record systems and assessing the benefits and risks achieved by the systems and services developed by such practical demonstrators as the Large Scale Pilot projects (Pilot Actions A) that are incorporated within the Competitiveness and Innovation Programme ICT Policy Support Programme.</p>
+            </td>
+         </tr>
+      </tbody>
+   </table>
+   <p id="d1e723-37-1" class="ti-grseq-1">Education and awareness raising</p>
+   <p class="normal">17.   In terms of education, training and awareness raising, Member States should:</p>
+   <table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <col width="4%"/>
+      <col width="96%"/>
+      <tbody>
+         <tr>
+            <td valign="top">
+               <p class="normal">(a)</p>
+            </td>
+            <td valign="top">
+               <p class="normal">increase awareness about the benefits of and need for standards in electronic health record systems and their interoperability among producers and vendors of information and communication technologies, healthcare providers, public health institutions, insurers and other stakeholders;</p>
+            </td>
+         </tr>
+      </tbody>
+   </table>
+   <table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <col width="4%"/>
+      <col width="96%"/>
+      <tbody>
+         <tr>
+            <td valign="top">
+               <p class="normal">(b)</p>
+            </td>
+            <td valign="top">
+               <p class="normal">consider requirements for education and training with regard to health policy-makers and health professionals;</p>
+            </td>
+         </tr>
+      </tbody>
+   </table>
+   <table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <col width="4%"/>
+      <col width="96%"/>
+      <tbody>
+         <tr>
+            <td valign="top">
+               <p class="normal">(c)</p>
+            </td>
+            <td valign="top">
+               <p class="normal">pay particular attention to education, training and dissemination of good practices in electronically recording, storing and processing clinical information as well as in gaining informed consent of the patient and lawfully sharing patient’s personal data;</p>
+            </td>
+         </tr>
+      </tbody>
+   </table>
+   <table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <col width="4%"/>
+      <col width="96%"/>
+      <tbody>
+         <tr>
+            <td valign="top">
+               <p class="normal">(d)</p>
+            </td>
+            <td valign="top">
+               <p class="normal">provide parallel information and training, including awareness raising, for all individuals, in particular patients. Such an approach would make for more effective use of health information as patients move between a variety of healthcare providers, along the continuum of care, and receive whenever possible treatment, care and data in their own homes.</p>
+            </td>
+         </tr>
+      </tbody>
+   </table>
+   <p class="normal">18.   Member States are invited to report, on a yearly basis, to the Commission on the measures they have taken in relation to the implementation of cross-border interoperability of electronic health record systems. The first report should be presented by Member States one year following the day of publication of this Recommendation.</p>
+   <p class="normal">19.   The Recommendation is addressed to Member States.</p>
+   <div class="final">
+      <p class="normal">Done at Brussels, 2 July 2008.</p>
+      <div class="signatory">
+         <p class="signatory">
+            <span class="italic">For the Commission</span>
+         </p>
+         <p class="signatory">Viviane <span>REDING</span>
+         </p>
+         <p class="signatory">
+            <span class="italic">Member of the Commission</span>
+         </p>
+      </div>
+   </div>
+   <hr class="note"/>
+   <p class="note">
+      <a id="ntr1-L_2008190EN.01003701-E0001" href="#ntc1-L_2008190EN.01003701-E0001">(<span class="super">1</span>)</a>  COM(2004) 356 final.</p>
+   <p class="note">
+      <a id="ntr2-L_2008190EN.01003701-E0002" href="#ntc2-L_2008190EN.01003701-E0002">(<span class="super">2</span>)</a>  COM(2007) 860 final.</p>
+   <p class="note">
+      <a id="ntr3-L_2008190EN.01003701-E0003" href="#ntc3-L_2008190EN.01003701-E0003">(<span class="super">3</span>)</a>  (2006/2275 (INI)).</p>
+   <p class="note">
+      <a id="ntr4-L_2008190EN.01003701-E0004" href="#ntc4-L_2008190EN.01003701-E0004">(<span class="super">4</span>)</a>  <a href="http://publications.europa.eu/resource/oj/JOL_1995_281_R_TOC">OJ L 281, 23.11.1995, p. 31</a>. Directive modified by Regulation (EC) No 1882/2003 (<a href="http://publications.europa.eu/resource/oj/JOL_2003_284_R_TOC">OJ L 284, 31.10.2003, p. 1</a>).</p>
+   <p class="note">
+      <a id="ntr5-L_2008190EN.01003701-E0005" href="#ntc5-L_2008190EN.01003701-E0005">(<span class="super">5</span>)</a>  <a href="http://publications.europa.eu/resource/oj/JOL_2002_201_R_TOC">OJ L 201, 31.7.2002, p. 37</a>. Directive modified by Directive 2006/24/EC (<a href="http://publications.europa.eu/resource/oj/JOL_2006_105_R_TOC">OJ L 105, 13.4.2006, p. 54</a>)</p>
+   <p class="note">
+      <a id="ntr6-L_2008190EN.01003701-E0006" href="#ntc6-L_2008190EN.01003701-E0006">(<span class="super">6</span>)</a>  COM(2007) 228 final.</p>
+   <p class="note">
+      <a id="ntr7-L_2008190EN.01003701-E0007" href="#ntc7-L_2008190EN.01003701-E0007">(<span class="super">7</span>)</a>  <a href="http://publications.europa.eu/resource/oj/JOL_2005_255_R_TOC">OJ L 255, 30.9.2005, p. 22</a>. Directive as last amended by Commission Regulation (EC) No 1430/2007 (<a href="http://publications.europa.eu/resource/oj/JOL_2007_320_R_TOC">OJ L 320, 6.12.2007, p. 3</a>).</p>
+   <p class="note">
+      <a id="ntr8-L_2008190EN.01003701-E0008" href="#ntc8-L_2008190EN.01003701-E0008">(<span class="super">8</span>)</a>  <a href="http://publications.europa.eu/resource/oj/JOL_2001_311_R_TOC">OJ L 311, 28.11.2001, p. 67</a>. Directive as last amended by Directive 2008/29/EC (<a href="http://publications.europa.eu/resource/oj/JOL_2008_081_R_TOC">OJ L 81, 20.3.2008, p. 51</a>).</p>
+   <p class="note">
+      <a id="ntr9-L_2008190EN.01003701-E0009" href="#ntc9-L_2008190EN.01003701-E0009">(<span class="super">9</span>)</a>  See at present Working Document 131 of 15 February 2007 on the processing of personal data relating to health in electronic health records.</p>
+   <hr class="doc-end"/>
+</body>
+</html>

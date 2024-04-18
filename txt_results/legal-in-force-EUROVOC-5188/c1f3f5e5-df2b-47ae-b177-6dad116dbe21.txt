@@ -1,0 +1,45 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html lang="EN">
+<head>
+<meta name="DC.language" content="EN">
+<meta name="DC.title" content="EUR-Lex - 31995Y0923(01) - EN">
+<meta name="DC.subject" content="Culture, cultural policy, public awareness campaign, cultural heritage, history of Europe, dissemination of information, information technology, ">
+<meta name="DC.description" content="Draft Resolution of 4 April 1995 on culture and the multimedia  ">
+<meta name="DC.type" http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta name="DC.source" content="Official Journal C 247 , 23/09/1995 P. 0001 - 0002; ">
+<meta name="DC.publisher" content="OPOCE">
+<meta name="DC.identifier" scheme="URI" content="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31995Y0923(01):EN:HTML">
+<style type="text/css" media="all">  @import url(lex/css/lex-screen.css); </style>
+<link rel="stylesheet" type="text/css" media="print" href="lex/css/lex-print.css">
+<title>EUR-Lex - 31995Y0923(01) - EN</title>
+</head>
+<body>
+<div id="banner">
+<a name="top"></a>
+<div class="bglang">
+<p class="bglang">
+<a class="langue" href="../../../editorial/legal_notice.htm" accesskey="8"><b>Avis juridique important</b></a>
+<br>
+</p>
+</div>
+<div class="bgtool">
+<em class="none">|</em>
+</div>
+</div>
+<a name="top"></a>
+<h1>31995Y0923(01)</h1>
+<p>
+<strong>Draft Resolution of 4 April 1995 on culture and the multimedia  </strong>
+<br>
+<em>
+<br>Official Journal C 247 , 23/09/1995 P. 0001 - 0002<br> </em>
+</p>
+<br>
+<div id="TexteOnly">
+<p>
+<TXT_TE>
+<p>DRAFT RESOLUTION</p><p>of 4 April 1995</p><p>on culture and the multimedia</p><p>(95/C  247/01)</p><p></p><p>THE  COUNCIL OF THE EUROPEAN UNION,</p><p> Considering that the main objectives of the European Union in the field of culture are to help to  improve the knowledge and dissemination of the culture and history of the European peoples,  safeguard and preserve the cultural heritage of importance to Europe and encourage cultural  exchanges and artistic creation;</p><p> Whereas the emergence of the information society is likely to increase citizen&#039;s access to  information and to constitute an exceptional opportunity for development of a programming industry  the content of which will take account of the cultural and linguistic richness and diversity of  Europe;</p><p> Considering that the multimedia are also capable of attracting new audiences, thereby making  culture available to a wider public;</p><p> Considering that the multimedia play a major part in supporting multidisciplinary scientific  research in the field of the movable and immovable cultural heritage such as monuments, landmarks,  museums, libraries and archives;</p><p> Noting that, in order to implement the above objectives, encourage the development of a European  market and use these new opportunities and technologies to maximum advantage, the main participants  (libraries, museums, cataloguing departments, etc.) need to prepare and cooperate and consideration  needs to be given to the possible adaptation of legal and technical rules;</p><p> Having noted that several points were raised during preliminary expert discussions, particularly at  a meeting in Cannes on 13 and 14 January, for example:</p><p> - the promotion of the European cultural diversity and of multilingualism,</p><p> - the demand for high-quality products and the development of new forms of expression,</p><p> - the need to make standards and formats for facilitating data exchanges compatible,</p><p> - the institution of mechanisms to promote networking and the creation of European products,</p><p> - the need for types of training appropriate to the multimedia which combine the learning of  techniques with a mastery of content,</p><p> - support for dissemination and promotion.</p><p> Noting the results of the G7 meeting of 25 and 26 February 1995 concerning the information society  and especially the recommendations made concerning pilot projects for museums and libraries;</p><p> Noting with satisfaction the measures currently under way at Community level, notably in connection  with research directed at the development of the information market,</p><p> </p><p>AGREES that the Member States and the Community have a major role to play as  catalysts in developing the creation, production and distribution of high-quality cultural  multimedia works;</p><p> EXPRESSES its resolve to encourage the circulation and exchange of information between cultural  institutions on the basis of common cultural and scientific interests, through the networking of  these institutions;</p><p> AGREES on the urgent need to implement measures to sustain the emergence and development of a  cultural multimedia market, with due regard for Europe&#039;s linguistic and cultural diversity;</p><p> UNDERLINES the importance of establishing high-quality training courses to enable the creation of  works suited to the whole range of uses and users;</p><p> PROPOSES that attention be devoted to the drafting of good-practice guides and of model contracts  which may be used by cultural institutions wishing to exploit their collections;</p><p> CALLS FOR the establishment of appropriate international standards, on the basis of the work  already initiated by ISO;</p><p> NOTES the Commission&#039;s intention to examine the possibilities for supporting the development of the  electronic-publishing industry in its cultural applications, taking account of existing financial  instruments and available means capable of supporting market supply;</p><p> INVITES the Commission to:</p><p> - present before the Council meeting during the second half of the year a report on the situation  of the cultural multimedia market, on the Community measures already underway in this area,  particularly as regards technical standards, and on training for the new multimedia professions,</p><p> - form as rapidly as possible an Expert Working Group whose members would be appointed on the basis  of proposals by Member States to examine, inter alia, within a year, the technical (standardized  descriptive tools and multilingual lexicons) and legal conditions governing co-production and the  networking of cultural institutions operating in the same area, including procedures for exercising  and protecting intellectual-property rights. The Cultural Affairs Committee will be informed of  this work,</p><p> - study the opportunities for promoting cultural institurions&#039; access to present and future  measures and programmes likely to concern them in the context of common policies, in particular  those serving to develop the information society. </p><p>  </p>
+</TXT_TE>
+</p>
+</div>
+</body>
+</html>

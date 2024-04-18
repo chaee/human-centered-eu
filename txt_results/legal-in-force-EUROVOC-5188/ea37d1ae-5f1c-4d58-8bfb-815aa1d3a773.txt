@@ -1,0 +1,230 @@
+ CONVEX # converter_version:9.15.0 # generated_on:20231206-0027 # ELI version:0.10 
+      L_2008201EN.01004901.xml
+               30.7.2008   
+               EN
+               Official Journal of the European Union
+            L 201/49
+            DECISION No 742/2008/EC OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL
+            of 9 July 2008
+            on the Community’s participation in a research and development programme undertaken by several Member States aimed at enhancing the quality of life of older people through the use of new information and communication technologies
+            (Text with EEA relevance)
+         THE EUROPEAN PARLIAMENT AND THE COUNCIL OF THE EUROPEAN UNION,
+            Having regard to the Treaty establishing the European Community, and in particular Articles 169 and 172, second paragraph, thereof,
+            Having regard to the proposal from the Commission,
+            Having regard to the opinion of the European Economic and Social Committee,
+            Acting in accordance with the procedure laid down in Article 251 of the Treaty 
+            (,1)Whereas:
+                        (1)
+                     Decision No 1982/2006/EC of the European Parliament and of the Council of 18 December 2006 concerning the Seventh Framework Programme of the European Community for research, technological development and demonstration activities (2007 to 2013) 
+                        ( (hereinafter referred to as the Seventh Framework Programme) provides for Community participation in research and development programmes undertaken by several Member States, including participation in the structures created for the execution of those programmes, within the meaning of Article 169 of the Treaty.2)
+                        (2)
+                     The Seventh Framework Programme has defined a series of criteria for the identification of areas for such Article 169 initiatives: the relevance to Community objectives, the clear definition of the objective to be pursued and its relevance to the objectives of the Seventh Framework Programme, the presence of a pre-existing basis (existing or envisaged national research programmes), European added value, a critical mass with regard to the size and number of programmes involved and the similarity of activities they cover, and the efficiency of Article 169 as the most appropriate means for achieving the objectives.
+                        (3)
+                     Council Decision 2006/971/EC of 19 December 2006 concerning the Specific Programme ‘Cooperation’ implementing the Seventh Framework programme of the European Community for research, technological development and demonstration activities (2007 to 2013) 
+                        ( (hereinafter referred to as the Specific Programme ‘Cooperation’) identifies an Article 169 initiative in the field of ambient assisted living as one of the fields suitable for Community participation in national research programmes jointly implemented on the basis of Article 169 of the Treaty.3)
+                        (4)
+                     In its Communication of 1 June 2005 entitled ‘i2010 — A European information society for growth and employment’, the Commission proposed to launch a flagship initiative on caring for people in an ageing society.
+                        (5)
+                     In its Communication of 12 October 2006 entitled ‘The demographic future of Europe — from challenge to opportunity’, the Commission underlined the fact that demographic ageing is one of the main challenges facing all countries in the European Union and that increased use of new technologies could help to control costs, improve well-being and promote the active participation in society of elderly people, as well as improving the competitiveness of the European economy, in support of the revised Lisbon Strategy for growth and jobs.
+                        (6)
+                     In the field of information and communication technologies (ICT) in particular, the fact of an ageing population can be seen as an opportunity for an emerging market for new goods and services which respond to the needs of the elderly. However, the rapid development and use of new ICT should not lead to social exclusion or a widening of the digital divide; however, digital literacy is a precondition for inclusion and participation in the information society.
+                        (7)
+                     The present initiative in the field of ambient assisted living should take into account the reality of the ageing population in Europe, where the percentage of women is higher than that of men due to the longer average life expectancy of women.
+                        (8)
+                     Active ageing is a core element in the renewed employment guidelines. The EU approach to ageing aims at mobilising the full potential of people of all ages — the lifecycle approach — and stresses the need to shift from fragmented to comprehensive ageing strategies.
+                        (9)
+                     At present, a number of research and development programmes or activities undertaken by Member States individually at national level in the field of ICT for ageing well are not sufficiently coordinated at European level and do not allow a coherent approach at European level for research and development of innovative ICT-based products and services for ageing well.
+                        (10)
+                     Wishing to have a coherent approach at European level in the field of ICT for ageing well and to act effectively, several Member States have taken the initiative in setting up a joint research and development programme entitled ‘Ambient Assisted Living’ (hereinafter referred to as the AAL Joint Programme) in the field of ICT for ageing well in the information society, in order to obtain synergies in terms of management and financial resources by ensuring a single common evaluation mechanism with the assistance of independent experts, on the basis of established practice as set out in Regulation (EC) No 1906/2006 of the European Parliament and of the Council of 18 December 2006 laying down the rules for the participation of undertakings, research centres and universities in actions under the Seventh Framework Programme and for the dissemination of research results (2007-2013) 
+                        (, and the combination of additional expertise and resources available in various countries across Europe.4)
+                        (11)
+                     The AAL Joint Programme aims at addressing the challenge of demographic ageing by providing the necessary legal and organisational framework for large-scale European cooperation between Member States in applied research and innovation in the area of ICT for ageing well in an ageing society. Belgium, Denmark, Germany, Ireland, Greece, Spain, France, Italy, Cyprus, Luxembourg, Hungary, the Netherlands, Austria, Poland, Portugal, Romania, Slovenia, Finland, Sweden and the United Kingdom (hereinafter referred to as the participating Member States) and Israel, Norway and Switzerland have agreed to coordinate and implement jointly activities aimed at contributing to the AAL Joint Programme. The overall value of their participation is estimated at a minimum of EUR 150 million for the duration of the Seventh Framework Programme. The participation of each of these countries in the AAL Joint Programme should be subject to a minimum financial contribution commensurate with the potential demand from its national research communities and should normally be at least EUR 0,2 million if the country is to participate in the annual work programme.
+                        (12)
+                     The AAL Joint Programme should also promote the involvement of small and medium-sized enterprises (SMEs) in its activities in accordance with the objectives of the Seventh Framework Programme.
+                        (13)
+                     In order to increase the impact of the AAL Joint Programme, the participating Member States, Israel, Norway and Switzerland have agreed to the Community’s participation in it. The Community should participate in the Programme by making a financial contribution of up to EUR 150 million. Given that the AAL Joint Programme meets the scientific objectives of the Seventh Framework Programme and that the research field of the AAL Joint Programme falls within the ICT theme of the Specific Programme ‘Cooperation’, the Community financial contribution should be taken from the budget appropriation allocated to that theme. Further financing options may be available, inter alia, from the European Investment Bank (EIB), in particular through the Risk-Sharing Finance Facility developed jointly by the EIB and the Commission pursuant to Annex III to Decision 2006/971/EC.
+                        (14)
+                     The Community financial support should be provided subject to the definition of a financing plan based on formal commitments from the competent national authorities to implement jointly the research and development programmes and activities undertaken at national level and to contribute to the financing of the joint execution of the AAL Joint Programme.
+                        (15)
+                     The joint implementation of the national research programmes requires the establishment or existence of a dedicated implementation structure, as provided for in the Specific Programme ‘Cooperation’.
+                        (16)
+                     The participating Member States have agreed on such a dedicated implementation structure to implement the AAL Joint Programme.
+                        (17)
+                     The dedicated implementation structure should be the recipient of the financial contribution from the Community and should ensure the efficient execution of the AAL Joint Programme.
+                        (18)
+                     In order to implement the AAL Joint Programme efficiently, the dedicated implementation structure should grant financial support to third parties participating in the AAL Joint Programme which are selected following calls for proposals.
+                        (19)
+                     The Community contribution should be subject to the commitment of resources by the participating Member States, Israel, Norway and Switzerland and the effective payment of their financial contributions.
+                        (20)
+                     The Community should have the right to reduce, withhold or terminate its financial contribution if the AAL Joint Programme is implemented inadequately, partially or late, on the terms set out in an agreement to be concluded between the Community and the dedicated implementation structure laying down the detailed arrangements for the Community contribution.
+                        (21)
+                     Any Member State should be able to join the AAL Joint Programme.
+                        (22)
+                     In accordance with the Seventh Framework Programme, the Community should have the right to agree conditions relating to its financial contribution to the AAL Joint Programme concerning the participation therein of any country associated with the Seventh Framework Programme or, where essential for implementing the AAL Joint Programme, of any other country, joining the Programme in the course of its implementation, in accordance with this Decision.
+                        (23)
+                     Appropriate measures should be taken to prevent irregularities and fraud and the necessary steps should be taken to recover funds lost, wrongly paid or incorrectly used in accordance with Council Regulation (EC, Euratom) No 2988/95 of 18 December 1995 on the protection of the European Communities’ financial interests 
+                        (, Council Regulation (Euratom, EC) No 2185/96 of 11 November 1996 concerning on-the-spot checks and inspections carried out by the Commission in order to protect the European Communities’ financial interests against fraud and other irregularities 5)(, and Regulation (EC) No 1073/1999 of the European Parliament and of the Council of 25 May 1999 concerning investigations conducted by the European Anti-Fraud Office (OLAF) 6)(.7)
+                        (24)
+                     In accordance with Council Regulation (EC, Euratom) No 1605/2002 of 25 June 2002 on the Financial Regulation applicable to the general budget of the European Communities 
+                        ( (hereinafter referred to as the Financial Regulation) and Commission Regulation (EC, Euratom) No 2342/2002 of 23 December 2002 laying down detailed rules for the implementation of Council Regulation (EC, Euratom) No 1605/2002 on the Financial Regulation applicable to the general budget of the European Communities 8)( (hereinafter referred to as the Implementing Rules), the Community contribution should be managed in the framework of indirect centralised management in accordance with the provisions of Articles 54(2)(c) and 56 of the Financial Regulation, and Articles 35, 38(2) and 41 of the Implementing Rules.9)
+                        (25)
+                     It is essential that the research activities carried out under the AAL Joint Programme conform to basic ethical principles, including those reflected in Article 6 of the Treaty on European Union and in the Charter of Fundamental Rights of the European Union, and follow the principles of gender mainstreaming and gender equality. In the execution of the Programme account should also be taken of the promotion of the role of women in science and research.
+                        (26)
+                     The AAL Joint Programme should also aim at promoting equitable and simplified access to relevant ICT-based products and services across all Member States.
+                        (27)
+                     The Commission should conduct an interim evaluation by 2010, assessing the quality and efficiency of the implementation of the AAL Joint Programme and progress towards the objectives set. That evaluation should also assess the need for further interim evaluations to be conducted before the final evaluation at the end of 2013,
+                        HAVE ADOPTED THIS DECISION:
+            Article 1
+               1.   In implementing the Seventh Framework Programme, the Community shall make a financial contribution to the ambient assisted living joint research and development programme (the AAL Joint Programme) undertaken jointly by Belgium, Denmark, Germany, Ireland, Greece, Spain, France, Italy, Cyprus, Luxembourg, Hungary, the Netherlands, Austria, Poland, Portugal, Romania, Slovenia, Finland, Sweden and the United Kingdom (the participating Member States) as well as Israel, Norway and Switzerland.
+               2.   The Community shall pay a financial contribution amounting to a maximum of EUR 150 million for the duration of the Seventh Framework Programme for the implementation of the AAL Joint Programme, in accordance with the principles set out in Annex I, which forms an integral part of this Decision.
+            3.   The Community financial contribution shall be paid from the appropriation in the general budget of the European Union allocated to the information and communication technologies (ICT) theme of the Specific Programme ‘Cooperation’.
+            Article 2
+               The Community financial contribution shall be conditional upon:
+                        (a)
+                     demonstration by the participating Member States, Israel, Norway and Switzerland that the AAL Joint Programme as described in Annex I has been efficiently set up;
+                        (b)
+                     the formal establishment or designation by the participating Member States, Israel, Norway and Switzerland, or organisations designated by the participating Member States, Israel, Norway and Switzerland, of a dedicated implementation structure with legal personality which shall be responsible for implementing the AAL Joint Programme and for receiving, allocating and monitoring the Community financial contribution in the framework of indirect centralised management in accordance with Articles 54(2)(c) and 56 of the Financial Regulation and Articles 35, 38(2) and 41 of the Implementing Rules;
+                        (c)
+                     the establishment of an appropriate and efficient governance model for the AAL Joint Programme in conformity with the guidelines set out in Annex II, which forms an integral part of this Decision;
+                        (d)
+                     efficient carrying out of the activities under the AAL Joint Programme described in Annex I by the dedicated implementation structure, which entails the launch of calls for proposals for the award of grants;
+                        (e)
+                     commitments by the participating Member States, Israel, Norway and Switzerland to contribute to the financing of the AAL Joint Programme and the effective payment of their financial contribution, in particular the funding of participants in the projects selected following the calls for proposals launched under the AAL Joint Programme;
+                        (f)
+                     compliance with the State aid rules of the Community, and in particular the rules set out in the Community Framework for State Aid for Research and Development and Innovation 
+                        (;10)
+                        (g)
+                     ensuring a high level of scientific excellence and observance of ethical principles in accordance with the general principles of the Seventh Framework Programme, of gender mainstreaming and gender equality and of sustainable development; and
+                        (h)
+                     the formulation of provisions governing the intellectual property rights arising from the activities carried out under the AAL Joint Programme and the implementation and coordination of the research and development programmes and activities undertaken at national level by the participating Member States, Israel, Norway and Switzerland in such a way that they aim at promoting the creation of such knowledge and at supporting wide use and dissemination of the knowledge created.
+            Article 3
+               In the implementation of the AAL Joint Programme, the granting of financial support by the dedicated implementation structure to third parties, and in particular financial support provided to participants in projects selected following calls for proposals for the award of grants, shall be subject to the principles of equal treatment and transparency, predictability for applicants and independent evaluation. The financial support to third parties shall be granted on the basis of scientific excellence, socioeconomic impact at European level and relevance to the overall objectives of the programme, in accordance with the principles and procedures set out in Annex I.
+            Article 4
+               The arrangements for the Community financial contribution and the rules relating to financial liability and intellectual property rights, as well as the detailed rules for the provision of financial support by the dedicated implementation structure to third parties, shall be established by means of a general agreement to be concluded between the Commission, on behalf of the Community, and the dedicated implementation structure, and annual financing agreements.
+            Article 5
+               If the AAL Joint Programme is not implemented or is implemented inadequately, partially or late, the Community may reduce, withhold or terminate its financial contribution in line with the actual implementation of the AAL Joint Programme.
+               If the participating Member States, Israel, Norway and Switzerland do not contribute or contribute only partially or late to the financing of the AAL Joint Programme, the Community may reduce its financial contribution in line with the actual amount of public funding allocated by the participating Member States, Israel, Norway and Switzerland on the terms laid down in the agreement to be concluded between the Commission and the dedicated implementation structure.
+            Article 6
+               In implementing the AAL Joint Programme, the participating Member States, Israel, Norway and Switzerland shall take all the legislative, regulatory, administrative or other measures necessary for protecting the Communities’ financial interests. In particular, the participating Member States, Israel, Norway and Switzerland shall take the necessary measures to ensure full recovery of any amounts due to the Community, in accordance with Article 54(2)(c) of the Financial Regulation and Article 38(2) of the Implementing Rules.
+            Article 7
+               The Commission and the Court of Auditors may, through their officials or agents, carry out all the checks and inspections needed to ensure proper management of the Community funds and protect the financial interests of the Community against any fraud or irregularity. To this end, the participating Member States, Israel, Norway and Switzerland and the dedicated implementation structure shall, in due course, make all relevant documents available to the Commission and the Court of Auditors.
+            Article 8
+               The Commission shall communicate all relevant information to the European Parliament, the Council and the Court of Auditors. The participating Member States, Israel, Norway and Switzerland are invited to submit to the Commission, through the dedicated implementation structure, any additional information required by the European Parliament, the Council or the Court of Auditors concerning the financial management of the dedicated implementation structure that is consistent with the overall reporting requirements set out in Article 12(1).
+            Article 9
+               Any Member State may join the AAL Joint Programme, in accordance with the criteria set out in Article 2(e) to (h).
+            Article 10
+               Any third country may join the AAL Joint Programme, in accordance with the criteria set out in Article 2(e) to (h) and, provided that such participation is covered by the relevant international agreement and provided that both the Commission and the participating Member States, Israel, Norway and Switzerland agree to it.
+            Article 11
+               Conditions relating to the Community financial contribution concerning the participation in the AAL Joint Programme of any country associated with the Seventh Framework Programme or, where essential for implementing the AAL Joint Programme, of any other country, may be agreed by the Community on the basis of the rules set out in this Decision and of any implementing rules and arrangements.
+            Article 12
+               1.   The annual report on the Seventh Framework Programme presented to the European Parliament and the Council pursuant to Article 173 of the Treaty shall include a report on the activities of the AAL Joint Programme.
+               2.   An interim evaluation of the AAL Joint Programme shall be carried out by the Commission two years after the start of the Programme, but in any case no later than 2010. If deemed necessary after the first interim evaluation, further interim evaluations may be carried out.
+                  The interim evaluation shall cover the progress towards the objectives of the AAL Joint Programme set out in Annex I, including recommendations on the most appropriate ways to further enhance integration, the quality and efficiency of the implementation, including scientific, management and financial integration, of the AAL Joint Programme and whether the level of the financial contributions of the participating Member States, Israel, Norway and Switzerland is appropriate, given the potential demand from their various national research communities. Experience from other joint programmes carried out under Article 169 of the Treaty shall also be taken into account.
+                  The Commission shall communicate the conclusions of the interim evaluation, accompanied by its observations and, where appropriate, proposals for the adaptation of this Decision, to the European Parliament and the Council.
+            3.   At the end of 2013, the Commission shall conduct a final evaluation of the AAL Joint Programme. The results of the final evaluation shall be presented to the European Parliament and the Council.
+            Article 13
+               This Decision shall enter into force on the third day following its publication in the 
+            Official Journal of the European Union.
+         Article 14
+               This Decision is addressed to the Member States.
+         Done at Strasbourg, 9 July 2008.
+                  For the European Parliament
+                  The President
+                  H.-G. PÖTTERING
+                  For the Council
+                  The President
+                  J.-P. JOUYET
+         (  Opinion of the European Parliament of 13 March 2008 (not yet published in the Official Journal) and Council Decision of 23 June 2008.1)
+         (  
+            2)OJ L 412, 30.12.2006, p. 1.
+         (  
+            3)OJ L 400, 30.12.2006, p. 86.
+         (  
+            4)OJ L 391, 30.12.2006, p. 1.
+         (  
+            5)OJ L 312, 23.12.1995, p. 1. Regulation as amended by Commission Regulation (EC) No 1233/2007 (OJ L 279, 23.10.2007, p. 10).
+         (  
+            6)OJ L 292, 15.11.1996, p. 2.
+         (  
+            7)OJ L 136, 31.5.1999, p. 1.
+         (  
+            8)OJ L 248, 16.9.2002, p. 1. Regulation as last amended by Council Regulation (EC) No 1525/2007 (OJ L 343, 27.12.2007, p. 9).
+         (  
+            9)OJ L 357, 31.12.2002, p. 1. Regulation as last amended by Commission Regulation (EC, Euratom) No 478/2007 (OJ L 111, 28.4.2007, p. 13).
+      (  
+            10)OJ C 323, 30.12.2006, p. 1.
+      ANNEX I
+            DESCRIPTION OF THE OBJECTIVES, THE ACTIVITIES AND THE IMPLEMENTATION OF THE AAL JOINT PROGRAMME
+            I.   Specific aims
+            The AAL Joint Programme has the following specific aims:
+                     —
+                  foster the emergence of innovative ICT-based products, services and systems for ageing well at home, in the community, and at work, thus improving the quality of life, autonomy, participation in social life, skills and employability of older people and reducing the costs of health and social care. This may be based, for example, on innovative utilisation of ICT, new methods of customer interaction or new types of value chains for independent living services. The results of the AAL Joint Programme could also be used by other groups of people, namely people with disabilities,
+                     —
+                  create a critical mass of research, development and innovation at EU level in the areas of technologies and services for ageing well in the information society, including the establishment of a favourable environment for the participation of small and medium-sized enterprises (SMEs) in the Programme,
+                     —
+                  improve conditions for the industrial exploitation of research results by providing a coherent European framework for developing common approaches, including common minimum standards and facilitating the localisation and adaptation of common solutions which are compatible with varying social preferences and regulatory aspects at national or regional level across Europe.
+                     By focusing on applied research, the AAL Joint Programme will complement related longer-term research activities envisaged under the Seventh Framework Programme, as well as the demonstration activities forming part of the Competitiveness and Innovation Framework Programme (2007 to 2013) established by Decision No 1639/2006/EC of the European Parliament and of the Council 
+            (, which focuses on large-scale uptake of existing solutions.1)Through its activities, the AAL Joint Programme shall contribute to the achievement of the renewed Lisbon Strategy objectives and the knowledge-based society, while endeavouring to ensure that the use of new technologies does not lead to social exclusion. The Programme shall also promote the development of cost-effective solutions that can help to ensure equitable, simplified access to ICT products and services, including access to services through a choice of different channels that respect the privacy and dignity of the elderly in all regions of Europe, including rural and peripheral areas.
+            Moreover, the AAL Joint Programme should promote innovation in and co-financing from the private sector, in particular SMEs, for market-related projects and the adaptation of technology and solutions developed under projects to the needs of the elderly, with a view to their increased social participation.
+            Wherever possible, complementarity and synergies between the AAL Joint Programme and other Community, national and regional programmes shall be ensured.
+            Due account shall be taken of possible ethical and privacy issues, in line with international guidelines.
+            II.   Activities
+            The main activity in the AAL Joint Programme consists of research, development and innovation activities. These are to be implemented via shared-cost transnational projects involving partners from at least three different countries from among the participating Member States, Israel, Norway and Switzerland and other participating countries addressing research, technological development, demonstration and dissemination activities. These should be targeted at market-oriented research, should be of short to medium-term duration and should demonstrate the capability to exploit the project results within a realistic time frame.
+            In addition, brokerage, programme promotion and networking activities may be implemented through dedicated events or in combination with existing events. These shall include the organisation of workshops and the establishment of contacts with other stakeholders in the value chain.
+            The AAL Joint Programme shall entail consultation with relevant European stakeholders (such as decision-makers from ministries and public sector authorities, private-sector service and insurance providers as well as industry, SMEs and user representatives) concerning the research priorities to be addressed and the implementation of the programme.
+            The AAL Joint Programme should also take into account demographic trends and demographic research in the various countries of Europe in order to provide solutions that reflect the social and economic situation across the Union.
+            III.   Programme implementation
+            Annual work programme and calls for proposals
+            The AAL Joint Programme shall be implemented on the basis of annual work programmes identifying topics for calls for proposals to be agreed with the Commission as a basis for the financial contribution from the Community.
+            The AAL Joint Programme shall issue regular calls for proposals in line with the agreed annual work programme. Proposals are submitted centrally to the dedicated implementation structure by the applicants (single entry point).
+            After the closure of a call for proposals, a central eligibility check shall be carried out by the dedicated implementation structure in cooperation with the national programme management agencies. The check shall be performed on the basis of the common eligibility criteria for the AAL Joint Programme which shall be published with the annual work programme and shall include at least the following:
+                     —
+                  timely, complete and electronic submission of the proposal, and
+                     —
+                  the fulfilment of obligations concerning the composition of consortia.
+                     In addition, the dedicated implementation structure shall, with the assistance of the national programme management agencies, check the fulfilment of national eligibility criteria published with the annual work programme and set out in the calls for proposals. The national eligibility criteria shall relate only to the legal and financial status of the individual applicants and not to the content of the proposal and shall cover:
+                     —
+                  applicant type, including legal status and purpose,
+                     —
+                  liability and viability, including financial soundness, fulfilment of fiscal and social obligations.
+                     Eligible project proposals shall be evaluated and selected centrally with the assistance of independent experts, on the basis of transparent and common evaluation criteria, as set out in the work programme. This selection, once adopted by the General Assembly, shall be binding on the participating Member States, Israel, Norway and Switzerland.
+            The dedicated implementation structure shall be responsible for monitoring projects, and common operational procedures to manage the full project cycle shall be put in place.
+            As administrative matters concerning national project partners within the selected projects shall be handled by their national Programme Management Agency, national eligibility criteria strictly relating to the legal and financial status of individual participants, as specified above, as well as the national administrative principles shall be applied.
+            Where, at the contracting stage, a participant fails to meet one of the national eligibility criteria, the AAL Joint Programme shall safeguard scientific excellence. For this purpose, the Executive Board may decide that an additional central independent evaluation of the proposal concerned should be carried out with the assistance of independent experts, in order to evaluate the proposal without the participation of the participant in question or, if suggested by the project consortium, with a replacement participant.
+            Each country shall finance its national participants whose proposals are successful through national agencies that shall additionally channel the central funding from the dedicated implementation structure, on the basis of an agreement to be concluded between the respective national agencies and their national participants for each project.
+            Ensuring scientific, management and financial integration
+            The AAL Joint Programme shall ensure scientific integration of the participating national programmes by drawing up common work programmes and call topics across all the national programmes.
+            Management integration of the national programmes shall be ensured by the legal entity set up by the participating Member States and Israel, Norway and Switzerland. Management of the AAL Joint Programme shall include:
+                     —
+                  central organisation of the calls for proposals,
+                     —
+                  central, independent and transparent evaluation by experts at European level based on common rules and criteria for the evaluation and selection of the proposals on the basis of scientific excellence,
+                     —
+                  single submission address (electronic submission is envisaged).
+                     The AAL Joint Programme shall strengthen financial integration by:
+                     —
+                  ensuring overall national funding commitments for the duration of the initiative as well as annual commitments for each proposed work programme,
+                     —
+                  ensuring that the final ranking of proposals agreed on the basis of the evaluation will be binding on the participating Member States, Israel, Norway and Switzerland as described above, including at the contracting stage,
+                     —
+                  promoting flexibility in national budget allocation as far as possible to handle exceptions, e.g. by increasing national contributions or cross-financing.
+                     Every effort shall be made by the participating Member States to strengthen integration and remove existing national legal and administrative barriers for international cooperation as part of the initiative.
+            IV.   Funding principles
+            The Community contribution shall represent a fixed percentage of the overall public funding from the participating national programmes, but shall in any case not exceed 50 % of the total public funding of a participant in a project selected following calls for proposals under the AAL Joint Programme. This fixed percentage shall be defined in the agreement between the dedicated implementation structure and the Commission and shall be based on the multiannual commitment of the participating Member States and Israel, Norway and Switzerland and the Community contribution.
+            A maximum of 6 % of the Community financial contribution shall be used to contribute to the overall operational costs of the AAL Joint Programme.
+            The participating Member States, Israel, Norway and Switzerland shall also contribute to ensure the effective operation of the AAL Joint Programme.
+            Projects shall be co-financed by the project participants.
+            V.   Deliverables expected from the implementation of the AAL Joint Programme
+            An annual report shall be provided by the dedicated implementation structure, which shall give a detailed overview of the implementation of the AAL Joint Programme (number of projects submitted and selected for funding, use of the Community funding, distribution of national funds, types of participant, country statistics, brokerage events and dissemination activities, etc.) and progress towards further integration.
+            The deliverables expected shall be set out in greater detail in the agreement to be concluded between the Commission, on behalf of the Community, and the dedicated implementation structure.
+         (  
+            1)OJ L 310, 9.11.2006, p. 15.
+      ANNEX II
+            GUIDELINES FOR THE GOVERNANCE OF THE AAL JOINT PROGRAMME
+            The organisational structure for the AAL Joint Programme is as follows:
+                  The AAL Association, an international not-for-profit association established under Belgian law, constitutes the dedicated implementation structure created by the participating Member States and Israel, Norway and Switzerland.
+                  The AAL Association is responsible for all the activities of the AAL Joint Programme. The AAL Association’s tasks include contract and budget management, the development of the annual work programmes, organisation of the calls for proposals, handling of the evaluation and ranking of projects. In addition, it supervises project monitoring and transfers the associated payments of the Community contributions to nominated national programme agencies. It also organises dissemination activities.
+                  The AAL Association is governed by the General Assembly. The General Assembly, which is the decision-making body of the AAL Joint Programme, appoints the members of the Executive Board and supervises the implementation of the AAL Joint Programme, including approval of annual work programmes, allocation of national funding to projects and applications for new membership. It will work on the basis of a one-country one-vote principle. Decisions are taken by simple majority, except for decisions on the succession, admission or exclusion of members or the dissolution of the Association, for which specific voting requirements may be set out in the statutes of the Association. The Commission has observer status in the meetings of the General Assembly.
+                  The AAL Executive Board — consisting of at least a president, a vice-president and a treasurer — is elected by the General Assembly to undertake the specific management responsibilities such as budget planning, staffing and contracting. It legally represents the Association and reports to the General Assembly.
+                  National programme management agencies are authorised by the participating Member States and Israel, Norway and Switzerland to undertake work associated with project management and administrative and legal aspects for the national project partners as well as to provide support for the evaluation and negotiation of project proposals. They work under the supervision of the AAL Association.
+                  An Advisory Board with representatives from industry and other stakeholders, including representatives of people of different generations, will provide recommendations for priorities and topics to be addressed in the calls for proposals of the AAL Joint Programme.

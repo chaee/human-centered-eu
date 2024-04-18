@@ -1,0 +1,288 @@
+ CONVEX # converter_version:9.15.0 # generated_on:20231206-1914 # ELI version:0.10 
+      L_2014169EN.01001401.xml
+               7.6.2014   
+               EN
+               Official Journal of the European Union
+            L 169/14
+            DECISION No 554/2014/EU OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL
+            of 15 May 2014
+            on the participation of the Union in the Active and Assisted Living Research and Development Programme jointly undertaken by several Member States
+         THE EUROPEAN PARLIAMENT AND THE COUNCIL OF THE EUROPEAN UNION,
+            Having regard to the Treaty on the Functioning of the European Union, and in particular Article 185, and the second paragraph of Article 188, thereof,
+            Having regard to the proposal from the European Commission,
+            After transmission of the draft legislative act to the national parliaments,
+            Having regard to the opinion of the European Economic and Social Committee 
+            (,1)
+            Acting in accordance with the ordinary legislative procedure 
+            (,2)Whereas:
+                        (1)
+                     In its Communication of 3 March 2010 entitled 'Europe 2020 A strategy for smart, sustainable and inclusive growth' (the "Europe 2020 strategy"), the Commission emphasised the need to develop favourable conditions for investment in knowledge and innovation so as to achieve smart, sustainable and inclusive growth in the Union. Both the European Parliament and the Council have endorsed that strategy.
+                        (2)
+                     Regulation (EU) No 1291/2013 of the European Parliament and of the Council 
+                        ( established Horizon 2020 - The Framework Programme for Research and Innovation (2014-2020) ("Horizon 2020"). Horizon 2020 aims at achieving a greater impact on research and innovation by contributing to the strengthening of public-public partnerships, including through Union participation in programmes undertaken by several Member States in accordance with Article 185 of the Treaty on the Functioning of the European Union.3)
+                        (3)
+                     Public-public partnerships should aim to develop closer synergies, increase coordination and avoid unnecessary duplication with Union, international, national and regional research programmes, and should fully respect the Horizon 2020 general principles, in particular those relating to openness and transparency. Moreover, open access to scientific publications should be ensured.
+                        (4)
+                     Decision No 742/2008/EC of the European Parliament and of the Council 
+                        ( provides for a Community financial contribution to the Ambient Assisted Living Joint Research and Development Programme ("AAL JP") matching that of the Member States but not exceeding EUR 150 000 000 for the duration of the Seventh Framework Programme of the European Community for research, technological development and demonstration activities (2007-2013) established by Decision No 1982/2006/EC of the European Parliament and of the Council 4)(.5)
+                        (5)
+                     In December 2012, the Commission communicated to the European Parliament and the Council a report on the interim evaluation of the AAL JP. That evaluation was carried out by an expert panel. The overall opinion of that expert panel was that the AAL JP had achieved good progress towards its objectives and remarkable results and that it should be continued beyond the current funding period. The expert panel noted however a few shortcomings, in particular the need for stronger user involvement in projects from the earliest possible stage and further improvements of the operational performance in terms of time-to-contract and time to payment.
+                        (6)
+                     The interim evaluation of 2010 and the consultation process of 2012 highlighted the diversity of financial instruments, eligibility rules and reimbursement systems. Participating States, through the Ambient Assisted Living General Assembly, could reflect on this and promote the exchange of good practices.
+                        (7)
+                     In its communication of 12 October 2006 entitled 'The demographic future of Europe — from challenge to opportunity', the Commission underlined the fact that demographic ageing is one of the main challenges facing all the Member States and that increased use of new technologies could help to control costs, improve well-being and promote the active participation in society of elderly people, as well as improving the competitiveness of Union economy.
+                        (8)
+                     Under the flagship initiative 'Innovation Union' of the Europe 2020 strategy, the Commission indicated the ageing of the population as one of the societal challenges where innovation breakthroughs can play an important role and boost competitiveness, enable European companies to lead in the development of new technologies, to grow and assume global leadership in new growth markets, improve the quality and efficiency of public services and so contribute to creating large numbers of new quality jobs.
+                        (9)
+                     About 20 million people across the Union are employed in "white-coat" jobs in the health sector and social services sector, a figure which is expected to increase in the coming years due to the aging population. Training and life-long learning in this sensitive sector should be a key priority. Therefore, the need for white coat jobs and for investments in modern skills, such as using information technologies, should be assessed more precisely.
+                        (10)
+                     In its communication of 19 May 2010 entitled 'A Digital Agenda for Europe', the Commission proposed to reinforce the AAL JP in order to help address the challenges of the ageing population.
+                        (11)
+                     In its communication of 29 February 2012 entitled 'Taking forward the Strategic Implementation Plan of the European Innovation Partnership on Active and Healthy Ageing', the Commission proposed to take account of relevant priorities of the Strategic Implementation Plan for future research and innovation work programmes and instruments which are part of Horizon 2020. The Commission also proposed to take into account the contributions that can be made by the AAL JP to the European Innovation Partnership on Active and Healthy Ageing.
+                        (12)
+                     Under the European Innovation Partnership on Active and Healthy Ageing established under the Innovation Union, innovative information and communication technologies (ICT) based solutions are expected to play an important role in meeting its goals of two additional healthy life years by 2020 as well as improving quality of life for citizens and improving efficiency of care systems in the Union. Its Strategic Implementation Plan sets out priorities for accelerating and scaling up innovation in active and healthy ageing across the Union, in three domains: prevention and health promotion, care and cure, and independent living and social inclusion.
+                        (13)
+                     Since ICT systems handle a large amount of personal data and profiles, and operate in real-time communication, thus bringing with them a high risk of data security breaches, data protection aspects should be taken into account. Moreover, the right to privacy should be respected.
+                        (14)
+                     The Active and Assisted Living Research and Development Programme ('the AAL Programme') should build on the achievements of the previous programme and address its shortcomings by encouraging sufficient user participation in projects from the initial stage, in order to ensure that solutions developed are acceptable and respond to specific user needs, and by ensuring better AAL Programme implementation.
+                        (15)
+                     The implementation of the AAL Programme should take into account a broad definition of innovation including organisational, business, technological, societal and environmental aspects. It should ensure a multidisciplinary approach and the integration of social sciences and humanities within the AAL Programme.
+                        (16)
+                     Activities of the AAL Programme should be in line with the objectives and research and innovation priorities of Horizon 2020 and with the general principles and conditions laid down in Article 26 of Regulation (EU) No 1291/2013.
+                        (17)
+                     A ceiling should be established for the Union's financial participation in the AAL Programme for the duration of Horizon 2020. The Union's financial participation in the AAL Programme should not exceed the financial contribution of the Participating States for the duration of Horizon 2020 in order to achieve a high leverage effect and ensure an active involvement of the Participating States in achieving the AAL Programme objectives.
+                        (18)
+                     In order to take into account the duration of Horizon 2020, calls for proposals under the AAL Programme should be launched at the latest by 31 December 2020. In duly justified cases, calls for proposals may be launched by 31 December 2021.
+                        (19)
+                     In line with the objectives of Regulation (EU) No 1291/2013, any Member State and any country associated to Horizon 2020 should be entitled to participate in the AAL Programme at any appropriate time.
+                        (20)
+                     In order to ensure that a financial commitment by the Union will be matched by the Participating States, the financial contribution by the Union should be subject to formal commitments from the Participating States before the launch of the AAL Programme and their fulfilment. The Participating States' contribution to the AAL Programme should include the administrative costs incurred at national level for the effective operation of the AAL Programme.
+                        (21)
+                     The joint implementation of the AAL Programme requires an implementation structure. The Participating States have agreed on the implementation structure for the AAL Programme and set up in 2007 the "Ambient Assisted Living" aisbl, an international non-profit association with legal personality established under Belgian law ('AALA'). Given that, according to the report on the interim evaluation, the existing governance structure of AAL JP has proven to be efficient and of good quality, the AALA should be used as the implementation structure and should take the role as allocation and monitoring body of the AAL Programme. The AALA should manage the Union's financial contribution and should ensure an efficient implementation of the AAL Programme.
+                        (22)
+                     In order to achieve the objectives of the AAL Programme, the AALA should provide financial support mainly through grants to participants in actions selected by the AALA. Those actions should be selected following calls for proposals under the responsibility of the AALA, which should be assisted by independent external experts. The ranking list should be binding as regards the selection of proposals and the allocation of funding from the Union's financial contribution and from the national budgets for AAL Programme projects.
+                        (23)
+                     The Union's financial contribution should be managed in accordance with the principle of sound financial management and with the rules on indirect management laid down in Regulation (EU, Euratom) No 966/2012 of the European Parliament and of the Council 
+                        ( and Commission Delegated Regulation (EU) No 1268/2012 6)(.7)
+                        (24)
+                     In order to protect the financial interests of the Union, the Commission should, through proportionate measures, have the right to reduce, withhold or terminate the Union's financial contribution where the AAL Programme is implemented inadequately, partially or late, or the Participating States do not contribute, or contribute partially or late, to the financing of the AAL Programme. Those rights should be provided for in the delegation agreement to be concluded between the Union and the AALA.
+                        (25)
+                     For the purpose of simplification, administrative burdens should be reduced for all parties. Double audits and disproportionate documentation and reporting should be avoided. When audits are conducted, the specificities of the national programmes should be taken into account, as appropriate.
+                        (26)
+                     Participation in indirect actions funded by the AAL Programme is subject to Regulation (EU) No 1290/2013 of the European Parliament and of the Council 
+                        (. However, due to specific operating needs of the AAL Programme it is necessary to provide for derogations from that Regulation in accordance with Article 1(3) of that Regulation.8)
+                        (27)
+                     Calls for proposals by AALA should also be published on the single portal for participants as well as through other Horizon 2020 electronic means of dissemination managed by the Commission.
+                        (28)
+                     Specific derogations from Regulation (EU) No 1290/2013 are necessary, as the AAL Programme is intended as a market-oriented research and innovation programme in which many different national funding streams are joined up (such as research innovation, health and industry funding programmes). By their nature, those national programmes have different participation rules and cannot be expected to fully align with Regulation (EU) No 1290/2013. In addition, the AAL Programme is targeting in particular small and medium-sized enterprises and user organisations not usually participating in Union research and innovation activities. In order to facilitate the participation of those enterprises and organisations, the Union's financial contribution is provided in accordance with the well-known rules of their national funding programmes and implemented through a single grant combining Union funding with the corresponding national funding.
+                        (29)
+                     The financial interests of the Union should be protected through proportionate measures throughout the expenditure cycle, including the prevention, detection and investigation of irregularities, the recovery of funds lost, wrongly paid or incorrectly used and, where appropriate, administrative and financial penalties in accordance with Regulation (EU, Euratom) No 966/2012.
+                        (30)
+                     The Commission should conduct, with the assistance of independent experts, an interim evaluation assessing in particular the quality and efficiency of the AAL Programme and progress towards the objectives set, as well as a final evaluation, and prepare a report on those evaluations.
+                        (31)
+                     The evaluation should be based on precise and up-to-date information. Upon request from the Commission, the AALA and the Participating States should therefore submit any information which the Commission needs to include in the reports on the evaluation of the AAL Programme.
+                        (32)
+                     The actions envisaged in the AAL Programme should help underpin European public health and care systems, since they are an essential means of sustaining social welfare and reducing the welfare gap between regions and population sectors that is widening alarmingly owing to the current economic and social crisis.
+                        (33)
+                     The AAL Programme should ensure the effective promotion of gender equality as set out in Horizon 2020. The AAL Programme should promote gender equality and the gender dimension in research and innovation content. Particular attention should be paid to gender balance, subject to the situation in the field, in evaluation panels and in bodies such as advisory groups and expert groups. The gender dimension should be adequately integrated in research and innovation content in strategies, programmes and projects and followed through at all stages of the research cycle.
+                        (34)
+                     The AAL Programme should comply with ethical principles as set out in Horizon 2020. Particular attention should be paid to the principle of proportionality, the right to privacy, the right to the protection of personal data, the right to the physical and mental integrity, the right to non-discrimination and the need to ensure high levels of human health protection.
+                        (35)
+                     Since Participating States have decided to continue the AAL Programme and since the objectives of this Decision, namely to directly support and complement the Union policies in the field of active and healthy ageing, cannot be sufficiently achieved by the Member States but can rather, by reason of the scale of the action, be better achieved at Union level, the Union may adopt measures, in accordance with the principle of subsidiarity as set out in Article 5 of the Treaty on European Union. In accordance with the principle of proportionality, as set out in that Article, this Decision does not go beyond what is necessary in order to achieve those objectives,
+                        HAVE ADOPTED THIS DECISION:
+            Article 1
+               Participation in the AAL Programme
+               1.   The Union shall participate in the Active and Assisted Living Research and Development Programme ("AAL Programme") jointly undertaken by Austria, Belgium, Cyprus, Denmark, France, Hungary, Ireland, Luxembourg, the Netherlands, Poland, Portugal, Romania, Slovenia, Spain, Sweden, Switzerland and the United Kingdom (the "Participating States"), in accordance with the conditions laid down in this Decision.
+            2.   Any Member State other than those listed in paragraph 1 and any other country associated to Horizon 2020 may apply to join the AAL Programme at any time, provided it fulfils the condition set out in point (c) of Article 3(1) of this Decision. If it fulfils the condition laid down in point (c) of Article 3(1), it shall be regarded as a Participating State for the purposes of this Decision.
+            Article 2
+               Union's financial contribution
+               1.   The Union financial contribution to the AAL Programme covering administrative costs and operational costs shall be up to EUR 175 000 000. The Union's financial contribution shall be paid from appropriations in the general budget of the Union allocated to the relevant parts of the Specific Programme implementing Horizon 2020, established by Council Decision 2013/743/EU 
+               ( in accordance with point (c)(vi) of Article 58(1) and Articles 60 and 61 of Regulation (EU, Euratom) No 966/2012.9)
+               2.   The annual financial commitment of the Union to the AAL Programme shall not exceed the annual financial commitment to the AAL Programme by Participating States.
+            3.   An amount not exceeding 6 % of the Union financial contribution referred to in paragraph 1 shall be used to contribute to the administrative costs of the AAL Programme.
+            Article 3
+               Conditions for the Union's financial contribution
+               1.   The Union's financial contribution shall be conditional upon the following:
+                           (a)
+                        the demonstration by the Participating States that the AAL Programme is set up in accordance with Annexes I and II;
+                           (b)
+                        the designation by the Participating States or by organisations designated by the Participating States, of the AALA, as the structure responsible for the implementation of the AAL Programme and for allocating and monitoring the Union's financial contribution;
+                           (c)
+                        a commitment by each Participating State to contribute to the financing of the AAL Programme;
+                           (d)
+                        demonstration by the AALA of its capacity to implement the AAL Programme, including allocating and monitoring the Union contribution in the framework of indirect management of the Union budget in accordance with Articles 58, 60 and 61 of Regulation (EU, Euratom) No 966/2012; and
+                           (e)
+                        the establishment of a governance model for the AAL Programme in accordance with Annex III.
+            2.   During the implementation of the AAL Programme, the Union's financial contribution shall also be conditional upon the following:
+                           (a)
+                        the implementation by the AALA of the AAL Programme objectives as set out in Annex I and activities set out in Annex II to this Decision in accordance with Regulation (EU) No 1290/2013, subject to Article 5 of this Decision;
+                           (b)
+                        the maintenance of an appropriate and efficient governance model in accordance with Annex III;
+                           (c)
+                        compliance by the AALA with the reporting requirements set out in Article 60 (5) of Regulation (EU, Euratom) No 966/2012; and
+                           (d)
+                        fulfilment of the commitments by each Participating State referred to in point (c) of paragraph 1 and fulfilment of the annual commitments to contribute to the financing of the AAL Programme.
+            Article 4
+               Contributions from Participating States
+               Contributions from the Participating States shall consist of the following:
+                        (a)
+                     financial contributions to the indirect actions supported under the AAL Programme in accordance with Annex II;
+                        (b)
+                     in-kind contributions corresponding to the administrative costs incurred by the national administrations for the effective implementation of the AAL Programme in accordance with Annex II.
+            Article 5
+               Rules for participation and dissemination
+               1.   For the purposes of Regulation (EU) No 1290/2013, the AALA shall be considered to be a funding body and shall provide financial support to indirect actions in accordance with Annex II to this Decision.
+               2.   By way of derogation from Article 15(9) of Regulation (EU) No 1290/2013, the financial capacity of applicants shall be verified by the designated national programme management organisation in accordance with the rules of participation in the designated national programmes.
+               3.   By way of derogation from Article 18(2) of Regulation (EU) No 1290/2013, the grant agreements with participants shall be signed by the designated national programme management agency.
+               4.   By way of derogation from Article 23(1), (5) to (7)] and Articles 25 to 35 of Regulation (EU) No 1290/2013, the funding rules of the designated national programmes shall apply to the grants administered by the designated national programme management agencies.
+            5.   By way of derogation from Articles 41 to 49 of Regulation (EU) No 1290/2013, the rules of the designated national programmes governing results, access rights to background and results shall apply, without prejudice to the principle of open access to scientific publications set out in Article 18 of Regulation (EU) No 1291/2013.
+            Article 6
+               Implementation of the AAL Programme
+               The AAL Programme shall be implemented on the basis of a strategy implemented through annual work plans in accordance with Annex II.
+            Article 7
+               Agreements between the Union and the AALA
+               1.   Subject to a positive ex-ante assessment of the AALA in accordance with Article 61(1) of Regulation (EU, Euratom) No 966/2012, the Commission, on behalf of the Union, shall conclude a delegation agreement and annual transfer of funds agreements with the AALA.
+            2.   The delegation agreement referred to in paragraph 1 shall be concluded in accordance with Article 58(3) and Articles 60 and 61 of Regulation (EU, Euratom) No 966/2012 and with Article 40 of Delegated Regulation (EU) No 1268/2012. It shall also set out the following:
+                           (a)
+                        the requirements concerning the AALA's contribution regarding relevant indicators from among the performance indicators set out in Annex II to Decision 2013/743/EU;
+                           (b)
+                        the requirements concerning the AALA's contribution to the monitoring referred to in Decision 2013/743/EU;
+                           (c)
+                        the specific performance indicators necessary for monitoring the functioning of the AALA in accordance with Article 3(2);
+                           (d)
+                        the arrangements regarding the provision of data and information necessary to ensure that the Commission is able to meet its dissemination and reporting obligations.
+                           (e)
+                        provision for the publication of calls for proposals by the AALA in particular on the single portal for participants, as well as through other Horizon 2020 electronic means of dissemination managed by the Commission.
+            Article 8
+               Termination, reduction or suspension of the Union's financial contribution
+               1.   Where the AAL Programme is not implemented in accordance with the conditions set out in Article 3, the Commission may terminate, proportionally reduce, or suspend the Union's financial contribution in line with the actual implementation of the AAL Programme.
+            2.   Where the Participating States do not contribute, contribute partially, or late to the financing of the AAL Programme, the Commission may terminate, proportionately reduce, or suspend the Union's financial contribution, taking into account the amount of funding allocated by the Participating States to implement the AAL Programme.
+            Article 9
+               Ex-post audits
+               1.   Ex-post audits of expenditure on indirect actions shall be carried out by the designated national programme management agencies in accordance with Article 29 of Regulation (EU) No 1291/2013.
+            2.   The Commission may decide to carry out itself the audits referred to in paragraph 1. In such cases, it shall do so in accordance with the applicable rules, in particular the provisions of Regulations (EU, Euratom) No 966/2012, (EU) No 1290/2013 and (EU) No 1291/2013.
+            Article 10
+               Protection of the financial interests of the Union
+               1.   The Commission shall take appropriate measures ensuring that, when actions financed under this Decision are implemented, the financial interests of the Union are protected by the application of preventive measures against fraud, corruption and any other illegal activities, by effective checks and, if irregularities are detected, by the recovery of the amounts wrongly paid and, where appropriate, by effective, proportionate and dissuasive administrative and financial penalties.
+               2.   The European Anti-Fraud Office (OLAF) may carry out investigations, including on-the-spot checks and inspections, in accordance with the provisions and procedures laid down in Council Regulation (Euratom, EC) No 2185/96 
+               ( and Regulation (EU, Euratom) No 883/2013 of the European Parliament and of the Council 10)(, with a view to establishing whether there has been fraud, corruption or any other illegal activity affecting the financial interests of the Union in connection with a grant agreement or grant decision or a contract funded in accordance with this Decision.11)
+               3.   Contracts, grant agreements and grant decisions resulting from the implementation of this Decision shall contain provisions expressly empowering the Commission, AALA, the Court of Auditors and OLAF to conduct audits and investigations, in accordance with their respective competences.
+               4.   The AALA shall grant the Commission staff and other persons authorised by the Commission, as well as by the Court of Auditors, access to its sites and premises and to all the information, including information in electronic format, needed in order to conduct the audits referred to in paragraph 3.
+            5.   In implementing the AAL Programme, the Participating States shall take the legislative, regulatory, administrative or other measures necessary for protecting the Union's financial interests, in particular, to ensure the full recovery of any amounts due to the Union in accordance with Regulation (EU, Euratom) No 966/2012 and Delegated Regulation (EU) No 1268/2012.
+            Article 11
+               Communication of information
+               1.   At the request of the Commission, the AALA shall submit to the Commission any information necessary for the preparation of the reports referred to in Article 12.
+               2.   The Participating States shall submit, through the AALA, any relevant information requested by the European Parliament or the Council concerning the financial management of the AAL Programme.
+            3.   The Commission shall communicate the information referred to in paragraph 2 of this Article in the reports set out in Article 12.
+            Article 12
+               Evaluation
+               1.   By 30 June 2017 the Commission shall carry out, with the assistance of independent experts, an interim evaluation of the AAL Programme. The Commission shall prepare a report on that evaluation which includes the conclusions of the evaluation and observations by the Commission. The Commission shall send that report to the European Parliament and to the Council by 31 December 2017. The result of the interim evaluation of AAL Programme shall be taken into account in the interim evaluation of Horizon 2020.
+            2.   At the end of Union participation in the AAL Programme but no later than 31 December 2022, the Commission shall conduct a final evaluation of the AAL Programme. The Commission shall prepare a report on that evaluation which is to include results of the evaluation. The Commission shall send that report to the European Parliament and to the Council.
+            Article 13
+               Entry into force
+               This Decision shall enter into force on the twentieth day following that of its publication in the 
+            Official Journal of the European Union.
+         Article 14
+               Addressees
+               This Decision is addressed to the Member States.
+         Done at Brussels, 15 May 2014.
+                  For the European Parliament
+                  The President
+                  M. SCHULZ
+                  For the Council
+                  The President
+                  D. KOURKOULAS
+         (  Opinion of 10 December 2013 (not yet published in the Official Journal).1)
+         (  Position of the European Parliament of 15 April 2014 (not yet published in the Official Journal) and decision of the Council of 6 May 2014.2)
+         (  Regulation (EU) No 1291/2013 of the European Parliament and of the Council of 11 December 2013 establishing Horizon 2020 - the Framework Programme for Research and Innovation (2014-2020) and repealing Decision No 1982/2006/EC (3)OJ L 347, 20.12.2013, p. 104).
+         (  Decision No 742/2008/EC of the European Parliament and of the Council of 9 July 2008 on the Community's participation in a research and development programme undertaken by several Member States aimed at enhancing the quality of life of older people through the use of new information and communication technologies (4)OJ L 201, 30.7.2008, p. 49).
+         (  Decision No 1982/2006/EC of the European Parliament and of the Council of 18 December 2006 concerning the Seventh Framework Programme of the European Community for research, technological development and demonstration activities (2007-2013) (5)OJ L 412, 30.12.2006, p. 1).
+         (  Regulation (EU, Euratom) No 966/2012 of the European Parliament and of the Council of 25 October 2012 on the financial rules applicable to the general budget of the Union and repealing Council Regulation (EC, Euratom) No 1605/2002 (6)OJ L 298, 26.10.2012, p. 1).
+         (  Commission Delegated Regulation (EU) No 1268/2012 of 29 October 2012 on the rules of application of Regulation (EU, Euratom) No 966/2012 (7)OJ L 362, 31.12.2012, p. 1).
+         (  Regulation (EU) No 1290/2013 of the European Parliament and of the Council of 11 December 2013 laying down the rules for participation and dissemination in "Horizon 2020 - the Framework Programme for Research and Innovation (2014-2020)" and repealing Regulation (EC) No 1906/2006 (8)OJ L 347, 20.12.2013, p. 81).
+         (  Council Decision 2013/743/EU of 3 December 2013 establishing the specific programme implementing Horizon 2020 - the Framework Programme for Research and Innovation (2014-2020) and repealing Decisions 2006/971/EC, 2006/972/EC, 2006/973/EC, 2006/974/EC and 2006/975/EC (9)OJ L 347, 20.12.2013, p. 965).
+         (  Council Regulation (Euratom, EC) No 2185/96 of 11 November 1996 concerning on-the-spot checks and inspections carried out by the Commission in order to protect the European Communities' financial interests against fraud and other irregularities (10)OJ L 292, 15.11.1996, p. 2).
+      (  Regulation (EU, Euratom) No 883/2013 of the European Parliament and of the Council of 11 September 2013 concerning investigations conducted by the European Anti-Fraud Office (OLAF) and repealing Regulation (EC) No 1073/1999 of the European Parliament and of the Council and Council Regulation (Euratom) No 1074/1999 (11)OJ L 248, 18.9.2013, p. 1).
+      ANNEX I
+            OBJECTIVES OF THE AAL PROGRAMME
+                     1.
+                  The AAL Programme shall fulfil the following objectives:
+                                 1.1.
+                              accelerate the emergence and take-up of relevant, affordable and integrated innovative ICT-based solutions for active and healthy ageing at home, in the community, or at work, thus improving the quality of life, autonomy, social inclusion, participation in social life, skills or employability of older adults and contributing to increasing the efficiency and effectiveness of health and social care provision;
+                                 1.2.
+                              support the development of solutions that contribute to the independence and alleviation of a sense of social isolation of older adults, in such a way that the ICT component does not reduce human contact, but is complementary to it. ICT-based solutions supported under the AAL Programme should integrate non-ICT aspects by design;
+                                 1.3.
+                              maintain and further develop a critical mass of applied research, development and innovation at Union level in the areas of ICT-based products and services for active and healthy ageing;
+                                 1.4.
+                              develop cost-effective, accessible and, where relevant, energy-efficient solutions, including establishing relevant interoperability standards and facilitating the localisation and adaptation of common solutions which are compatible with varying social preferences, socio-economic factors (including energy poverty, social inclusion), gender aspects, and regulatory aspects at national or regional level, respect the privacy and dignity of older adults, including the protection and security of personal data by applying state-of-the-art privacy-by-design and, where applicable, support access to services in rural and outlying areas or benefit other groups of people, such as people with disabilities. To improve accessibility, the concept of Design for All will be promoted in the development and deployment of solutions.
+                     2.
+                  The AAL Programme shall establish a favourable environment for the participation of small and medium-sized enterprises.
+                     3.
+                  The AAL Programme shall focus on market-oriented applied research and innovation and shall complement related longer-term research and large scale innovation activities envisaged under Horizon 2020, and other European and national initiatives such as joint programming initiatives and activities undertaken within the European Institute of Innovation and Technology and its relevant Knowledge and Innovation Communities. It shall also contribute to the implementation of the European Innovation Partnership on Active and Healthy Ageing.
+      ANNEX II
+            ACTIVITIES OF THE AAL PROGRAMME
+            I.   
+            Indirect actions
+                     1.
+                  The implementation of the AAL Programme shall mainly support market-oriented research and innovation projects for active and healthy ageing, which shall demonstrate the capability to exploit the project results within a realistic time frame; the financing of those indirect actions under the AAL Programme shall mainly take the form of grants. It may also take other forms such as prizes, pre-commercial procurement, and public procurement of innovative solutions.
+                     2.
+                  In addition, actions for the purposes of brokerage, programme promotion, in particular outreach activities to countries not currently participating in the AAL Programme, actions to raise awareness of the current capabilities, foster deployment of innovative solutions and connect supply and demand side organisations and facilitating access to finance and investors may be supported.
+                     3.
+                  Actions aimed at improving the quality of proposals, feasibility studies and workshops may also be supported. Collaboration with the regions of the Union may be envisaged to enlarge the group of stakeholders involved in the AAL Programme.
+                     4.
+                  Actions shall aim to consolidate and analyse different methods of end-user involvement in order to develop evidence-based best practice guidelines.
+                     II.   
+            Implementation
+                     1.
+                  The AAL Programme shall be implemented on the basis of annual work plans identifying forms of funding and topics for calls for proposals. The work plans shall be derived from a published strategy, highlighting challenges and priorities, adopted by the AALA.
+                     2.
+                  The annual work plans shall be agreed with the Commission as a basis for the annual financial contribution from the Union.
+                     3.
+                  The implementation of the AAL Programme shall entail consultations, including on strategy, with relevant stakeholders (including decision-makers from public authorities, user representatives, private-sector service providers and insurance providers as well as industry, including small and medium-sized enterprises) concerning the applied research and innovation priorities to be addressed.
+                     4.
+                  The implementation of the AAL Programme shall take into account demographic trends and demographic research in order to provide solutions that reflect the social and economic situation across the Union.
+                     5.
+                  The implementation of the AAL Programme shall take into account the Union's industrial, climate and energy policies. The AAL Programme shall also promote energy efficiency and reflect the need to tackle energy poverty.
+                     6.
+                  Due account shall be taken of gender, ethical, social sciences and humanities and privacy issues, in line with the Horizon 2020 principles and rules. Account shall also be taken of relevant Union and national legislation and international guidelines, in particular regarding the rights to privacy and data protection.
+                     7.
+                  In line with the close-to-market nature of the AAL Programme and in compliance with the rules set out in Regulation (EU, Euratom) No 966/2012, the AALA shall ensure time-to-grant and time-to-payment in accordance with Regulation (EU) No 1290/2013 and ensure compliance with them by Participating States during the implementation of the AAL Programme.
+                     8.
+                  Each Participating State shall strongly promote, from the earliest stage of all research and innovation projects, the participation of organisations representing demand side actors, including end users.
+                     9.
+                  Each Participating State shall co-finance its national participants whose proposals are successful through national agencies that shall, in addition, channel the Union co-funding from the dedicated implementation structure, on the basis of a common project description, which forms part of an agreement to be concluded between the respective national programme management agencies and their national participants for each project.
+                     10.
+                  After the closure of a call for project proposals, a central eligibility check shall be carried out by the AALA in cooperation with the designated national programme management agencies. That check shall be performed on the basis of the common eligibility criteria for the AAL Programme which shall be published with the call for project proposals.
+                     11.
+                  The AALA shall, with the assistance of the national programme management agencies, check the fulfilment of additional national eligibility criteria set out in the calls for project proposals.
+                     12.
+                  The national eligibility criteria shall relate only to the legal and financial status of the individual applicants and not to the content of the proposal and shall concern the following aspects:
+                                 12.1.
+                              applicant type, including legal status and purpose;
+                                 12.2.
+                              liability and viability, including financial soundness, fulfilment of tax and social obligations.
+                     13.
+                  Eligible project proposals shall be evaluated by the AALA with the assistance of independent experts, on the basis of transparent and common evaluation criteria, as set out in the published call for proposals, and a list of projects in order of score shall be produced. Projects shall be selected in accordance with that ranking and taking account of available funding. That selection, once adopted by the General Assembly of the AALA, shall be binding on the Participating States.
+                     14.
+                  If a project participant fails to meet one or more of the national eligibility criteria or if the corresponding national budget for commitment for funding is exhausted, the Executive Board of the AALA may decide that an additional central independent evaluation of the proposal concerned should be carried out with the assistance of independent experts, in order to evaluate the proposal either without the participation of the participant in question or with a replacement participant, as suggested by project participants.
+                     15.
+                  Legal and financial issues concerning participants in projects selected for funding shall be handled by the designated national programme management agency. National administrative rules and principles shall be applied.
+      ANNEX III
+            GOVERNANCE OF THE AAL PROGRAMME
+            The organisational structure for the AAL Programme shall be as follows:
+                     1.
+                  The AALA shall constitute the dedicated implementation structure created by the Participating States.
+                     2.
+                  The AALA shall be responsible for all the activities of the AAL Programme. The AALA's tasks shall include contract and budget management, the development of the annual work plans, organisation of the calls for proposals, handling of the evaluation and ranking of proposals for funding.
+                     3.
+                  In addition, the AALA shall supervise and be responsible for project monitoring and shall transfer the associated payments of the Union contributions to designated national programme management agencies. It shall also organise dissemination activities.
+                     4.
+                  The AALA shall be governed by the General Assembly. The General Assembly shall be the decision-making body of the AAL Programme. It shall appoint the members of the Executive Board and supervise the implementation of the AAL Programme, including the approval of the strategy and annual work plans, allocation of national funding to projects and the handling of applications for new membership. It shall work on the basis of a one-country one-vote principle. Decisions shall be taken by simple majority, except for decisions on the succession, admission or exclusion of members or the dissolution of the AALA, for which specific voting requirements may be set out in the statutes of the AALA.
+                     5.
+                  The Commission shall have an observer status in the meetings of the AALA General Assembly and shall approve the annual work plan. The Commission shall be invited to all the meetings of the AALA and may take part in the discussions. All the relevant documents circulated in connection with the AALA General Assembly shall be communicated to the Commission.
+                     6.
+                  The AALA Executive Board — consisting of at least a president, a vice-president, a treasurer and a vice-treasurer — shall be elected by the AALA General Assembly to undertake specific management responsibilities such as budget planning, staffing and contracting. It shall legally represent the AALA and report to the AALA General Assembly.
+                     7.
+                  The Central Management Unit established as a part of the AALA shall be responsible for the central management of the implementation of the AAL Programme in close coordination and cooperation with the national programme management agencies, which shall be authorised by the Participating States to undertake work associated with project management and administrative and legal aspects for the national project participants as well as to provide support for the evaluation and negotiation of project proposals. The Central Management Unit and national programme management agencies shall work together as the Management Unit under the supervision of the AALA.
+                     8.
+                  An Advisory Board shall be established by the AALA with representatives from industry, users and other relevant stakeholders, seeking balance between generations and gender. It shall provide recommendations to the AALA on the overall programme strategy, concerning priorities and topics to be addressed in the calls for proposals and regarding other relevant actions of the AAL Programme.

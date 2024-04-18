@@ -1,0 +1,83 @@
+ CONVEX # converter_version:7.3.2 # generated_on:20161004-0011 
+   L_2016269EN.01002001.xml
+            4.10.2016   
+            EN
+            Official Journal of the European Union
+         L 269/20
+   COMMISSION IMPLEMENTING DECISION (EU) 2016/1765
+   of 3 October 2016
+   on the identification of ICT Technical Specifications for referencing in public procurement
+   (Text with EEA relevance)
+   THE EUROPEAN COMMISSION,
+   Having regard to the Treaty on the Functioning of the European Union,
+   Having regard to Regulation (EU) No 1025/2012 of the European Parliament and of the Council of 25 October 2012 on European standardisation, amending Council Directives 89/686/EEC and 93/15/EEC and Directives 94/9/EC, 94/25/EC, 95/16/EC, 97/23/EC, 98/34/EC, 2004/22/EC, 2007/23/EC, 2009/23/EC and 2009/105/EC of the European Parliament and of the Council and repealing Council Decision 87/95/EEC and Decision No 1673/2006/EC of the European Parliament and of the Council
+    ( and in particular Article 13(1) thereof,1)After consulting the European multi-stakeholder platform on ICT standardisation and sectoral experts
+   Whereas:
+            (1)
+         Standardisation plays an important role in supporting the Europe 2020 strategy, as set out in the Communication from the Commission entitled ‘Europe 2020: A strategy for smart, sustainable and inclusive growth’. Several flagship initiatives of the Europe 2020 strategy underlined the importance of voluntary standardisation in product or services markets to assure the compatibility and interoperability between products and services, foster technological development and support innovation.
+            (2)
+         Standards are essential for European competitiveness and crucial for innovation and progress. Their relevance is highlighted by the Commission in the context of the recent initiatives for the completion of Single Market
+             ( and the Digital Single market2) ( where the role of standardisation and interoperability in creating a European Digital Economy is reinforced with the adoption of the Communication on ICT Standardisation Priorities for the Digital Single Market3) ( setting out a comprehensive strategic and political approach to standardisation for priority ICT Technologies that are critical to the completion of the Digital Single Market.4)
+            (3)
+         In the digital society standardisation deliverables become indispensable to ensure interoperability of networks and systems. The Communication from the Commission entitled ‘A strategic vision for European standards: moving forward to enhance and accelerate the sustainable growth of the European economy by 2020’
+             ( recognises the specificity of standardisation in the field of information and communication technologies (ICT), where solutions, applications and services are often developed by global ICT Fora and Consortia that have emerged as leading ICT standards development organisations.5)
+            (4)
+         Regulation (EU) No 1025/2012 aims at modernising and improving the European standardisation framework. It establishes a system whereby the Commission may decide to identify the most relevant and most widely accepted ICT technical specifications issued by organisations that are not European, international or national standardisation organisations. The possibility of using the full range of ICT technical specifications when procuring hardware, software and information technology services will enable interoperability between devices, services and applications, will help public administrations to avoid lock-in that occurs when the public procurer cannot change a provider after the expiration of the procurement contract because using ICT proprietary solutions, and will encourage competition in the supply of interoperable ICT solutions.
+            (5)
+         For the ICT technical specifications to be eligible for referencing in public procurement they must comply with the requirements set out in Annex II to Regulation (EU) No 1025/2012. Compliance with those requirements guarantees the public authorities that the ICT technical specifications are established in accordance with the principles of openness, fairness, objectivity and non-discrimination that are recognised by the World Trade Organisation in the field of standardisation.
+            (6)
+         The decision to identify the ICT specification is to be adopted after consultation of the European multi-stakeholder platform on ICT standardisation set up by Commission Decision 2011/C-349/04
+             ( complemented by other forms of consultation of sectoral experts.6)
+            (7)
+         The European multi-stakeholder platform on ICT standardisation evaluated and gave a positive advice to the identification of the Technical specifications ‘World Customs Organization Data Model version 3.5’ (hereinafter referred as ‘WCO Data Model v 3.5’) and of ‘Content Management Interoperability Services version 1.0 & version 1.1’ (hereinafter referred as CMIS v1.0 & v1.1), ‘Electronic business XML Messaging Services Version 3.0: Part 1, Core Features’ and ‘Application Statement 4 Profile of ebMS 3.0 Version 1.0’ (hereinafter referred as ‘ebMS3.0-AS4’), Business Document Metadata Service Location Version 1.0 (hereinafter referred as ‘BDX location’) and ‘Electronic business Core Party Identification Type Technical Specification Version 1.0’ (hereinafter referred as ‘ebCorePartyIdType’), those developed by OASIS, for referencing in public procurement. The evaluation was subsequently submitted to consultation of sectoral experts who confirmed the positive advice to its identification.
+            (8)
+         ‘WCO Data Model version 3.5’ technical specification has been developed by the World Customs Organization (WCO) and consists of a set of data requirements that are mutually supportive and which meet the procedural and legal needs of cross-border regulatory agencies such as Customs, controlling export, import and transit transactions. It is consistent with the United Nations Trade Data Elements Directory (UNTDED), and is widely used by WCO Member administrations in the implementation of cross-border regulatory systems, including electronic declaration systems and single window environments.
+            (9)
+         ‘CMIS v1.0’ technical specification issued by OASIS (Advancing open standards for the information society) allows different content management systems to interoperate over the internet. It offers a standardised way to save, retrieve and find documents and thus makes it possible to exchange information between different content repositories. More specifically, ‘CMIS v1.0’ defines an abstraction layer for controlling diverse document management systems and repositories using web protocols. The specification describes concepts and functionalities that are supported and offered by most content repositories, such as searching, requesting, adding and changing of content and metadata. ‘CMIS v1.1’ technical specification is fully compatible with ‘CMIS v1.0’ and includes additional functionalities.
+            (10)
+         The ‘electronic business XML Messaging Service’ (‘ebMS 3.0’) developed by OASIS facilitates the exchange of electronic business messages within an XML Web Services framework that leverages common internet technical specifications. The goal of ‘ebMS 3.0’ is to foster broad adoption among all actors — large or small, public administration or private company– that collaborate in business processes using the exchange of messages, to handle differences in message flow capacity, intermittent connectivity, lack of static IP addresses or firewall restrictions. The ‘Application Statement 4 Profile of ebMS 3.0 Version 1.0’ (abbreviated as ‘AS4’) technical specification is a modern Web services-based protocol that provides guidance for a standardised methodology for the secure and document-agnostic.
+            (11)
+         The ‘Business Document Metadata Service Location’ (‘BDX Location’) technical specification issued by OASIS is an update of the PEPPOL concept of Service Metadata Location (SML). A metadata service for business interactions provides information about the kind of data transactions and corresponding enabling technologies available for specific business process participants. The ‘BDX Location’ technical specification refers to the location of a metadata service primarily as a URL-specified endpoint identifier.
+            (12)
+         The ‘ebCorePartyIdType’ technical specification developed by OASIS specifies a formal mechanism for referencing party type identification schemes using a formal Uniform Resource Name (URN) namespace for organisation identifiers that leverages three international standards: ISO/IEC 6523, ISO 9735 and ISO 20022.
+            HAS ADOPTED THIS DECISION:
+   Article 1
+   The technical specifications listed in the Annex are eligible for referencing in public procurement.
+   Article 2
+   This Decision shall enter into force on the twentieth day following that of its publication in the 
+   Official Journal of the European Union.
+   Done at Brussels, 3 October 2016.
+         For the Commission
+         The President
+         Jean-Claude JUNCKER
+   (  1)OJ L 316, 14.11.2012, p. 12.
+   (  Communication from the Commission ‘upgrading the single market: more opportunities for people and business’. COM(2015) 550 final of 28 October 2015.2)
+   (  Communication on a Digital Single Market Strategy for Europe. COM(2015) 192 final of 6 May 2015.3)
+   (  COM(2016)176 final of 19 April 2016.4)
+   (  COM(2011) 311 final of 1 June 2011.5)
+   (  Commission Decision 2011/C-349/04 of 28 November 2011 setting up the European multi-stakeholder platform on ICT standardisation (6)OJ C 349, 30.11.2011, p. 4).
+   ANNEX
+      Word Customs Organization (WCO)
+          (
+      1)
+               No
+            Title of ICT technical specification
+               1
+            World Customs Organization Data Model version 3.5 (‘WCO Data Model version 3.5’)
+      OASIS (Advancing open standards for the information society)
+          (
+      2)
+               No
+            Title of ICT technical specification
+               1
+            ‘Content Management Interoperability Services version 1.0’ (‘CMIS 1.0’)
+               2
+            ‘Content Management Interoperability Services version 1.1’ (‘CMIS 1.1’)
+               3
+            Business Document Metadata Service Location Version 1.0 (‘BDX location’)
+               4
+            ‘Electronic business XML Messaging Services Version 3.0: Part 1, Core Features’ and ‘Application Statement 4 Profile of ebMS 3.0 Version 1.0’ (‘ebMS3.0-AS4’)
+               5
+            Electronic business Core Party Identification Type Technical Specification Version 1.0 (‘ebCorePartyIdType’)
+      (  http://www.wcoomd.org/1)
+   (  http://www.oasis-open.org/2)

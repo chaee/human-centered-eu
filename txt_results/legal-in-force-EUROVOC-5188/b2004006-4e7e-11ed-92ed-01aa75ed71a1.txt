@@ -1,0 +1,64 @@
+ CONVEX # converter_version:9.15.0 # generated_on:20231208-0751 # ELI version:0.10 
+      L_2022270EN.01006201.xml
+               18.10.2022   
+               EN
+               Official Journal of the European Union
+            L 270/62
+            COUNCIL DECISION (EU) 2022/1962
+            of 13 October 2022
+            on the position to be taken on behalf of the European Union within the European Committee for drawing up Standards in the field of Inland Navigation and within the Central Commission for the Navigation of the Rhine on the adoption of standards concerning inland navigation vessels and river information services
+         THE COUNCIL OF THE EUROPEAN UNION,
+            Having regard to the Treaty on the Functioning of the European Union, and in particular Article 91(1), in conjunction with Article 218(9) thereof,
+            Having regard to the proposal from the European Commission,
+            Whereas:
+                        (1)
+                     The Revised Convention for Rhine Navigation of 17 October 1868, as amended by the Convention amending the Revised Convention for the Navigation of the Rhine, signed in Strasbourg on 20 November 1963 (the ‘Convention’), entered into force on 14 April 1967.
+                        (2)
+                     Pursuant to the Convention, the Central Commission for the Navigation of the Rhine (‘CCNR’) is able to adopt technical requirements for inland navigation vessels for the certificates issued under Article 22 of the Convention.
+                        (3)
+                     Under the Convention, the CCNR is able to modify its regulatory framework related to river information services (‘RIS’) by referring to the standards adopted by the European Committee for drawing up Standards in the field of Inland Navigation (‘CESNI’) and making those standards mandatory in the framework of the application of the Convention.
+                        (4)
+                     The CESNI was created on 3 June 2015 in the framework of the CCNR in order to develop technical standards for inland waterways in various fields, in particular as regards vessels, information technology and crew.
+                        (5)
+                     Action by the Union in the sector of inland navigation should aim to ensure uniformity in the development of technical requirements and specifications applied in the Union, in particular as regards inland navigation vessels and RIS.
+                        (6)
+                     For the purpose of efficient transport and safe navigation on the inland waterways, it is important that the technical requirements for vessels and RIS are compatible and as harmonised as possible under different legal regimes in Europe. In particular, Member States which are also members of the CCNR should support decisions harmonising the CCNR rules with those applied in the Union.
+                        (7)
+                     The CESNI, in its next meeting on 13 October 2022, is expected to adopt the European Standard laying down Technical Requirements for Inland Navigation vessels 2023/1 (‘ES-TRIN 2023/1’) and the European Standard for River Information Services 2023/1 (‘ES-RIS 2023/1’).
+                        (8)
+                     ES-TRIN 2023/1 lays down uniform technical requirements necessary to ensure the safety of inland navigation vessels. It includes provisions regarding shipbuilding, fitting out and equipment for inland navigation vessels, special provisions regarding specific categories of vessels such as passenger vessels, pushed convoys and container vessels, provisions regarding the automatic identification system equipment, provisions regarding vessel identification, a model of certificates and register, transitional provisions, as well as instructions for the application of the technical standard.
+                        (9)
+                     Annex II to Directive (EU) 2016/1629 of the European Parliament and of the Council 
+                        ( refers to the technical requirements for craft as being those provided in ES-TRIN 2021/1. The Commission is empowered to update this reference in Annex II to that Directive to the most recent version of the ES-TRIN standard and to set the date of its application. Therefore, ES-TRIN 2023/1 will affect Directive (EU) 2016/1629.1)
+                        (10)
+                     It is therefore appropriate to establish the position to be taken on the Union’s behalf within the CESNI, as the ES-TRIN 2023/1 will be capable of decisively influencing the content of Union law, namely Directive (EU) 2016/1629.
+                        (11)
+                     ES-RIS 2023/1 lays down uniform technical specifications and standards in order to support RIS and ensure their interoperability. The technical specifications and standards under ES-RIS 2023/1 correspond to the technical specifications and standards for which adoption is required by Directive 2005/44/EC of the European Parliament and of the Council 
+                        (, in particular in the following areas: electronic chart display and information system for inland navigation; electronic ship reporting; notices to skippers; vessel tracking and tracing systems and compatibility of the equipment necessary for the use of RIS.2)
+                        (12)
+                     Technical specifications for RIS are based on the technical principles set out in Annex II to Directive 2005/44/EC and take account of work carried out in this field by relevant international organisations.
+                        (13)
+                     It is therefore appropriate to establish the position to be taken on the Union’s behalf within the CESNI, as ES-RIS 2023/1 will be capable of decisively influencing the content of Union law, namely the binding technical specifications adopted within the framework of Directive 2005/44/EC.
+                        (14)
+                     The CCNR, in an upcoming plenary session, is expected to adopt resolutions that will amend the CCNR Regulations to include a reference to ES-TRIN 2023/1 and ES-RIS 2023/1.Therefore, it is also appropriate to establish the position to be taken on the Union’s behalf within the CCNR.
+                        (15)
+                     The Union is not a member of the CCNR nor of the CESNI. The Union’s position should therefore be expressed by the Member States that are members of those bodies, acting jointly in the interest of the Union.
+                        (16)
+                     The proposed position of the Union is to adopt ES-TRIN 2023/1 and ES-RIS 2023/1 as they facilitate the highest level of safety in inland navigation, follow the technical evolution in this sector and ensure compatibility of requirements for vessels and compatibility of river information services in Europe,
+                        HAS ADOPTED THIS DECISION:
+            Article 1
+               1.   The position to be taken on the Union’s behalf within the European Committee for drawing up Standards in the field of Inland Navigation (‘CESNI’) with regard to the adoption of European standards ES-TRIN 2023/1 and ES-RIS 2023/1 shall be to agree to their adoption.
+            2.   The position to be taken on the Union’s behalf within the Central Commission for the Navigation of the Rhine (‘CCNR’) shall be to support all proposals aligning the CCNR Regulations with ES-TRIN 2023/1 and ES-RIS 2023/1.
+            Article 2
+               1.   The position set out in Article 1(1) shall be expressed by the Member States that are members of the CESNI, acting jointly in the interest of the Union.
+            2.   The position set out in Article 1(2) shall be expressed by the Member States that are members of the CCNR, acting jointly in the interest of the Union.
+            Article 3
+               Minor technical changes to the positions set out in Article 1 may be agreed upon without further decision of the Council.
+         Article 4
+               This Decision shall enter into force on the date of its adoption.
+         Done at Luxembourg, 13 October 2022.
+                  For the Council
+                  The President
+                  P. BLAŽEK
+         (  Directive (EU) 2016/1629 of the European Parliament and of the Council of 14 September 2016 laying down technical requirements for inland waterway vessels, amending Directive 2009/100/EC and repealing Directive 2006/87/EC (1)OJ L 252, 16.9.2016, p. 118).
+      (  Directive 2005/44/EC of the European Parliament and of the Council of 7 September 2005 on harmonised river information services (RIS) on inland waterways in the Community (2)OJ L 255, 30.9.2005, p. 152).

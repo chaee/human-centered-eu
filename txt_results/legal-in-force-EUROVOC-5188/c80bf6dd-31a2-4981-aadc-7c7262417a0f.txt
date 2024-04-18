@@ -1,0 +1,1627 @@
+ CONVEX # converter_version:3.2 # generated_on:20140125-2110 
+   L_2009267EN.01002001.xml
+            10.10.2009   
+            EN
+            Official Journal of the European Union
+         L 267/20
+   COMMISSION DECISION
+   of 9 October 2009
+   on a Community financial contribution towards Member States’ fisheries control, inspection and surveillance programmes for 2009
+   (notified under document C(2009) 7592)
+   (Only the Bulgarian, Danish, Dutch, English, Estonian, Finnish, French, German, Greek, Italian, Lithuanian, Maltese, Polish, Portuguese, Romanian, Spanish and Swedish texts are authentic)
+   (2009/746/EC)
+   THE COMMISSION OF THE EUROPEAN COMMUNITIES,
+   Having regard to the Treaty establishing the European Community,
+   Having regard to Council Regulation (EC) No 861/2006 of 22 May 2006 establishing Community financial measures for the implementation of the common fisheries policy and in the area of the Law of the Sea
+    (, and in particular Article 21 thereof,1)Whereas:
+            (1)
+         Member States have forwarded to the Commission their fisheries control programme for 2009 together with the applications for a Community financial contribution towards the expenditure to be incurred in carrying out the projects contained in such programme.
+            (2)
+         Applications concerning actions listed in Article 8(a) of Regulation (EC) No 861/2006 may qualify for Community funding.
+            (3)
+         Applications for Community funding are to comply with the rules set out in Commission Regulation (EC) No 391/2007
+             (.2)
+            (4)
+         It is appropriate to fix the maximum amounts and the rate of the Community financial contribution within the limits set by Article 15 of Regulation (EC) No 861/2006 and to lay down the conditions under which such contribution may be granted.
+            (5)
+         In order to encourage investment in the priority actions defined by the Commission and in view of the negative impact of the financial crisis on Member States’ budgets, expenditure related to electronic recording and reporting systems (ERS) and vessel monitoring systems (VMS), as well as to the prevention of illegal, unreported and unregulated (IUU) fishing, should benefit from a high co-financing rate, within the limits laid down in Article 15 of Regulation (EC) No 861/2006.
+            (6)
+         In order to qualify for the contribution, automatic localisation devices should satisfy the requirements fixed by Commission Regulation (EC) No 2244/2003 of 18 December 2003 laying down detailed provisions regarding satellite-based Vessel Monitoring Systems
+             (.3)
+            (7)
+         In order to qualify for the contribution, electronic recording and reporting devices on board fishing vessels should satisfy the requirements laid down by Commission Regulation (EC) No 1077/2008 of 3 November 2008 laying down detailed rules for the implementation of Council Regulation (EC) No 1966/2006 on electronic recording and reporting of fishing activities and on means of remote sensing and repealing Regulation (EC) No 1566/2007
+             (.4)
+            (8)
+         The measures provided for in this Decision are in accordance with the opinion of the Committee for Fisheries and Aquaculture,
+            HAS ADOPTED THIS DECISION:
+   Article 1
+   Subject matter
+   This Decision provides for a Community financial contribution for 2009 towards expenditure incurred by Member States for 2009 in implementing the monitoring and control systems applicable to the common fisheries policy (CFP), as referred to in Article 8(a) of Regulation (EC) No 861/2006. It establishes the amount of the Community financial contribution for each Member State, the rate of the Community financial contribution and the conditions on which such contribution may be granted.
+   Article 2
+   Closure of outstanding commitments
+   All payments in respect of which a reimbursement is claimed shall be made by the Member State concerned by 30 June 2013. Payments made by a Member State after that deadline shall not be eligible for reimbursement. Unused budgetary appropriations related to this Decision shall be de-committed at the latest by 31 December 2014.
+   Article 3
+   New technologies and IT networks
+   1.   Expenditure incurred on the purchase of, installation and technical assistance for, computer technology and setting up of IT networks in order to allow efficient and secure data exchange in connection with monitoring, control and surveillance of fisheries activities, shall qualify for a financial contribution of 50 % of the eligible expenditure, within the limits laid down in Annex I.
+   2.   In case of expenditure under Annex I that is related to vessel monitoring systems (VMS), electronic recording and reporting systems (ERS) or illegal, unregulated and unreported fishing, the co-finance rate referred to in paragraph 1 is set at 95 %.
+   Article 4
+   Automatic localisation devices
+   1.   Expenditure incurred on the purchase and fitting on board of fishing vessels of automatic localisation devices enabling vessels to be monitored at a distance by a fisheries monitoring centre through a VMS shall qualify for a financial contribution of 95 % of the eligible expenditure, within the limits established in Annex II.
+   2.   The financial contribution referred to in paragraph 1 shall be limited to EUR 1 500 per vessel.
+   3.   In order to qualify for the financial contribution referred to in paragraph 1, automatic localisation devices shall satisfy the requirements laid down in Regulation (EC) No 2244/2003.
+   Article 5
+   Electronic recording and reporting systems
+   Expenditure incurred on the development, purchase, and installation of, as well as technical assistance for, the components necessary for ERS, in order to allow efficient and secure data exchange related to monitoring, control and surveillance of fisheries activities, shall qualify for a financial contribution of 95 % of the eligible expenditure, within the limits laid down in Annex III.
+   Article 6
+   Electronic recording and reporting devices
+   1.   Expenditure incurred on the purchase and fitting on board of fishing vessels of ERS devices enabling vessels to record and report electronically to a fisheries monitoring centre data on fisheries activities, shall qualify for a financial contribution of 95 % of the eligible expenditure, within the limits established in Annex IV.
+   2.   The financial contribution referred to in paragraph 1 shall be limited to EUR 4 500 per vessel, without prejudice to paragraph 4.
+   3.   In order to qualify for a financial contribution, ERS devices shall satisfy the requirements established under Regulation (EC) No 1077/2008.
+   4.   In case of devices combining ERS and VMS functions, and fulfilling the requirements laid down in Regulations (EC) No 2244/2003 and (EC) No 1077/2008, the financial contribution referred to in paragraph 1 of this Article shall be limited to EUR 6 000.
+   Article 7
+   Pilot projects
+   Expenditure incurred on pilot projects on new control technologies shall qualify for a financial contribution of 95 % of the eligible expenditure, within the limits laid down in Annex V.
+   Article 8
+   Training and exchange programmes
+   Expenditure incurred on training and exchange programmes of civil servants responsible for monitoring, control and surveillance tasks in the fisheries area shall qualify for a financial contribution of 50 % of the eligible expenditure, within the limits laid down in Annex VI.
+   Article 9
+   Pilot inspection and observer schemes
+   Expenditure incurred on pilot inspection and observer schemes shall qualify for a financial contribution of 50 % of the eligible expenditure, within the limits laid down in Annex VII.
+   Article 10
+   Assessment of expenditure
+   Expenditure incurred on implementing a system to assess expenditure incurred in controlling the common fisheries policy shall qualify for a financial contribution of 50 % of the eligible expenditure, within the limits laid down in Annex VIII.
+   Article 11
+   Initiatives raising awareness of CFP rules
+   Expenditure incurred on initiatives including seminar and media tools aimed at enhancing awareness among fishermen and other players such as inspectors, public prosecutors and judges, as well as among the general public, on the need to fight irresponsible and illegal fishing and on the implementation of common fisheries policy rules, shall qualify for a financial contribution of 75 % of the eligible expenditure, within the limits laid down in Annex IX.
+   Article 12
+   Fisheries patrol vessels and aircraft
+   1.   Expenditure related to the purchase and modernisation of vessels and aircraft used for inspection and surveillance of fishing activities by the competent authorities of the Member States shall qualify, within the limits laid down in Annex X, for a financial contribution of 50 % of the eligible expenditure incurred by Member States.
+   2.   The financial contribution specified for each Member State in Annex X is calculated on the basis of the utilisation of the concerned vessels and aircraft for inspection and surveillance as a percentage of their total yearly activity, as declared by the Member States.
+   Article 13
+   Total maximum Community contribution per Member State
+   The total planned expenditure per Member State, the eligible share thereof, and the total maximum Community contribution per Member State for the actions referred to in Articles 3 to 12 are as follows:
+         (in EUR)
+            Member State
+            Expenditure planned in the national fisheries control programme
+            Eligible expenditure under this Decision
+         Community contribution
+            Belgium
+            805 000
+            805 000
+         764 750
+            Bulgaria
+            352 000
+            362 000
+         282 250
+            Denmark
+            1 945 552
+            1 945 552
+         1 667 139
+            Germany
+            222 000
+            278 000
+         220 000
+            Estonia
+            706 000
+            706 000
+         645 500
+            Ireland
+            120 000
+            90 000
+         45 000
+            Greece
+            16 867 000
+            8 928 000
+         4 735 400
+            Spain
+            17 218 103
+            14 772 123
+         8 190 517
+            France
+            2 631 500
+            2 333 000
+         1 049 750
+            Italy
+            19 589 925
+            6 361 340
+         3 273 170
+            Lithuania
+            407 900
+            407 900
+         378 300
+            Malta
+            1 003 475
+            1 003 475
+         922 127
+            Netherlands
+            3 145 000
+            2 750 000
+         2 560 750
+            Poland
+            497 713
+            468 713
+         416 479
+            Portugal
+            783 500
+            759 250
+         629 038
+            Romania
+            80 000
+            80 000
+         62 500
+            Finland
+            920 000
+            820 000
+         659 750
+            Sweden
+            1 715 000
+            1 715 000
+         1 541 750
+            United Kingdom
+            4 309 798
+            3 601 555
+         2 055 830
+            Total
+            73 319 466
+            48 186 908
+         30 100 000
+            Article 14
+   Addressees
+   This Decision is addressed to the Kingdom of Belgium, the Republic of Bulgaria, the Kingdom of Denmark, the Federal Republic of Germany, the Republic of Estonia, Ireland, the Hellenic Republic, the Kingdom of Spain, the French Republic, the Italian Republic, the Republic of Lithuania, the Republic of Malta, the Kingdom of the Netherlands, the Republic of Poland, the Portuguese Republic, Romania, the Republic of Finland, the Kingdom of Sweden, and the United Kingdom of Great Britain and Northern Ireland.
+   Done at Brussels, 9 October 2009.
+         For the Commission
+         Joe 
+         BORG
+      Member of the Commission
+   (  1)OJ L 160, 14.6.2006, p. 1.
+   (  2)OJ L 97, 12.4.2007, p. 30.
+   (  3)OJ L 333, 20.12.2003, p. 17.
+   (  4)OJ L 295, 4.11.2008, p. 3.
+   ANNEX I
+      NEW TECHNOLOGIES AND IT NETWORKS
+            (in EUR)
+               Member State and project code
+               Expenditure planned in the national fisheries control programme
+               Eligible expenditure under this Decision
+            Community contribution
+            Bulgaria
+               BG/09/01
+               20 000
+               30 000
+            15 000
+               BG/09/02
+               13 000
+               13 000
+            6 500
+               BG/09/03
+               12 000
+               12 000
+            6 000
+               BG/09/04
+               25 000
+               25 000
+            23 750
+               BG/09/05
+               70 000
+               70 000
+            66 500
+               Subtotal
+               140 000
+               150 000
+            117 750
+            Denmark
+               DK/09/01
+               134 176
+               134 176
+            127 468
+               DK/09/02
+               402 528
+               402 528
+            201 264
+               DK/09/03
+               670 880
+               670 880
+            637 336
+               DK/09/04
+               167 720
+               167 720
+            159 334
+               DK/09/05
+               167 720
+               167 720
+            159 334
+               Subtotal
+               1 543 024
+               1 543 024
+            1 284 736
+            Germany
+               DE/09/01
+               90 000
+               90 000
+            85 000
+               DE/09/02
+               16 000
+               72 000
+            36 000
+               Subtotal
+               106 000
+               162 000
+            121 500
+            Estonia
+               EE/09/01
+               600 000
+               600 000
+            570 000
+               EE/09/02
+               50 000
+               50 000
+            25 000
+               Subtotal
+               650 000
+               650 000
+            595 000
+            Ireland
+               IE/09/01
+               90 000
+               60 000
+            30 000
+               Subtotal
+               90 000
+               60 000
+            30 000
+            Greece
+               EL/09/01
+               1 500 000
+               368 000
+            64 400
+               EL/09/02
+               210 000
+               0
+            0
+               Subtotal
+               1 710 000
+               368 000
+            64 400
+            Spain
+               ES/09/01
+               530 000
+               530 000
+            265 000
+               ES/09/02
+               146 000
+               146 000
+            73 000
+               ES/09/03
+               99 000
+               99 000
+            49 500
+               ES/09/04
+               16 000
+               0
+            0
+               ES/09/05
+               28 000
+               28 000
+            14 000
+               ES/09/06
+               353 000
+               353 000
+            176 500
+               ES/09/07
+               800 000
+               800 000
+            760 000
+               ES/09/24
+               81 459
+               0
+            0
+               ES/09/28
+               141 120
+               141 120
+            70 560
+               ES/09/32
+               282 000
+               282 000
+            141 000
+               ES/09/35
+               360 000
+               360 000
+            342 000
+               Subtotal
+               2 836 579
+               2 739 120
+            1 891 560
+            France
+               FR/09/01
+               553 500
+               410 000
+            205 000
+               FR/09/02
+               130 000
+               130 000
+            65 000
+               FR/09/03
+               120 000
+               120 000
+            60 000
+               Subtotal
+               803 500
+               660 000
+            330 000
+            Italy
+               IT/09/01
+               220 000
+               55 000
+            27 500
+               Subtotal
+               220 000
+               55 000
+            27 500
+            Lithuania
+               LT/09/01-01
+               27 000
+               27 000
+            25 650
+               Subtotal
+               27 000
+               27 000
+            25 650
+            Netherlands
+               NL/09/01
+               300 000
+               300 000
+            285 000
+               NL/09/02
+               150 000
+               150 000
+            142 500
+               NL/09/03
+               40 000
+               40 000
+            38 000
+               NL/09/04
+               75 000
+               75 000
+            71 250
+               NL/09/11
+               30 000
+               0
+            0
+               NL/09/12
+               30 000
+               30 000
+            28 500
+               Subtotal
+               625 000
+               595 000
+            565 250
+            Poland
+               PL/09/01
+               93 000
+               64 000
+            32 000
+               PL/09/02
+               10 000
+               10 000
+            9 500
+               PL/09/03
+               30 000
+               30 000
+            28 500
+               Subtotal
+               133 000
+               104 000
+            70 000
+            Portugal
+               PT/09/01-01
+               2 500
+               2 500
+            1 250
+               PT/09/01-02
+               218 250
+               194 000
+            97 000
+               PT/09/03
+               1 500
+               1 500
+            750
+               PT/09/04
+               7 000
+               7 000
+            3 500
+               PT/09/05-01
+               40 000
+               40 000
+            38 000
+               PT/09/05-02
+               30 000
+               30 000
+            28 500
+               PT/09/05-03
+               35 000
+               35 000
+            33 250
+               PT/09/05-04
+               125 000
+               125 000
+            118 750
+               PT/09/05-05
+               9 750
+               9 750
+            9 263
+               PT/09/05-06
+               9 000
+               9 000
+            8 550
+               Subtotal
+               478 000
+               453 750
+            338 813
+            Romania
+               RO/09/01
+               15 000
+               15 000
+            7 500
+               Subtotal
+               15 000
+               15 000
+            7 500
+            Finland
+               FI/09/01
+               200 000
+               200 000
+            100 000
+               FI/09/02
+               20 000
+               20 000
+            10 000
+               FI/09/03
+               15 000
+               15 000
+            7 500
+               Subtotal
+               235 000
+               235 000
+            117 500
+            Sweden
+               SE/09/01
+               40 000
+               40 000
+            20 000
+               SE/09/02
+               80 000
+               80 000
+            76 000
+               SE/09/03
+               135 000
+               135 000
+            128 250
+               SE/09/04
+               80 000
+               80 000
+            76 000
+               SE/09/05
+               80 000
+               80 000
+            76 000
+               SE/09/06
+               50 000
+               50 000
+            47 500
+               SE/09/07
+               60 000
+               60 000
+            30 000
+               Subtotal
+               525 000
+               525 000
+            453 750
+            United Kingdom
+               UK/09/01
+               55 880
+               55 880
+            53 086
+               UK/09/03
+               56 916
+               56 916
+            54 071
+               UK/09/04
+               113 831
+               100 000
+            50 000
+               UK/09/25
+               10 245
+               10 245
+            9 733
+               UK/09/26
+               15 362
+               15 362
+            7 681
+               UK/09/27
+               3 415
+               4 000
+            2 000
+               UK/09/30
+               5 123
+               6 000
+            3 000
+               UK/09/34
+               1 890
+               1 890
+            1 796
+               UK/09/37
+               1 708
+               2 000
+            1 000
+               UK/09/43
+               17 758
+               0
+            0
+               UK/09/44
+               17 075
+               17 075
+            8 538
+               UK/09/45
+               13 660
+               13 660
+            6 830
+               UK/09/46
+               10 245
+               12 000
+            6 000
+               UK/09/47
+               1 196
+               1 196
+            598
+               UK/09/48
+               797
+               797
+            758
+               UK/09/60
+               570
+               570
+            285
+               UK/09/64
+               2 277
+               2 000
+            1 000
+               UK/09/65
+               4 241
+               4 241
+            2 121
+               UK/09/67
+               3 159
+               3 159
+            3 002
+               Subtotal
+               335 348
+               306 991
+            211 499
+               Total
+               10 472 451
+               8 648 885
+            6 252 408
+   ANNEX II
+      AUTOMATIC LOCALISATION DEVICES
+            (in EUR)
+               Member State and project code
+               Expenditure planned in the national fisheries control programme
+               Eligible expenditure under this Decision
+            Community contribution
+            Spain
+               ES/09/15
+               90 000
+               90 000
+            45 000
+               ES/09/26
+               89 656
+               89 656
+            85 174
+               Subtotal
+               179 656
+               179 656
+            130 174
+            France
+               FR/09/04
+               1 098 000
+               1 098 000
+            366 000
+               FR/09/05
+               225 000
+               225 000
+            75 000
+               Subtotal
+               1 323 000
+               1 323 000
+            441 000
+            Malta
+               MT/09/01
+               22 000
+               22 000
+            7 500
+               Subtotal
+               22 000
+               22 000
+            7 500
+               Total
+               1 524 656
+               1 524 656
+            578 674
+   ANNEX III
+      ELECTRONIC RECORDING AND REPORTING SYSTEMS
+            (in EUR)
+               Member State and project code
+               Expenditure planned in the national fisheries control programme
+               Eligible expenditure under this Decision
+            Community contribution
+            Belgium
+               BE/09/01
+               280 000
+               280 000
+            266 000
+               BE/09/02
+               300 000
+               300 000
+            285 000
+               Subtotal
+               580 000
+               580 000
+            551 000
+            Bulgaria
+               BG/09/06
+               25 000
+               25 000
+            23 750
+               BG/09/07
+               80 000
+               80 000
+            76 000
+               Subtotal
+               105 000
+               105 000
+            99 750
+            Denmark
+               DK/09/06
+               268 352
+               268 352
+            254 935
+               Subtotal
+               268 352
+               268 352
+            254 935
+            Spain
+               ES/09/08
+               89 553
+               89 553
+            85 076
+               ES/09/09
+               31 732
+               31 732
+            30 146
+               ES/09/10
+               34 694
+               34 694
+            32 960
+               ES/09/11
+               72 764
+               72 764
+            69 126
+               ES/09/12
+               49 885
+               49 885
+            47 391
+               ES/09/13
+               7 431
+               0
+            0
+               ES/09/16
+               70 000
+               70 000
+            66 500
+               Subtotal
+               356 059
+               348 628
+            331 199
+            Lithuania
+               LT/09/01-02
+               353 000
+               353 000
+            335 350
+               Subtotal
+               353 000
+               353 000
+            335 350
+            Malta
+               MT/09/02-01
+               8 400
+               8 400
+            7 980
+               MT/09/02-02
+               60 000
+               60 000
+            57 000
+               MT/09/02-03
+               2 000
+               2 000
+            1 900
+               MT/09/03
+               32 375
+               32 375
+            30 757
+               MT/09/04
+               97 200
+               97 200
+            92 340
+               Subtotal
+               199 975
+               199 975
+            189 977
+            Netherlands
+               NL/09/05
+               40 000
+               40 000
+            38 000
+               NL/09/13
+               200 000
+               200 000
+            190 000
+               Subtotal
+               240 000
+               240 000
+            228 000
+            Poland
+               PL/09/04
+               64 883
+               64 883
+            61 639
+               PL/09/05-01
+               16 665
+               16 665
+            15 832
+               PL/09/05-04
+               18 443
+               18 443
+            17 521
+               PL/09/05-05
+               3 556
+               3 556
+            3 379
+               PL/09/05-07
+               25 000
+               25 000
+            23 750
+               PL/09/06
+               41 166
+               41 166
+            39 108
+               Subtotal
+               169 713
+               169 713
+            161 229
+            Portugal
+               PT/09/02-01
+               53 500
+               53 500
+            50 825
+               PT/09/02-02
+               53 500
+               53 500
+            50 825
+               PT/09/06-01
+               133 000
+               133 000
+            126 350
+               PT/09/06-02
+               53 500
+               53 500
+            50 825
+               PT/09/06-03
+               12 000
+               12 000
+            11 400
+               Subtotal
+               305 500
+               305 500
+            290 225
+            Finland
+               FI/09/04
+               550 000
+               550 000
+            522 500
+               Subtotal
+               550 000
+               550 000
+            522 500
+            Sweden
+               SE/09/08
+               300 000
+               300 000
+            285 000
+               Subtotal
+               300 000
+               300 000
+            285 000
+               Total
+               3 427 599
+               3 420 168
+            3 249 165
+   ANNEX IV
+      ELECTRONIC RECORDING AND REPORTING DEVICES
+            (in EUR)
+               Member State and project code
+               Expenditure planned in the national fisheries control programme
+               Eligible expenditure under this Decision
+            Community contribution
+            Belgium
+               BE/09/03
+               225 000
+               225 000
+            213 750
+               Subtotal
+               225 000
+               225 000
+            213 750
+            Denmark
+               DK/09/07
+               134 176
+               134 176
+            127 468
+               Subtotal
+               134 176
+               134 176
+            127 468
+            Germany
+               DE/09/05
+               90 000
+               90 000
+            85 500
+               Subtotal
+               90 000
+               90 000
+            85 500
+            Estonia
+               EE/09/03
+               50 000
+               50 000
+            47 500
+               Subtotal
+               50 000
+               50 000
+            47 500
+            Greece
+               EL/09/03
+               7 510 000
+               7 510 000
+            4 146 000
+               Subtotal
+               7 510 000
+               7 510 000
+            4 146 000
+            Spain
+               ES/09/14
+               2 000 000
+               0
+            0
+               Subtotal
+               2 000 000
+               0
+            0
+            France
+               FR/09/06
+               225 000
+               225 000
+            213 750
+               Subtotal
+               225 000
+               225 000
+            213 750
+            Malta
+               MT/09/05
+               763 200
+               763 200
+            715 500
+               + MT/09/02-04
+               Subtotal
+               763 200
+               763 200
+            715 500
+            Netherlands
+               NL/09/06
+               1 800 000
+               1 800 000
+            1 710 000
+               Subtotal
+               1 800 000
+               1 800 000
+            1 710 000
+            Poland
+               PL/09/05-02
+               109 200
+               109 200
+            103 740
+               PL/09/05-03
+               46 800
+               46 800
+            44 460
+               PL/09/05-06
+               39 000
+               39 000
+            37 050
+               Subtotal
+               195 000
+               195 000
+            185 250
+            Romania
+               RO/09/02
+               50 000
+               50 000
+            47 500
+               Subtotal
+               50 000
+               50 000
+            47 500
+            Sweden
+               SE/09/09
+               300 000
+               300 000
+            285 000
+               SE/09/10
+               200 000
+               200 000
+            190 000
+               Subtotal
+               500 000
+               500 000
+            475 000
+            United Kingdom
+               UK/09/02
+               418 896
+               418 896
+            397 952
+               Subtotal
+               418 896
+               418 896
+            397 952
+               Total
+               13 961 272
+               11 961 272
+            8 365 170
+   ANNEX V
+      PILOT PROJECTS
+            (in EUR)
+               Member State and project code
+               Expenditure planned in the national fisheries control programme
+               Eligible expenditure under this Decision
+            Community contribution
+            Bulgaria
+               BG/09/08
+               25 000
+               25 000
+            23 750
+               Subtotal
+               25 000
+               25 000
+            23 750
+            Spain
+               ES/09/34
+               96 887
+               96 887
+            92 043
+               Subtotal
+               96 887
+               96 887
+            92 043
+            Sweden
+               SE/09/11
+               40 000
+               40 000
+            38 000
+               SE/09/12
+               200 000
+               200 000
+            190 000
+               Subtotal
+               240 000
+               240 000
+            228 000
+               Total
+               361 887
+               361 887
+            343 793
+   ANNEX VI
+      TRAINING AND EXCHANGE PROGRAMMES
+            (in EUR)
+               Member State and project code
+               Expenditure planned in the national fisheries control programme
+               Eligible expenditure under this Decision
+            Community contribution
+            Bulgaria
+               BG/09/09
+               70 000
+               70 000
+            35 000
+               Subtotal
+               70 000
+               70 000
+            35 000
+            Germany
+               DE/09/03
+               21 000
+               21 000
+            10 500
+               DE/09/04
+               5 000
+               5 000
+            2 500
+               Subtotal
+               26 000
+               26 000
+            13 000
+            Estonia
+               EE/09/04
+               6 000
+               6 000
+            3 000
+               Subtotal
+               6 000
+               6 000
+            3 000
+            Ireland
+               IE/09/02
+               30 000
+               30 000
+            15 000
+               Subtotal
+               30 000
+               30 000
+            15 000
+            Spain
+               ES/09/17
+               25 920
+               25 920
+            12 960
+               ES/09/25
+               70 690
+               70 690
+            35 345
+               ES/09/33
+               22 000
+               22 000
+            11 000
+               Subtotal
+               118 610
+               118 610
+            59 305
+            France
+               FR/09/07
+               115 000
+               115 000
+            57 500
+               Subtotal
+               115 000
+               115 000
+            57 500
+            Italy
+               IT/09/02
+               6 871 585
+               0
+            0
+               IT/09/03
+               342 000
+               0
+            0
+               IT/09/04
+               26 340
+               26 340
+            13 170
+               IT/09/05
+               30 000
+               30 000
+            15 000
+               IT/09/06
+               880 000
+               880 000
+            440 000
+               Subtotal
+               8 149 925
+               936 340
+            468 170
+            Lithuania
+               LT/09/02
+               14 500
+               14 500
+            7 250
+               Subtotal
+               14 500
+               14 500
+            7 250
+            Malta
+               MT/09/06
+               18 300
+               18 300
+            9 150
+               Subtotal
+               18 300
+               18 300
+            9 150
+            Netherlands
+               NL/09/14
+               45 000
+               45 000
+            22 500
+               NL/09/15
+               25 000
+               25 000
+            12 500
+               NL/09/16
+               45 000
+               45 000
+            22 500
+               Subtotal
+               115 000
+               115 000
+            57 500
+            Finland
+               FI/09/05
+               30 000
+               30 000
+            15 000
+               Subtotal
+               30 000
+               30 000
+            15 000
+            Sweden
+               SE/09/13
+               50 000
+               50 000
+            25 000
+               Subtotal
+               50 000
+               50 000
+            25 000
+            United Kingdom
+               UK/09/05
+               3 415
+               3 415
+            1 708
+               UK/09/06
+               27 456
+               27 456
+            13 728
+               UK/09/07
+               11 201
+               11 201
+            5 601
+               UK/09/08
+               29 141
+               29 141
+            14 571
+               UK/09/09
+               75 812
+               75 812
+            37 906
+               UK/09/10
+               18 031
+               0
+            0
+               UK/09/11
+               23 313
+               0
+            0
+               UK/09/12
+               46 443
+               0
+            0
+               UK/09/13
+               12 021
+               0
+            0
+               UK/09/14
+               3 643
+               0
+            0
+               UK/09/15
+               8 538
+               8 538
+            4 269
+               UK/09/17
+               6 830
+               6 830
+            3 415
+               UK/09/28
+               2 163
+               2 163
+            1 082
+               UK/09/29
+               797
+               0
+            0
+               UK/09/36
+               2 145
+               0
+            0
+               UK/09/38
+               975
+               975
+            488
+               UK/09/39
+               171
+               171
+            86
+               UK/09/49
+               3 415
+               3 415
+            1 708
+               UK/09/50
+               530
+               0
+            0
+               UK/09/51
+               3 415
+               3 415
+            1 708
+               UK/09/52
+               5 692
+               5 692
+            2 846
+               UK/09/61
+               2 277
+               2 277
+            1 139
+               UK/09/62
+               2 049
+               2 049
+            1 025
+               UK/09/63
+               1 025
+               1 025
+            513
+               Subtotal
+               290 498
+               183 575
+            91 793
+               Total
+               9 033 833
+               1 713 325
+            856 668
+   ANNEX VII
+      PILOT INSPECTION AND OBSERVER SCHEMES
+            (in EUR)
+               Member State and project code
+               Expenditure planned in the national fisheries control programme
+               Eligible expenditure under this Decision
+            Community contribution
+            United Kingdom
+               UK/09/40
+               11 384
+               11 384
+            5 692
+               UK/09/53
+               18 213
+               0
+            0
+               UK/09/54
+               36 426
+               0
+            0
+               Subtotal
+               66 023
+               11 384
+            5 692
+               Total
+               66 023
+               11 384
+            5 692
+   ANNEX VIII
+      ANALYSIS AND ASSESSMENT OF EXPENDITURE
+            (in EUR)
+               Member State and project code
+               Expenditure planned in the national fisheries control programme
+               Eligible expenditure under this Decision
+            Community contribution
+            Bulgaria
+               BG/09/10
+               12 000
+               12 000
+            6 000
+               Subtotal
+               12 000
+               12 000
+            6 000
+               Total
+               12 000
+               12 000
+            6 000
+   ANNEX IX
+      INITIATIVES RAISING AWARENESS OF CFP RULES
+            (in EUR)
+               Member State and project code
+               Expenditure planned in the national fisheries control programme
+               Eligible expenditure under this Decision
+            Community contribution
+            Spain
+               ES/09/27
+               165 518
+               165 518
+            124 139
+               Subtotal
+               165 518
+               165 518
+            124 139
+            France
+               FR/09/08
+               15 000
+               10 000
+            7 500
+               Subtotal
+               15 000
+               10 000
+            7 500
+            Italy
+               IT/09/07
+               200 000
+               0
+            0
+               IT/09/08
+               140 000
+               140 000
+            105 000
+               IT/09/09
+               120 000
+               120 000
+            90 000
+               IT/09/10
+               110 000
+               110 000
+            82 500
+               Subtotal
+               570 000
+               370 000
+            277 500
+            Lithuania
+               LT/09/03
+               13 400
+               13 400
+            10 050
+               Subtotal
+               13 400
+               13 400
+            10 050
+            Finland
+               FI/09/06
+               5 000
+               5 000
+            4 750
+               Subtotal
+               5 000
+               5 000
+            4 750
+            Sweden
+               SE/09/14
+               100 000
+               100 000
+            75 000
+               Subtotal
+               100 000
+               100 000
+            75 000
+            United Kingdom
+               UK/09/18
+               11 384
+               0
+            0
+               UK/09/19
+               11 384
+               0
+            0
+               UK/09/20
+               8 538
+               0
+            0
+               UK/09/21
+               22 767
+               0
+            0
+               UK/09/22
+               17 075
+               17 075
+            12 807
+               UK/09/23
+               17 075
+               17 075
+            12 807
+               UK/09/55
+               911
+               0
+            0
+               Subtotal
+               89 134
+               34 150
+            25 614
+               Total
+               958 052
+               698 068
+            524 553
+   ANNEX X
+      PATROL VESSELS AND AIRCRAFT
+            (in EUR)
+               Member State and project code
+               Expenditure planned in the national fisheries control programme
+               Eligible expenditure under this Decision
+            Community contribution
+            Greece
+               EL/09/04
+               3 000 000
+               1 050 000
+            525 000
+               EL/09/05
+               4 647 000
+               0
+            0
+               Subtotal
+               7 647 000
+               1 050 000
+            525 000
+            Spain
+               ES/09/18
+               3 000 000
+               3 000 000
+            1 500 000
+               ES/09/19
+               2 000 000
+               2 000 000
+            1 000 000
+               ES/09/20
+               1 344 450
+               1 344 450
+            672 470
+               ES/09/21
+               1 397 414
+               1 397 414
+            698 707
+               ES/09/22
+               34 483
+               0
+            0
+               ES/09/23
+               84 207
+               0
+            0
+               ES/09/29
+               92 400
+               0
+            0
+               ES/09/30
+               3 381 840
+               3 381 840
+            1 690 920
+               ES/09/31
+               130 000
+               0
+            0
+               Subtotal
+               11 464 794
+               11 123 704
+            5 562 097
+            France
+               FR/09/09
+               150 000
+               0
+            0
+               Subtotal
+               150 000
+               0
+            0
+            Italy
+               IT/09/11
+               5 000 000
+               5 000 000
+            2 500 000
+               IT/09/12
+               3 700 000
+               0
+            0
+               IT/09/13
+               1 950 000
+               0
+            0
+               Subtotal
+               10 650 000
+               5 000 000
+            2 500 000
+            Netherlands
+               NL/09/07
+               25 000
+               0
+            0
+               NL/09/08
+               70 000
+               0
+            0
+               NL/09/09
+               100 000
+               0
+            0
+               NL/09/10
+               100 000
+               0
+            0
+               NL/09/17
+               70 000
+               0
+            0
+               Subtotal
+               365 000
+               0
+            0
+            Romania
+               RO/09/03
+               15 000
+               15 000
+            7 500
+               Subtotal
+               15 000
+               15 000
+            7 500
+            Finland
+               FI/09/07
+               100 000
+               0
+            0
+               Subtotal
+               100 000
+               0
+            0
+            United Kingdom
+               UK/09/24
+               2 845 760
+               2 561 184
+            1 280 592
+               UK/09/31
+               48 378
+               0
+            0
+               UK/09/32
+               19 921
+               0
+            0
+               UK/09/33
+               2 846
+               0
+            0
+               UK/09/41
+               45 886
+               0
+            0
+               UK/09/42
+               24 851
+               0
+            0
+               UK/09/56
+               25 043
+               0
+            0
+               UK/09/57
+               11 839
+               0
+            0
+               UK/09/58
+               22 767
+               22 767
+            11 384
+               UK/09/59
+               56 916
+               56 916
+            28 458
+               UK/09/66
+               5 692
+               5 692
+            2 846
+               Subtotal
+               3 109 899
+               2 646 559
+            1 323 280
+               Total
+               33 501 693
+               19 835 263
+            9 917 877

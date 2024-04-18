@@ -1,0 +1,33 @@
+ CONVEX # converter_version:9.15.0 # generated_on:20231208-1046 # ELI version:0.10 
+      L_2023129EN.01001601.xml
+               16.5.2023   
+               EN
+               Official Journal of the European Union
+            L 129/16
+            COUNCIL DECISION (CFSP) 2023/964
+            of 15 May 2023
+            amending Decision (CFSP) 2019/797 concerning restrictive measures against cyber-attacks threatening the Union or its Member States
+         THE COUNCIL OF THE EUROPEAN UNION,
+            Having regard to the Treaty on European Union, and in particular Article 29 thereof,
+            Having regard to the proposal from the High Representative of the Union for Foreign Affairs and Security Policy,
+            Whereas:
+                        (1)
+                     On 17 May 2019, the Council adopted Decision (CFSP) 2019/797 
+                        (.1)
+                        (2)
+                     Decision (CFSP) 2019/797 applies until 18 May 2025. On the basis of a review of that Decision, the validity of the restrictive measures set out therein should be extended until 18 May 2024.
+                        (3)
+                     Decision (CFSP) 2019/797 should therefore be amended accordingly,
+                        HAS ADOPTED THIS DECISION:
+            Article 1
+               Article 10 of Decision (CFSP) 2019/797 is replaced by the following:
+               ‘Article 10
+                     This Decision shall apply until 18 May 2025 and shall be kept under constant review. The measures set out in Articles 4 and 5 shall apply as regards the natural and legal persons, entities and bodies listed in the Annex until 18 May 2024.’.
+         Article 2
+               This Decision shall enter into force on the day following that of its publication in the 
+            Official Journal of the European Union.
+         Done at Brussels, 15 May 2023.
+                  For the Council
+                  The President
+                  J. FORSSMED
+      (  Council Decision (CFSP) 2019/797 of 17 May 2019 concerning restrictive measures against cyber-attacks threatening the Union or its Member States (1)OJ L 129 I, 17.5.2019, p. 13).

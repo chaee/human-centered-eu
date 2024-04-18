@@ -1,0 +1,1890 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML//EN" "xhtml-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<!-- CONVEX # converter_version:3.1 # generated_on:20131211-1837 -->
+<head>
+   <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
+   <link type="text/css" rel="stylesheet"
+         href="http://publications.europa.eu/resource/presentation-style-sheet/oj/oj.css"/>
+   <title>L_2010207EN.01000101.xml</title>
+</head>
+<body>
+   <table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <col width="10%"/>
+      <col width="10%"/>
+      <col width="60%"/>
+      <col width="20%"/>
+      <tbody>
+         <tr>
+            <td>
+               <p class="hd-date">6.8.2010   </p>
+            </td>
+            <td>
+               <p class="hd-lg">EN</p>
+            </td>
+            <td>
+               <p class="hd-ti">Official Journal of the European Union</p>
+            </td>
+            <td>
+               <p class="hd-oj">L 207/1</p>
+            </td>
+         </tr>
+      </tbody>
+   </table>
+   <hr class="separator"/>
+   <p class="doc-ti" id="d1e40-1-1">DIRECTIVE 2010/40/EU OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL</p>
+   <p class="doc-ti">of 7 July 2010</p>
+   <p class="doc-ti">on the framework for the deployment of Intelligent Transport Systems in the field of road transport and for interfaces with other modes of transport</p>
+   <p class="doc-ti">(Text with EEA relevance)</p>
+   <p class="normal">THE EUROPEAN PARLIAMENT AND THE COUNCIL OF THE EUROPEAN UNION,</p>
+   <p class="normal">Having regard to the Treaty on the Functioning of the European Union, and in particular Article 91 thereof,</p>
+   <p class="normal">Having regard to the proposal from the European Commission,</p>
+   <p class="normal">Having regard to the opinion of the European Economic and Social Committee<a id="ntc1-L_2010207EN.01000101-E0001" href="#ntr1-L_2010207EN.01000101-E0001"> (<span class="super">1</span>)</a>,</p>
+   <p class="normal">Having consulted the Committee of the Regions,</p>
+   <p class="normal">Acting in accordance with the ordinary legislative procedure<a id="ntc2-L_2010207EN.01000101-E0002" href="#ntr2-L_2010207EN.01000101-E0002"> (<span class="super">2</span>)</a>,</p>
+   <p class="normal">Whereas:</p>
+   <table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <col width="4%"/>
+      <col width="96%"/>
+      <tbody>
+         <tr>
+            <td valign="top">
+               <p class="normal">(1)</p>
+            </td>
+            <td valign="top">
+               <p class="normal">The increase in the volume of road transport in the Union associated with the growth of the European economy and mobility requirements of citizens is the primary cause of increasing congestion of road infrastructure and rising energy consumption, as well as a source of environmental and social problems.</p>
+            </td>
+         </tr>
+      </tbody>
+   </table>
+   <table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <col width="4%"/>
+      <col width="96%"/>
+      <tbody>
+         <tr>
+            <td valign="top">
+               <p class="normal">(2)</p>
+            </td>
+            <td valign="top">
+               <p class="normal">The response to those major challenges cannot be limited to traditional measures, inter alia the expansion of the existing road transport infrastructure. Innovation will have a major role to play in finding appropriate solutions for the Union.</p>
+            </td>
+         </tr>
+      </tbody>
+   </table>
+   <table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <col width="4%"/>
+      <col width="96%"/>
+      <tbody>
+         <tr>
+            <td valign="top">
+               <p class="normal">(3)</p>
+            </td>
+            <td valign="top">
+               <p class="normal">Intelligent Transport Systems (ITS) are advanced applications which without embodying intelligence as such aim to provide innovative services relating to different modes of transport and traffic management and enable various users to be better informed and make safer, more coordinated and ‘smarter’ use of transport networks.</p>
+            </td>
+         </tr>
+      </tbody>
+   </table>
+   <table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <col width="4%"/>
+      <col width="96%"/>
+      <tbody>
+         <tr>
+            <td valign="top">
+               <p class="normal">(4)</p>
+            </td>
+            <td valign="top">
+               <p class="normal">ITS integrate telecommunications, electronics and information technologies with transport engineering in order to plan, design, operate, maintain and manage transport systems. The application of information and communication technologies to the road transport sector and its interfaces with other modes of transport will make a significant contribution to improving environmental performance, efficiency, including energy efficiency, safety and security of road transport, including the transport of dangerous goods, public security and passenger and freight mobility, whilst at the same time ensuring the functioning of the internal market as well as increased levels of competitiveness and employment. However, ITS applications should be without prejudice to matters concerning national security or which are necessary in the interest of defence.</p>
+            </td>
+         </tr>
+      </tbody>
+   </table>
+   <table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <col width="4%"/>
+      <col width="96%"/>
+      <tbody>
+         <tr>
+            <td valign="top">
+               <p class="normal">(5)</p>
+            </td>
+            <td valign="top">
+               <p class="normal">Advances in the field of the application of information and communication technologies to other modes of transport should now be reflected in developments in the road transport sector, in particular with a view to ensuring higher levels of integration between road transport and other modes of transport.</p>
+            </td>
+         </tr>
+      </tbody>
+   </table>
+   <table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <col width="4%"/>
+      <col width="96%"/>
+      <tbody>
+         <tr>
+            <td valign="top">
+               <p class="normal">(6)</p>
+            </td>
+            <td valign="top">
+               <p class="normal">In some Member States national applications of these technologies are already being deployed in the road transport sector. However, such deployment remains fragmented and uncoordinated and cannot provide geographical continuity of ITS services throughout the Union and at its external borders.</p>
+            </td>
+         </tr>
+      </tbody>
+   </table>
+   <table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <col width="4%"/>
+      <col width="96%"/>
+      <tbody>
+         <tr>
+            <td valign="top">
+               <p class="normal">(7)</p>
+            </td>
+            <td valign="top">
+               <p class="normal">To ensure a coordinated and effective deployment of ITS within the Union as a whole, specifications, including, where appropriate, standards, defining further detailed provisions and procedures should be introduced. Before adopting any specifications, the Commission should assess their compliance with certain defined principles set out in Annex II. Priority should be given in the first instance to the four main areas of ITS development and deployment. Within those four areas, priority actions should be established for the development and use of specifications and standards. During further implementation of ITS the existing ITS infrastructure deployed by a particular Member State should be taken into account in terms of technological progress and financial efforts made.</p>
+            </td>
+         </tr>
+      </tbody>
+   </table>
+   <table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <col width="4%"/>
+      <col width="96%"/>
+      <tbody>
+         <tr>
+            <td valign="top">
+               <p class="normal">(8)</p>
+            </td>
+            <td valign="top">
+               <p class="normal">When a legislative act is adopted as referred to in the second subparagraph of Article 6(2) of this Directive, the second sentence of Article 5(1) should be amended accordingly.</p>
+            </td>
+         </tr>
+      </tbody>
+   </table>
+   <table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <col width="4%"/>
+      <col width="96%"/>
+      <tbody>
+         <tr>
+            <td valign="top">
+               <p class="normal">(9)</p>
+            </td>
+            <td valign="top">
+               <p class="normal">The specifications should, inter alia take into account and build upon the experience and results already obtained in the field of ITS, notably in the context of the eSafety initiative, launched by the Commission in April 2002. The eSafety Forum was established by the Commission under that initiative to promote and further implement recommendations to support the development, deployment and use of eSafety systems.</p>
+            </td>
+         </tr>
+      </tbody>
+   </table>
+   <table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <col width="4%"/>
+      <col width="96%"/>
+      <tbody>
+         <tr>
+            <td valign="top">
+               <p class="normal">(10)</p>
+            </td>
+            <td valign="top">
+               <p class="normal">Vehicles which are operated mainly for their historical interest and were originally registered and/or type-approved and/or put into service before the entry into force of this Directive and of its implementing measures should not be affected by the rules and procedures laid down in this Directive.</p>
+            </td>
+         </tr>
+      </tbody>
+   </table>
+   <table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <col width="4%"/>
+      <col width="96%"/>
+      <tbody>
+         <tr>
+            <td valign="top">
+               <p class="normal">(11)</p>
+            </td>
+            <td valign="top">
+               <p class="normal">ITS should build on interoperable systems which are based on open and public standards and available on a non-discriminatory basis to all application and service suppliers and users.</p>
+            </td>
+         </tr>
+      </tbody>
+   </table>
+   <table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <col width="4%"/>
+      <col width="96%"/>
+      <tbody>
+         <tr>
+            <td valign="top">
+               <p class="normal">(12)</p>
+            </td>
+            <td valign="top">
+               <p class="normal">The deployment and use of ITS applications and services will entail the processing of personal data. Such processing should be carried out in accordance with Union law, as set out, in particular, in Directive 95/46/EC of the European Parliament and of the Council of 24 October 1995 on the protection of individuals with regard to the processing of personal data and on the free movement of such data<a id="ntc3-L_2010207EN.01000101-E0003" href="#ntr3-L_2010207EN.01000101-E0003"> (<span class="super">3</span>)</a> and in Directive 2002/58/EC of the European Parliament and of the Council of 12 July 2002 concerning the processing of personal data and the protection of privacy in the electronic communications sector<a id="ntc4-L_2010207EN.01000101-E0004" href="#ntr4-L_2010207EN.01000101-E0004"> (<span class="super">4</span>)</a>, inter alia, the principles of purpose limitation and data minimisation should be applied to ITS applications.</p>
+            </td>
+         </tr>
+      </tbody>
+   </table>
+   <table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <col width="4%"/>
+      <col width="96%"/>
+      <tbody>
+         <tr>
+            <td valign="top">
+               <p class="normal">(13)</p>
+            </td>
+            <td valign="top">
+               <p class="normal">Anonymisation as one of the principles of enhancing individuals' privacy should be encouraged. As far as data protection and privacy related issues in the field of ITS applications and services deployment are concerned, the Commission should, as appropriate, further consult the European Data Protection Supervisor and request an opinion of the Working Party on the Protection of Individuals with regard to the Processing of Personal Data established by Article 29 of Directive 95/46/EC.</p>
+            </td>
+         </tr>
+      </tbody>
+   </table>
+   <table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <col width="4%"/>
+      <col width="96%"/>
+      <tbody>
+         <tr>
+            <td valign="top">
+               <p class="normal">(14)</p>
+            </td>
+            <td valign="top">
+               <p class="normal">The deployment and use of ITS applications and services, and notably traffic and travel information services, will entail the processing and use of road, traffic and travel data forming part of documents held by public sector bodies of the Member States. Such processing and use should be carried out in accordance with Directive 2003/98/EC of the European Parliament and of the Council of 17 November 2003 on the re-use of public sector information<a id="ntc5-L_2010207EN.01000101-E0005" href="#ntr5-L_2010207EN.01000101-E0005"> (<span class="super">5</span>)</a>.</p>
+            </td>
+         </tr>
+      </tbody>
+   </table>
+   <table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <col width="4%"/>
+      <col width="96%"/>
+      <tbody>
+         <tr>
+            <td valign="top">
+               <p class="normal">(15)</p>
+            </td>
+            <td valign="top">
+               <p class="normal">In appropriate cases, the specifications should include detailed provisions laying down the procedure governing assessment of conformity or suitability for use of constituents. Those provisions should be based on Decision No 768/2008/EC of the European Parliament and of the Council of 9 July 2008 on a common framework for the marketing of products<a id="ntc6-L_2010207EN.01000101-E0006" href="#ntr6-L_2010207EN.01000101-E0006"> (<span class="super">6</span>)</a>, in particular concerning the modules for the various phases of the conformity assessment procedures. Directive 2007/46/EC of the European Parliament and of the Council<a id="ntc7-L_2010207EN.01000101-E0007" href="#ntr7-L_2010207EN.01000101-E0007"> (<span class="super">7</span>)</a> already establishes a framework for the type approval of motor vehicles and their parts or related equipment, and Directive 2002/24/EC of the European Parliament and of the Council<a id="ntc8-L_2010207EN.01000101-E0008" href="#ntr8-L_2010207EN.01000101-E0008"> (<span class="super">8</span>)</a> and Directive 2003/37/EC of the European Parliament and of the Council<a id="ntc9-L_2010207EN.01000101-E0009" href="#ntr9-L_2010207EN.01000101-E0009"> (<span class="super">9</span>)</a> lay down rules on the type approval of two or three-wheel motor vehicles, and agricultural or forestry tractors and their parts or related equipment. Therefore, it would be a duplication of work to provide for conformity assessment of equipment and applications falling within the scope of those Directives. At the same time, although those Directives apply to ITS-related equipment installed in vehicles, they do not apply to external road infrastructure ITS equipment and software. In such cases, the specifications could provide for conformity assessment procedures. Such procedures should be limited to what would be necessary in each separate case.</p>
+            </td>
+         </tr>
+      </tbody>
+   </table>
+   <table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <col width="4%"/>
+      <col width="96%"/>
+      <tbody>
+         <tr>
+            <td valign="top">
+               <p class="normal">(16)</p>
+            </td>
+            <td valign="top">
+               <p class="normal">For ITS applications and services for which accurate and guaranteed timing and positioning services are required, satellite-based infrastructures or any technology providing an equivalent level of precisions should be used, such as those provided for in Council Regulation (EC) No 1/2005 of 22 December 2004 on the protection of animals during transport and related operations<a id="ntc10-L_2010207EN.01000101-E0010" href="#ntr10-L_2010207EN.01000101-E0010"> (<span class="super">10</span>)</a> and Regulation (EC) No 683/2008 of the European Parliament and of the Council of 9 July 2008 on the further implementation of the European satellite navigation programmes (EGNOS and Galileo)<a id="ntc11-L_2010207EN.01000101-E0011" href="#ntr11-L_2010207EN.01000101-E0011"> (<span class="super">11</span>)</a>.</p>
+            </td>
+         </tr>
+      </tbody>
+   </table>
+   <table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <col width="4%"/>
+      <col width="96%"/>
+      <tbody>
+         <tr>
+            <td valign="top">
+               <p class="normal">(17)</p>
+            </td>
+            <td valign="top">
+               <p class="normal">Innovative technologies such as Radio Frequency Identification Devices (RFID) or EGNOS/Galileo should be used for the realisation of ITS applications, notably for the tracking and tracing of freight along its journey and across modes of transport.</p>
+            </td>
+         </tr>
+      </tbody>
+   </table>
+   <table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <col width="4%"/>
+      <col width="96%"/>
+      <tbody>
+         <tr>
+            <td valign="top">
+               <p class="normal">(18)</p>
+            </td>
+            <td valign="top">
+               <p class="normal">Major stakeholders such as ITS service providers, associations of ITS users, transport and facilities operators, representatives of the manufacturing industry, social partners, professional associations and local authorities should have the possibility to advise the Commission on the commercial and technical aspects of the deployment of ITS within the Union. For this purpose the Commission, ensuring close cooperation with stakeholders and Member States, should set up an ITS advisory group. The work of the advisory group should be carried out in a transparent manner and the result should be made available to the Committee established by this Directive.</p>
+            </td>
+         </tr>
+      </tbody>
+   </table>
+   <table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <col width="4%"/>
+      <col width="96%"/>
+      <tbody>
+         <tr>
+            <td valign="top">
+               <p class="normal">(19)</p>
+            </td>
+            <td valign="top">
+               <p class="normal">Uniform conditions of implementation should be ensured for the adoption of guidelines and non-binding measures to facilitate Member States cooperation in respect of priority areas on ITS as well as in respect of guidelines for reporting by the Member States and of a working programme.</p>
+            </td>
+         </tr>
+      </tbody>
+   </table>
+   <table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <col width="4%"/>
+      <col width="96%"/>
+      <tbody>
+         <tr>
+            <td valign="top">
+               <p class="normal">(20)</p>
+            </td>
+            <td valign="top">
+               <p class="normal">According to Article 291 of the Treaty on the Functioning of the European Union (TFEU), rules and general principles concerning mechanisms for the control by Member States of the Commission's exercise of implementing powers shall be laid down in advance by a regulation adopted in accordance with the ordinary legislative procedure. Pending the adoption of that new regulation, Council Decision 1999/468/EC of 28 June 1999 laying down the procedures for the exercise of implementing powers conferred on the Commission<a id="ntc12-L_2010207EN.01000101-E0012" href="#ntr12-L_2010207EN.01000101-E0012"> (<span class="super">12</span>)</a> continues to apply, with the exception of the regulatory procedure with scrutiny, which is not applicable.</p>
+            </td>
+         </tr>
+      </tbody>
+   </table>
+   <table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <col width="4%"/>
+      <col width="96%"/>
+      <tbody>
+         <tr>
+            <td valign="top">
+               <p class="normal">(21)</p>
+            </td>
+            <td valign="top">
+               <p class="normal">The Commission should be empowered to adopt delegated acts in accordance with Article 290 of the TFEU in respect of the adoption of specifications. It is of particular importance that the Commission carry out appropriate consultations during its preparatory work, including at expert level.</p>
+            </td>
+         </tr>
+      </tbody>
+   </table>
+   <table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <col width="4%"/>
+      <col width="96%"/>
+      <tbody>
+         <tr>
+            <td valign="top">
+               <p class="normal">(22)</p>
+            </td>
+            <td valign="top">
+               <p class="normal">In order to guarantee a coordinated approach, the Commission should ensure coherence between the activities of the Committee established by this Directive and those of the Committee established by Directive 2004/52/EC of the European Parliament and of the Council of 29 April 2004 on the interoperability of electronic road toll systems in the Community<a id="ntc13-L_2010207EN.01000101-E0013" href="#ntr13-L_2010207EN.01000101-E0013"> (<span class="super">13</span>)</a>, the Committee established by Council Regulation (EEC) No 3821/85 of 20 December 1985 on recording equipment in road transport<a id="ntc14-L_2010207EN.01000101-E0014" href="#ntr14-L_2010207EN.01000101-E0014"> (<span class="super">14</span>)</a>, the Committee established by Directive 2007/46/EC and the Committee established by Directive 2007/2/EC of the European Parliament and of the Council of 14 March 2007 establishing an Infrastructure for Spatial Information in the European Community (INSPIRE)<a id="ntc15-L_2010207EN.01000101-E0015" href="#ntr15-L_2010207EN.01000101-E0015"> (<span class="super">15</span>)</a>.</p>
+            </td>
+         </tr>
+      </tbody>
+   </table>
+   <table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <col width="4%"/>
+      <col width="96%"/>
+      <tbody>
+         <tr>
+            <td valign="top">
+               <p class="normal">(23)</p>
+            </td>
+            <td valign="top">
+               <p class="normal">Since the objective of this Directive, namely to ensure the coordinated and coherent deployment of interoperable Intelligent Transport Systems throughout the Union cannot be sufficiently achieved by the Member States and/or the private sector and can therefore, by reason of its scale and effects, be better achieved at Union level, the Union may adopt measures, in accordance with the principle of subsidiarity as set out in Article 5 of the Treaty on European Union. In accordance with the principle of proportionality as set out in that Article, this Directive does not go beyond what is necessary in order to achieve that objective.</p>
+            </td>
+         </tr>
+      </tbody>
+   </table>
+   <table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <col width="4%"/>
+      <col width="96%"/>
+      <tbody>
+         <tr>
+            <td valign="top">
+               <p class="normal">(24)</p>
+            </td>
+            <td valign="top">
+               <p class="normal">In accordance with point 34 of the Interinstitutional Agreement on better law-making, Member States are encouraged to draw up, for themselves and in the interest of the Union, their own tables, which will, as far as possible, illustrate the correlation between this Directive and the transposition measures, and to make them public,</p>
+            </td>
+         </tr>
+      </tbody>
+   </table>
+   <p class="normal">HAVE ADOPTED THIS DIRECTIVE:</p>
+   <p id="d1e354-1-1" class="ti-art">Article 1</p>
+   <p class="sti-art">Subject matter and scope</p>
+   <p class="normal">1.   This Directive establishes a framework in support of the coordinated and coherent deployment and use of Intelligent Transport Systems (ITS) within the Union, in particular across the borders between the Member States, and sets out the general conditions necessary for that purpose.</p>
+   <p class="normal">2.   This Directive provides for the development of specifications for actions within the priority areas referred to in Article 2, as well as for the development, where appropriate, of necessary standards.</p>
+   <p class="normal">3.   This Directive shall apply to ITS applications and services in the field of road transport and to their interfaces with other modes of transport without prejudice to matters concerning national security or necessary in the interest of defence.</p>
+   <p id="d1e374-1-1" class="ti-art">Article 2</p>
+   <p class="sti-art">Priority areas</p>
+   <p class="normal">1.   For the purpose of this Directive the following shall constitute priority areas for the development and use of specifications and standards:</p>
+   <table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <col width="4%"/>
+      <col width="96%"/>
+      <tbody>
+         <tr>
+            <td valign="top">
+               <p class="normal">— I.</p>
+            </td>
+            <td valign="top">
+               <p class="normal">Optimal use of road, traffic and travel data,</p>
+            </td>
+         </tr>
+      </tbody>
+   </table>
+   <table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <col width="4%"/>
+      <col width="96%"/>
+      <tbody>
+         <tr>
+            <td valign="top">
+               <p class="normal">— II.</p>
+            </td>
+            <td valign="top">
+               <p class="normal">Continuity of traffic and freight management ITS services,</p>
+            </td>
+         </tr>
+      </tbody>
+   </table>
+   <table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <col width="4%"/>
+      <col width="96%"/>
+      <tbody>
+         <tr>
+            <td valign="top">
+               <p class="normal">— III.</p>
+            </td>
+            <td valign="top">
+               <p class="normal">ITS road safety and security applications,</p>
+            </td>
+         </tr>
+      </tbody>
+   </table>
+   <table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <col width="4%"/>
+      <col width="96%"/>
+      <tbody>
+         <tr>
+            <td valign="top">
+               <p class="normal">— IV.</p>
+            </td>
+            <td valign="top">
+               <p class="normal">Linking the vehicle with the transport infrastructure.</p>
+            </td>
+         </tr>
+      </tbody>
+   </table>
+   <p class="normal">2.   The scope of the priority areas is specified in Annex I.</p>
+   <p id="d1e415-1-1" class="ti-art">Article 3</p>
+   <p class="sti-art">Priority actions</p>
+   <p class="normal">Within the priority areas the following shall constitute priority actions for the development and use of specifications and standards, as set out in Annex I:</p>
+   <table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <col width="4%"/>
+      <col width="96%"/>
+      <tbody>
+         <tr>
+            <td valign="top">
+               <p class="normal">(a)</p>
+            </td>
+            <td valign="top">
+               <p class="normal">the provision of EU-wide multimodal travel information services;</p>
+            </td>
+         </tr>
+      </tbody>
+   </table>
+   <table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <col width="4%"/>
+      <col width="96%"/>
+      <tbody>
+         <tr>
+            <td valign="top">
+               <p class="normal">(b)</p>
+            </td>
+            <td valign="top">
+               <p class="normal">the provision of EU-wide real-time traffic information services;</p>
+            </td>
+         </tr>
+      </tbody>
+   </table>
+   <table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <col width="4%"/>
+      <col width="96%"/>
+      <tbody>
+         <tr>
+            <td valign="top">
+               <p class="normal">(c)</p>
+            </td>
+            <td valign="top">
+               <p class="normal">data and procedures for the provision, where possible, of road safety related minimum universal traffic information free of charge to users;</p>
+            </td>
+         </tr>
+      </tbody>
+   </table>
+   <table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <col width="4%"/>
+      <col width="96%"/>
+      <tbody>
+         <tr>
+            <td valign="top">
+               <p class="normal">(d)</p>
+            </td>
+            <td valign="top">
+               <p class="normal">the harmonised provision for an interoperable EU-wide eCall;</p>
+            </td>
+         </tr>
+      </tbody>
+   </table>
+   <table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <col width="4%"/>
+      <col width="96%"/>
+      <tbody>
+         <tr>
+            <td valign="top">
+               <p class="normal">(e)</p>
+            </td>
+            <td valign="top">
+               <p class="normal">the provision of information services for safe and secure parking places for trucks and commercial vehicles;</p>
+            </td>
+         </tr>
+      </tbody>
+   </table>
+   <table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <col width="4%"/>
+      <col width="96%"/>
+      <tbody>
+         <tr>
+            <td valign="top">
+               <p class="normal">(f)</p>
+            </td>
+            <td valign="top">
+               <p class="normal">the provision of reservation services for safe and secure parking places for trucks and commercial vehicles.</p>
+            </td>
+         </tr>
+      </tbody>
+   </table>
+   <p id="d1e460-1-1" class="ti-art">Article 4</p>
+   <p class="sti-art">Definitions</p>
+   <p class="normal">For the purposes of this Directive, the following definitions shall apply:</p>
+   <table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <col width="4%"/>
+      <col width="96%"/>
+      <tbody>
+         <tr>
+            <td valign="top">
+               <p class="normal">(1)</p>
+            </td>
+            <td valign="top">
+               <p class="normal">‘Intelligent Transport Systems’ or ‘ITS’ means systems in which information and communication technologies are applied in the field of road transport, including infrastructure, vehicles and users, and in traffic management and mobility management, as well as for interfaces with other modes of transport;</p>
+            </td>
+         </tr>
+      </tbody>
+   </table>
+   <table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <col width="4%"/>
+      <col width="96%"/>
+      <tbody>
+         <tr>
+            <td valign="top">
+               <p class="normal">(2)</p>
+            </td>
+            <td valign="top">
+               <p class="normal">‘interoperability’ means the capacity of systems and the underlying business processes to exchange data and to share information and knowledge;</p>
+            </td>
+         </tr>
+      </tbody>
+   </table>
+   <table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <col width="4%"/>
+      <col width="96%"/>
+      <tbody>
+         <tr>
+            <td valign="top">
+               <p class="normal">(3)</p>
+            </td>
+            <td valign="top">
+               <p class="normal">‘ITS application’ means an operational instrument for the application of ITS;</p>
+            </td>
+         </tr>
+      </tbody>
+   </table>
+   <table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <col width="4%"/>
+      <col width="96%"/>
+      <tbody>
+         <tr>
+            <td valign="top">
+               <p class="normal">(4)</p>
+            </td>
+            <td valign="top">
+               <p class="normal">‘ITS service’ means the provision of an ITS application through a well-defined organisational and operational framework with the aim of contributing to user safety, efficiency, comfort and/or to facilitate or support transport and travel operations;</p>
+            </td>
+         </tr>
+      </tbody>
+   </table>
+   <table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <col width="4%"/>
+      <col width="96%"/>
+      <tbody>
+         <tr>
+            <td valign="top">
+               <p class="normal">(5)</p>
+            </td>
+            <td valign="top">
+               <p class="normal">‘ITS service provider’ means any provider of an ITS service, whether public or private;</p>
+            </td>
+         </tr>
+      </tbody>
+   </table>
+   <table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <col width="4%"/>
+      <col width="96%"/>
+      <tbody>
+         <tr>
+            <td valign="top">
+               <p class="normal">(6)</p>
+            </td>
+            <td valign="top">
+               <p class="normal">‘ITS user’ means any user of ITS applications or services including travellers, vulnerable road users, road transport infrastructure users and operators, fleet managers and operators of emergency services;</p>
+            </td>
+         </tr>
+      </tbody>
+   </table>
+   <table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <col width="4%"/>
+      <col width="96%"/>
+      <tbody>
+         <tr>
+            <td valign="top">
+               <p class="normal">(7)</p>
+            </td>
+            <td valign="top">
+               <p class="normal">‘vulnerable road users’ means non-motorised road users, such as pedestrians and cyclists as well as motor-cyclists and persons with disabilities or reduced mobility and orientation;</p>
+            </td>
+         </tr>
+      </tbody>
+   </table>
+   <table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <col width="4%"/>
+      <col width="96%"/>
+      <tbody>
+         <tr>
+            <td valign="top">
+               <p class="normal">(8)</p>
+            </td>
+            <td valign="top">
+               <p class="normal">‘nomadic device’ means a portable communication or information device that can be brought inside the vehicle to support the driving task and/or the transport operations;</p>
+            </td>
+         </tr>
+      </tbody>
+   </table>
+   <table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <col width="4%"/>
+      <col width="96%"/>
+      <tbody>
+         <tr>
+            <td valign="top">
+               <p class="normal">(9)</p>
+            </td>
+            <td valign="top">
+               <p class="normal">‘platform’ means an on-board or off-board unit enabling the deployment, provision, exploitation and integration of ITS applications and services;</p>
+            </td>
+         </tr>
+      </tbody>
+   </table>
+   <table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <col width="4%"/>
+      <col width="96%"/>
+      <tbody>
+         <tr>
+            <td valign="top">
+               <p class="normal">(10)</p>
+            </td>
+            <td valign="top">
+               <p class="normal">‘architecture’ means the conceptual design that defines the structure, behaviour and integration of a given system in its surrounding context;</p>
+            </td>
+         </tr>
+      </tbody>
+   </table>
+   <table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <col width="4%"/>
+      <col width="96%"/>
+      <tbody>
+         <tr>
+            <td valign="top">
+               <p class="normal">(11)</p>
+            </td>
+            <td valign="top">
+               <p class="normal">‘interface’ means a facility between systems which provides the media through which they can connect and interact;</p>
+            </td>
+         </tr>
+      </tbody>
+   </table>
+   <table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <col width="4%"/>
+      <col width="96%"/>
+      <tbody>
+         <tr>
+            <td valign="top">
+               <p class="normal">(12)</p>
+            </td>
+            <td valign="top">
+               <p class="normal">‘compatibility’ means the general ability of a device or system to work with another device or system without modification;</p>
+            </td>
+         </tr>
+      </tbody>
+   </table>
+   <table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <col width="4%"/>
+      <col width="96%"/>
+      <tbody>
+         <tr>
+            <td valign="top">
+               <p class="normal">(13)</p>
+            </td>
+            <td valign="top">
+               <p class="normal">‘continuity of services’ means the ability to ensure seamless services on transport networks across the Union;</p>
+            </td>
+         </tr>
+      </tbody>
+   </table>
+   <table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <col width="4%"/>
+      <col width="96%"/>
+      <tbody>
+         <tr>
+            <td valign="top">
+               <p class="normal">(14)</p>
+            </td>
+            <td valign="top">
+               <p class="normal">‘road data’ means data on road infrastructure characteristics, including fixed traffic signs or their regulatory safety attributes;</p>
+            </td>
+         </tr>
+      </tbody>
+   </table>
+   <table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <col width="4%"/>
+      <col width="96%"/>
+      <tbody>
+         <tr>
+            <td valign="top">
+               <p class="normal">(15)</p>
+            </td>
+            <td valign="top">
+               <p class="normal">‘traffic data’ means historic and real-time data on road traffic characteristics;</p>
+            </td>
+         </tr>
+      </tbody>
+   </table>
+   <table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <col width="4%"/>
+      <col width="96%"/>
+      <tbody>
+         <tr>
+            <td valign="top">
+               <p class="normal">(16)</p>
+            </td>
+            <td valign="top">
+               <p class="normal">‘travel data’ means basic data such as public transport timetables and tariffs, necessary to provide multi-modal travel information before and during the trip to facilitate travel planning, booking and adaptation;</p>
+            </td>
+         </tr>
+      </tbody>
+   </table>
+   <table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <col width="4%"/>
+      <col width="96%"/>
+      <tbody>
+         <tr>
+            <td valign="top">
+               <p class="normal">(17)</p>
+            </td>
+            <td valign="top">
+               <p class="normal">‘specification’ means a binding measure laying down provisions containing requirements, procedures or any other relevant rules;</p>
+            </td>
+         </tr>
+      </tbody>
+   </table>
+   <table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <col width="4%"/>
+      <col width="96%"/>
+      <tbody>
+         <tr>
+            <td valign="top">
+               <p class="normal">(18)</p>
+            </td>
+            <td valign="top">
+               <p class="normal">‘standard’ means standard as defined in Article 1(6) of Directive 98/34/EC of the European Parliament and of the Council of 22 June 1998 laying down a procedure for the provision of information in the field of technical standards and regulations<a id="ntc16-L_2010207EN.01000101-E0016" href="#ntr16-L_2010207EN.01000101-E0016"> (<span class="super">16</span>)</a>.</p>
+            </td>
+         </tr>
+      </tbody>
+   </table>
+   <p id="d1e645-1-1" class="ti-art">Article 5</p>
+   <p class="sti-art">Deployment of ITS</p>
+   <p class="normal">1.   Member States shall take the necessary measures to ensure that the specifications adopted by the Commission in accordance with Article 6 are applied to ITS applications and services, when these are deployed, in accordance with the principles in Annex II. This is without prejudice to the right of each Member State to decide on its deployment of such applications and services on its territory. This right is without prejudice to any legislative act adopted under the second subparagraph of Article 6(2).</p>
+   <p class="normal">2.   Member States shall also make efforts to cooperate in respect of the priority areas, insofar as no specifications have been adopted.</p>
+   <p id="d1e660-1-1" class="ti-art">Article 6</p>
+   <p class="sti-art">Specifications</p>
+   <p class="normal">1.   The Commission shall first adopt the specifications necessary to ensure the compatibility, interoperability and continuity for the deployment and operational use of ITS for the priority actions.</p>
+   <p class="normal">2.   The Commission shall aim at adopting specifications for one or more of the priority actions by 27 February 2013.</p>
+   <p class="normal">At the latest 12 months after the adoption of the necessary specifications for a priority action, the Commission shall, where appropriate, after conducting an impact assessment including a cost-benefit analysis, present a proposal to the European Parliament and the Council in accordance with Article 294 of the TFEU on the deployment of that priority action.</p>
+   <p class="normal">3.   Once the necessary specifications for the priority actions have been adopted, the Commission shall adopt specifications ensuring compatibility, interoperability and continuity for the deployment and operational use of ITS for other actions in the priority areas.</p>
+   <p class="normal">4.   Where relevant, and depending on the area covered by the specification, the specification shall include one or more of the following types of provisions:</p>
+   <table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <col width="4%"/>
+      <col width="96%"/>
+      <tbody>
+         <tr>
+            <td valign="top">
+               <p class="normal">(a)</p>
+            </td>
+            <td valign="top">
+               <p class="normal">functional provisions that describe the roles of the various stakeholders and the information flow between them;</p>
+            </td>
+         </tr>
+      </tbody>
+   </table>
+   <table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <col width="4%"/>
+      <col width="96%"/>
+      <tbody>
+         <tr>
+            <td valign="top">
+               <p class="normal">(b)</p>
+            </td>
+            <td valign="top">
+               <p class="normal">technical provisions that provide for the technical means to fulfil the functional provisions;</p>
+            </td>
+         </tr>
+      </tbody>
+   </table>
+   <table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <col width="4%"/>
+      <col width="96%"/>
+      <tbody>
+         <tr>
+            <td valign="top">
+               <p class="normal">(c)</p>
+            </td>
+            <td valign="top">
+               <p class="normal">organisational provisions that describe the procedural obligations of the various stakeholders;</p>
+            </td>
+         </tr>
+      </tbody>
+   </table>
+   <table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <col width="4%"/>
+      <col width="96%"/>
+      <tbody>
+         <tr>
+            <td valign="top">
+               <p class="normal">(d)</p>
+            </td>
+            <td valign="top">
+               <p class="normal">service provisions that describe the various levels of services and their content for ITS applications and services.</p>
+            </td>
+         </tr>
+      </tbody>
+   </table>
+   <p class="normal">5.   Without prejudice to the procedures under Directive 98/34/EC the specifications shall, where appropriate, stipulate the conditions in which Member States may, after notification to the Commission, establish additional rules for the provision of ITS services on all or part of their territory, provided that those rules do not hinder interoperability.</p>
+   <p class="normal">6.   The specifications shall, where appropriate, be based on any standards referred to in Article 8.</p>
+   <p class="normal">The specifications shall, as appropriate, provide for conformity assessment in accordance with Decision No 768/2008/EC.</p>
+   <p class="normal">The specifications shall comply with the principles set out in Annex II.</p>
+   <p class="normal">7.   The Commission shall conduct an impact assessment including a cost-benefit analysis prior to the adoption of the specifications.</p>
+   <p id="d1e735-1-1" class="ti-art">Article 7</p>
+   <p class="sti-art">Delegated acts</p>
+   <p class="normal">1.   The Commission may adopt delegated acts in accordance with Article 290 of the TFEU as regards specifications. When adopting such delegated acts the Commission shall act in accordance with the relevant provisions of this Directive, in particular Article 6 and Annex II.</p>
+   <p class="normal">2.   A separate delegated act shall be adopted for each of the priority actions.</p>
+   <p class="normal">3.   For the delegated acts referred to in this Article, the procedure set out in Articles 12, 13 and 14 shall apply.</p>
+   <p id="d1e755-1-1" class="ti-art">Article 8</p>
+   <p class="sti-art">Standards</p>
+   <p class="normal">1.   The necessary standards to provide for interoperability, compatibility and continuity for the deployment and operational use of ITS shall be developed in the priority areas and for the priority actions. To that effect, the Commission, after having consulted the Committee referred to in Article 15, shall request the relevant standardisation bodies in accordance with the procedure laid down in Directive 98/34/EC to make every necessary effort to adopt these standards rapidly.</p>
+   <p class="normal">2.   When issuing a mandate to the standardisation bodies, the principles set out in Annex II shall be observed as well as any functional provision included in a specification adopted in accordance with Article 6.</p>
+   <p id="d1e770-1-1" class="ti-art">Article 9</p>
+   <p class="sti-art">Non-binding measures</p>
+   <p class="normal">The Commission may adopt guidelines and other non-binding measures to facilitate Member States' cooperation relating to the priority areas in accordance with the advisory procedure referred to in Article 15(2).</p>
+   <p id="d1e777-1-1" class="ti-art">Article 10</p>
+   <p class="sti-art">Rules on privacy, security and re-use of information</p>
+   <p class="normal">1.   Member States shall ensure that the processing of personal data in the context of the operation of ITS applications and services is carried out in accordance with Union rules protecting fundamental rights and freedoms of individuals, in particular Directive 95/46/EC and Directive 2002/58/EC.</p>
+   <p class="normal">2.   In particular, Member States shall ensure that personal data are protected against misuse, including unlawful access, alteration or loss.</p>
+   <p class="normal">3.   Without prejudice to paragraph 1, in order to ensure privacy, the use of anonymous data shall be encouraged, where appropriate, for the performance of the ITS applications and services.</p>
+   <p class="normal">Without prejudice to Directive 95/46/EC personal data shall only be processed insofar as such processing is necessary for the performance of ITS applications and services.</p>
+   <p class="normal">4.   With regard to the application of Directive 95/46/EC and in particular where special categories of personal data are involved, Member States shall also ensure that the provisions on consent to the processing of such personal data are respected.</p>
+   <p class="normal">5.   Directive 2003/98/EC shall apply.</p>
+   <p id="d1e809-1-1" class="ti-art">Article 11</p>
+   <p class="sti-art">Rules on liability</p>
+   <p class="normal">Member States shall ensure that issues related to liability, concerning the deployment and use of ITS applications and services set out in specifications adopted in accordance with Article 6, are addressed in accordance with Union law, including in particular Council Directive 85/374/EEC of 25 July 1985 on the approximation of the laws, regulations and administrative provisions of the Member States concerning liability for defective products<a id="ntc17-L_2010207EN.01000101-E0017" href="#ntr17-L_2010207EN.01000101-E0017"> (<span class="super">17</span>)</a> as well as relevant national legislation.</p>
+   <p id="d1e826-1-1" class="ti-art">Article 12</p>
+   <p class="sti-art">Exercise of the delegation</p>
+   <p class="normal">1.   The power to adopt the delegated acts referred to in Article 7 shall be conferred on the Commission for a period of seven years following 27 August 2010. The Commission shall make a report in respect of the delegated powers no later than six months before the end of a five year period following 27 August 2010.</p>
+   <p class="normal">2.   As soon as it adopts a delegated act, the Commission shall notify it simultaneously to the European Parliament and to the Council.</p>
+   <p class="normal">3.   The power to adopt delegated acts is conferred on the Commission subject to the conditions laid down in Articles 13 and 14.</p>
+   <p id="d1e852-1-1" class="ti-art">Article 13</p>
+   <p class="sti-art">Revocation of the delegation</p>
+   <p class="normal">1.   The delegation of powers referred to in Article 7 may be revoked by the European Parliament or by the Council.</p>
+   <p class="normal">2.   The institution which has commenced an internal procedure for deciding whether to revoke the delegation of powers shall endeavour to inform the other institution and the Commission within a reasonable time before the final decision is taken, indicating the delegated powers which could be subject to revocation and possible reasons for a revocation.</p>
+   <p class="normal">3.   The decision of revocation shall put an end to the delegation of the powers specified in that decision. It shall take effect immediately or at a later date specified therein. It shall not affect the validity of the delegated acts already in force. It shall be published in the <span class="italic">Official Journal of the European Union</span>.</p>
+   <p id="d1e875-1-1" class="ti-art">Article 14</p>
+   <p class="sti-art">Objections to delegated acts</p>
+   <p class="normal">1.   The European Parliament or the Council may object to a delegated act within a period of two months from the date of notification.</p>
+   <p class="normal">At the initiative of the European Parliament or the Council this period shall be extended by two months.</p>
+   <p class="normal">2.   If, on expiry of that period, neither the European Parliament nor the Council has objected to the delegated act, it shall be published in the <span class="italic">Official Journal of the European Union</span> and shall enter into force on the date stated therein.</p>
+   <p class="normal">The delegated act may be published in the <span class="italic">Official Journal of the European Union</span> and enter into force before the expiry of that period if the European Parliament and the Council have both informed the Commission of their intention not to raise objections.</p>
+   <p class="normal">3.   If the European Parliament or the Council objects to a delegated act, it shall not enter into force. The institution which objects shall state the reasons for objecting to the delegated act.</p>
+   <p id="d1e905-1-1" class="ti-art">Article 15</p>
+   <p class="sti-art">Committee procedure</p>
+   <p class="normal">1.   The Commission shall be assisted by the European ITS Committee (EIC).</p>
+   <p class="normal">2.   Where reference is made to this paragraph, Article 3 and Article 7 of Decision 1999/468/EC shall apply, having regard to the provisions of Article 8 thereof.</p>
+   <p id="d1e920-1-1" class="ti-art">Article 16</p>
+   <p class="sti-art">European ITS Advisory Group</p>
+   <p class="normal">The Commission shall establish a European ITS Advisory Group to advise it on business and technical aspects of the deployment and use of ITS in the Union. The group shall be composed of high level representatives from relevant ITS service providers, associations of users, transport and facilities operators, manufacturing industry, social partners, professional associations, local authorities and other relevant fora.</p>
+   <p id="d1e927-1-1" class="ti-art">Article 17</p>
+   <p class="sti-art">Reporting</p>
+   <p class="normal">1.   Member States shall submit to the Commission by 27 August 2011 a report on their national activities and projects regarding the priority areas.</p>
+   <p class="normal">2.   Member States shall provide the Commission by 27 August 2012 with information on national ITS actions envisaged over the following five year period.</p>
+   <p class="normal">Guidelines for reporting by the Member States shall be adopted in accordance with the advisory procedure referred to in Article 15(2).</p>
+   <p class="normal">3.   Following the initial report, Member States shall report every three years on the progress made in the deployment of the actions referred to in paragraph 1.</p>
+   <p class="normal">4.   The Commission shall submit a report every three years to the European Parliament and to the Council on the progress made for the implementation of this Directive. The report shall be accompanied by an analysis on the functioning and implementation, including the financial resources used and needed, of Articles 5 to 11 and Article 16, and shall assess the need to amend this Directive, where appropriate.</p>
+   <p class="normal">5.   In accordance with the advisory procedure referred to in Article 15(2), the Commission shall adopt a working program by 27 February 2011. The working program shall include objectives and dates for its implementation every year and if necessary shall propose the necessary adaptations.</p>
+   <p id="d1e968-1-1" class="ti-art">Article 18</p>
+   <p class="sti-art">Transposition</p>
+   <p class="normal">1.   Member States shall bring into force the laws, regulations and administrative provisions necessary to comply with this Directive by 27 February 2012.</p>
+   <p class="normal">When Member States adopt those provisions, they shall contain a reference to this Directive or shall be accompanied by such reference on the occasion of their official publication. The methods of making such reference, and its wording, shall be laid down by Member States.</p>
+   <p class="normal">2.   Member States shall communicate to the Commission the text of the main provisions of national law which they adopt in the field covered by this Directive.</p>
+   <p id="d1e988-1-1" class="ti-art">Article 19</p>
+   <p class="sti-art">Entry into force</p>
+   <p class="normal">This Directive shall enter into force on the 20th day following its publication in the <span class="italic">Official Journal of the European Union</span>.</p>
+   <p id="d1e998-1-1" class="ti-art">Article 20</p>
+   <p class="sti-art">Addressees</p>
+   <p class="normal">This Directive is addressed to the Member States.</p>
+   <div class="final">
+      <p class="normal">Done at Strasbourg, 7 July 2010.</p>
+      <div class="signatory">
+         <p class="signatory">
+            <span class="italic">For the European Parliament</span>
+         </p>
+         <p class="signatory">
+            <span class="italic">The President</span>
+         </p>
+         <p class="signatory">J. BUZEK</p>
+      </div>
+      <div class="signatory">
+         <p class="signatory">
+            <span class="italic">For the Council</span>
+         </p>
+         <p class="signatory">
+            <span class="italic">The President</span>
+         </p>
+         <p class="signatory">O. CHASTEL</p>
+      </div>
+   </div>
+   <hr class="note"/>
+   <p class="note">
+      <a id="ntr1-L_2010207EN.01000101-E0001" href="#ntc1-L_2010207EN.01000101-E0001">(<span class="super">1</span>)</a>  <a href="http://publications.europa.eu/resource/oj/JOC_2009_277_R_TOC">OJ C 277, 17.11.2009, p. 85</a>.</p>
+   <p class="note">
+      <a id="ntr2-L_2010207EN.01000101-E0002" href="#ntc2-L_2010207EN.01000101-E0002">(<span class="super">2</span>)</a>  Position of the European Parliament of 23 April 2009 (not yet published in the Official Journal), position of the Council of 10 May 2010 (not yet published in the Official Journal), position of the European Parliament of 6 July 2010 (not yet published in the Official Journal).</p>
+   <p class="note">
+      <a id="ntr3-L_2010207EN.01000101-E0003" href="#ntc3-L_2010207EN.01000101-E0003">(<span class="super">3</span>)</a>  <a href="http://publications.europa.eu/resource/oj/JOL_1995_281_R_TOC">OJ L 281, 23.11.1995, p. 31</a>.</p>
+   <p class="note">
+      <a id="ntr4-L_2010207EN.01000101-E0004" href="#ntc4-L_2010207EN.01000101-E0004">(<span class="super">4</span>)</a>  <a href="http://publications.europa.eu/resource/oj/JOL_2002_201_R_TOC">OJ L 201, 31.7.2002, p. 37</a>.</p>
+   <p class="note">
+      <a id="ntr5-L_2010207EN.01000101-E0005" href="#ntc5-L_2010207EN.01000101-E0005">(<span class="super">5</span>)</a>  <a href="http://publications.europa.eu/resource/oj/JOL_2003_345_R_TOC">OJ L 345, 31.12.2003, p. 90</a>.</p>
+   <p class="note">
+      <a id="ntr6-L_2010207EN.01000101-E0006" href="#ntc6-L_2010207EN.01000101-E0006">(<span class="super">6</span>)</a>  <a href="http://publications.europa.eu/resource/oj/JOL_2008_218_R_TOC">OJ L 218, 13.8.2008, p. 82</a>.</p>
+   <p class="note">
+      <a id="ntr7-L_2010207EN.01000101-E0007" href="#ntc7-L_2010207EN.01000101-E0007">(<span class="super">7</span>)</a>  <a href="http://publications.europa.eu/resource/oj/JOL_2007_263_R_TOC">OJ L 263, 9.10.2007, p. 1</a>.</p>
+   <p class="note">
+      <a id="ntr8-L_2010207EN.01000101-E0008" href="#ntc8-L_2010207EN.01000101-E0008">(<span class="super">8</span>)</a>  <a href="http://publications.europa.eu/resource/oj/JOL_2002_124_R_TOC">OJ L 124, 9.5.2002, p. 1</a>.</p>
+   <p class="note">
+      <a id="ntr9-L_2010207EN.01000101-E0009" href="#ntc9-L_2010207EN.01000101-E0009">(<span class="super">9</span>)</a>  <a href="http://publications.europa.eu/resource/oj/JOL_2003_171_R_TOC">OJ L 171, 9.7.2003, p. 1</a>.</p>
+   <p class="note">
+      <a id="ntr10-L_2010207EN.01000101-E0010" href="#ntc10-L_2010207EN.01000101-E0010">(<span class="super">10</span>)</a>  <a href="http://publications.europa.eu/resource/oj/JOL_2005_003_R_TOC">OJ L 3, 5.1.2005, p. 1</a>.</p>
+   <p class="note">
+      <a id="ntr11-L_2010207EN.01000101-E0011" href="#ntc11-L_2010207EN.01000101-E0011">(<span class="super">11</span>)</a>  <a href="http://publications.europa.eu/resource/oj/JOL_2008_196_R_TOC">OJ L 196, 24.7.2008, p. 1</a>.</p>
+   <p class="note">
+      <a id="ntr12-L_2010207EN.01000101-E0012" href="#ntc12-L_2010207EN.01000101-E0012">(<span class="super">12</span>)</a>  <a href="http://publications.europa.eu/resource/oj/JOL_1999_184_R_TOC">OJ L 184, 17.7.1999, p. 23</a>.</p>
+   <p class="note">
+      <a id="ntr13-L_2010207EN.01000101-E0013" href="#ntc13-L_2010207EN.01000101-E0013">(<span class="super">13</span>)</a>  <a href="http://publications.europa.eu/resource/oj/JOL_2004_166_R_TOC">OJ L 166, 30.4.2004, p. 124</a>.</p>
+   <p class="note">
+      <a id="ntr14-L_2010207EN.01000101-E0014" href="#ntc14-L_2010207EN.01000101-E0014">(<span class="super">14</span>)</a>  <a href="http://publications.europa.eu/resource/oj/JOL_1985_370_R_TOC">OJ L 370, 31.12.1985, p. 8</a>.</p>
+   <p class="note">
+      <a id="ntr15-L_2010207EN.01000101-E0015" href="#ntc15-L_2010207EN.01000101-E0015">(<span class="super">15</span>)</a>  <a href="http://publications.europa.eu/resource/oj/JOL_2007_108_R_TOC">OJ L 108, 25.4.2007, p. 1</a>.</p>
+   <p class="note">
+      <a id="ntr16-L_2010207EN.01000101-E0016" href="#ntc16-L_2010207EN.01000101-E0016">(<span class="super">16</span>)</a>  <a href="http://publications.europa.eu/resource/oj/JOL_1998_204_R_TOC">OJ L 204, 21.7.1998, p. 37</a>.</p>
+   <p class="note">
+      <a id="ntr17-L_2010207EN.01000101-E0017" href="#ntc17-L_2010207EN.01000101-E0017">(<span class="super">17</span>)</a>  <a href="http://publications.europa.eu/resource/oj/JOL_1985_210_R_TOC">OJ L 210, 7.8.1985, p. 29</a>.</p>
+   <hr class="doc-sep"/>
+   <div id="L_2010207EN.01000901">
+      <p class="doc-ti" id="d1e32-9-1">ANNEX I</p>
+      <p id="d1e38-9-1" class="ti-grseq-1">
+         <span class="bold">PRIORITY AREAS AND ACTIONS</span>
+      </p>
+      <p id="L_2010207EN.01000901-g-001-0001" class="ti-grseq-1">(as referred to in Articles 2 and 3)</p>
+      <p class="ti-grseq-1" id="d1e47-9-1">—   <span class="bold">Priority area I: Optimal use of road, traffic and travel data</span>
+      </p>
+      <p class="normal">The specifications and standards for an optimal use of road, traffic and travel data shall include the following:</p>
+      <p class="ti-grseq-1" id="d1e58-9-1">1.   Specifications for priority action (a)</p>
+      <p class="normal">The definition of the necessary requirements to make EU-wide multimodal travel information services accurate and available across borders to ITS users, based on:</p>
+      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+         <col width="4%"/>
+         <col width="96%"/>
+         <tbody>
+            <tr>
+               <td valign="top">
+                  <p class="normal">—</p>
+               </td>
+               <td valign="top">
+                  <p class="normal">the availability and accessibility of existing and accurate road and real-time traffic data used for multimodal travel information to ITS service providers without prejudice to safety and transport management constraints,</p>
+               </td>
+            </tr>
+         </tbody>
+      </table>
+      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+         <col width="4%"/>
+         <col width="96%"/>
+         <tbody>
+            <tr>
+               <td valign="top">
+                  <p class="normal">—</p>
+               </td>
+               <td valign="top">
+                  <p class="normal">the facilitation of the electronic data exchange between the relevant public authorities and stakeholders and the relevant ITS service providers, across borders,</p>
+               </td>
+            </tr>
+         </tbody>
+      </table>
+      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+         <col width="4%"/>
+         <col width="96%"/>
+         <tbody>
+            <tr>
+               <td valign="top">
+                  <p class="normal">—</p>
+               </td>
+               <td valign="top">
+                  <p class="normal">the timely updating of available road and traffic data used for multimodal travel information by the relevant public authorities and stakeholders,</p>
+               </td>
+            </tr>
+         </tbody>
+      </table>
+      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+         <col width="4%"/>
+         <col width="96%"/>
+         <tbody>
+            <tr>
+               <td valign="top">
+                  <p class="normal">—</p>
+               </td>
+               <td valign="top">
+                  <p class="normal">the timely updating of multimodal travel information by the ITS service providers.</p>
+               </td>
+            </tr>
+         </tbody>
+      </table>
+      <p class="ti-grseq-1" id="d1e81-9-1">2.   Specifications for priority action (b)</p>
+      <p class="normal">The definition of the necessary requirements to make EU-wide real-time traffic information services accurate and available across borders to ITS users, based on:</p>
+      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+         <col width="4%"/>
+         <col width="96%"/>
+         <tbody>
+            <tr>
+               <td valign="top">
+                  <p class="normal">—</p>
+               </td>
+               <td valign="top">
+                  <p class="normal">the availability and accessibility of existing and accurate road and real-time traffic data used for real-time traffic information to ITS service providers without prejudice to safety and transport management constraints,</p>
+               </td>
+            </tr>
+         </tbody>
+      </table>
+      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+         <col width="4%"/>
+         <col width="96%"/>
+         <tbody>
+            <tr>
+               <td valign="top">
+                  <p class="normal">—</p>
+               </td>
+               <td valign="top">
+                  <p class="normal">the facilitation of the electronic data exchange between the relevant public authorities and stakeholders and the relevant ITS service providers, across borders,</p>
+               </td>
+            </tr>
+         </tbody>
+      </table>
+      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+         <col width="4%"/>
+         <col width="96%"/>
+         <tbody>
+            <tr>
+               <td valign="top">
+                  <p class="normal">—</p>
+               </td>
+               <td valign="top">
+                  <p class="normal">the timely updating of available road and traffic data used for real-time traffic information by the relevant public authorities and stakeholders,</p>
+               </td>
+            </tr>
+         </tbody>
+      </table>
+      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+         <col width="4%"/>
+         <col width="96%"/>
+         <tbody>
+            <tr>
+               <td valign="top">
+                  <p class="normal">—</p>
+               </td>
+               <td valign="top">
+                  <p class="normal">the timely updating of real-time traffic information by the ITS service providers.</p>
+               </td>
+            </tr>
+         </tbody>
+      </table>
+      <p class="ti-grseq-1" id="d1e104-9-1">3.   Specifications for priority actions (a) and (b)</p>
+      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+         <col width="4%"/>
+         <col width="96%"/>
+         <tbody>
+            <tr>
+               <td valign="top">
+                  <p class="normal">3.1.</p>
+               </td>
+               <td valign="top">
+                  <p class="normal">The definition of the necessary requirements for the collection by relevant public authorities and/or, where relevant, by the private sector of road and traffic data (i.e. traffic circulation plans, traffic regulations and recommended routes, notably for heavy goods vehicles) and for their provisioning to ITS service providers, based on:</p>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="4%"/>
+                     <col width="96%"/>
+                     <tbody>
+                        <tr>
+                           <td valign="top">
+                              <p class="normal">—</p>
+                           </td>
+                           <td valign="top">
+                              <p class="normal">the availability, to ITS service providers, of existing road and traffic data (i.e. traffic circulation plans, traffic regulations and recommended routes) collected by the relevant public authorities and/or the private sector,</p>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="4%"/>
+                     <col width="96%"/>
+                     <tbody>
+                        <tr>
+                           <td valign="top">
+                              <p class="normal">—</p>
+                           </td>
+                           <td valign="top">
+                              <p class="normal">the facilitation of the electronic data exchange between the relevant public authorities and the ITS service providers,</p>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="4%"/>
+                     <col width="96%"/>
+                     <tbody>
+                        <tr>
+                           <td valign="top">
+                              <p class="normal">—</p>
+                           </td>
+                           <td valign="top">
+                              <p class="normal">the timely updating, by the relevant public authorities and/or, where relevant, the private sector, of road and traffic data (i.e. traffic circulation plans, traffic regulations and recommended routes),</p>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="4%"/>
+                     <col width="96%"/>
+                     <tbody>
+                        <tr>
+                           <td valign="top">
+                              <p class="normal">—</p>
+                           </td>
+                           <td valign="top">
+                              <p class="normal">the timely updating, by the ITS service providers, of the ITS services and applications using these road and traffic data.</p>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+               </td>
+            </tr>
+         </tbody>
+      </table>
+      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+         <col width="4%"/>
+         <col width="96%"/>
+         <tbody>
+            <tr>
+               <td valign="top">
+                  <p class="normal">3.2.</p>
+               </td>
+               <td valign="top">
+                  <p class="normal">The definition of the necessary requirements to make road, traffic and transport services data used for digital maps accurate and available, where possible, to digital map producers and service providers, based on:</p>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="4%"/>
+                     <col width="96%"/>
+                     <tbody>
+                        <tr>
+                           <td valign="top">
+                              <p class="normal">—</p>
+                           </td>
+                           <td valign="top">
+                              <p class="normal">the availability of existing road and traffic data used for digital maps to digital map producers and service providers,</p>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="4%"/>
+                     <col width="96%"/>
+                     <tbody>
+                        <tr>
+                           <td valign="top">
+                              <p class="normal">—</p>
+                           </td>
+                           <td valign="top">
+                              <p class="normal">the facilitation of the electronic data exchange between the relevant public authorities and stakeholders and the private digital map producers and service providers,</p>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="4%"/>
+                     <col width="96%"/>
+                     <tbody>
+                        <tr>
+                           <td valign="top">
+                              <p class="normal">—</p>
+                           </td>
+                           <td valign="top">
+                              <p class="normal">the timely updating of road and traffic data for digital maps by the relevant public authorities and stakeholders,</p>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="4%"/>
+                     <col width="96%"/>
+                     <tbody>
+                        <tr>
+                           <td valign="top">
+                              <p class="normal">—</p>
+                           </td>
+                           <td valign="top">
+                              <p class="normal">the timely updating of the digital maps by the digital map producers and service providers.</p>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+               </td>
+            </tr>
+         </tbody>
+      </table>
+      <p class="ti-grseq-1" id="d1e150-9-1">4.   Specifications for priority action (c)</p>
+      <p class="normal">The definition of minimum requirements, for road safety related ‘universal traffic information’ provided, where possible, free of charge to all users, as well as their minimum content, based on:</p>
+      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+         <col width="4%"/>
+         <col width="96%"/>
+         <tbody>
+            <tr>
+               <td valign="top">
+                  <p class="normal">—</p>
+               </td>
+               <td valign="top">
+                  <p class="normal">the identification and use of a standardised list of safety related traffic events (‘universal traffic messages’) which should be communicated to ITS users free of charge,</p>
+               </td>
+            </tr>
+         </tbody>
+      </table>
+      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+         <col width="4%"/>
+         <col width="96%"/>
+         <tbody>
+            <tr>
+               <td valign="top">
+                  <p class="normal">—</p>
+               </td>
+               <td valign="top">
+                  <p class="normal">The compatibility and the integration of ‘universal traffic messages’ into ITS services for real-time traffic and multimodal travel information.</p>
+               </td>
+            </tr>
+         </tbody>
+      </table>
+      <p class="ti-grseq-1" id="d1e179-9-1">—   <span class="bold">Priority area II: Continuity of traffic and freight management ITS services</span>
+      </p>
+      <p class="normal">The specifications and standards for the continuity and interoperability of traffic and freight management services, in particular on the TEN-T network, shall include the following:</p>
+      <p class="ti-grseq-1" id="d1e190-9-1">1.   Specifications for other actions</p>
+      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+         <col width="4%"/>
+         <col width="96%"/>
+         <tbody>
+            <tr>
+               <td valign="top">
+                  <p class="normal">1.1.</p>
+               </td>
+               <td valign="top">
+                  <p class="normal">The definition of the necessary measures to develop an EU ITS Framework Architecture, addressing specifically ITS-related interoperability, continuity of services and multi-modality aspects, including for example multimodal interoperable ticketing, within which Member States and their competent authorities in cooperation with the private sector can develop their own ITS architecture for mobility at national, regional or local level.</p>
+               </td>
+            </tr>
+         </tbody>
+      </table>
+      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+         <col width="4%"/>
+         <col width="96%"/>
+         <tbody>
+            <tr>
+               <td valign="top">
+                  <p class="normal">1.2.</p>
+               </td>
+               <td valign="top">
+                  <p class="normal">The definition of the minimum necessary requirements for the continuity of ITS services, in particular for cross-border services, for the management of passenger transport across different modes of transport, based on:</p>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="4%"/>
+                     <col width="96%"/>
+                     <tbody>
+                        <tr>
+                           <td valign="top">
+                              <p class="normal">—</p>
+                           </td>
+                           <td valign="top">
+                              <p class="normal">the facilitation of the electronic exchange for traffic data and information across borders, and where appropriate, regions, or between urban and inter-urban areas between the relevant traffic information/control centres and different stakeholders,</p>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="4%"/>
+                     <col width="96%"/>
+                     <tbody>
+                        <tr>
+                           <td valign="top">
+                              <p class="normal">—</p>
+                           </td>
+                           <td valign="top">
+                              <p class="normal">the use of standardised information flows or traffic interfaces between the relevant traffic information/control centres and different stakeholders.</p>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+               </td>
+            </tr>
+         </tbody>
+      </table>
+      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+         <col width="4%"/>
+         <col width="96%"/>
+         <tbody>
+            <tr>
+               <td valign="top">
+                  <p class="normal">1.3.</p>
+               </td>
+               <td valign="top">
+                  <p class="normal">The definition of the minimum necessary requirements for the continuity of ITS services for the management of freight along transport corridors and across different modes of transport, based on:</p>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="4%"/>
+                     <col width="96%"/>
+                     <tbody>
+                        <tr>
+                           <td valign="top">
+                              <p class="normal">—</p>
+                           </td>
+                           <td valign="top">
+                              <p class="normal">the facilitation of the electronic exchange for traffic data and information across borders, and where appropriate, regions, or between urban and inter-urban areas between the relevant traffic information/control centres and different stakeholders,</p>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="4%"/>
+                     <col width="96%"/>
+                     <tbody>
+                        <tr>
+                           <td valign="top">
+                              <p class="normal">—</p>
+                           </td>
+                           <td valign="top">
+                              <p class="normal">the use of standardised information flows or traffic interfaces between the relevant traffic information/control centres and different stakeholders.</p>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+               </td>
+            </tr>
+         </tbody>
+      </table>
+      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+         <col width="4%"/>
+         <col width="96%"/>
+         <tbody>
+            <tr>
+               <td valign="top">
+                  <p class="normal">1.4.</p>
+               </td>
+               <td valign="top">
+                  <p class="normal">The definition of the necessary measures in the realisation of ITS applications (notably the tracking and tracing of freight along its journey and across modes of transport) for freight transport logistics (eFreight), based on:</p>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="4%"/>
+                     <col width="96%"/>
+                     <tbody>
+                        <tr>
+                           <td valign="top">
+                              <p class="normal">—</p>
+                           </td>
+                           <td valign="top">
+                              <p class="normal">the availability of relevant ITS technologies to and their use by ITS application developers,</p>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="4%"/>
+                     <col width="96%"/>
+                     <tbody>
+                        <tr>
+                           <td valign="top">
+                              <p class="normal">—</p>
+                           </td>
+                           <td valign="top">
+                              <p class="normal">the integration of positioning results in the traffic management tools and centres.</p>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+               </td>
+            </tr>
+         </tbody>
+      </table>
+      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+         <col width="4%"/>
+         <col width="96%"/>
+         <tbody>
+            <tr>
+               <td valign="top">
+                  <p class="normal">1.5.</p>
+               </td>
+               <td valign="top">
+                  <p class="normal">The definition of the necessary interfaces to ensure interoperability and compatibility between the urban ITS architecture and the European ITS architecture based on:</p>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="4%"/>
+                     <col width="96%"/>
+                     <tbody>
+                        <tr>
+                           <td valign="top">
+                              <p class="normal">—</p>
+                           </td>
+                           <td valign="top">
+                              <p class="normal">the availability of public transport, travel planning, transport demand, traffic data and parking data to urban control centres and service providers,</p>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="4%"/>
+                     <col width="96%"/>
+                     <tbody>
+                        <tr>
+                           <td valign="top">
+                              <p class="normal">—</p>
+                           </td>
+                           <td valign="top">
+                              <p class="normal">the facilitation of the electronic data exchange between the different urban control centres and service providers for public or private transport and through all possible modes of transport,</p>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="4%"/>
+                     <col width="96%"/>
+                     <tbody>
+                        <tr>
+                           <td valign="top">
+                              <p class="normal">—</p>
+                           </td>
+                           <td valign="top">
+                              <p class="normal">the integration of all relevant data and information in a single architecture.</p>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+               </td>
+            </tr>
+         </tbody>
+      </table>
+      <p class="ti-grseq-1" id="d1e258-9-1">—   <span class="bold">Priority area III: ITS road safety and security applications</span>
+      </p>
+      <p class="normal">The specifications and standards for ITS road safety and security applications shall include the following:</p>
+      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+         <col width="4%"/>
+         <col width="96%"/>
+         <tbody>
+            <tr>
+               <td valign="top">
+                  <p class="normal">1.</p>
+               </td>
+               <td valign="top">
+                  <p class="normal">Specifications for priority action (d)</p>
+                  <p class="normal">The definition of the necessary measures for the harmonised provision of an interoperable EU-wide eCall, including:</p>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="4%"/>
+                     <col width="96%"/>
+                     <tbody>
+                        <tr>
+                           <td valign="top">
+                              <p class="normal">—</p>
+                           </td>
+                           <td valign="top">
+                              <p class="normal">the availability of the required in-vehicle ITS data to be exchanged,</p>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="4%"/>
+                     <col width="96%"/>
+                     <tbody>
+                        <tr>
+                           <td valign="top">
+                              <p class="normal">—</p>
+                           </td>
+                           <td valign="top">
+                              <p class="normal">the availability of the necessary equipment in the emergency call response centres receiving the data emitted from the vehicles,</p>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="4%"/>
+                     <col width="96%"/>
+                     <tbody>
+                        <tr>
+                           <td valign="top">
+                              <p class="normal">—</p>
+                           </td>
+                           <td valign="top">
+                              <p class="normal">the facilitation of the electronic data exchange between the vehicles and the emergency call response centres.</p>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+               </td>
+            </tr>
+         </tbody>
+      </table>
+      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+         <col width="4%"/>
+         <col width="96%"/>
+         <tbody>
+            <tr>
+               <td valign="top">
+                  <p class="normal">2.</p>
+               </td>
+               <td valign="top">
+                  <p class="normal">Specifications for priority action (e)</p>
+                  <p class="normal">The definition of the necessary measures to provide ITS based information services for safe and secure parking places for trucks and commercial vehicles, in particular in service and rest areas on roads, based on:</p>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="4%"/>
+                     <col width="96%"/>
+                     <tbody>
+                        <tr>
+                           <td valign="top">
+                              <p class="normal">—</p>
+                           </td>
+                           <td valign="top">
+                              <p class="normal">the availability of the road parking information to users,</p>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="4%"/>
+                     <col width="96%"/>
+                     <tbody>
+                        <tr>
+                           <td valign="top">
+                              <p class="normal">—</p>
+                           </td>
+                           <td valign="top">
+                              <p class="normal">the facilitation of the electronic data exchange between road parking sites, centres and vehicles.</p>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+               </td>
+            </tr>
+         </tbody>
+      </table>
+      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+         <col width="4%"/>
+         <col width="96%"/>
+         <tbody>
+            <tr>
+               <td valign="top">
+                  <p class="normal">3.</p>
+               </td>
+               <td valign="top">
+                  <p class="normal">Specifications for priority action (f)</p>
+                  <p class="normal">The definition of the necessary measures to provide ITS based reservation services for safe and secure parking places for trucks and commercial vehicles based on:</p>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="4%"/>
+                     <col width="96%"/>
+                     <tbody>
+                        <tr>
+                           <td valign="top">
+                              <p class="normal">—</p>
+                           </td>
+                           <td valign="top">
+                              <p class="normal">the availability of the road parking information to users,</p>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="4%"/>
+                     <col width="96%"/>
+                     <tbody>
+                        <tr>
+                           <td valign="top">
+                              <p class="normal">—</p>
+                           </td>
+                           <td valign="top">
+                              <p class="normal">the facilitation of the electronic data exchange between road parking sites, centres and vehicles,</p>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="4%"/>
+                     <col width="96%"/>
+                     <tbody>
+                        <tr>
+                           <td valign="top">
+                              <p class="normal">—</p>
+                           </td>
+                           <td valign="top">
+                              <p class="normal">the integration of relevant ITS technologies in both vehicles and road parking facilities to update the information on available parking space for reservation purposes.</p>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+               </td>
+            </tr>
+         </tbody>
+      </table>
+      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+         <col width="4%"/>
+         <col width="96%"/>
+         <tbody>
+            <tr>
+               <td valign="top">
+                  <p class="normal">4.</p>
+               </td>
+               <td valign="top">
+                  <p class="normal">Specifications for other actions</p>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="4%"/>
+                     <col width="96%"/>
+                     <tbody>
+                        <tr>
+                           <td valign="top">
+                              <p class="normal">4.1.</p>
+                           </td>
+                           <td valign="top">
+                              <p class="normal">The definition of the necessary measures to support the safety of road users with respect to their on-board Human-Machine-Interface and the use of nomadic devices to support the driving task and/or the transport operation, as well as the security of the in-vehicle communications.</p>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="4%"/>
+                     <col width="96%"/>
+                     <tbody>
+                        <tr>
+                           <td valign="top">
+                              <p class="normal">4.2.</p>
+                           </td>
+                           <td valign="top">
+                              <p class="normal">The definition of the necessary measures to improve the safety and comfort of vulnerable road users for all relevant ITS applications.</p>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="4%"/>
+                     <col width="96%"/>
+                     <tbody>
+                        <tr>
+                           <td valign="top">
+                              <p class="normal">4.3.</p>
+                           </td>
+                           <td valign="top">
+                              <p class="normal">The definition of necessary measures to integrate advanced driver support information systems into vehicles and road infrastructure which fall outside the scope of Directives 2007/46/EC, 2002/24/EC and 2003/37/EC.</p>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+               </td>
+            </tr>
+         </tbody>
+      </table>
+      <p class="ti-grseq-1" id="d1e350-9-1">—   <span class="bold">Priority area IV: Linking the vehicle with the transport infrastructure</span>
+      </p>
+      <p class="normal">The specifications and standards for linking vehicles with the transport infrastructure shall include the following:</p>
+      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+         <col width="4%"/>
+         <col width="96%"/>
+         <tbody>
+            <tr>
+               <td valign="top">
+                  <p class="normal">1.</p>
+               </td>
+               <td valign="top">
+                  <p class="normal">Specifications for other actions</p>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="4%"/>
+                     <col width="96%"/>
+                     <tbody>
+                        <tr>
+                           <td valign="top">
+                              <p class="normal">1.1.</p>
+                           </td>
+                           <td valign="top">
+                              <p class="normal">The definition of necessary measures to integrate different ITS applications on an open in-vehicle platform, based on:</p>
+                              <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                 <col width="4%"/>
+                                 <col width="96%"/>
+                                 <tbody>
+                                    <tr>
+                                       <td valign="top">
+                                          <p class="normal">—</p>
+                                       </td>
+                                       <td valign="top">
+                                          <p class="normal">the identification of functional requirements of existing or planned ITS applications,</p>
+                                       </td>
+                                    </tr>
+                                 </tbody>
+                              </table>
+                              <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                 <col width="4%"/>
+                                 <col width="96%"/>
+                                 <tbody>
+                                    <tr>
+                                       <td valign="top">
+                                          <p class="normal">—</p>
+                                       </td>
+                                       <td valign="top">
+                                          <p class="normal">the definition of an open-system architecture which defines the functionalities and interfaces necessary for the interoperability/interconnection with infrastructure systems and facilities,</p>
+                                       </td>
+                                    </tr>
+                                 </tbody>
+                              </table>
+                              <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                 <col width="4%"/>
+                                 <col width="96%"/>
+                                 <tbody>
+                                    <tr>
+                                       <td valign="top">
+                                          <p class="normal">—</p>
+                                       </td>
+                                       <td valign="top">
+                                          <p class="normal">the integration of future new or upgraded ITS applications in a ‘plug and play’ manner into an open in-vehicle platform,</p>
+                                       </td>
+                                    </tr>
+                                 </tbody>
+                              </table>
+                              <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                 <col width="4%"/>
+                                 <col width="96%"/>
+                                 <tbody>
+                                    <tr>
+                                       <td valign="top">
+                                          <p class="normal">—</p>
+                                       </td>
+                                       <td valign="top">
+                                          <p class="normal">the use of a standardisation process for the adoption of the architecture, and the open in-vehicle specifications.</p>
+                                       </td>
+                                    </tr>
+                                 </tbody>
+                              </table>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="4%"/>
+                     <col width="96%"/>
+                     <tbody>
+                        <tr>
+                           <td valign="top">
+                              <p class="normal">1.2.</p>
+                           </td>
+                           <td valign="top">
+                              <p class="normal">The definition of necessary measures to further progress the development and implementation of cooperative (vehicle-vehicle, vehicle-infrastructure, infrastructure-infrastructure) systems, based on:</p>
+                              <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                 <col width="4%"/>
+                                 <col width="96%"/>
+                                 <tbody>
+                                    <tr>
+                                       <td valign="top">
+                                          <p class="normal">—</p>
+                                       </td>
+                                       <td valign="top">
+                                          <p class="normal">the facilitation of the exchange of data or information between vehicles, infrastructures and between vehicle and infrastructure,</p>
+                                       </td>
+                                    </tr>
+                                 </tbody>
+                              </table>
+                              <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                 <col width="4%"/>
+                                 <col width="96%"/>
+                                 <tbody>
+                                    <tr>
+                                       <td valign="top">
+                                          <p class="normal">—</p>
+                                       </td>
+                                       <td valign="top">
+                                          <p class="normal">the availability of the relevant data or information to be exchanged to the respective vehicle or road infrastructure parties,</p>
+                                       </td>
+                                    </tr>
+                                 </tbody>
+                              </table>
+                              <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                 <col width="4%"/>
+                                 <col width="96%"/>
+                                 <tbody>
+                                    <tr>
+                                       <td valign="top">
+                                          <p class="normal">—</p>
+                                       </td>
+                                       <td valign="top">
+                                          <p class="normal">the use of a standardised message format for the exchange of data or information between the vehicle and the infrastructure,</p>
+                                       </td>
+                                    </tr>
+                                 </tbody>
+                              </table>
+                              <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                 <col width="4%"/>
+                                 <col width="96%"/>
+                                 <tbody>
+                                    <tr>
+                                       <td valign="top">
+                                          <p class="normal">—</p>
+                                       </td>
+                                       <td valign="top">
+                                          <p class="normal">the definition of a communication infrastructure for data or information exchange between vehicles, infrastructures and between vehicle and infrastructure,</p>
+                                       </td>
+                                    </tr>
+                                 </tbody>
+                              </table>
+                              <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                 <col width="4%"/>
+                                 <col width="96%"/>
+                                 <tbody>
+                                    <tr>
+                                       <td valign="top">
+                                          <p class="normal">—</p>
+                                       </td>
+                                       <td valign="top">
+                                          <p class="normal">the use of standardisation processes to adopt the respective architectures.</p>
+                                       </td>
+                                    </tr>
+                                 </tbody>
+                              </table>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+               </td>
+            </tr>
+         </tbody>
+      </table>
+   </div>
+   <hr class="doc-sep"/>
+   <div id="L_2010207EN.01001301">
+      <p class="doc-ti" id="d1e32-13-1">ANNEX II</p>
+      <p id="d1e38-13-1" class="ti-grseq-1">PRINCIPLES FOR SPECIFICATIONS AND DEPLOYMENT OF ITS</p>
+      <p id="L_2010207EN.01001301-g-001-0001" class="ti-grseq-1">(as referred to in Articles 5, 6 and 8)</p>
+      <p class="normal">The adoption of specifications, the issuing of mandates for standards and the selection and deployment of ITS applications and services shall be based upon an evaluation of needs involving all relevant stakeholders, and shall comply with the following principles. These measures shall:</p>
+      <p class="normal">(a)   Be effective– make a tangible contribution towards solving the key challenges affecting road transportation in Europe (e.g. reducing congestion, lowering of emissions, improving energy efficiency, attaining higher levels of safety and security including vulnerable road users);</p>
+      <p class="normal">(b)   Be cost-efficient– optimise the ratio of costs in relation to output with regard to meeting objectives;</p>
+      <p class="normal">(c)   Be proportionate– provide, where appropriate, for different levels of achievable service quality and deployment, taking into account the local, regional, national and European specificities;</p>
+      <p class="normal">(d)   Support continuity of services– ensure seamless services across the Union, in particular on the trans-European network, and where possible at its external borders, when ITS services are deployed. Continuity of services should be ensured at a level adapted to the characteristics of the transport networks linking countries with countries, and where appropriate, regions with regions and cities with rural areas;</p>
+      <p class="normal">(e)   Deliver interoperability– ensure that systems and the underlying business processes have the capacity to exchange data and to share information and knowledge to enable effective ITS service delivery;</p>
+      <p class="normal">(f)   Support backward compatibility– ensure, where appropriate, the capability for ITS systems to work with existing systems that share a common purpose, without hindering the development of new technologies;</p>
+      <p class="normal">(g)   Respect existing national infrastructure and network characteristics– take into account the inherent differences in the transport network characteristics, in particular in the sizes of the traffic volumes and in road weather conditions;</p>
+      <p class="normal">(h)   Promote equality of access– do not impede or discriminate against access to ITS applications and services by vulnerable road users;</p>
+      <p class="normal">(i)   Support maturity– demonstrate, after appropriate risk assessment, the robustness of innovative ITS systems, through a sufficient level of technical development and operational exploitation;</p>
+      <p class="normal">(j)   Deliver quality of timing and positioning– use of satellite-based infrastructures, or any technology providing equivalent levels of precision for the purposes of ITS applications and services that require global, continuous, accurate and guaranteed timing and positioning services;</p>
+      <p class="normal">(k)   Facilitate inter-modality– take into account the coordination of various modes of transport, where appropriate, when deploying ITS;</p>
+      <p class="normal">(l)   Respect coherence– take into account existing Union rules, policies and activities which are relevant in the field of ITS, in particular in the field of standardisation.</p>
+   </div>
+   <hr class="doc-end"/>
+</body>
+</html>

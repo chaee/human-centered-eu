@@ -1,0 +1,1626 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML//EN" "xhtml-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><!-- CONVEX # converter_version:9.15.0 # generated_on:20231208-0931 # ELI version:0.10 --><head>
+      <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
+      <link type="text/css" rel="stylesheet" href="oj-convex.css"/>
+      <title>L_2022333EN.01015301.xml</title>
+   </head>
+   <body>
+      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+         <col width="10%"/>
+         <col width="10%"/>
+         <col width="60%"/>
+         <col width="20%"/>
+         <tbody>
+            <tr>
+               <td  >
+                  <p class="oj-hd-date">27.12.2022   </p>
+               </td>
+               <td  >
+                  <p class="oj-hd-lg">EN</p>
+               </td>
+               <td  >
+                  <p class="oj-hd-ti">Official Journal of the European Union</p>
+               </td>
+               <td  >
+                  <p class="oj-hd-oj">L 333/153</p>
+               </td>
+            </tr>
+         </tbody>
+      </table>
+      <hr class="oj-separator"/>
+      <div class="eli-container">
+         <div class="eli-main-title" id="tit_1">
+            <p class="oj-doc-ti" id="d1e40-153-1">
+            DIRECTIVE (EU) 2022/2556 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL
+         </p>
+            <p class="oj-doc-ti">of 14 December 2022
+         </p>
+            <p class="oj-doc-ti">amending Directives 2009/65/EC, 2009/138/EC, 2011/61/EU, 2013/36/EU, 2014/59/EU, 2014/65/EU, (EU) 2015/2366 and (EU) 2016/2341 as regards digital operational resilience for the financial sector</p>
+            <p class="oj-doc-ti">(Text with EEA relevance)</p>
+         </div>
+         <div class="eli-subdivision" id="pbl_1">
+            <p class="oj-normal">THE EUROPEAN PARLIAMENT AND THE COUNCIL OF THE EUROPEAN UNION,</p>
+            <div class="eli-subdivision" id="cit_1">
+               <p class="oj-normal">Having regard to the Treaty on the Functioning of the European Union, and in particular Article 53(1) and 114 thereof,</p>
+            </div>
+            <div class="eli-subdivision" id="cit_2">
+               <p class="oj-normal">Having regard to the proposal from the European Commission,</p>
+            </div>
+            <div class="eli-subdivision" id="cit_3">
+               <p class="oj-normal">After transmission of the draft legislative act to the national parliaments,</p>
+            </div>
+            <div class="eli-subdivision" id="cit_4">
+               <p class="oj-normal">Having regard to the opinion of the European Central Bank <a id="ntc1-L_2022333EN.01015301-E0001" href="#ntr1-L_2022333EN.01015301-E0001"
+                     >(<span class="oj-super oj-note-tag">1</span>)</a>,</p>
+            </div>
+            <div class="eli-subdivision" id="cit_5">
+               <p class="oj-normal">Having regard to the opinion of the European Economic and Social Committee <a id="ntc2-L_2022333EN.01015301-E0002" href="#ntr2-L_2022333EN.01015301-E0002"
+                     >(<span class="oj-super oj-note-tag">2</span>)</a>,</p>
+            </div>
+            <div class="eli-subdivision" id="cit_6">
+               <p class="oj-normal">Acting in accordance with the ordinary legislative procedure <a id="ntc3-L_2022333EN.01015301-E0003" href="#ntr3-L_2022333EN.01015301-E0003"
+                     >(<span class="oj-super oj-note-tag">3</span>)</a>,</p>
+            </div>
+            <p class="oj-normal">Whereas:</p>
+            <div class="eli-subdivision" id="rct_1">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(1)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">The Union needs to adequately and comprehensively address digital risks to all financial entities stemming from an increased use of information and communication technology (ICT) in the provision and consumption of financial services, thereby contributing to the realisation of the potential of digital finance, in terms of boosting innovation and promoting competition in a secure digital environment.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="rct_2">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(2)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">Financial entities are heavily reliant on the use of digital technologies in their daily business. It is therefore of utmost importance to ensure the operational resilience of their digital operations against ICT risk. This need has become even more pressing due to the growth of breakthrough technologies in the market, in particular technologies enabling digital representations of value or of rights to be transferred and stored electronically, using distributed ledger or similar technology (crypto-assets), and of services related to those assets.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="rct_3">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(3)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">At Union level, the requirements related to the management of ICT risk in the financial sector are currently provided for in Directives 2009/65/EC <a id="ntc4-L_2022333EN.01015301-E0004" href="#ntr4-L_2022333EN.01015301-E0004"
+                                 >(<span class="oj-super oj-note-tag">4</span>)</a>, 2009/138/EC <a id="ntc5-L_2022333EN.01015301-E0005" href="#ntr5-L_2022333EN.01015301-E0005"
+                                 >(<span class="oj-super oj-note-tag">5</span>)</a>, 2011/61/EU <a id="ntc6-L_2022333EN.01015301-E0006" href="#ntr6-L_2022333EN.01015301-E0006"
+                                 >(<span class="oj-super oj-note-tag">6</span>)</a>, 2013/36/EU <a id="ntc7-L_2022333EN.01015301-E0007" href="#ntr7-L_2022333EN.01015301-E0007"
+                                 >(<span class="oj-super oj-note-tag">7</span>)</a>, 2014/59/EU <a id="ntc8-L_2022333EN.01015301-E0008" href="#ntr8-L_2022333EN.01015301-E0008"
+                                 >(<span class="oj-super oj-note-tag">8</span>)</a>, 2014/65/EU <a id="ntc9-L_2022333EN.01015301-E0009" href="#ntr9-L_2022333EN.01015301-E0009"
+                                 >(<span class="oj-super oj-note-tag">9</span>)</a>, (EU) 2015/2366 <a id="ntc10-L_2022333EN.01015301-E0010" href="#ntr10-L_2022333EN.01015301-E0010"
+                                 >(<span class="oj-super oj-note-tag">10</span>)</a> and (EU) 2016/2341 <a id="ntc11-L_2022333EN.01015301-E0011" href="#ntr11-L_2022333EN.01015301-E0011"
+                                 >(<span class="oj-super oj-note-tag">11</span>)</a> of the European Parliament and of the Council.</p>
+                           <p class="oj-normal">Those requirements are diverse and occasionally incomplete. In some cases, ICT risk has been addressed only implicitly as part of operational risk, and in other cases it has not been addressed at all. Those issues are remedied by the adoption of Regulation (EU) 2022/2554 of the European Parliament and of the Council <a id="ntc12-L_2022333EN.01015301-E0012" href="#ntr12-L_2022333EN.01015301-E0012"
+                                 >(<span class="oj-super oj-note-tag">12</span>)</a>. Those Directives should therefore be amended to ensure consistency with that Regulation. This Directive enacts a set of amendments that are necessary to bring legal clarity and consistency in relation to the application, by financial entities authorised and supervised in accordance with those Directives, of various digital operational resilience requirements that are necessary in the pursuit of their activities and in the provision of services, thereby guaranteeing the smooth functioning of the internal market. It is necessary to ensure the adequacy of those requirements in relation to market developments, while encouraging proportionality in particular with regard to the size of financial entities and the specific regimes to which they are subject, with the aim of reducing compliance costs.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="rct_4">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(4)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">In the area of banking services, Directive 2013/36/EU currently sets out only general internal governance rules and operational risk provisions containing requirements for contingency and business continuity plans which implicitly serve as a basis for addressing ICT risk. However, in order to address ICT risk explicitly and clearly, the requirements for contingency and business continuity plans should be amended to also include business continuity plans and response and recovery plans concerning ICT risk, in accordance with the requirements laid down in Regulation (EU) 2022/2554. Furthermore, ICT risk is only implicitly included, as part of operational risk, in the supervisory review and evaluation process (SREP) performed by competent authorities and the criteria for its assessment are currently defined in the Guidelines on ICT Risk Assessment under the Supervisory Review and Evaluation process (SREP), issued by the European Supervisory Authority (European Banking Authority) (EBA), established by Regulation (EU) No 1093/2010 of the European Parliament and of the Council <a id="ntc13-L_2022333EN.01015301-E0013" href="#ntr13-L_2022333EN.01015301-E0013"
+                                 >(<span class="oj-super oj-note-tag">13</span>)</a>. In order to provide legal clarity and ensure that bank supervisors effectively identify ICT risk, and monitor its management by financial entities, in line with the new framework on digital operational resilience, the scope of the SREP should also be amended to explicitly refer to the requirements laid down in Regulation (EU) 2022/2554 and to cover in particular the risks revealed by major ICT-related incident reports and by the results of the digital operational resilience testing performed by financial entities in accordance with that Regulation.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="rct_5">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(5)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">Digital operational resilience is essential to preserve the critical functions and core business lines of a financial entity in the event of its resolution, and thereby to avoid disruption to the real economy and to the financial system. Major operational incidents can hamper the capacity of a financial entity to continue operating and can jeopardise resolution objectives. Certain contractual arrangements on the use of ICT services are essential to ensure operational continuity and to provide the necessary data in the event of resolution. In order to be aligned with the objectives of the Union framework for operational resilience, Directive 2014/59/EU should be amended accordingly, with a view to ensuring that information relating to operational resilience is taken into account in the context of resolution planning and the assessment of financial entities’ resolvability.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="rct_6">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(6)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">Directive 2014/65/EU sets out more stringent ICT risk rules for investment firms and trading venues that are engaging in algorithmic trading. Less detailed requirements apply to data reporting services and to trade repositories. Also, Directive 2014/65/EU contains only limited references to control and safeguard arrangements for information processing systems and to the use of appropriate systems, resources and procedures to ensure continuity and regularity of business services. Furthermore, that Directive should be aligned with Regulation (EU) 2022/2554 as regards continuity and regularity in the provision of investment services and in the performance of investment activities, operational resilience, the capacity of trading systems, and the effectiveness of business continuity arrangements and risk management.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="rct_7">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(7)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">Directive (EU) 2015/2366 sets out specific rules on ICT security controls and mitigation elements for the purposes of obtaining an authorisation to provide payment services. Those authorisation rules should be amended to align them with Regulation (EU) 2022/2554. Furthermore, in order to reduce the administrative burden and to avoid complexity and duplicative reporting requirements, the incident reporting rules in that Directive should cease to apply to payment service providers which are regulated under that Directive and also subject to Regulation (EU) 2022/2554, thus allowing those payment service providers to benefit from a single, fully harmonised incident reporting mechanism with regard to all operational or security payment-related incidents, irrespective of whether such incidents are ICT-related.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="rct_8">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(8)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">Directives 2009/138/EC and (EU) 2016/2341 partially capture ICT risk within their general provisions on governance and risk management, leaving certain requirements to be specified through delegated acts with or without specific references to ICT risk. Similarly, only very general rules apply to managers of alternative investment funds subject to Directive 2011/61/EU and management companies subject to Directive 2009/65/EC. Those Directives should therefore be aligned with the requirements laid down in Regulation (EU) 2022/2554 with regard to the management of ICT systems and tools.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="rct_9">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(9)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">In many cases, further ICT risk requirements have already been laid down in delegated and implementing acts, adopted on the basis of draft regulatory technical standards and draft implementing technical standards developed by the competent European Supervisory Authority. Since the provisions of Regulation (EU) 2022/2554 henceforth constitute the legal framework for ICT risk in the financial sector, certain empowerments to adopt delegated and implementing acts in Directives 2009/65/EC, 2009/138/EC, 2011/61/EU and 2014/65/EU should be amended to remove the ICT risk provisions from the scope of those empowerments.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="rct_10">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(10)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">To ensure a consistent implementation of the new framework on digital operational resilience for the financial sector, Member States should apply the provisions of national law transposing this Directive from the date of application of Regulation (EU) 2022/2554.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="rct_11">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(11)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">Directives 2009/65/EC, 2009/138/EC, 2011/61/EU, 2013/36/EU, 2014/59/EU, 2014/65/EU, (EU) 2015/2366 and (EU) 2016/2341 have been adopted on the basis of Article 53(1) or Article 114 of the Treaty on the Functioning of the European Union (TFEU) or both. The amendments in this Directive have been included in a single legislative act due to the interconnectedness of the subject matter and objectives of the amendments. Consequently, this Directive should be adopted on the basis of both Article 53(1) and Article 114 TFEU.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="rct_12">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(12)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">Since the objectives of this Directive cannot be sufficiently achieved by the Member States as they entail the harmonisation of requirements already contained in Directives but can rather, by reason of the scale and effects of the action, be better achieved at Union level, the Union may adopt measures, in accordance with the principle of subsidiarity as set out in Article 5 of the Treaty on European Union. In accordance with the principle of proportionality, as set out in that Article, this Directive does not go beyond what is necessary in order to achieve those objectives.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="rct_13">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(13)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">In accordance with the Joint Political Declaration of 28 September 2011 of Member States and the Commission on explanatory documents <a id="ntc14-L_2022333EN.01015301-E0014" href="#ntr14-L_2022333EN.01015301-E0014"
+                                 >(<span class="oj-super oj-note-tag">14</span>)</a>, Member States have undertaken to accompany, in justified cases, the notification of their transposition measures with one or more documents explaining the relationship between the components of a directive and the corresponding parts of national transposition instruments. With regard to this Directive, the legislator considers the transmission of such documents to be justified,</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <p class="oj-normal">HAVE ADOPTED THIS DIRECTIVE:</p>
+         </div>
+         <div class="eli-subdivision" id="enc_1">
+            <div class="eli-subdivision" id="art_1">
+               <p id="d1e288-153-1" class="oj-ti-art">Article 1</p>
+               <div class="eli-title" id="art_1.tit_1">
+                  <p class="oj-sti-art">Amendments to Directive 2009/65/EC</p>
+               </div>
+               <p class="oj-normal">Article 12 of Directive 2009/65/EC is amended as follows:</p>
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(1)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">in the second subparagraph of paragraph 1, point (a) is replaced by the following:</p>
+                           <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                              <col width="4%"/>
+                              <col width="96%"/>
+                              <tbody>
+                                 <tr>
+                                    <td valign="top"  >
+                                       <p class="oj-normal">‘(a)</p>
+                                    </td>
+                                    <td valign="top"  >
+                                       <p class="oj-normal">has sound administrative and accounting procedures, control and safeguard arrangements for electronic data processing, including with regard to network and information systems that are set up and managed in accordance with Regulation (EU) 2022/2554 of the European Parliament and of the Council<a id="ntc*1-L_2022333EN.01015301-E0015" href="#ntr*1-L_2022333EN.01015301-E0015"
+                                             > (<span class="oj-super oj-note-tag">*1</span>)</a>, as well as adequate internal control mechanisms, including, in particular, rules for personal transactions by its employees or for the holding or management of investments in financial instruments in order to invest on its own account and ensuring, at least, that each transaction involving the UCITS may be reconstructed according to its origin, the parties to it, its nature, and the time and place at which it was effected and that the assets of the UCITS managed by the management company are invested according to the fund rules or the instruments of incorporation and the legal provisions in force;</p>
+                                    </td>
+                                 </tr>
+                              </tbody>
+                           </table>
+                           <p class="oj-note">
+                              <a id="ntr*1-L_2022333EN.01015301-E0015" href="#ntc*1-L_2022333EN.01015301-E0015"
+                                 class="oj-quotation"
+                                 >(<span class="oj-super">*1</span>)</a>  Regulation (EU) 2022/2554 of the European Parliament and of the Council of 14 December 2022 on digital operational resilience for the financial sector and amending Regulations (EC) No 1060/2009, (EU) No 648/2012, (EU) No 600/2014, (EU) No 909/2014 and (EU) 2016/1011 (<a href="http://publications.europa.eu/resource/oj/JOL_2022_333_R_TOC"
+                                 >OJ L333, 27.12.2022, p.1</a>).’;"
+                        </p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(2)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">paragraph 3 is replaced by the following:</p>
+                           <div id="012.003">
+                              <p class="oj-normal">‘3.   Without prejudice to Article 116, the Commission shall adopt, by means of delegated acts in accordance with Article 112a, measures specifying:</p>
+                              <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                 <col width="4%"/>
+                                 <col width="96%"/>
+                                 <tbody>
+                                    <tr>
+                                       <td valign="top"  >
+                                          <p class="oj-normal">(a)</p>
+                                       </td>
+                                       <td valign="top"  >
+                                          <p class="oj-normal">the procedures and arrangements referred to in point (a) of the second subparagraph of paragraph 1, other than the procedures and arrangements concerning network and information systems;</p>
+                                       </td>
+                                    </tr>
+                                 </tbody>
+                              </table>
+                              <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                 <col width="4%"/>
+                                 <col width="96%"/>
+                                 <tbody>
+                                    <tr>
+                                       <td valign="top"  >
+                                          <p class="oj-normal">(b)</p>
+                                       </td>
+                                       <td valign="top"  >
+                                          <p class="oj-normal">the structures and organisational requirements to minimise conflicts of interests referred to in point (b) of the second subparagraph of paragraph 1.’.</p>
+                                       </td>
+                                    </tr>
+                                 </tbody>
+                              </table>
+                           </div>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="art_2">
+               <p id="d1e355-153-1" class="oj-ti-art">Article 2</p>
+               <div class="eli-title" id="art_2.tit_1">
+                  <p class="oj-sti-art">Amendments to Directive 2009/138/EC</p>
+               </div>
+               <p class="oj-normal">Directive 2009/138/EC is amended as follows:</p>
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(1)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">in Article 41, paragraph 4 is replaced by the following:</p>
+                           <div id="041.004">
+                              <p class="oj-normal">‘4.   Insurance and reinsurance undertakings shall take reasonable steps to ensure continuity and regularity in the performance of their activities, including the development of contingency plans. To that end, the undertakings shall employ appropriate and proportionate systems, resources and procedures, and shall, in particular, set up and manage network and information systems in accordance with Regulation (EU) 2022/2554 of the European Parliament and of the Council<a id="ntc*2-L_2022333EN.01015301-E0016" href="#ntr*2-L_2022333EN.01015301-E0016"
+                                    > (<span class="oj-super oj-note-tag">*2</span>)</a>.</p>
+                           </div>
+                           <p class="oj-note">
+                              <a id="ntr*2-L_2022333EN.01015301-E0016" href="#ntc*2-L_2022333EN.01015301-E0016"
+                                 class="oj-quotation"
+                                 >(<span class="oj-super">*2</span>)</a>  Regulation (EU) 2022/2554 of the European Parliament and of the Council of 14 December 2022 on digital operational resilience for the financial sector and amending Regulations (EC) No 1060/2009, (EU) No 648/2012, (EU) No 600/2014, (EU) No 909/2014 and (EU) 2016/1011 (<a href="http://publications.europa.eu/resource/oj/JOL_2022_333_R_TOC"
+                                 >OJ L333, 27.12.2022, p.1</a>).’;"
+                        </p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(2)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">in Article 50(1), points (a) and (b) are replaced by the following:</p>
+                           <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                              <col width="4%"/>
+                              <col width="96%"/>
+                              <tbody>
+                                 <tr>
+                                    <td valign="top"  >
+                                       <p class="oj-normal">‘(a)</p>
+                                    </td>
+                                    <td valign="top"  >
+                                       <p class="oj-normal">the elements of the systems referred to in Article 41, Article 44, in particular the areas listed in Article 44(2), and Articles 46 and 47, other than the elements concerning information and communication technology risk management;</p>
+                                    </td>
+                                 </tr>
+                              </tbody>
+                           </table>
+                           <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                              <col width="4%"/>
+                              <col width="96%"/>
+                              <tbody>
+                                 <tr>
+                                    <td valign="top"  >
+                                       <p class="oj-normal">(b)</p>
+                                    </td>
+                                    <td valign="top"  >
+                                       <p class="oj-normal">the functions referred to in Articles 44, 46, 47 and 48, other than functions related to information and communication technology risk management.’.</p>
+                                    </td>
+                                 </tr>
+                              </tbody>
+                           </table>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="art_3">
+               <p id="d1e414-153-1" class="oj-ti-art">Article 3</p>
+               <div class="eli-title" id="art_3.tit_1">
+                  <p class="oj-sti-art">Amendment to Directive 2011/61/EU</p>
+               </div>
+               <p class="oj-normal">Article 18 of Directive 2011/61/EU is replaced by the following:</p>
+               <div>
+                  <div id="018">
+                     <p id="d1e423-153-1" class="oj-ti-art">‘Article 18</p>
+                     <p class="oj-sti-art">General principles</p>
+                     <div id="018.001">
+                        <p class="oj-normal">1.   Member States shall require that AIFMs use, at all times, adequate and appropriate human and technical resources that are necessary for the proper management of AIFs.</p>
+                        <p class="oj-normal">In particular, the competent authorities of the home Member State of the AIFM, having regard also to the nature of the AIFs managed by the AIFM, shall require that the AIFM has sound administrative and accounting procedures, control and safeguard arrangements for electronic data processing, including with regard to network and information systems that are set up and managed in accordance with Regulation (EU) 2022/2554 of the European Parliament and of the Council<a id="ntc*3-L_2022333EN.01015301-E0017" href="#ntr*3-L_2022333EN.01015301-E0017"
+                              > (<span class="oj-super oj-note-tag">*3</span>)</a>, as well as adequate internal control mechanisms, including, in particular, rules for personal transactions by its employees or for the holding or management of investments in order to invest on its own account and ensuring, at least, that each transaction involving the AIFs may be reconstructed according to its origin, the parties to it, its nature, and the time and place at which it was effected and that the assets of the AIFs managed by the AIFM are invested in accordance with the AIF rules or instruments of incorporation and the legal provisions in force.</p>
+                     </div>
+                     <div id="018.002">
+                        <p class="oj-normal">2.   The Commission shall, by means of delegated acts in accordance with Article 56 and subject to the conditions of Articles 57 and 58, adopt measures specifying the procedures and arrangements referred to in paragraph 1 of this Article, other than the procedures and arrangements concerning network and information systems.</p>
+                     </div>
+                  </div>
+               </div>
+            </div>
+            <div class="eli-subdivision" id="art_4">
+               <p id="d1e453-153-1" class="oj-ti-art">Article 4</p>
+               <div class="eli-title" id="art_4.tit_1">
+                  <p class="oj-sti-art">Amendments to Directive 2013/36/EU</p>
+               </div>
+               <p class="oj-normal">Directive 2013/36/EU is amended as follows:</p>
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(1)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">in Article 65(3), point (a)(vi) is replaced by the following:</p>
+                           <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                              <col width="4%"/>
+                              <col width="96%"/>
+                              <tbody>
+                                 <tr>
+                                    <td valign="top"  >
+                                       <p class="oj-normal">‘(vi)</p>
+                                    </td>
+                                    <td valign="top"  >
+                                       <p class="oj-normal">third parties to whom the entities referred to in points (i) to (iv) have outsourced functions or activities, including ICT third-party service providers referred to in Chapter V of Regulation (EU) 2022/2554 of the European Parliament and of the Council<a id="ntc*4-L_2022333EN.01015301-E0018" href="#ntr*4-L_2022333EN.01015301-E0018"
+                                             > (<span class="oj-super oj-note-tag">*4</span>)</a>;</p>
+                                    </td>
+                                 </tr>
+                              </tbody>
+                           </table>
+                           <p class="oj-note">
+                              <a id="ntr*4-L_2022333EN.01015301-E0018" href="#ntc*4-L_2022333EN.01015301-E0018"
+                                 class="oj-quotation"
+                                 >(<span class="oj-super">*4</span>)</a>  Regulation (EU) 2022/2554 of the European Parliament and of the Council of 14 December 2022 on digital operational resilience for the financial sector and amending Regulations (EC) No 1060/2009, (EU) No 648/2012, (EU) No 600/2014, (EU) No 909/2014 and (EU) 2016/1011 (<a href="http://publications.europa.eu/resource/oj/JOL_2022_333_R_TOC"
+                                 >OJ L333, 27.12.2022, p.1</a>).’;"
+                        </p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(2)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">in Article 74(1), the first subparagraph is replaced by the following:</p>
+                           <p class="oj-normal">
+                              ‘Institutions shall have robust governance arrangements, which include a clear organisational structure with well-defined, transparent and consistent lines of responsibility, effective processes to identify, manage, monitor and report the risks they are or might be exposed to, adequate internal control mechanisms, including sound administration and accounting procedures, network and information systems that are set up and managed in accordance with Regulation (EU) 2022/2554, and remuneration policies and practices that are consistent with and promote sound and effective risk management.’;</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(3)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">in Article 85, paragraph 2 is replaced by the following:</p>
+                           <div id="085.002">
+                              <p class="oj-normal">‘2.   Competent authorities shall ensure that institutions have adequate contingency and business continuity policies and plans, including ICT business continuity policies and plans and ICT response and recovery plans for the technology they use for the communication of information, and that those plans are established, managed and tested in accordance with Article 11 of Regulation (EU) 2022/2554, in order to allow institutions to keep operating in the event of severe business disruption and limit losses incurred as a consequence of such disruption.’;</p>
+                           </div>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(4)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">in Article 97(1), the following point is added:</p>
+                           <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                              <col width="4%"/>
+                              <col width="96%"/>
+                              <tbody>
+                                 <tr>
+                                    <td valign="top"  >
+                                       <p class="oj-normal">‘(d)</p>
+                                    </td>
+                                    <td valign="top"  >
+                                       <p class="oj-normal">risks revealed by digital operational resilience testing in accordance with Chapter IV of Regulation (EU) 2022/2554.’.</p>
+                                    </td>
+                                 </tr>
+                              </tbody>
+                           </table>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="art_5">
+               <p id="d1e537-153-1" class="oj-ti-art">Article 5</p>
+               <div class="eli-title" id="art_5.tit_1">
+                  <p class="oj-sti-art">Amendments to Directive 2014/59/EU</p>
+               </div>
+               <p class="oj-normal">Directive 2014/59/EU is amended as follows:</p>
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(1)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">Article 10 is amended as follows:</p>
+                           <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                              <col width="4%"/>
+                              <col width="96%"/>
+                              <tbody>
+                                 <tr>
+                                    <td valign="top"  >
+                                       <p class="oj-normal">(a)</p>
+                                    </td>
+                                    <td valign="top"  >
+                                       <p class="oj-normal">in paragraph 7, point (c) is replaced by the following:</p>
+                                       <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                          <col width="4%"/>
+                                          <col width="96%"/>
+                                          <tbody>
+                                             <tr>
+                                                <td valign="top"  >
+                                                   <p class="oj-normal">‘(c)</p>
+                                                </td>
+                                                <td valign="top"  >
+                                                   <p class="oj-normal">a demonstration of how critical functions and core business lines could be legally and economically separated, to the extent necessary, from other functions so as to ensure continuity and digital operational resilience upon the failure of the institution;’;</p>
+                                                </td>
+                                             </tr>
+                                          </tbody>
+                                       </table>
+                                    </td>
+                                 </tr>
+                              </tbody>
+                           </table>
+                           <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                              <col width="4%"/>
+                              <col width="96%"/>
+                              <tbody>
+                                 <tr>
+                                    <td valign="top"  >
+                                       <p class="oj-normal">(b)</p>
+                                    </td>
+                                    <td valign="top"  >
+                                       <p class="oj-normal">in paragraph 7, point (q) is replaced by the following:</p>
+                                       <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                          <col width="4%"/>
+                                          <col width="96%"/>
+                                          <tbody>
+                                             <tr>
+                                                <td valign="top"  >
+                                                   <p class="oj-normal">‘(q)</p>
+                                                </td>
+                                                <td valign="top"  >
+                                                   <p class="oj-normal">a description of essential operations and systems for maintaining the continuous functioning of the institution’s operational processes, including network and information systems as referred to in Regulation (EU) 2022/2554 of the European Parliament and of the Council<a id="ntc*5-L_2022333EN.01015301-E0019" href="#ntr*5-L_2022333EN.01015301-E0019"
+                                                         > (<span class="oj-super oj-note-tag">*5</span>)</a>;</p>
+                                                </td>
+                                             </tr>
+                                          </tbody>
+                                       </table>
+                                       <p class="oj-note">
+                                          <a id="ntr*5-L_2022333EN.01015301-E0019" href="#ntc*5-L_2022333EN.01015301-E0019"
+                                             class="oj-quotation"
+                                             >(<span class="oj-super">*5</span>)</a>  Regulation (EU) 2022/2554 of the European Parliament and of the Council of 14 December 2022 on digital operational resilience for the financial sector and amending Regulations (EC) No 1060/2009, (EU) No 648/2012, (EU) No 600/2014, (EU) No 909/2014 and (EU) 2016/1011 (<a href="http://publications.europa.eu/resource/oj/JOL_2022_333_R_TOC"
+                                             >OJ L333, 27.12.2022, p.1</a>).’;"
+                        </p>
+                                    </td>
+                                 </tr>
+                              </tbody>
+                           </table>
+                           <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                              <col width="4%"/>
+                              <col width="96%"/>
+                              <tbody>
+                                 <tr>
+                                    <td valign="top"  >
+                                       <p class="oj-normal">(c)</p>
+                                    </td>
+                                    <td valign="top"  >
+                                       <p class="oj-normal">in paragraph 9, the following subparagraph is added:</p>
+                                       <p class="oj-normal">
+                                          ‘In accordance with Article 10 of Regulation (EU) No 1093/2010, EBA shall review and, if appropriate, update the regulatory technical standards in order to, inter alia, take account of the provisions of Chapter II of Regulation (EU) 2022/2554.’;</p>
+                                    </td>
+                                 </tr>
+                              </tbody>
+                           </table>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(2)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">the Annex is amended as follows:</p>
+                           <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                              <col width="4%"/>
+                              <col width="96%"/>
+                              <tbody>
+                                 <tr>
+                                    <td valign="top"  >
+                                       <p class="oj-normal">(a)</p>
+                                    </td>
+                                    <td valign="top"  >
+                                       <p class="oj-normal">in Section A, point (16) is replaced by the following:</p>
+                                       <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                          <col width="4%"/>
+                                          <col width="96%"/>
+                                          <tbody>
+                                             <tr>
+                                                <td valign="top"  >
+                                                   <p class="oj-normal">‘(16)</p>
+                                                </td>
+                                                <td valign="top"  >
+                                                   <p class="oj-normal">arrangements and measures necessary to maintain the continuous functioning of the institution’s operational processes, including network and information systems that are set up and managed in accordance with Regulation (EU) 2022/2554;’;</p>
+                                                </td>
+                                             </tr>
+                                          </tbody>
+                                       </table>
+                                    </td>
+                                 </tr>
+                              </tbody>
+                           </table>
+                           <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                              <col width="4%"/>
+                              <col width="96%"/>
+                              <tbody>
+                                 <tr>
+                                    <td valign="top"  >
+                                       <p class="oj-normal">(b)</p>
+                                    </td>
+                                    <td valign="top"  >
+                                       <p class="oj-normal">Section B is amended as follows:</p>
+                                       <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                          <col width="4%"/>
+                                          <col width="96%"/>
+                                          <tbody>
+                                             <tr>
+                                                <td valign="top"  >
+                                                   <p class="oj-normal">(i)</p>
+                                                </td>
+                                                <td valign="top"  >
+                                                   <p class="oj-normal">point (14) is replaced by the following:</p>
+                                                   <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                                      <col width="4%"/>
+                                                      <col width="96%"/>
+                                                      <tbody>
+                                                         <tr>
+                                                            <td valign="top"  >
+                                                               <p class="oj-normal">‘(14)</p>
+                                                            </td>
+                                                            <td valign="top"  >
+                                                               <p class="oj-normal">an identification of the owners of the systems identified in point (13), service level agreements related thereto, and any software and systems or licenses, including a mapping to their legal entities, critical operations and core business lines, as well as an identification of critical ICT third-party service providers as defined in Article 3, point (23), of Regulation (EU) 2022/2554;’;</p>
+                                                            </td>
+                                                         </tr>
+                                                      </tbody>
+                                                   </table>
+                                                </td>
+                                             </tr>
+                                          </tbody>
+                                       </table>
+                                       <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                          <col width="4%"/>
+                                          <col width="96%"/>
+                                          <tbody>
+                                             <tr>
+                                                <td valign="top"  >
+                                                   <p class="oj-normal">(ii)</p>
+                                                </td>
+                                                <td valign="top"  >
+                                                   <p class="oj-normal">the following point is inserted:</p>
+                                                   <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                                      <col width="4%"/>
+                                                      <col width="96%"/>
+                                                      <tbody>
+                                                         <tr>
+                                                            <td valign="top"  >
+                                                               <p class="oj-normal">‘(14a)</p>
+                                                            </td>
+                                                            <td valign="top"  >
+                                                               <p class="oj-normal">the results of institutions’ digital operational resilience testing under Regulation (EU) 2022/2554;’;</p>
+                                                            </td>
+                                                         </tr>
+                                                      </tbody>
+                                                   </table>
+                                                </td>
+                                             </tr>
+                                          </tbody>
+                                       </table>
+                                    </td>
+                                 </tr>
+                              </tbody>
+                           </table>
+                           <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                              <col width="4%"/>
+                              <col width="96%"/>
+                              <tbody>
+                                 <tr>
+                                    <td valign="top"  >
+                                       <p class="oj-normal">(c)</p>
+                                    </td>
+                                    <td valign="top"  >
+                                       <p class="oj-normal">Section C is amended as follows:</p>
+                                       <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                          <col width="4%"/>
+                                          <col width="96%"/>
+                                          <tbody>
+                                             <tr>
+                                                <td valign="top"  >
+                                                   <p class="oj-normal">(i)</p>
+                                                </td>
+                                                <td valign="top"  >
+                                                   <p class="oj-normal">point (4) is replaced by the following:</p>
+                                                   <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                                      <col width="4%"/>
+                                                      <col width="96%"/>
+                                                      <tbody>
+                                                         <tr>
+                                                            <td valign="top"  >
+                                                               <p class="oj-normal">‘(4)</p>
+                                                            </td>
+                                                            <td valign="top"  >
+                                                               <p class="oj-normal">the extent to which the service agreements, including contractual arrangements on the use of ICT services, that the institution maintains are robust and fully enforceable in the event of resolution of the institution;’;</p>
+                                                            </td>
+                                                         </tr>
+                                                      </tbody>
+                                                   </table>
+                                                </td>
+                                             </tr>
+                                          </tbody>
+                                       </table>
+                                       <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                          <col width="4%"/>
+                                          <col width="96%"/>
+                                          <tbody>
+                                             <tr>
+                                                <td valign="top"  >
+                                                   <p class="oj-normal">(ii)</p>
+                                                </td>
+                                                <td valign="top"  >
+                                                   <p class="oj-normal">the following point is inserted:</p>
+                                                   <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                                      <col width="4%"/>
+                                                      <col width="96%"/>
+                                                      <tbody>
+                                                         <tr>
+                                                            <td valign="top"  >
+                                                               <p class="oj-normal">‘(4a)</p>
+                                                            </td>
+                                                            <td valign="top"  >
+                                                               <p class="oj-normal">the digital operational resilience of the network and information systems supporting critical functions and core business lines of the institution, taking into account major ICT-related incident reports and the results of digital operational resilience testing under Regulation (EU) 2022/2554;’.</p>
+                                                            </td>
+                                                         </tr>
+                                                      </tbody>
+                                                   </table>
+                                                </td>
+                                             </tr>
+                                          </tbody>
+                                       </table>
+                                    </td>
+                                 </tr>
+                              </tbody>
+                           </table>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="art_6">
+               <p id="d1e727-153-1" class="oj-ti-art">Article 6</p>
+               <div class="eli-title" id="art_6.tit_1">
+                  <p class="oj-sti-art">Amendments to Directive 2014/65/EU</p>
+               </div>
+               <p class="oj-normal">Directive 2014/65/EU is amended as follows:</p>
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(1)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">Article 16 is amended as follows:</p>
+                           <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                              <col width="4%"/>
+                              <col width="96%"/>
+                              <tbody>
+                                 <tr>
+                                    <td valign="top"  >
+                                       <p class="oj-normal">(a)</p>
+                                    </td>
+                                    <td valign="top"  >
+                                       <p class="oj-normal">paragraph 4 is replaced by the following:</p>
+                                       <div id="016.004">
+                                          <p class="oj-normal">‘4.   An investment firm shall take reasonable steps to ensure continuity and regularity in the performance of investment services and activities. To that end, the investment firm shall employ appropriate and proportionate systems, including information and communication technology (“ICT”) systems that are set up and managed in accordance with Article 7 of Regulation (EU) 2022/2554 of the European Parliament and of the Council<a id="ntc*6-L_2022333EN.01015301-E0020" href="#ntr*6-L_2022333EN.01015301-E0020"
+                                                > (<span class="oj-super oj-note-tag">*6</span>)</a>, as well as appropriate and proportionate resources and procedures.</p>
+                                       </div>
+                                       <p class="oj-note">
+                                          <a id="ntr*6-L_2022333EN.01015301-E0020" href="#ntc*6-L_2022333EN.01015301-E0020"
+                                             class="oj-quotation"
+                                             >(<span class="oj-super">*6</span>)</a>  Regulation (EU) 2022/2554 of the European Parliament and of the Council of 14 December 2022 on digital operational resilience for the financial sector and amending Regulations (EC) No 1060/2009, (EU) No 648/2012, (EU) No 600/2014, (EU) No 909/2014 and (EU) 2016/1011 (<a href="http://publications.europa.eu/resource/oj/JOL_2022_333_R_TOC"
+                                             >OJ L333, 27.12.2022, p.1</a>).’;"
+                        </p>
+                                    </td>
+                                 </tr>
+                              </tbody>
+                           </table>
+                           <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                              <col width="4%"/>
+                              <col width="96%"/>
+                              <tbody>
+                                 <tr>
+                                    <td valign="top"  >
+                                       <p class="oj-normal">(b)</p>
+                                    </td>
+                                    <td valign="top"  >
+                                       <p class="oj-normal">in paragraph 5, the second and third subparagraphs are replaced by the following:</p>
+                                       <p class="oj-normal">
+                                          ‘An investment firm shall have sound administrative and accounting procedures, internal control mechanisms and effective procedures for risk assessment.</p>
+                                       <p class="oj-normal">Without prejudice to the ability of competent authorities to require access to communications in accordance with this Directive and Regulation (EU) No 600/2014, an investment firm shall have sound security mechanisms in place to ensure, in accordance with the requirements laid down in Regulation (EU) 2022/2554, the security and authentication of the means of transfer of information, to minimise the risk of data corruption and unauthorised access and to prevent information leakage, thereby maintaining the confidentiality of the data at all times.’;</p>
+                                    </td>
+                                 </tr>
+                              </tbody>
+                           </table>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(2)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">Article 17 is amended as follows:</p>
+                           <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                              <col width="4%"/>
+                              <col width="96%"/>
+                              <tbody>
+                                 <tr>
+                                    <td valign="top"  >
+                                       <p class="oj-normal">(a)</p>
+                                    </td>
+                                    <td valign="top"  >
+                                       <p class="oj-normal">paragraph 1 is replaced by the following:</p>
+                                       <div id="017.001">
+                                          <p class="oj-normal">‘1.   An investment firm that engages in algorithmic trading shall have in place effective systems and risk controls suitable to the business it operates to ensure that its trading systems are resilient and have sufficient capacity in accordance with the requirements laid down in Chapter II of Regulation (EU) 2022/2554, are subject to appropriate trading thresholds and limits and prevent the sending of erroneous orders or the systems otherwise functioning in a way that may create or contribute to a disorderly market.</p>
+                                          <p class="oj-normal">Such a firm shall also have in place effective systems and risk controls to ensure the trading systems cannot be used for any purpose that is contrary to Regulation (EU) No 596/2014 or to the rules of a trading venue to which it is connected.</p>
+                                          <p class="oj-normal">The investment firm shall have in place effective business continuity arrangements to deal with any failure of its trading systems, including ICT business continuity policy and plans and ICT response and recovery plans established in accordance with Article 11 of Regulation (EU) 2022/2554, and shall ensure its systems are fully tested and properly monitored to ensure that they meet the general requirements laid down in this paragraph and any specific requirements laid down in Chapters II and IV of Regulation (EU) 2022/2554.’;</p>
+                                       </div>
+                                    </td>
+                                 </tr>
+                              </tbody>
+                           </table>
+                           <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                              <col width="4%"/>
+                              <col width="96%"/>
+                              <tbody>
+                                 <tr>
+                                    <td valign="top"  >
+                                       <p class="oj-normal">(b)</p>
+                                    </td>
+                                    <td valign="top"  >
+                                       <p class="oj-normal">in paragraph 7, point (a) is replaced by the following:</p>
+                                       <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                          <col width="4%"/>
+                                          <col width="96%"/>
+                                          <tbody>
+                                             <tr>
+                                                <td valign="top"  >
+                                                   <p class="oj-normal">‘(a)</p>
+                                                </td>
+                                                <td valign="top"  >
+                                                   <p class="oj-normal">the details of organisational requirements laid down in paragraphs 1 to 6, other than those related to ICT risk management, which are to be imposed on investment firms providing different investment services, investment activities, ancillary services or combinations thereof, whereby the specifications in relation to the organisational requirements laid down in paragraph 5 shall set out specific requirements for direct market access and for sponsored access in such a way as to ensure that the controls applied to sponsored access are at least equivalent to those applied to direct market access;’;</p>
+                                                </td>
+                                             </tr>
+                                          </tbody>
+                                       </table>
+                                    </td>
+                                 </tr>
+                              </tbody>
+                           </table>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(3)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">in Article 47, paragraph 1 is amended as follows:</p>
+                           <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                              <col width="4%"/>
+                              <col width="96%"/>
+                              <tbody>
+                                 <tr>
+                                    <td valign="top"  >
+                                       <p class="oj-normal">(a)</p>
+                                    </td>
+                                    <td valign="top"  >
+                                       <p class="oj-normal">point (b) is replaced by the following:</p>
+                                       <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                          <col width="4%"/>
+                                          <col width="96%"/>
+                                          <tbody>
+                                             <tr>
+                                                <td valign="top"  >
+                                                   <p class="oj-normal">‘(b)</p>
+                                                </td>
+                                                <td valign="top"  >
+                                                   <p class="oj-normal">to be adequately equipped to manage the risks to which it is exposed, including to manage ICT risk in accordance with Chapter II of Regulation (EU) 2022/2554, to implement appropriate arrangements and systems for identifying significant risks to its operation, and to put in place effective measures to mitigate those risks;’;</p>
+                                                </td>
+                                             </tr>
+                                          </tbody>
+                                       </table>
+                                    </td>
+                                 </tr>
+                              </tbody>
+                           </table>
+                           <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                              <col width="4%"/>
+                              <col width="96%"/>
+                              <tbody>
+                                 <tr>
+                                    <td valign="top"  >
+                                       <p class="oj-normal">(b)</p>
+                                    </td>
+                                    <td valign="top"  >
+                                       <p class="oj-normal">point (c) is deleted;</p>
+                                    </td>
+                                 </tr>
+                              </tbody>
+                           </table>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(4)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">Article 48 is amended as follows:</p>
+                           <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                              <col width="4%"/>
+                              <col width="96%"/>
+                              <tbody>
+                                 <tr>
+                                    <td valign="top"  >
+                                       <p class="oj-normal">(a)</p>
+                                    </td>
+                                    <td valign="top"  >
+                                       <p class="oj-normal">paragraph 1 is replaced by the following:</p>
+                                       <div id="048.001">
+                                          <p class="oj-normal">‘1.   Member States shall require a regulated market to establish and maintain its operational resilience in accordance with the requirements laid down in Chapter II of Regulation (EU) 2022/2554 to ensure its trading systems are resilient, have sufficient capacity to deal with peak order and message volumes, are able to ensure orderly trading under conditions of severe market stress, are fully tested to ensure such conditions are met and are subject to effective business continuity arrangements, including ICT business continuity policy and plans and ICT response and recovery plans established in accordance with Article 11 of Regulation (EU) 2022/2554, to ensure continuity of its services if there is any failure of its trading systems.’;</p>
+                                       </div>
+                                    </td>
+                                 </tr>
+                              </tbody>
+                           </table>
+                           <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                              <col width="4%"/>
+                              <col width="96%"/>
+                              <tbody>
+                                 <tr>
+                                    <td valign="top"  >
+                                       <p class="oj-normal">(b)</p>
+                                    </td>
+                                    <td valign="top"  >
+                                       <p class="oj-normal">paragraph 6 is replaced by the following:</p>
+                                       <div id="048.006">
+                                          <p class="oj-normal">‘6.   Member States shall require a regulated market to have in place effective systems, procedures and arrangements, including requiring members or participants to carry out appropriate testing of algorithms and providing environments to facilitate such testing in accordance with the requirements laid down in Chapters II and IV of Regulation (EU) 2022/2554, to ensure that algorithmic trading systems cannot create or contribute to disorderly trading conditions on the market and to manage any disorderly trading conditions which do arise from such algorithmic trading systems, including systems to limit the ratio of unexecuted orders to transactions that may be entered into the system by a member or participant, to be able to slow down the flow of orders if there is a risk of its system capacity being reached and to limit and enforce the minimum tick size that may be executed on the market.’;</p>
+                                       </div>
+                                    </td>
+                                 </tr>
+                              </tbody>
+                           </table>
+                           <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                              <col width="4%"/>
+                              <col width="96%"/>
+                              <tbody>
+                                 <tr>
+                                    <td valign="top"  >
+                                       <p class="oj-normal">(c)</p>
+                                    </td>
+                                    <td valign="top"  >
+                                       <p class="oj-normal">paragraph 12 is amended as follows:</p>
+                                       <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                          <col width="4%"/>
+                                          <col width="96%"/>
+                                          <tbody>
+                                             <tr>
+                                                <td valign="top"  >
+                                                   <p class="oj-normal">(i)</p>
+                                                </td>
+                                                <td valign="top"  >
+                                                   <p class="oj-normal">point (a) is replaced by the following:</p>
+                                                   <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                                      <col width="4%"/>
+                                                      <col width="96%"/>
+                                                      <tbody>
+                                                         <tr>
+                                                            <td valign="top"  >
+                                                               <p class="oj-normal">‘(a)</p>
+                                                            </td>
+                                                            <td valign="top"  >
+                                                               <p class="oj-normal">the requirements to ensure trading systems of regulated markets are resilient and have adequate capacity, except the requirements related to digital operational resilience;’;</p>
+                                                            </td>
+                                                         </tr>
+                                                      </tbody>
+                                                   </table>
+                                                </td>
+                                             </tr>
+                                          </tbody>
+                                       </table>
+                                       <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                          <col width="4%"/>
+                                          <col width="96%"/>
+                                          <tbody>
+                                             <tr>
+                                                <td valign="top"  >
+                                                   <p class="oj-normal">(ii)</p>
+                                                </td>
+                                                <td valign="top"  >
+                                                   <p class="oj-normal">point (g) is replaced by the following:</p>
+                                                   <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                                      <col width="4%"/>
+                                                      <col width="96%"/>
+                                                      <tbody>
+                                                         <tr>
+                                                            <td valign="top"  >
+                                                               <p class="oj-normal">‘(g)</p>
+                                                            </td>
+                                                            <td valign="top"  >
+                                                               <p class="oj-normal">the requirements to ensure appropriate testing of algorithms, other than digital operational resilience testing, so as to ensure that algorithmic trading systems including high-frequency algorithmic trading systems cannot create or contribute to disorderly trading conditions on the market.’.</p>
+                                                            </td>
+                                                         </tr>
+                                                      </tbody>
+                                                   </table>
+                                                </td>
+                                             </tr>
+                                          </tbody>
+                                       </table>
+                                    </td>
+                                 </tr>
+                              </tbody>
+                           </table>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="art_7">
+               <p id="d1e951-153-1" class="oj-ti-art">Article 7</p>
+               <div class="eli-title" id="art_7.tit_1">
+                  <p class="oj-sti-art">Amendments to Directive (EU) 2015/2366</p>
+               </div>
+               <p class="oj-normal">Directive (EU) 2015/2366 is amended as follows:</p>
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(1)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">in Article 3, point (j) is replaced by the following:</p>
+                           <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                              <col width="4%"/>
+                              <col width="96%"/>
+                              <tbody>
+                                 <tr>
+                                    <td valign="top"  >
+                                       <p class="oj-normal">‘(j)</p>
+                                    </td>
+                                    <td valign="top"  >
+                                       <p class="oj-normal">services provided by technical service providers, which support the provision of payment services, without them entering at any time into possession of the funds to be transferred, including processing and storage of data, trust and privacy protection services, data and entity authentication, information and communication technology (ICT) and communication network provision, provision and maintenance of terminals and devices used for payment services, with the exclusion of payment initiation services and account information services;’;</p>
+                                    </td>
+                                 </tr>
+                              </tbody>
+                           </table>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(2)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">Article 5(1) is amended as follows:</p>
+                           <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                              <col width="4%"/>
+                              <col width="96%"/>
+                              <tbody>
+                                 <tr>
+                                    <td valign="top"  >
+                                       <p class="oj-normal">(a)</p>
+                                    </td>
+                                    <td valign="top"  >
+                                       <p class="oj-normal">the first subparagraph is amended as follows:</p>
+                                       <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                          <col width="4%"/>
+                                          <col width="96%"/>
+                                          <tbody>
+                                             <tr>
+                                                <td valign="top"  >
+                                                   <p class="oj-normal">(i)</p>
+                                                </td>
+                                                <td valign="top"  >
+                                                   <p class="oj-normal">point (e) is replaced by the following:</p>
+                                                   <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                                      <col width="4%"/>
+                                                      <col width="96%"/>
+                                                      <tbody>
+                                                         <tr>
+                                                            <td valign="top"  >
+                                                               <p class="oj-normal">‘(e)</p>
+                                                            </td>
+                                                            <td valign="top"  >
+                                                               <p class="oj-normal">a description of the applicant’s governance arrangements and internal control mechanisms, including administrative, risk management and accounting procedures as well as arrangements for the use of ICT services in accordance with Regulation (EU) 2022/2554 of the European Parliament and of the Council<a id="ntc*7-L_2022333EN.01015301-E0021" href="#ntr*7-L_2022333EN.01015301-E0021"
+                                                                     > (<span class="oj-super oj-note-tag">*7</span>)</a>, which demonstrates that those governance arrangements and internal control mechanisms are proportionate, appropriate, sound and adequate;</p>
+                                                            </td>
+                                                         </tr>
+                                                      </tbody>
+                                                   </table>
+                                                   <p class="oj-note">
+                                                      <a id="ntr*7-L_2022333EN.01015301-E0021" href="#ntc*7-L_2022333EN.01015301-E0021"
+                                                         class="oj-quotation"
+                                                         >(<span class="oj-super">*7</span>)</a>  Regulation (EU) 2022/2554 of the European Parliament and of the Council of 14 December 2022 on digital operational resilience for the financial sector and amending Regulations (EC) No 1060/2009, (EU) No 648/2012, (EU) No 600/2014, (EU) No 909/2014 and (EU) 2016/1011 (<a href="http://publications.europa.eu/resource/oj/JOL_2022_333_R_TOC"
+                                                         >OJ L333, 27.12.2022, p.1</a>).’;"
+                        </p>
+                                                </td>
+                                             </tr>
+                                          </tbody>
+                                       </table>
+                                       <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                          <col width="4%"/>
+                                          <col width="96%"/>
+                                          <tbody>
+                                             <tr>
+                                                <td valign="top"  >
+                                                   <p class="oj-normal">(ii)</p>
+                                                </td>
+                                                <td valign="top"  >
+                                                   <p class="oj-normal">point (f) is replaced by the following:</p>
+                                                   <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                                      <col width="4%"/>
+                                                      <col width="96%"/>
+                                                      <tbody>
+                                                         <tr>
+                                                            <td valign="top"  >
+                                                               <p class="oj-normal">‘(f)</p>
+                                                            </td>
+                                                            <td valign="top"  >
+                                                               <p class="oj-normal">a description of the procedure in place to monitor, handle and follow up a security incident and security related customer complaints, including an incident reporting mechanism which takes account of the notification obligations of the payment institution laid down in Chapter III of Regulation (EU) 2022/2554;’;</p>
+                                                            </td>
+                                                         </tr>
+                                                      </tbody>
+                                                   </table>
+                                                </td>
+                                             </tr>
+                                          </tbody>
+                                       </table>
+                                       <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                          <col width="4%"/>
+                                          <col width="96%"/>
+                                          <tbody>
+                                             <tr>
+                                                <td valign="top"  >
+                                                   <p class="oj-normal">(iii)</p>
+                                                </td>
+                                                <td valign="top"  >
+                                                   <p class="oj-normal">point (h) is replaced by the following:</p>
+                                                   <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                                      <col width="4%"/>
+                                                      <col width="96%"/>
+                                                      <tbody>
+                                                         <tr>
+                                                            <td valign="top"  >
+                                                               <p class="oj-normal">‘(h)</p>
+                                                            </td>
+                                                            <td valign="top"  >
+                                                               <p class="oj-normal">a description of business continuity arrangements including a clear identification of the critical operations, effective ICT business continuity policy and plans and ICT response and recovery plans and a procedure to regularly test and review the adequacy and efficiency of such plans in accordance with Regulation (EU) 2022/2554;’;</p>
+                                                            </td>
+                                                         </tr>
+                                                      </tbody>
+                                                   </table>
+                                                </td>
+                                             </tr>
+                                          </tbody>
+                                       </table>
+                                    </td>
+                                 </tr>
+                              </tbody>
+                           </table>
+                           <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                              <col width="4%"/>
+                              <col width="96%"/>
+                              <tbody>
+                                 <tr>
+                                    <td valign="top"  >
+                                       <p class="oj-normal">(b)</p>
+                                    </td>
+                                    <td valign="top"  >
+                                       <p class="oj-normal">the third subparagraph is replaced by the following:</p>
+                                       <p class="oj-normal">
+                                          ‘The security control and mitigation measures referred to in point (j) of the first subparagraph shall indicate how they ensure a high level of digital operational resilience in accordance with Chapter II of Regulation (EU) 2022/2554, in particular in relation to technical security and data protection, including for the software and ICT systems used by the applicant or the undertakings to which it outsources the whole or part of its operations. Those measures shall also include the security measures laid down in Article 95(1) of this Directive. Those measures shall take into account EBA’s guidelines on security measures as referred to in Article 95(3) of this Directive, when in place.’;</p>
+                                    </td>
+                                 </tr>
+                              </tbody>
+                           </table>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(3)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">in Article 19(6), the second subparagraph is replaced by the following:</p>
+                           <p class="oj-normal">
+                              ‘Outsourcing of important operational functions, including ICT systems, shall not be undertaken in such way as to impair materially the quality of the payment institution’s internal control and the ability of the competent authorities to monitor and retrace the payment institution’s compliance with all of the obligations laid down in this Directive.’;</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(4)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">in Article 95(1), the following subparagraph is added:</p>
+                           <p class="oj-normal">
+                              ‘The first subparagraph is without prejudice to the application of Chapter II of Regulation (EU) 2022/2554 to:</p>
+                           <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                              <col width="4%"/>
+                              <col width="96%"/>
+                              <tbody>
+                                 <tr>
+                                    <td valign="top"  >
+                                       <p class="oj-normal">(a)</p>
+                                    </td>
+                                    <td valign="top"  >
+                                       <p class="oj-normal">payment service providers referred to in points (a), (b) and (d) of Article 1(1) of this Directive;</p>
+                                    </td>
+                                 </tr>
+                              </tbody>
+                           </table>
+                           <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                              <col width="4%"/>
+                              <col width="96%"/>
+                              <tbody>
+                                 <tr>
+                                    <td valign="top"  >
+                                       <p class="oj-normal">(b)</p>
+                                    </td>
+                                    <td valign="top"  >
+                                       <p class="oj-normal">account information service providers referred to in Article 33(1) of this Directive;</p>
+                                    </td>
+                                 </tr>
+                              </tbody>
+                           </table>
+                           <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                              <col width="4%"/>
+                              <col width="96%"/>
+                              <tbody>
+                                 <tr>
+                                    <td valign="top"  >
+                                       <p class="oj-normal">(c)</p>
+                                    </td>
+                                    <td valign="top"  >
+                                       <p class="oj-normal">payment institutions exempted pursuant to Article 32(1) of this Directive; and</p>
+                                    </td>
+                                 </tr>
+                              </tbody>
+                           </table>
+                           <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                              <col width="4%"/>
+                              <col width="96%"/>
+                              <tbody>
+                                 <tr>
+                                    <td valign="top"  >
+                                       <p class="oj-normal">(d)</p>
+                                    </td>
+                                    <td valign="top"  >
+                                       <p class="oj-normal">electronic money institutions benefitting from a waiver as referred to in Article 9(1) of Directive 2009/110/EC.’;</p>
+                                    </td>
+                                 </tr>
+                              </tbody>
+                           </table>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(5)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">in Article 96, the following paragraph is added:</p>
+                           <div id="096.007">
+                              <p class="oj-normal">‘7.   Members States shall ensure that paragraphs 1 to 5 of this Article do not apply to:</p>
+                              <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                 <col width="4%"/>
+                                 <col width="96%"/>
+                                 <tbody>
+                                    <tr>
+                                       <td valign="top"  >
+                                          <p class="oj-normal">(a)</p>
+                                       </td>
+                                       <td valign="top"  >
+                                          <p class="oj-normal">payment service providers referred to in points (a), (b) and (d) of Article 1(1) of this Directive;</p>
+                                       </td>
+                                    </tr>
+                                 </tbody>
+                              </table>
+                              <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                 <col width="4%"/>
+                                 <col width="96%"/>
+                                 <tbody>
+                                    <tr>
+                                       <td valign="top"  >
+                                          <p class="oj-normal">(b)</p>
+                                       </td>
+                                       <td valign="top"  >
+                                          <p class="oj-normal">account information service providers referred to in Article 33(1) of this Directive;</p>
+                                       </td>
+                                    </tr>
+                                 </tbody>
+                              </table>
+                              <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                 <col width="4%"/>
+                                 <col width="96%"/>
+                                 <tbody>
+                                    <tr>
+                                       <td valign="top"  >
+                                          <p class="oj-normal">(c)</p>
+                                       </td>
+                                       <td valign="top"  >
+                                          <p class="oj-normal">payment institutions exempted pursuant to Article 32(1) of this Directive; and</p>
+                                       </td>
+                                    </tr>
+                                 </tbody>
+                              </table>
+                              <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                 <col width="4%"/>
+                                 <col width="96%"/>
+                                 <tbody>
+                                    <tr>
+                                       <td valign="top"  >
+                                          <p class="oj-normal">(d)</p>
+                                       </td>
+                                       <td valign="top"  >
+                                          <p class="oj-normal">electronic money institutions benefitting from a waiver as referred to in Article 9(1) of Directive 2009/110/EC.’;</p>
+                                       </td>
+                                    </tr>
+                                 </tbody>
+                              </table>
+                           </div>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(6)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">in Article 98, paragraph 5 is replaced by the following:</p>
+                           <div id="098.005">
+                              <p class="oj-normal">‘5.   In accordance with Article 10 of Regulation (EU) No 1093/2010, EBA shall review and, if appropriate, update the regulatory technical standards on a regular basis in order, inter alia, to take account of innovation and technological developments, and of the provisions of Chapter II of Regulation (EU) 2022/2554.’.</p>
+                           </div>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="art_8">
+               <p id="d1e1180-153-1" class="oj-ti-art">Article 8</p>
+               <div class="eli-title" id="art_8.tit_1">
+                  <p class="oj-sti-art">Amendment to Directive (EU) 2016/2341</p>
+               </div>
+               <p class="oj-normal">Article 21(5) of Directive (EU) 2016/2341 is replaced by the following:</p>
+               <div>
+                  <div id="021.005">
+                     <p class="oj-normal">‘5.   Member States shall ensure that IORPs take reasonable steps to ensure continuity and regularity in the performance of their activities, including the development of contingency plans. To that end, IORPs shall employ appropriate and proportionate systems, resources and procedures, and shall, in particular, set up and manage network and information systems in accordance with Regulation (EU) 2022/2554 of the European Parliament and of the Council<a id="ntc*8-L_2022333EN.01015301-E0022" href="#ntr*8-L_2022333EN.01015301-E0022"
+                           > (<span class="oj-super oj-note-tag">*8</span>)</a>, where applicable.</p>
+                  </div>
+               </div>
+            </div>
+            <div class="eli-subdivision" id="art_9">
+               <p id="d1e1207-153-1" class="oj-ti-art">Article 9</p>
+               <div class="eli-title" id="art_9.tit_1">
+                  <p class="oj-sti-art">Transposition</p>
+               </div>
+               <div id="009.001">
+                  <p class="oj-normal">1.   By 17 January 2025, Member States shall adopt and publish the measures necessary to comply with this Directive. They shall immediately inform the Commission thereof.</p>
+                  <p class="oj-normal">They shall apply those measures from 17 January 2025.</p>
+                  <p class="oj-normal">When Member States adopt those measures, they shall contain a reference to this Directive or shall be accompanied by such reference on the occasion of their official publication. The methods of making such reference shall be laid down by Member States.</p>
+               </div>
+               <div id="009.002">
+                  <p class="oj-normal">2.   Member States shall communicate to the Commission the text of the main measures of national law which they adopt in the field covered by this Directive.</p>
+               </div>
+            </div>
+            <div class="eli-subdivision" id="art_10">
+               <p id="d1e1232-153-1" class="oj-ti-art">Article 10</p>
+               <div class="eli-title" id="art_10.tit_1">
+                  <p class="oj-sti-art">Entry into force</p>
+               </div>
+               <p class="oj-normal">This Directive shall enter into force on the twentieth day following that of its publication in the <span class="oj-italic">Official Journal of the European Union</span>.</p>
+            </div>
+            <div class="eli-subdivision" id="art_11">
+               <p id="d1e1242-153-1" class="oj-ti-art">Article 11</p>
+               <div class="eli-title" id="art_11.tit_1">
+                  <p class="oj-sti-art">Addressees</p>
+               </div>
+               <p class="oj-normal">This Directive is addressed to the Member States.</p>
+            </div>
+         </div>
+         <div class="eli-subdivision" id="fnp_1">
+            <div class="oj-final">
+               <p class="oj-normal">Done at Strasbourg, 14 December 2022.</p>
+               <div class="oj-signatory">
+                  <p class="oj-signatory">
+                     <span class="oj-italic">For the European Parliament</span>
+                  </p>
+                  <p class="oj-signatory">
+                     <span class="oj-italic">The President</span>
+                  </p>
+                  <p class="oj-signatory">R. METSOLA
+            </p>
+               </div>
+               <div class="oj-signatory">
+                  <p class="oj-signatory">
+                     <span class="oj-italic">For the Council</span>
+                  </p>
+                  <p class="oj-signatory">
+                     <span class="oj-italic">The President</span>
+                  </p>
+                  <p class="oj-signatory">M. BEK
+            </p>
+               </div>
+            </div>
+         </div>
+         <hr class="oj-note"/>
+         <p class="oj-note">
+            <a id="ntr1-L_2022333EN.01015301-E0001" href="#ntc1-L_2022333EN.01015301-E0001"
+               >(<span class="oj-super">1</span>)</a>  
+            <a href="http://publications.europa.eu/resource/oj/JOC_2021_343_R_TOC"
+               >OJ C 343, 26.8.2021, p. 1</a>.</p>
+         <p class="oj-note">
+            <a id="ntr2-L_2022333EN.01015301-E0002" href="#ntc2-L_2022333EN.01015301-E0002"
+               >(<span class="oj-super">2</span>)</a>  
+            <a href="http://publications.europa.eu/resource/oj/JOC_2021_155_R_TOC"
+               >OJ C 155, 30.4.2021, p. 38</a>.</p>
+         <p class="oj-note">
+            <a id="ntr3-L_2022333EN.01015301-E0003" href="#ntc3-L_2022333EN.01015301-E0003"
+               >(<span class="oj-super">3</span>)</a>  Position of the European Parliament of 10 November 2022 (not yet published in the Official Journal) and decision of the Council of 28 November 2022.</p>
+         <p class="oj-note">
+            <a id="ntr4-L_2022333EN.01015301-E0004" href="#ntc4-L_2022333EN.01015301-E0004"
+               >(<span class="oj-super">4</span>)</a>  Directive 2009/65/EC of the European Parliament and of the Council of 13 July 2009 on the coordination of laws, regulations and administrative provisions relating to undertakings for collective investment in transferable securities (UCITS) (<a href="http://publications.europa.eu/resource/oj/JOL_2009_302_R_TOC"
+               >OJ L 302, 17.11.2009, p. 32</a>).</p>
+         <p class="oj-note">
+            <a id="ntr5-L_2022333EN.01015301-E0005" href="#ntc5-L_2022333EN.01015301-E0005"
+               >(<span class="oj-super">5</span>)</a>  Directive 2009/138/EC of the European Parliament and of the Council of 25 November 2009 on the taking-up and pursuit of the business of Insurance and Reinsurance (Solvency II) (<a href="http://publications.europa.eu/resource/oj/JOL_2009_335_R_TOC"
+               >OJ L 335, 17.12.2009, p. 1</a>).</p>
+         <p class="oj-note">
+            <a id="ntr6-L_2022333EN.01015301-E0006" href="#ntc6-L_2022333EN.01015301-E0006"
+               >(<span class="oj-super">6</span>)</a>  Directive 2011/61/EU of the European Parliament and of the Council of 8 June 2011 on Alternative Investment Fund Managers and amending Directives 2003/41/EC and 2009/65/EC and Regulations (EC) No 1060/2009 and (EU) No 1095/2010 (<a href="http://publications.europa.eu/resource/oj/JOL_2011_174_R_TOC"
+               >OJ L 174, 1.7.2011, p. 1</a>).</p>
+         <p class="oj-note">
+            <a id="ntr7-L_2022333EN.01015301-E0007" href="#ntc7-L_2022333EN.01015301-E0007"
+               >(<span class="oj-super">7</span>)</a>  Directive 2013/36/EU of the European Parliament and of the Council of 26 June 2013 on access to the activity of credit institutions and the prudential supervision of credit institutions, amending Directive 2002/87/EC and repealing Directives 2006/48/EC and 2006/49/EC (<a href="http://publications.europa.eu/resource/oj/JOL_2013_176_R_TOC"
+               >OJ L 176, 27.6.2013, p. 338</a>).</p>
+         <p class="oj-note">
+            <a id="ntr8-L_2022333EN.01015301-E0008" href="#ntc8-L_2022333EN.01015301-E0008"
+               >(<span class="oj-super">8</span>)</a>  Directive 2014/59/EU of the European Parliament and of the Council of 15 May 2014 establishing a framework for the recovery and resolution of credit institutions and investment firms and amending Council Directive 82/891/EEC, and Directives 2001/24/EC, 2002/47/EC, 2004/25/EC, 2005/56/EC, 2007/36/EC, 2011/35/EU, 2012/30/EU and 2013/36/EU, and Regulations (EU) No 1093/2010 and (EU) No 648/2012, of the European Parliament and of the Council (<a href="http://publications.europa.eu/resource/oj/JOL_2014_173_R_TOC"
+               >OJ L 173, 12.6.2014, p. 190</a>).</p>
+         <p class="oj-note">
+            <a id="ntr9-L_2022333EN.01015301-E0009" href="#ntc9-L_2022333EN.01015301-E0009"
+               >(<span class="oj-super">9</span>)</a>  Directive 2014/65/EU of the European Parliament and of the Council of 15 May 2014 on markets in financial instruments and amending Directive 2002/92/EC and Directive 2011/61/EU (<a href="http://publications.europa.eu/resource/oj/JOL_2014_173_R_TOC"
+               >OJ L 173, 12.6.2014, p. 349</a>).</p>
+         <p class="oj-note">
+            <a id="ntr10-L_2022333EN.01015301-E0010" href="#ntc10-L_2022333EN.01015301-E0010"
+               >(<span class="oj-super">10</span>)</a>  Directive (EU) 2015/2366 of the European Parliament and of the Council of 25 November 2015 on payment services in the internal market, amending Directives 2002/65/EC, 2009/110/EC and 2013/36/EU and Regulation (EU) No 1093/2010, and repealing Directive 2007/64/EC (<a href="http://publications.europa.eu/resource/oj/JOL_2015_337_R_TOC"
+               >OJ L 337, 23.12.2015, p. 35</a>).</p>
+         <p class="oj-note">
+            <a id="ntr11-L_2022333EN.01015301-E0011" href="#ntc11-L_2022333EN.01015301-E0011"
+               >(<span class="oj-super">11</span>)</a>  Directive (EU) 2016/2341 of the European Parliament and of the Council of 14 December 2016 on the activities and supervision of institutions for occupational retirement provision (IORPs) (<a href="http://publications.europa.eu/resource/oj/JOL_2016_354_R_TOC"
+               >OJ L 354, 23.12.2016, p. 37</a>).</p>
+         <p class="oj-note">
+            <a id="ntr12-L_2022333EN.01015301-E0012" href="#ntc12-L_2022333EN.01015301-E0012"
+               >(<span class="oj-super">12</span>)</a>  Regulation (EU) 2022/2554 of the European Parliament and of the Council of 14 December 2022 on digital operational resilience for the financial sector and amending Regulations (EC) No 1060/2009, (EU) No 648/2012, (EU) No 600/2014, (EU) No 909/2014 and (EU) 2016/1011 (See page1 of this Official Journal).</p>
+         <p class="oj-note">
+            <a id="ntr13-L_2022333EN.01015301-E0013" href="#ntc13-L_2022333EN.01015301-E0013"
+               >(<span class="oj-super">13</span>)</a>  Regulation (EU) No 1093/2010 of the European Parliament and of the Council of 24 November 2010 establishing a European Supervisory Authority (European Banking Authority), amending Decision No 716/2009/EC and repealing Commission Decision 2009/78/EC (<a href="http://publications.europa.eu/resource/oj/JOL_2010_331_R_TOC"
+               >OJ L 331, 15.12.2010, p. 12</a>).</p>
+         <p class="oj-note">
+            <a id="ntr14-L_2022333EN.01015301-E0014" href="#ntc14-L_2022333EN.01015301-E0014"
+               >(<span class="oj-super">14</span>)</a>  
+            <a href="http://publications.europa.eu/resource/oj/JOC_2011_369_R_TOC"
+               >OJ C 369, 17.12.2011, p. 14</a>.</p>
+      </div>
+      <hr class="oj-doc-end"/>
+   </body>
+</html>

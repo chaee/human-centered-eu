@@ -1,0 +1,894 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML//EN" "xhtml-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<!-- CONVEX # converter_version:9.15.0 # generated_on:20231207-0002 # ELI version:0.10 -->
+<head>
+   <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
+   <link type="text/css" rel="stylesheet" href="oj-convex.css"/>
+   <title>L_2016039EN.01004801.xml</title>
+</head>
+<body>
+   <table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <col width="10%"/>
+      <col width="10%"/>
+      <col width="60%"/>
+      <col width="20%"/>
+      <tbody>
+         <tr>
+            <td>
+               <p class="oj-hd-date">16.2.2016   </p>
+            </td>
+            <td>
+               <p class="oj-hd-lg">EN</p>
+            </td>
+            <td>
+               <p class="oj-hd-ti">Official Journal of the European Union</p>
+            </td>
+            <td>
+               <p class="oj-hd-oj">L 39/48</p>
+            </td>
+         </tr>
+      </tbody>
+   </table>
+   <hr class="oj-separator"/>
+   <div class="eli-container">
+      <div class="eli-main-title" id="tit_1">
+         <p class="oj-doc-ti" id="d1e40-48-1">
+            COMMISSION IMPLEMENTING DECISION (EU) 2016/209</p>
+         <p class="oj-doc-ti">of 12 February 2016
+         </p>
+         <p class="oj-doc-ti">on a standardisation request to the European standardisation organisations as regards Intelligent Transport Systems (ITS) in urban areas in support of Directive 2010/40/EU of the European Parliament and of the Council on the framework for the deployment of Intelligent Transport Systems in the field of road transport and for interfaces with other modes of transport</p>
+         <p class="oj-doc-ti">
+            <span class="oj-sp-normal">
+               <span class="oj-italic">(notified under document C(2016) 808)</span>
+            </span>
+         </p>
+         <p class="oj-doc-ti">(Only the English, French and German texts are authentic)</p>
+         <p class="oj-doc-ti">(Text with EEA relevance)</p>
+      </div>
+      <div class="eli-subdivision" id="pbl_1">
+         <p class="oj-normal">THE EUROPEAN COMMISSION,</p>
+         <div class="eli-subdivision" id="cit_1">
+            <p class="oj-normal">Having regard to the Treaty on the Functioning of the European Union,</p>
+         </div>
+         <div class="eli-subdivision" id="cit_2">
+            <p class="oj-normal">Having regard to Regulation (EU) No 1025/2012 of the European Parliament and of the Council of 25 October 2012 on European standardisation amending Council Directives 89/686/EEC and 93/15/EEC and Directives 94/9/EC, 94/25/EC, 95/16/EC, 97/23/EC, 98/34/EC, 2004/22/EC, 2007/23/EC, 2009/23/EC and 2009/105/EC of the European Parliament and of the Council and repealing Council Decision 87/95/EEC and Decision No 1673/2006/EC of the European Parliament and of the Council <a id="ntc1-L_2016039EN.01004801-E0001" href="#ntr1-L_2016039EN.01004801-E0001">(<span class="oj-super oj-note-tag">1</span>)</a>, and in particular Article 10(1) thereof,</p>
+         </div>
+         <p class="oj-normal">Whereas:</p>
+         <div class="eli-subdivision" id="rct_1">
+            <table width="100%" border="0" cellspacing="0" cellpadding="0">
+               <col width="4%"/>
+               <col width="96%"/>
+               <tbody>
+                  <tr>
+                     <td valign="top">
+                        <p class="oj-normal">(1)</p>
+                     </td>
+                     <td valign="top">
+                        <p class="oj-normal">In accordance with Article 8 of Directive 2010/40/EU of the European Parliament and of the Council <a id="ntc2-L_2016039EN.01004801-E0002" href="#ntr2-L_2016039EN.01004801-E0002">(<span class="oj-super oj-note-tag">2</span>)</a> the Commission may request the European standardisation organisations (ESOs) to develop necessary standards to provide interoperability, compatibility and continuity for the deployment and operational use of ITS. Such standards are scoped by Articles 2 and 3, Article 4(1) and Annex I to Directive 2010/40/EU to specific priority areas and priority actions in the field of ITS. Annex I also stresses the need for urban and interurban interfaces for data exchange, and the interoperability and compatibility of the urban dimension within the overarching European ITS architecture.</p>
+                     </td>
+                  </tr>
+               </tbody>
+            </table>
+         </div>
+         <div class="eli-subdivision" id="rct_2">
+            <table width="100%" border="0" cellspacing="0" cellpadding="0">
+               <col width="4%"/>
+               <col width="96%"/>
+               <tbody>
+                  <tr>
+                     <td valign="top">
+                        <p class="oj-normal">(2)</p>
+                     </td>
+                     <td valign="top">
+                        <p class="oj-normal">The scope for implementation of the specifications already adopted under Article 6 of Directive 2010/40/EU <a id="ntc3-L_2016039EN.01004801-E0003" href="#ntr3-L_2016039EN.01004801-E0003">(<span class="oj-super oj-note-tag">3</span>)</a> is mainly the trans-European transport network (TEN-T). Nonetheless Directive 2010/40/EU acknowledges the need for urban-interurban interfaces enabling interoperability and continuity of services across networks and borders. Urban areas are identified as optional ‘priority zones’ for the implementation of the specifications for the provision of EU-wide real-time traffic information services. First and last miles of travellers' journeys usually take place within urban areas and are therefore essential for the provision of EU-wide multimodal travel information services contributing to seamless mobility.</p>
+                     </td>
+                  </tr>
+               </tbody>
+            </table>
+         </div>
+         <div class="eli-subdivision" id="rct_3">
+            <table width="100%" border="0" cellspacing="0" cellpadding="0">
+               <col width="4%"/>
+               <col width="96%"/>
+               <tbody>
+                  <tr>
+                     <td valign="top">
+                        <p class="oj-normal">(3)</p>
+                     </td>
+                     <td valign="top">
+                        <p class="oj-normal">Within the overarching ITS objectives set by Directive 2010/40/EU, the urban dimension has its own needs envisioned in the Action Plan on ITS (2008) <a id="ntc4-L_2016039EN.01004801-E0004" href="#ntr4-L_2016039EN.01004801-E0004">(<span class="oj-super oj-note-tag">4</span>)</a> and the Action Plan on Urban Mobility (2009) <a id="ntc5-L_2016039EN.01004801-E0005" href="#ntr5-L_2016039EN.01004801-E0005">(<span class="oj-super oj-note-tag">5</span>)</a>. In 2010, the European Commission set up an Expert Group on urban ITS <a id="ntc6-L_2016039EN.01004801-E0006" href="#ntr6-L_2016039EN.01004801-E0006">(<span class="oj-super oj-note-tag">6</span>)</a>, with the participation of representatives of local authorities and their main partners, from the fields of research, industry, transport authorities and operators, standardisation bodies, etc. This Expert Group on urban ITS developed Guidelines on the deployment of key applications of urban ITS (namely: multimodal information, smart ticketing, traffic management and urban logistics), collected a number of best practices and reflected upon the need for further standardisation in the domain of urban ITS.</p>
+                     </td>
+                  </tr>
+               </tbody>
+            </table>
+         </div>
+         <div class="eli-subdivision" id="rct_4">
+            <table width="100%" border="0" cellspacing="0" cellpadding="0">
+               <col width="4%"/>
+               <col width="96%"/>
+               <tbody>
+                  <tr>
+                     <td valign="top">
+                        <p class="oj-normal">(4)</p>
+                     </td>
+                     <td valign="top">
+                        <p class="oj-normal">In its Urban Mobility Package <a id="ntc7-L_2016039EN.01004801-E0007" href="#ntr7-L_2016039EN.01004801-E0007">(<span class="oj-super oj-note-tag">7</span>)</a> adopted in December 2013 the Commission restated the need to enhance the efficiency and safety of urban mobility and announced planned actions and recommendations for Member States in a number of areas, including: urban logistics, urban access regulations and road user charging, coordinated deployment of urban Intelligent Transport Systems, and urban road safety.</p>
+                     </td>
+                  </tr>
+               </tbody>
+            </table>
+         </div>
+         <div class="eli-subdivision" id="rct_5">
+            <table width="100%" border="0" cellspacing="0" cellpadding="0">
+               <col width="4%"/>
+               <col width="96%"/>
+               <tbody>
+                  <tr>
+                     <td valign="top">
+                        <p class="oj-normal">(5)</p>
+                     </td>
+                     <td valign="top">
+                        <p class="oj-normal">Directive 2007/2/EC of the European Parliament and of the Council <a id="ntc8-L_2016039EN.01004801-E0008" href="#ntr8-L_2016039EN.01004801-E0008">(<span class="oj-super oj-note-tag">8</span>)</a> requires that public authorities publish geographical information on the transport network. This digital network graph can be enhanced to be used as a common location referencing system for reliable ITS services. This enhancement should take into account pre-existing standards, in particular Geographic Data File (GDF) <a id="ntc9-L_2016039EN.01004801-E0009" href="#ntr9-L_2016039EN.01004801-E0009">(<span class="oj-super oj-note-tag">9</span>)</a>.</p>
+                     </td>
+                  </tr>
+               </tbody>
+            </table>
+         </div>
+         <div class="eli-subdivision" id="rct_6">
+            <table width="100%" border="0" cellspacing="0" cellpadding="0">
+               <col width="4%"/>
+               <col width="96%"/>
+               <tbody>
+                  <tr>
+                     <td valign="top">
+                        <p class="oj-normal">(6)</p>
+                     </td>
+                     <td valign="top">
+                        <p class="oj-normal">In its Communication ‘Against lock-in: building open ICT systems by making better use of standards in public procurement’ <a id="ntc10-L_2016039EN.01004801-E0010" href="#ntr10-L_2016039EN.01004801-E0010">(<span class="oj-super oj-note-tag">10</span>)</a> and accompanying Staff Working Document ‘Guide for the procurement of standards-based ICT — Elements of Good Practice’ <a id="ntc11-L_2016039EN.01004801-E0011" href="#ntr11-L_2016039EN.01004801-E0011">(<span class="oj-super oj-note-tag">11</span>)</a>, the Commission points to the benefits of using standards and open specifications to avoid vendor lock-in of technological solutions, and promote the deployment of more cost-effective solutions.</p>
+                     </td>
+                  </tr>
+               </tbody>
+            </table>
+         </div>
+         <div class="eli-subdivision" id="rct_7">
+            <table width="100%" border="0" cellspacing="0" cellpadding="0">
+               <col width="4%"/>
+               <col width="96%"/>
+               <tbody>
+                  <tr>
+                     <td valign="top">
+                        <p class="oj-normal">(7)</p>
+                     </td>
+                     <td valign="top">
+                        <p class="oj-normal">The intention to request European standards and European standardisation deliverables in support of Directive 2010/40/EU is stated in points 2.4.10 <a id="ntc12-L_2016039EN.01004801-E0012" href="#ntr12-L_2016039EN.01004801-E0012">(<span class="oj-super oj-note-tag">12</span>)</a> and 3.3.8 <a id="ntc13-L_2016039EN.01004801-E0013" href="#ntr13-L_2016039EN.01004801-E0013">(<span class="oj-super oj-note-tag">13</span>)</a> of two consecutive annual Union work programmes for European standardisation.</p>
+                     </td>
+                  </tr>
+               </tbody>
+            </table>
+         </div>
+         <div class="eli-subdivision" id="rct_8">
+            <table width="100%" border="0" cellspacing="0" cellpadding="0">
+               <col width="4%"/>
+               <col width="96%"/>
+               <tbody>
+                  <tr>
+                     <td valign="top">
+                        <p class="oj-normal">(8)</p>
+                     </td>
+                     <td valign="top">
+                        <p class="oj-normal">The Commission has established guidelines <a id="ntc14-L_2016039EN.01004801-E0014" href="#ntr14-L_2016039EN.01004801-E0014">(<span class="oj-super oj-note-tag">14</span>)</a> for the execution of standardisation requests and the European standardisation organisations have agreed to apply those guidelines when executing standardisation requests.</p>
+                     </td>
+                  </tr>
+               </tbody>
+            </table>
+         </div>
+         <div class="eli-subdivision" id="rct_9">
+            <table width="100%" border="0" cellspacing="0" cellpadding="0">
+               <col width="4%"/>
+               <col width="96%"/>
+               <tbody>
+                  <tr>
+                     <td valign="top">
+                        <p class="oj-normal">(9)</p>
+                     </td>
+                     <td valign="top">
+                        <p class="oj-normal">The European standardisation organisations, the European standardisation stakeholders organisations receiving Union financing and the European ITS Committee established on the basis of Article 15 of Directive 2010/40/EU have been consulted.</p>
+                     </td>
+                  </tr>
+               </tbody>
+            </table>
+         </div>
+         <div class="eli-subdivision" id="rct_10">
+            <table width="100%" border="0" cellspacing="0" cellpadding="0">
+               <col width="4%"/>
+               <col width="96%"/>
+               <tbody>
+                  <tr>
+                     <td valign="top">
+                        <p class="oj-normal">(10)</p>
+                     </td>
+                     <td valign="top">
+                        <p class="oj-normal">The measures provided for in this Decision are in accordance with the opinion of the Committee established by Article 22 of Regulation (EU) No 1025/2012,</p>
+                     </td>
+                  </tr>
+               </tbody>
+            </table>
+         </div>
+         <p class="oj-normal">HAS ADOPTED THIS DECISION:</p>
+      </div>
+      <div class="eli-subdivision" id="enc_1">
+         <div class="eli-subdivision" id="art_1">
+            <p id="d1e232-48-1" class="oj-ti-art">Article 1</p>
+            <div class="eli-title" id="art_1.tit_1">
+               <p class="oj-sti-art">Requested standardisation activities</p>
+            </div>
+            <p class="oj-normal">The European Committee for Standardisation (CEN), the European Committee for Electrotechnical Standardisation (Cenelec) and European Telecommunications Standards Institute (ETSI), hereafter referred as the ESOs (European standardisation organisations), are requested to draft new European standards and European standardisation deliverables in support of the implementation of Article 8 of Directive 2010/40/EU for multimodal information, traffic management and urban logistics in the urban ITS domain. The requested European standards and European standardisation deliverables are listed in Tables 1, 2, 3 and 4 of Annex II and shall meet the requirements set out in Annex I.</p>
+         </div>
+         <div class="eli-subdivision" id="art_2">
+            <p id="d1e239-48-1" class="oj-ti-art">Article 2</p>
+            <div class="eli-title" id="art_2.tit_1">
+               <p class="oj-sti-art">Establishment of the work programme</p>
+            </div>
+            <p class="oj-normal">The ESOs shall prepare the joint work programme indicating all requested deliverables, responsible technical bodies and a timetable for the execution of the work in line with the deadlines set out in Annex II. The ESOs shall submit the work programme to the Commission by 31 July 2016 and shall provide access to an overall project plan to the Commission.</p>
+            <p class="oj-normal">The ESOs may decide how many European standards and European standardisation deliverables are needed in order to execute the request referred to in Article 1.</p>
+         </div>
+         <div class="eli-subdivision" id="art_3">
+            <p id="d1e251-48-1" class="oj-ti-art">Article 3</p>
+            <div class="eli-title" id="art_3.tit_1">
+               <p class="oj-sti-art">Agreement on the work programme</p>
+            </div>
+            <p class="oj-normal">The ESOs shall follow in its work programme the possible priorities expressed by the Commission for the execution of the request referred to in Article 1.</p>
+            <p class="oj-normal">The ESOs shall inform the Commission on any amendments to the work programme.</p>
+            <p class="oj-normal">New subjects for European standards or European standardisation deliverables may be added to the work programme where Annex I includes requirements for such subjects and these subjects relate to the priority areas and priority actions mentioned in Articles 2 and 3 and Annex I to Directive 2010/40/EU, and where the Commission has been consulted and agrees to that addition, after having informed the Committee established by Article 22 of Regulation (EU) No 1025/2012.</p>
+         </div>
+         <div class="eli-subdivision" id="art_4">
+            <p id="d1e262-48-1" class="oj-ti-art">Article 4</p>
+            <div class="eli-title" id="art_4.tit_1">
+               <p class="oj-sti-art">Reporting</p>
+            </div>
+            <p class="oj-normal">The ESOs shall report annually to the Commission on the execution of the request referred to in Article 1. These organisations shall submit to the Commission the first joint annual report by 30 March 2017.</p>
+            <p class="oj-normal">The ESOs shall provide the Commission with the joint final report by 30 June 2019. The final report shall include measurement criteria to measure achievements with respect to standardisation in the areas of multimodal information, traffic management and urban logistics, and the level of stakeholder engagement during the standardisation work requested by Article 1.</p>
+         </div>
+         <div class="eli-subdivision" id="art_5">
+            <p id="d1e277-48-1" class="oj-ti-art">Article 5</p>
+            <div class="eli-title" id="art_5.tit_1">
+               <p class="oj-sti-art">Validity</p>
+            </div>
+            <p class="oj-normal">If the request referred to in Article 1 is not accepted by any of the ESOs within 1 month following its receipt, that request may not constitute a basis for the drafting of European standards and European standardisation deliverables.</p>
+         </div>
+         <div class="eli-subdivision" id="art_6">
+            <p id="d1e284-48-1" class="oj-ti-art">Article 6</p>
+            <div class="eli-title" id="art_6.tit_1">
+               <p class="oj-sti-art">Interoperability requirements</p>
+            </div>
+            <p class="oj-normal">The requested European standards and European standardisation deliverables shall be developed to be consistent and compliant with the requirements of the Delegated Acts adopted by the Commission under Directive 2010/40/EU, in particular the specifications for the provision of EU-wide real-time traffic information services adopted on 18 December 2014 <a id="ntc15-L_2016039EN.01004801-E0015" href="#ntr15-L_2016039EN.01004801-E0015">(<span class="oj-super oj-note-tag">15</span>)</a>, and the specifications for the provision of EU-wide multimodal travel information services <a id="ntc16-L_2016039EN.01004801-E0016" href="#ntr16-L_2016039EN.01004801-E0016">(<span class="oj-super oj-note-tag">16</span>)</a>.</p>
+         </div>
+         <div class="eli-subdivision" id="art_7">
+            <p id="d1e301-48-1" class="oj-ti-art">Article 7</p>
+            <div class="eli-title" id="art_7.tit_1">
+               <p class="oj-sti-art">Addressees</p>
+            </div>
+            <p class="oj-normal">This Decision is addressed to the European Committee for Standardisation, the European Committee for Electrotechnical Standardisation and European Telecommunications Standards Institute.</p>
+         </div>
+      </div>
+      <div class="eli-subdivision" id="fnp_1">
+         <div class="oj-final">
+            <p class="oj-normal">Done at Brussels, 12 February 2016.</p>
+            <div class="oj-signatory">
+               <p class="oj-signatory">
+                  <span class="oj-italic">For the Commission</span>
+               </p>
+               <p class="oj-signatory">Elżbieta BIEŃKOWSKA
+            </p>
+               <p class="oj-signatory">
+                  <span class="oj-italic">Member of the Commission</span>
+               </p>
+            </div>
+         </div>
+      </div>
+      <hr class="oj-note"/>
+      <p class="oj-note">
+         <a id="ntr1-L_2016039EN.01004801-E0001" href="#ntc1-L_2016039EN.01004801-E0001">(<span class="oj-super">1</span>)</a>  
+            <a href="http://publications.europa.eu/resource/oj/JOL_2012_316_R_TOC">OJ L 316, 14.11.2012, p. 12</a>.</p>
+      <p class="oj-note">
+         <a id="ntr2-L_2016039EN.01004801-E0002" href="#ntc2-L_2016039EN.01004801-E0002">(<span class="oj-super">2</span>)</a>  Directive 2010/40/EU of the European Parliament and of the Council of 7 July 2010 on the framework for the deployment of Intelligent Transport Systems in the field of road transport and for interfaces with other modes of transport (<a href="http://publications.europa.eu/resource/oj/JOL_2010_207_R_TOC">OJ L 207, 6.8.2010, p. 1</a>).</p>
+      <p class="oj-note">
+         <a id="ntr3-L_2016039EN.01004801-E0003" href="#ntc3-L_2016039EN.01004801-E0003">(<span class="oj-super">3</span>)</a>  Commission Delegated Regulations (EU) No 305/2013 (<a href="http://publications.europa.eu/resource/oj/JOL_2013_091_R_TOC">OJ L 91, 3.4.2013, p. 1</a>), (EU) No 885/2013 (<a href="http://publications.europa.eu/resource/oj/JOL_2013_247_R_TOC">OJ L 247, 18.9.2013, p. 1</a>), (EU) No 886/2013 (<a href="http://publications.europa.eu/resource/oj/JOL_2013_247_R_TOC">OJ L 247, 18.9.2013, p. 6</a>), and (EU) 2015/962 (<a href="http://publications.europa.eu/resource/oj/JOL_2015_157_R_TOC">OJ L 157, 23.6.2015, p. 21</a>).</p>
+      <p class="oj-note">
+         <a id="ntr4-L_2016039EN.01004801-E0004" href="#ntc4-L_2016039EN.01004801-E0004">(<span class="oj-super">4</span>)</a>  COM(2008) 886 final.</p>
+      <p class="oj-note">
+         <a id="ntr5-L_2016039EN.01004801-E0005" href="#ntc5-L_2016039EN.01004801-E0005">(<span class="oj-super">5</span>)</a>  COM(2009) 490 final.</p>
+      <p class="oj-note">
+         <a id="ntr6-L_2016039EN.01004801-E0006" href="#ntc6-L_2016039EN.01004801-E0006">(<span class="oj-super">6</span>)</a>  http://ec.europa.eu/transparency/regexpert/index.cfm?do=groupDetail.groupDetail&amp;groupID=2520</p>
+      <p class="oj-note">
+         <a id="ntr7-L_2016039EN.01004801-E0007" href="#ntc7-L_2016039EN.01004801-E0007">(<span class="oj-super">7</span>)</a>  http://ec.europa.eu/transport/themes/urban/urban_mobility/ump_en.htm</p>
+      <p class="oj-note">
+         <a id="ntr8-L_2016039EN.01004801-E0008" href="#ntc8-L_2016039EN.01004801-E0008">(<span class="oj-super">8</span>)</a>  Directive 2007/2/EC of the European Parliament and of the Council of 14 March 2007 establishing an Infrastructure for Spatial Information in the European Community (INSPIRE) (<a href="http://publications.europa.eu/resource/oj/JOL_2007_108_R_TOC">OJ L 108, 25.4.2007, p. 1</a>).</p>
+      <p class="oj-note">
+         <a id="ntr9-L_2016039EN.01004801-E0009" href="#ntc9-L_2016039EN.01004801-E0009">(<span class="oj-super">9</span>)</a>  ISO (14825:2004) which notably describes the road infrastructure for ITS needs and embed a comprehensive common location referencing system.</p>
+      <p class="oj-note">
+         <a id="ntr10-L_2016039EN.01004801-E0010" href="#ntc10-L_2016039EN.01004801-E0010">(<span class="oj-super">10</span>)</a>  COM(2013) 455 final.</p>
+      <p class="oj-note">
+         <a id="ntr11-L_2016039EN.01004801-E0011" href="#ntc11-L_2016039EN.01004801-E0011">(<span class="oj-super">11</span>)</a>  SWD(2013) 224 final.</p>
+      <p class="oj-note">
+         <a id="ntr12-L_2016039EN.01004801-E0012" href="#ntc12-L_2016039EN.01004801-E0012">(<span class="oj-super">12</span>)</a>  COM(2013) 561 final.</p>
+      <p class="oj-note">
+         <a id="ntr13-L_2016039EN.01004801-E0013" href="#ntc13-L_2016039EN.01004801-E0013">(<span class="oj-super">13</span>)</a>  COM(2014) 500 final.</p>
+      <p class="oj-note">
+         <a id="ntr14-L_2016039EN.01004801-E0014" href="#ntc14-L_2016039EN.01004801-E0014">(<span class="oj-super">14</span>)</a>  SWD(2015) 205 final, 27 October 2015, Vademecum on European standardisation in support of Union legislation and policies, Part III Guidelines for the execution of standardisation requests.</p>
+      <p class="oj-note">
+         <a id="ntr15-L_2016039EN.01004801-E0015" href="#ntc15-L_2016039EN.01004801-E0015">(<span class="oj-super">15</span>)</a>  C(2014) 9672 final.</p>
+      <p class="oj-note">
+         <a id="ntr16-L_2016039EN.01004801-E0016" href="#ntc16-L_2016039EN.01004801-E0016">(<span class="oj-super">16</span>)</a>  Work in progress. Specifications foreseen for end 2015/early 2016.</p>
+   </div>
+   <hr class="oj-doc-sep"/>
+   <div id="L_2016039EN.01005201">
+      <div class="eli-container" id="anx_I">
+         <p class="oj-doc-ti" id="d1e32-52-1">ANNEX I</p>
+         <p id="d1e38-52-1" class="oj-ti-grseq-1">
+            <span class="oj-bold">REQUIREMENTS FOR THE EUROPEAN STANDARDS AND EUROPEAN STANDARDISATION DELIVERABLES</span>
+         </p>
+         <p class="oj-ti-grseq-1" id="d1e44-52-1">1.   GENERAL REQUIREMENTS</p>
+         <p class="oj-ti-grseq-1" id="d1e52-52-1">1.1.   <span class="oj-bold">General requirements for establishing the work programme</span>
+         </p>
+         <p class="oj-normal">The Expert Group on urban ITS <a id="ntc1-L_2016039EN.01005201-E0001" href="#ntr1-L_2016039EN.01005201-E0001">(<span class="oj-super oj-note-tag">1</span>)</a> recommended better integrating the urban dimension within European standardisation activities and focusing standardisation efforts on specific topics with a view to ensure the establishment of the needed urban-interurban interfaces.</p>
+         <p class="oj-normal">The Expert Group also recommended involving local authorities and experts with specific urban knowledge in the ITS standardisation process.</p>
+         <p class="oj-normal">Therefore the work programme to be established on the basis of this request shall be developed:</p>
+         <p class="oj-normal">Focusing in priority on three areas of urban ITS, namely: multimodal information services, traffic management including access regulation, and urban logistics including parking management. In order to enable ITS connectivity (avoiding silos or lock-in effects) the ESOs shall demonstrate how the three areas abovementioned are linked together within a broader urban ITS architecture, and accommodate their relationships and interfaces with other related ITS applications (not directly in the scope of this request).</p>
+         <p class="oj-normal">Keeping in mind the need to address the variety of users' needs (<span class="oj-italic">from consumers to operators and providers</span>), the ranges of environments (including urban-interurban interfaces), and the different types of vehicles or modes of transport or mobility services (including for mobility impaired) related to the three areas abovementioned. For this purpose the ESOs are invited to liaise with relevant bodies representing urban mobility and interested in urban ITS, such as standardisation coordination groups and organisations, local standardisation frameworks, experts and stakeholder platforms, cities and regions associations, users associations, transport operators and service providers representatives. They can invite such stakeholders to participate to their activities and contribute to their deliverables. They shall demonstrate how to engage the right (urban) experts and stakeholders throughout the whole process (planning, standard making, deployment). The diversity of local situations and policies should be considered. In particular, when possible, tests with voluntary pilot cities could be foreseen during execution of this request.</p>
+         <p class="oj-normal">Establishing the necessary organisational arrangements supporting an effective cooperation and good coordination across ITS standardisation initiatives and working groups.</p>
+         <p class="oj-ti-grseq-1" id="d1e80-52-1">1.2.   <span class="oj-bold">General requirements for the requested deliverables</span>
+         </p>
+         <p class="oj-ti-grseq-1" id="d1e89-52-1">1.2.1.   <span class="oj-italic">Compliance</span>
+         </p>
+         <p class="oj-normal">The requested European standards and European standardisation deliverables shall be developed to be compliant with:</p>
+         <table width="100%" border="0" cellspacing="0" cellpadding="0">
+            <col width="4%"/>
+            <col width="96%"/>
+            <tbody>
+               <tr>
+                  <td valign="top">
+                     <p class="oj-normal">—</p>
+                  </td>
+                  <td valign="top">
+                     <p class="oj-normal">the principles mentioned in Annex II to Directive 2010/40/EU,</p>
+                  </td>
+               </tr>
+            </tbody>
+         </table>
+         <table width="100%" border="0" cellspacing="0" cellpadding="0">
+            <col width="4%"/>
+            <col width="96%"/>
+            <tbody>
+               <tr>
+                  <td valign="top">
+                     <p class="oj-normal">—</p>
+                  </td>
+                  <td valign="top">
+                     <p class="oj-normal">the principles of the personal data protection regulation (Directive 95/46/EC of the European Parliament and of the Council <a id="ntc2-L_2016039EN.01005201-E0002" href="#ntr2-L_2016039EN.01005201-E0002">(<span class="oj-super oj-note-tag">2</span>)</a> and proposal for a Regulation of the European Parliament and Council on the protection of individuals with regard to the processing of personal data and on the free movement of such data <a id="ntc3-L_2016039EN.01005201-E0003" href="#ntr3-L_2016039EN.01005201-E0003">(<span class="oj-super oj-note-tag">3</span>)</a>),</p>
+                  </td>
+               </tr>
+            </tbody>
+         </table>
+         <table width="100%" border="0" cellspacing="0" cellpadding="0">
+            <col width="4%"/>
+            <col width="96%"/>
+            <tbody>
+               <tr>
+                  <td valign="top">
+                     <p class="oj-normal">—</p>
+                  </td>
+                  <td valign="top">
+                     <p class="oj-normal">the principles of e-accessibility and web accessibility (Communication ‘Towards an accessible information society’
+                            <a id="ntc4-L_2016039EN.01005201-E0004" href="#ntr4-L_2016039EN.01005201-E0004">(<span class="oj-super oj-note-tag">4</span>)</a>).</p>
+                  </td>
+               </tr>
+            </tbody>
+         </table>
+         <p class="oj-ti-grseq-1" id="d1e131-52-1">1.2.2.   <span class="oj-italic">Harmonisation</span>
+         </p>
+         <p class="oj-normal">The Expert Group on urban ITS stressed that standardisation efforts should cover existing gaps, upgrade and complement existing standards.</p>
+         <p class="oj-normal">Therefore the requested European standards and European standardisation deliverables should reuse, harmonise or interface as far as possible with the following existing standards, specifications and projects: the CIVITAS projects <a id="ntc5-L_2016039EN.01005201-E0005" href="#ntr5-L_2016039EN.01005201-E0005">(<span class="oj-super oj-note-tag">5</span>)</a>, CAPITAL CIVITAS ITS Advisory Group <a id="ntc6-L_2016039EN.01005201-E0006" href="#ntr6-L_2016039EN.01005201-E0006">(<span class="oj-super oj-note-tag">6</span>)</a>, Promoting Open Specifications and Standards in Europe (POSSE) project <a id="ntc7-L_2016039EN.01005201-E0007" href="#ntr7-L_2016039EN.01005201-E0007">(<span class="oj-super oj-note-tag">7</span>)</a>, OPTICITIES project <a id="ntc8-L_2016039EN.01005201-E0008" href="#ntr8-L_2016039EN.01005201-E0008">(<span class="oj-super oj-note-tag">8</span>)</a>, FREILOT project, Smart Cities and Communities Coordination Group, standardisation request M/453 on Cooperative Systems <a id="ntc9-L_2016039EN.01005201-E0009" href="#ntr9-L_2016039EN.01005201-E0009">(<span class="oj-super oj-note-tag">9</span>)</a>, the C-ITS platform, DATEX II Strategic and Technical Groups <a id="ntc10-L_2016039EN.01005201-E0010" href="#ntr10-L_2016039EN.01005201-E0010">(<span class="oj-super oj-note-tag">10</span>)</a>, the Urban Traffic Management Control programme (UTMC) <a id="ntc11-L_2016039EN.01005201-E0011" href="#ntr11-L_2016039EN.01005201-E0011">(<span class="oj-super oj-note-tag">11</span>)</a>, the Open Traffic Systems City Association (OCA) <a id="ntc12-L_2016039EN.01005201-E0012" href="#ntr12-L_2016039EN.01005201-E0012">(<span class="oj-super oj-note-tag">12</span>)</a> and the Open Communication Interface for Road Traffic Control Systems (OCIT) <a id="ntc13-L_2016039EN.01005201-E0013" href="#ntr13-L_2016039EN.01005201-E0013">(<span class="oj-super oj-note-tag">13</span>)</a>, FRAME project <a id="ntc14-L_2016039EN.01005201-E0014" href="#ntr14-L_2016039EN.01005201-E0014">(<span class="oj-super oj-note-tag">14</span>)</a>, Co-Cities project <a id="ntc15-L_2016039EN.01005201-E0015" href="#ntr15-L_2016039EN.01005201-E0015">(<span class="oj-super oj-note-tag">15</span>)</a>, European Digital Traffic Infrastructure Network for Intelligent <span class="oj-italic">Transport</span> Systems (<span class="oj-italic">EDITS</span>) project <a id="ntc16-L_2016039EN.01005201-E0016" href="#ntr16-L_2016039EN.01005201-E0016">(<span class="oj-super oj-note-tag">16</span>)</a>, European Bus System of the Future (EBSF) project <a id="ntc17-L_2016039EN.01005201-E0017" href="#ntr17-L_2016039EN.01005201-E0017">(<span class="oj-super oj-note-tag">17</span>)</a>, Data Catalog Vocabulary (DCAT) <a id="ntc18-L_2016039EN.01005201-E0018" href="#ntr18-L_2016039EN.01005201-E0018">(<span class="oj-super oj-note-tag">18</span>)</a>, spatial ‘standardised’ data and geo standardisation, and existing national standards <a id="ntc19-L_2016039EN.01005201-E0019" href="#ntr19-L_2016039EN.01005201-E0019">(<span class="oj-super oj-note-tag">19</span>)</a>.</p>
+         <p class="oj-normal">Against this background the requested European standards and European standardisation deliverables should provide consideration to the reuse, harmonisation or interface with existing reference data models, common data dictionaries and metadata structure requirements with a view to foster interoperability, consistency and continuity of services.</p>
+         <p class="oj-ti-grseq-1" id="d1e223-52-1">1.2.3.   <span class="oj-italic">Implementability</span>
+         </p>
+         <p class="oj-normal">The Expert Group on urban ITS suggested looking for ways of supporting more flexible and less constrictive standardisation deliverable in addition to standards in order to better address ITS fast-moving technological environment.</p>
+         <p class="oj-normal">Therefore the requested European standards and European standardisation deliverables should fit the needs of the various users, the diversity of cities, and be easily implementable.</p>
+         <p class="oj-normal">This should include the following aspects as far as possible:</p>
+         <table width="100%" border="0" cellspacing="0" cellpadding="0">
+            <col width="4%"/>
+            <col width="96%"/>
+            <tbody>
+               <tr>
+                  <td valign="top">
+                     <p class="oj-normal">(1)</p>
+                  </td>
+                  <td valign="top">
+                     <p class="oj-normal">legacy systems and existing protocols, cost-effective migration paths, business models and guidelines for procurers;</p>
+                  </td>
+               </tr>
+            </tbody>
+         </table>
+         <table width="100%" border="0" cellspacing="0" cellpadding="0">
+            <col width="4%"/>
+            <col width="96%"/>
+            <tbody>
+               <tr>
+                  <td valign="top">
+                     <p class="oj-normal">(2)</p>
+                  </td>
+                  <td valign="top">
+                     <p class="oj-normal">special needs of consumers, businesses and operators, including small and medium-sized enterprises;</p>
+                  </td>
+               </tr>
+            </tbody>
+         </table>
+         <table width="100%" border="0" cellspacing="0" cellpadding="0">
+            <col width="4%"/>
+            <col width="96%"/>
+            <tbody>
+               <tr>
+                  <td valign="top">
+                     <p class="oj-normal">(3)</p>
+                  </td>
+                  <td valign="top">
+                     <p class="oj-normal">executable and freely available guidance, code lists, datasets, tools and processes to facilitate operational implementation and conformance tests;</p>
+                  </td>
+               </tr>
+            </tbody>
+         </table>
+         <table width="100%" border="0" cellspacing="0" cellpadding="0">
+            <col width="4%"/>
+            <col width="96%"/>
+            <tbody>
+               <tr>
+                  <td valign="top">
+                     <p class="oj-normal">(4)</p>
+                  </td>
+                  <td valign="top">
+                     <p class="oj-normal">data availability, access, quality, reliability and accuracy.</p>
+                  </td>
+               </tr>
+            </tbody>
+         </table>
+         <p class="oj-ti-grseq-1" id="d1e263-52-1">2.   REQUIREMENTS TO STRENGTHEN COMPATIBILITY AND COHERENCE WITH EXISTING STANDARDS AND TECHNICAL SPECIFICATIONS</p>
+         <p class="oj-normal">The coherence of existing European, international or other globally used standards shall be checked (i.e. taking into account the work not only of CEN, Cenelec and ETSI, but also DATEX II, UTMC, OTS, ISO, IEC, ITU, etc.), potential gaps shall be assessed and compatible or open solutions proposed, either with the intention of providing for harmonisation and enhancement of existing standards or development of new interoperable standards and other specifications where appropriate. The development of new standards and specifications needs to build on the existing ones and to identify architectural or connectivity requirements.</p>
+         <p class="oj-normal">In the domain of public transport, and particularly with respect to multimodal information and smart ticketing, such a need for coherence will concern a broad set of standards and technical specifications, in particular: Transmodel <a id="ntc20-L_2016039EN.01005201-E0020" href="#ntr20-L_2016039EN.01005201-E0020">(<span class="oj-super oj-note-tag">20</span>)</a>, IFOPT <a id="ntc21-L_2016039EN.01005201-E0021" href="#ntr21-L_2016039EN.01005201-E0021">(<span class="oj-super oj-note-tag">21</span>)</a>, SIRI <a id="ntc22-L_2016039EN.01005201-E0022" href="#ntr22-L_2016039EN.01005201-E0022">(<span class="oj-super oj-note-tag">22</span>)</a>, NeTEx <a id="ntc23-L_2016039EN.01005201-E0023" href="#ntr23-L_2016039EN.01005201-E0023">(<span class="oj-super oj-note-tag">23</span>)</a>, IOPTA <a id="ntc24-L_2016039EN.01005201-E0024" href="#ntr24-L_2016039EN.01005201-E0024">(<span class="oj-super oj-note-tag">24</span>)</a> and ISO <a id="ntc25-L_2016039EN.01005201-E0025" href="#ntr25-L_2016039EN.01005201-E0025">(<span class="oj-super oj-note-tag">25</span>)</a>.</p>
+         <p class="oj-normal">In the domain of alternative fuel vehicles and infrastructure, any new standards and specifications should be made compatible and complementary to ETSI TS 101 556-3 <a id="ntc26-L_2016039EN.01005201-E0026" href="#ntr26-L_2016039EN.01005201-E0026">(<span class="oj-super oj-note-tag">26</span>)</a>.</p>
+         <p class="oj-normal">The adaptability of general standards to the urban environment also needs to be considered, and potentially further developed. It is notably the case of DATEX II <a id="ntc27-L_2016039EN.01005201-E0027" href="#ntr27-L_2016039EN.01005201-E0027">(<span class="oj-super oj-note-tag">27</span>)</a> providing for the exchange of traffic related data, described through specific profiles. It appears as a pre-requisite for establishing interoperability and continuity of services between the urban and interurban environments or networks. Such task can be best performed by ensuring a close cooperation with the DATEX II Strategic Group and Technical Group.</p>
+         <p class="oj-normal">The work conducted through this mandate will need to anticipate the future deployment of cooperative systems within urban areas. It will be related to previous standardisation efforts in the domain of vehicle to vehicle and vehicle to infrastructure communications, that were led within the scope of the standardisation request M/453, jointly managed by CEN and ETSI, and the outcome of the ongoing work carried out by the experts of the C-ITS platform established in November 2014 by the Commission (in particular its standardisation and business cases working groups) <a id="ntc28-L_2016039EN.01005201-E0028" href="#ntr28-L_2016039EN.01005201-E0028">(<span class="oj-super oj-note-tag">28</span>)</a>.</p>
+         <p class="oj-ti-grseq-1" id="d1e346-52-1">3.   SPECIFIC REQUIREMENTS FOR THE REQUESTED DELIVERABLES</p>
+         <p class="oj-ti-grseq-1" id="d1e354-52-1">3.1.   <span class="oj-bold">Defining a diversity of relevant use cases embedded within an urban ITS architecture and supporting the implementation of standards and other specifications</span>
+         </p>
+         <p class="oj-normal">With the aim to develop a pragmatic approach, the activities under this request shall be based on high level use cases, addressing multimodal information services, traffic management including access regulation and urban logistics including parking management. The definition or selection of these use cases will have to balance user needs, urban mobility trends, technological developments, financial sustainability and policy priorities (e.g. road safety). The prioritisation of these use cases and their possible interdependencies shall also be explained together with the work programme.</p>
+         <p class="oj-normal">The use cases will be embedded within an urban ITS architecture (<span class="oj-italic">logical structure and connectors between standards and specifications and their stakeholders</span>) covering the whole information chain for each of the three areas abovementioned and fitting within the overall European ITS Architecture. Therefore such an architecture for urban ITS shall be coherent with the e-FRAME model <a id="ntc29-L_2016039EN.01005201-E0029" href="#ntr29-L_2016039EN.01005201-E0029">(<span class="oj-super oj-note-tag">29</span>)</a>.</p>
+         <p class="oj-normal">This holistic and systemic overview will support stakeholder collaboration as well as the development or enhancement of standards and other specifications compatible and complementary with each other, therefore enabling ITS connectivity.</p>
+         <p class="oj-normal">The deployment strategy deliverable shall express how to foster easy deployment of such standards and other specifications, through the deployment of multimodal information services, traffic management measures and urban logistics operations. For this purpose the lessons learnt from the use cases, the involvement of the right stakeholders, and the provision of realistic implementation guidance will be essential.</p>
+         <p class="oj-ti-grseq-1" id="d1e378-52-1">3.2.   <span class="oj-bold">Addressing multimodal information services, contributing to seamless mobility</span>
+         </p>
+         <p class="oj-normal">Among the main issues today are the fragmentation of traffic and travel information services, and lack of interoperable multimodal information and planning services of broad pan-European coverage that would incorporate first and last miles of the journey in conjunction with the A to B long-distance leg of the journey. The range of available data about mobility services must be extended and needs to be available in standardised format, in order to enable its introduction into innovative traffic and travel information services. Only comprehensive multimodal information services would enable the user to have a complete range of travel choices, routing options, contributing to making optimal mobility choices, fostering more sustainable travel behaviours and making the whole transport system more efficient and accessible to all users.</p>
+         <p class="oj-normal">Compatible data formats, open and documented interfaces and protocols for transmission of relevant data and their integration in multimodal datasets and (existing) multimodal information and planning services (including integrated ticketing) shall be ensured (i.e. worked out where necessary). It is essential that the existing and new standards and other specifications enable, with supplementary interfaces and protocols where necessary, the effective integration or connection of the different aspects or blocks of multimodal information and planning services.</p>
+         <p class="oj-ti-grseq-1" id="d1e391-52-1">3.3.   <span class="oj-bold">Addressing traffic management, including access regulation</span>
+         </p>
+         <p class="oj-normal">Traffic management systems are constantly developing, while in the past they were mostly control centre to control centre oriented, they tend to become more cooperative amongst systems (including field devices), networks and operators. For this reason, the right standards, interfaces and/or protocols shall be developed to support cooperating traffic control and management solutions at the different geographical scales or across different administrative boundaries of the city (e.g. from small neighbourhood traffic calming solutions and peri-urban traffic spill-over management to efficient integration of urban nodes within interurban corridors).</p>
+         <p class="oj-normal">There are a variety of means to manage the road network and address traffic congestion and traffic disruption (e.g. planned/unplanned events, accidents, floods, fires, etc.) through traffic management in an efficient and innovative manner. For instance, a number of cities put in place different types of traffic rerouting, traffic prioritisation and access regulation measures, including intersections management, targeting all or a subset of vehicles (e.g. deviations, priority lanes, green waves, road user charging or tolling, low emission zones, low speed zones, pedestrian zones, etc.). Unfortunately these measures are not necessarily managed in a holistic and coordinated manner and often not correctly taken into account in traffic information systems towards users (e.g. navigation devices). Therefore, establishing on one side coherent specifications, compatible standards and practical interfaces supporting the interoperability of data necessary for up-to-date traffic information, and optimising on another side a variety of traffic management and prioritisation measures, rightly supplemented by standardised technological solutions for vehicle identification (i.e. as regards vehicle categorisation, emission class, character of emergency, load factor), would both contribute to the overall efficiency of traffic information and management in urban areas, including access regulation management and enforcement.</p>
+         <p class="oj-normal">Compatible data formats, open and documented interfaces and protocols for transmission of relevant data, independently of their source (e.g. sensors, floating car data, traffic control centres), and their integration in current and future traffic information systems and traffic management operations, for various road networks including urban-interurban links, shall be ensured (i.e. worked out where necessary).</p>
+         <p class="oj-ti-grseq-1" id="d1e406-52-1">3.4.   <span class="oj-bold">Addressing urban logistics, including parking management</span>
+         </p>
+         <p class="oj-normal">In the urban environment, the search for parking spaces and the distribution of freight is estimated to exacerbate traffic congestion. Therefore, providing real-time information on the availability of parking possibilities, and easy reservation options, would contribute to alleviate this problem. Differentiated approaches should be provided to cater for specific logistics sectors and freight vehicles or loads needs (e.g. alternative fuels, refrigerated goods, reverse logistics or waste, dangerous goods).</p>
+         <p class="oj-normal">Compatible data formats, open and documented interfaces and protocols for transmission of relevant data, independently of their source and their integration in current and future traffic information systems and traffic management operations, for various road networks including urban-interurban links, shall be ensured (i.e. worked out where necessary).</p>
+         <p class="oj-ti-grseq-1" id="d1e419-52-1">4.   REQUIREMENTS CONCERNING LATER REVIEWS TO THE REQUESTED DELIVERABLES</p>
+         <p class="oj-normal">After adoption of the requested European standards and European standardisation deliverables the list of syntaxes and related mappings given in those deliverables shall be reviewed by the ESOs at least once every 2 years with a view to ensuring that they reflect the most recent technological developments and includes best-of-class syntaxes. Special care should be taken to accommodate or migrate from legacy systems and ensure backward compatibility for the implementations.</p>
+         <hr class="oj-note"/>
+         <p class="oj-note">
+            <a id="ntr1-L_2016039EN.01005201-E0001" href="#ntc1-L_2016039EN.01005201-E0001">(<span class="oj-super">1</span>)</a>  http://ec.europa.eu/transparency/regexpert/index.cfm?do=groupDetail.groupDetail&amp;groupID=2520</p>
+         <p class="oj-note">
+            <a id="ntr2-L_2016039EN.01005201-E0002" href="#ntc2-L_2016039EN.01005201-E0002">(<span class="oj-super">2</span>)</a>  Directive 95/46/EC of the European Parliament and of the Council of 24 October 1995 on the protection of individuals with regard to the processing of personal data and on the free movement of such data (<a href="http://publications.europa.eu/resource/oj/JOL_1995_281_R_TOC">OJ L 281, 23.11.1995, p. 31</a>).</p>
+         <p class="oj-note">
+            <a id="ntr3-L_2016039EN.01005201-E0003" href="#ntc3-L_2016039EN.01005201-E0003">(<span class="oj-super">3</span>)</a>  COM(2012) 11 final — 2012/0011.</p>
+         <p class="oj-note">
+            <a id="ntr4-L_2016039EN.01005201-E0004" href="#ntc4-L_2016039EN.01005201-E0004">(<span class="oj-super">4</span>)</a>  COM(2008) 804 final.</p>
+         <p class="oj-note">
+            <a id="ntr5-L_2016039EN.01005201-E0005" href="#ntc5-L_2016039EN.01005201-E0005">(<span class="oj-super">5</span>)</a>  http://www.civitas.eu/display-all-projects</p>
+         <p class="oj-note">
+            <a id="ntr6-L_2016039EN.01005201-E0006" href="#ntc6-L_2016039EN.01005201-E0006">(<span class="oj-super">6</span>)</a>  http://www.civitas.eu/</p>
+         <p class="oj-note">
+            <a id="ntr7-L_2016039EN.01005201-E0007" href="#ntc7-L_2016039EN.01005201-E0007">(<span class="oj-super">7</span>)</a>  www.posse-openits.eu</p>
+         <p class="oj-note">
+            <a id="ntr8-L_2016039EN.01005201-E0008" href="#ntc8-L_2016039EN.01005201-E0008">(<span class="oj-super">8</span>)</a>  http://www.opticities.com/</p>
+         <p class="oj-note">
+            <a id="ntr9-L_2016039EN.01005201-E0009" href="#ntc9-L_2016039EN.01005201-E0009">(<span class="oj-super">9</span>)</a>  http://ec.europa.eu/enterprise/sectors/ict/files/standardisation_mandate_en.pdf</p>
+         <p class="oj-note">
+            <a id="ntr10-L_2016039EN.01005201-E0010" href="#ntc10-L_2016039EN.01005201-E0010">(<span class="oj-super">10</span>)</a>  www.datex2.eu</p>
+         <p class="oj-note">
+            <a id="ntr11-L_2016039EN.01005201-E0011" href="#ntc11-L_2016039EN.01005201-E0011">(<span class="oj-super">11</span>)</a>  http://www.utmc.eu/</p>
+         <p class="oj-note">
+            <a id="ntr12-L_2016039EN.01005201-E0012" href="#ntc12-L_2016039EN.01005201-E0012">(<span class="oj-super">12</span>)</a>  www.oca-ev.info</p>
+         <p class="oj-note">
+            <a id="ntr13-L_2016039EN.01005201-E0013" href="#ntc13-L_2016039EN.01005201-E0013">(<span class="oj-super">13</span>)</a>  www.ocit.org/</p>
+         <p class="oj-note">
+            <a id="ntr14-L_2016039EN.01005201-E0014" href="#ntc14-L_2016039EN.01005201-E0014">(<span class="oj-super">14</span>)</a>  http://www.frame-online.net/</p>
+         <p class="oj-note">
+            <a id="ntr15-L_2016039EN.01005201-E0015" href="#ntc15-L_2016039EN.01005201-E0015">(<span class="oj-super">15</span>)</a>  www.co-cities.eu</p>
+         <p class="oj-note">
+            <a id="ntr16-L_2016039EN.01005201-E0016" href="#ntc16-L_2016039EN.01005201-E0016">(<span class="oj-super">16</span>)</a>  www.cei.int</p>
+         <p class="oj-note">
+            <a id="ntr17-L_2016039EN.01005201-E0017" href="#ntc17-L_2016039EN.01005201-E0017">(<span class="oj-super">17</span>)</a>  http://www.ebsf.eu/</p>
+         <p class="oj-note">
+            <a id="ntr18-L_2016039EN.01005201-E0018" href="#ntc18-L_2016039EN.01005201-E0018">(<span class="oj-super">18</span>)</a>  http://www.w3.org/TR/vocab-dcat/</p>
+         <p class="oj-note">
+            <a id="ntr19-L_2016039EN.01005201-E0019" href="#ntc19-L_2016039EN.01005201-E0019">(<span class="oj-super">19</span>)</a>  E.g. ‘Intermodal verkehrsgraph graphenintegrationsplattform (GIP)’ http://www.fsv.at/shop/produktdetail.aspx?IDProdukt=837823b7-8697-45e8-9dc6-063924066176</p>
+         <p class="oj-note">
+            <a id="ntr20-L_2016039EN.01005201-E0020" href="#ntc20-L_2016039EN.01005201-E0020">(<span class="oj-super">20</span>)</a>  Transmodel, the European Reference Data Model for Public Transport, EN 12896:2006 (Transmodel 5.1) and EN 12896:2014 (Transmodel V6: Parts 1 to 3).</p>
+         <p class="oj-note">
+            <a id="ntr21-L_2016039EN.01005201-E0021" href="#ntc21-L_2016039EN.01005201-E0021">(<span class="oj-super">21</span>)</a>  IFOPT (EN 28701), a European standard defining a data model for the Identification of Fixed Objects in Public Transport (e.g. stop points, stop areas, stations, pedestrian navigation paths, entrances, etc.) — currently integrated into EN 12896: 2014.</p>
+         <p class="oj-note">
+            <a id="ntr22-L_2016039EN.01005201-E0022" href="#ntc22-L_2016039EN.01005201-E0022">(<span class="oj-super">22</span>)</a>  SIRI (FprEN 15531-1 to 3 and CEN/TS 15531-4 and 5) a European standard defining Service Interface for Real-Time Information relating to public transport operations.</p>
+         <p class="oj-note">
+            <a id="ntr23-L_2016039EN.01005201-E0023" href="#ntc23-L_2016039EN.01005201-E0023">(<span class="oj-super">23</span>)</a>  NeTEx is based on Transmodel 5.1, extended with additional concepts from IFOPT and SIRI, and is divided into three parts: Part 1 — Transport Network; Part 2 — Schedules and Part 3 — Fares:</p>
+         <table width="100%" border="0" cellspacing="0" cellpadding="0">
+            <col width="4%"/>
+            <col width="96%"/>
+            <tbody>
+               <tr>
+                  <td valign="top">
+                     <p class="oj-normal">—</p>
+                  </td>
+                  <td valign="top">
+                     <p class="oj-note">CEN/TS 16614-1; Network and Timetable Exchange — Part 1: Network Topology (NeTEx)</p>
+                  </td>
+               </tr>
+            </tbody>
+         </table>
+         <table width="100%" border="0" cellspacing="0" cellpadding="0">
+            <col width="4%"/>
+            <col width="96%"/>
+            <tbody>
+               <tr>
+                  <td valign="top">
+                     <p class="oj-normal">—</p>
+                  </td>
+                  <td valign="top">
+                     <p class="oj-note">CEN/TS 16614-2, Network and Timetable Exchange — Part 2: Timing Information (NeTEx)</p>
+                  </td>
+               </tr>
+            </tbody>
+         </table>
+         <table width="100%" border="0" cellspacing="0" cellpadding="0">
+            <col width="4%"/>
+            <col width="96%"/>
+            <tbody>
+               <tr>
+                  <td valign="top">
+                     <p class="oj-normal">—</p>
+                  </td>
+                  <td valign="top">
+                     <p class="oj-note">WI 00278330 (prCEN/TS 16614-3), Network and Timetable Exchange — Part 3: Fare Information (NeTEx).</p>
+                  </td>
+               </tr>
+            </tbody>
+         </table>
+         <p class="oj-note">
+            <a id="ntr24-L_2016039EN.01005201-E0024" href="#ntc24-L_2016039EN.01005201-E0024">(<span class="oj-super">24</span>)</a>  IOPTA, Interoperable Public Transport Applications, EN 15320 in combination with EN 1545 on Identification card systems — Surface transport applications.</p>
+         <p class="oj-note">
+            <a id="ntr25-L_2016039EN.01005201-E0025" href="#ntc25-L_2016039EN.01005201-E0025">(<span class="oj-super">25</span>)</a>  EN ISO 24014-1:2007, Public transport — Interoperable fare management system — Part 1: Architecture</p>
+         <table width="100%" border="0" cellspacing="0" cellpadding="0">
+            <col width="4%"/>
+            <col width="96%"/>
+            <tbody>
+               <tr>
+                  <td valign="top">
+                     <p class="oj-normal">—</p>
+                  </td>
+                  <td valign="top">
+                     <p class="oj-note">CEN ISO/TR, 24014-2:2013 Public transport — Interoperable fare management system — Part 2: Business practices (ISO/TR 24014-2:2013)</p>
+                  </td>
+               </tr>
+            </tbody>
+         </table>
+         <table width="100%" border="0" cellspacing="0" cellpadding="0">
+            <col width="4%"/>
+            <col width="96%"/>
+            <tbody>
+               <tr>
+                  <td valign="top">
+                     <p class="oj-normal">—</p>
+                  </td>
+                  <td valign="top">
+                     <p class="oj-note">ISO/IEC 14443 Contactless integrated circuit cards — Proximity cards, Parts 1-4</p>
+                  </td>
+               </tr>
+            </tbody>
+         </table>
+         <table width="100%" border="0" cellspacing="0" cellpadding="0">
+            <col width="4%"/>
+            <col width="96%"/>
+            <tbody>
+               <tr>
+                  <td valign="top">
+                     <p class="oj-normal">—</p>
+                  </td>
+                  <td valign="top">
+                     <p class="oj-note">ISO/IEC 18092 Near Field Communication.</p>
+                  </td>
+               </tr>
+            </tbody>
+         </table>
+         <p class="oj-note">
+            <a id="ntr26-L_2016039EN.01005201-E0026" href="#ntc26-L_2016039EN.01005201-E0026">(<span class="oj-super">26</span>)</a>  ETSI TS 101 556-3 V1.1.1 (2014-10); Intelligent Transport Systems (ITS); Infrastructure to Vehicle Communications; Part 1: ‘Electric Vehicle Charging Spot Notification Specification’; and Part 3: ‘Communications system for the planning and reservation of EV energy supply using wireless networks’.</p>
+         <p class="oj-note">
+            <a id="ntr27-L_2016039EN.01005201-E0027" href="#ntc27-L_2016039EN.01005201-E0027">(<span class="oj-super">27</span>)</a>  CEN/TS 16157 Parts 1-6: Intelligent transport systems — DATEX II data exchange specifications for traffic management and information.</p>
+         <p class="oj-note">
+            <a id="ntr28-L_2016039EN.01005201-E0028" href="#ntc28-L_2016039EN.01005201-E0028">(<span class="oj-super">28</span>)</a>  http://ec.europa.eu/transport/themes/its/news/c-its-deployment-platform_en.htm</p>
+         <p class="oj-note">
+            <a id="ntr29-L_2016039EN.01005201-E0029" href="#ntc29-L_2016039EN.01005201-E0029">(<span class="oj-super">29</span>)</a>  http://www.frame-online.net/?q=e-frame-project.html</p>
+      </div>
+   </div>
+   <hr class="oj-doc-sep"/>
+   <div id="L_2016039EN.01005701">
+      <div class="eli-container" id="anx_II">
+         <p class="oj-doc-ti" id="d1e32-57-1">ANNEX II</p>
+         <p id="d1e38-57-1" class="oj-ti-grseq-1">
+            <span class="oj-bold">EUROPEAN STANDARDS AND EUROPEAN STANDARDISATION DELIVERABLES AND DEADLINES FOR ADOPTION</span>
+         </p>
+         <p class="oj-ti-grseq-1" id="d1e44-57-1">1.   USE CASES, URBAN ITS ARCHITECTURE, AND IMPLEMENTATION</p>
+         <p class="oj-ti-tbl" id="d1e52-57-1-table">
+            <span class="oj-italic">Table 1</span>
+         </p>
+         <p class="oj-ti-tbl">
+            <span class="oj-bold">Requested new European standards and European standardisation deliverables for use cases, urban ITS architecture, and implementation</span>
+         </p>
+         <table width="100%" border="0" cellspacing="0" cellpadding="0" class="oj-table">
+            <col width="59%"/>
+            <col width="41%"/>
+            <tbody>
+               <tr class="oj-table">
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-hdr">Reference information</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-hdr">Deadline for adoption<a id="ntc1-L_2016039EN.01005701-E0001" href="#ntr1-L_2016039EN.01005701-E0001"> (<span class="oj-super oj-note-tag">1</span>)</a>
+                     </p>
+                  </td>
+               </tr>
+               <tr class="oj-table">
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">
+                        <span class="oj-bold">A European standardisation deliverable</span> on use cases addressing the three areas of this request and highlighting their possible interdependencies</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">12 months after notification of this Decision to the ESOs</p>
+                  </td>
+               </tr>
+               <tr class="oj-table">
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">
+                        <span class="oj-bold">European standardisation deliverable</span> for urban ITS architecture integrating the three areas of this request and highlighting connexions or interfaces with surrounding ITS applications as well as compatibility or coherence with existing standards, technical specifications, data models</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">12 months after notification of this Decision to the ESOs</p>
+                  </td>
+               </tr>
+               <tr class="oj-table">
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">
+                        <span class="oj-bold">A European standardisation deliverable</span> on a deployment strategy including practical guidance for the implementation of the European standards of this request</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">39 months after notification of this Decision to the ESOs</p>
+                  </td>
+               </tr>
+            </tbody>
+         </table>
+         <p class="oj-ti-grseq-1" id="d1e94-57-1">2.   MULTIMODAL INFORMATION SERVICES, CONTRIBUTING TO SEAMLESS MOBILITY</p>
+         <p class="oj-ti-tbl" id="d1e102-57-1-table">
+            <span class="oj-italic">Table 2</span>
+         </p>
+         <p class="oj-ti-tbl">
+            <span class="oj-bold">Requested new European standards and European standardisation deliverables for multimodal information services</span>
+         </p>
+         <table width="100%" border="0" cellspacing="0" cellpadding="0" class="oj-table">
+            <col width="57%"/>
+            <col width="43%"/>
+            <tbody>
+               <tr class="oj-table">
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-hdr">Reference information</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-hdr">Deadline for adoption</p>
+                  </td>
+               </tr>
+               <tr class="oj-table">
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">
+                        <span class="oj-bold">European standards</span> for:</p>
+                     <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                        <col width="4%"/>
+                        <col width="96%"/>
+                        <tbody>
+                           <tr>
+                              <td valign="top">
+                                 <p class="oj-normal">—</p>
+                              </td>
+                              <td valign="top">
+                                 <p class="oj-normal">New mobility services, such as car sharing, car-pooling, public bike sharing services, park &amp; ride, bike &amp; ride, etc.</p>
+                              </td>
+                           </tr>
+                        </tbody>
+                     </table>
+                     <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                        <col width="4%"/>
+                        <col width="96%"/>
+                        <tbody>
+                           <tr>
+                              <td valign="top">
+                                 <p class="oj-normal">—</p>
+                              </td>
+                              <td valign="top">
+                                 <p class="oj-normal">Alternative fuels infrastructure, including information on location and availability of stations, charging models and capacity at stations, (integrated) payment schemes, etc.</p>
+                              </td>
+                           </tr>
+                        </tbody>
+                     </table>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">39 months after notification of this Decision to the ESOs</p>
+                  </td>
+               </tr>
+               <tr class="oj-table">
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">
+                        <span class="oj-bold">A European standardisation deliverable</span> on reference data model, common data dictionary and metadata structure for multimodal information services</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">39 months after notification of this Decision to the ESOs</p>
+                  </td>
+               </tr>
+            </tbody>
+         </table>
+         <p class="oj-ti-grseq-1" id="d1e140-57-1">3.   TRAFFIC MANAGEMENT, INCLUDING ACCESS REGULATION</p>
+         <p class="oj-ti-tbl" id="d1e148-57-1-table">
+            <span class="oj-italic">Table 3</span>
+         </p>
+         <p class="oj-ti-tbl">
+            <span class="oj-bold">Requested new European standards and European standardisation deliverables for traffic management, including access regulation</span>
+         </p>
+         <table width="100%" border="0" cellspacing="0" cellpadding="0" class="oj-table">
+            <col width="64%"/>
+            <col width="36%"/>
+            <tbody>
+               <tr class="oj-table">
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-hdr">Reference information</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-hdr">Deadline for adoption</p>
+                  </td>
+               </tr>
+               <tr class="oj-table">
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">
+                        <span class="oj-bold">European standards</span> for:</p>
+                     <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                        <col width="4%"/>
+                        <col width="96%"/>
+                        <tbody>
+                           <tr>
+                              <td valign="top">
+                                 <p class="oj-normal">—</p>
+                              </td>
+                              <td valign="top">
+                                 <p class="oj-normal">A set of traffic management measures (encompassing the necessary infrastructure/static road data, dynamic road status data, traffic data or traffic control data, weather data),</p>
+                              </td>
+                           </tr>
+                        </tbody>
+                     </table>
+                     <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                        <col width="4%"/>
+                        <col width="96%"/>
+                        <tbody>
+                           <tr>
+                              <td valign="top">
+                                 <p class="oj-normal">—</p>
+                              </td>
+                              <td valign="top">
+                                 <p class="oj-normal">A set of traffic rerouting, traffic prioritisation and access regulation measures including intersections management (supplemented by vehicle identification data). In particular the different types of road user charging models set up in various cities as well as the modalities of shared use of dedicated lanes by different types of vehicles (e.g. freight, public transport, emergency vehicles) should be considered</p>
+                              </td>
+                           </tr>
+                        </tbody>
+                     </table>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">39 months after notification of this Decision to the ESOs</p>
+                  </td>
+               </tr>
+               <tr class="oj-table">
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">
+                        <span class="oj-bold">European standards or European Standardisation deliverables</span> on reference data model, common data dictionary and metadata structure for traffic management including access regulation</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">39 months after notification of this Decision to the ESOs</p>
+                  </td>
+               </tr>
+            </tbody>
+         </table>
+         <p class="oj-ti-grseq-1" id="d1e186-57-1">4.   URBAN LOGISTICS, INCLUDING PARKING MANAGEMENT</p>
+         <p class="oj-ti-tbl" id="d1e194-57-1-table">
+            <span class="oj-italic">Table 4</span>
+         </p>
+         <p class="oj-ti-tbl">
+            <span class="oj-bold">Requested new European standards and European standardisation deliverables for urban logistics, including parking management</span>
+         </p>
+         <table width="100%" border="0" cellspacing="0" cellpadding="0" class="oj-table">
+            <col width="67%"/>
+            <col width="33%"/>
+            <tbody>
+               <tr class="oj-table">
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-hdr">Reference information</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-hdr">Deadline for adoption</p>
+                  </td>
+               </tr>
+               <tr class="oj-table">
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">
+                        <span class="oj-bold">European standards</span> for:</p>
+                     <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                        <col width="4%"/>
+                        <col width="96%"/>
+                        <tbody>
+                           <tr>
+                              <td valign="top">
+                                 <p class="oj-normal">—</p>
+                              </td>
+                              <td valign="top">
+                                 <p class="oj-normal">Intelligent parking for light vehicles, commercial vehicles and trucks. The option of extending existing technical specifications or profiles regarding parking<a id="ntc2-L_2016039EN.01005701-E0002" href="#ntr2-L_2016039EN.01005701-E0002"> (<span class="oj-super oj-note-tag">2</span>)</a> or adapting them to the needs of the urban areas should be considered.</p>
+                              </td>
+                           </tr>
+                        </tbody>
+                     </table>
+                     <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                        <col width="4%"/>
+                        <col width="96%"/>
+                        <tbody>
+                           <tr>
+                              <td valign="top">
+                                 <p class="oj-normal">—</p>
+                              </td>
+                              <td valign="top">
+                                 <p class="oj-normal">Loading bays information and reservation services for specific freight vehicles and logistic sectors. Standards and specifications proposed will need to address both infrastructure and vehicles (including vehicle and/or load identification where relevant). Moreover the use of alternatively fuelled vehicles for urban logistics, and the options of their charging (e.g. during loading/unloading at the specific bays) should also be looked into.</p>
+                              </td>
+                           </tr>
+                        </tbody>
+                     </table>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">39 months after notification of this Decision to the ESOs</p>
+                  </td>
+               </tr>
+               <tr class="oj-table">
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">
+                        <span class="oj-bold">A European standardisation deliverable</span> on reference data model, common data dictionary and metadata structure for urban logistics including parking management</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">39 months after notification of this Decision to the ESOs</p>
+                  </td>
+               </tr>
+            </tbody>
+         </table>
+         <hr class="oj-note"/>
+         <p class="oj-note">
+            <a id="ntr1-L_2016039EN.01005701-E0001" href="#ntc1-L_2016039EN.01005701-E0001">(<span class="oj-super">1</span>)</a>  Adoption makes reference to the moment when the relevant European standardisation organisation makes a standard available for its members or to the public.</p>
+         <p class="oj-note">
+            <a id="ntr2-L_2016039EN.01005701-E0002" href="#ntc2-L_2016039EN.01005701-E0002">(<span class="oj-super">2</span>)</a>  DATEX II data exchange specifications for traffic management and information — CEN/TS 16157 Part 6 — parking extension.</p>
+      </div>
+   </div>
+   <hr class="oj-doc-end"/>
+</body>
+</html>

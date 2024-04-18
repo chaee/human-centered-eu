@@ -1,0 +1,373 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML//EN" "xhtml-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<!-- CONVEX # converter_version:9.15.0 # generated_on:20231207-1404 # ELI version:0.10 -->
+<head>
+   <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
+   <link type="text/css" rel="stylesheet" href="oj-convex.css"/>
+   <title>L_2017328EN.01012301.xml</title>
+</head>
+<body>
+   <table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <col width="10%"/>
+      <col width="10%"/>
+      <col width="60%"/>
+      <col width="20%"/>
+      <tbody>
+         <tr>
+            <td>
+               <p class="oj-hd-date">12.12.2017   </p>
+            </td>
+            <td>
+               <p class="oj-hd-lg">EN</p>
+            </td>
+            <td>
+               <p class="oj-hd-ti">Official Journal of the European Union</p>
+            </td>
+            <td>
+               <p class="oj-hd-oj">L 328/123</p>
+            </td>
+         </tr>
+      </tbody>
+   </table>
+   <hr class="oj-separator"/>
+   <div class="eli-container">
+      <div class="eli-main-title" id="tit_1">
+         <p class="oj-doc-ti" id="d1e40-123-1">
+            COMMISSION IMPLEMENTING DECISION (EU) 2017/2288</p>
+         <p class="oj-doc-ti">of 11 December 2017
+         </p>
+         <p class="oj-doc-ti">on the identification of ICT Technical Specifications for referencing in public procurement</p>
+         <p class="oj-doc-ti">(Text with EEA relevance)</p>
+      </div>
+      <div class="eli-subdivision" id="pbl_1">
+         <p class="oj-normal">THE EUROPEAN COMMISSION,</p>
+         <div class="eli-subdivision" id="cit_1">
+            <p class="oj-normal">Having regard to the Treaty on the Functioning of the European Union,</p>
+         </div>
+         <div class="eli-subdivision" id="cit_2">
+            <p class="oj-normal">Having regard to Regulation (EU) No 1025/2012 of the European Parliament and of the Council of 25 October 2012 on European standardisation, amending Council Directives 89/686/EEC and 93/15/EEC and Directives 94/9/EC, 94/25/EC, 95/16/EC, 97/23/EC, 98/34/EC, 2004/22/EC, 2007/23/EC, 2009/23/EC and 2009/105/EC of the European Parliament and of the Council and repealing Council Decision 87/95/EEC and Decision No 1673/2006/EC of the European Parliament and of the Council <a id="ntc1-L_2017328EN.01012301-E0001" href="#ntr1-L_2017328EN.01012301-E0001">(<span class="oj-super oj-note-tag">1</span>)</a>, and in particular Article 13(1) thereof,</p>
+         </div>
+         <div class="eli-subdivision" id="cit_3">
+            <p class="oj-normal">After consulting the European multi-stakeholder platform on ICT standardisation and sectoral experts</p>
+         </div>
+         <p class="oj-normal">Whereas:</p>
+         <div class="eli-subdivision" id="rct_1">
+            <table width="100%" border="0" cellspacing="0" cellpadding="0">
+               <col width="4%"/>
+               <col width="96%"/>
+               <tbody>
+                  <tr>
+                     <td valign="top">
+                        <p class="oj-normal">(1)</p>
+                     </td>
+                     <td valign="top">
+                        <p class="oj-normal">Standardisation plays an important role in supporting the Europe 2020 strategy <a id="ntc2-L_2017328EN.01012301-E0002" href="#ntr2-L_2017328EN.01012301-E0002">(<span class="oj-super oj-note-tag">2</span>)</a>. Several flagship initiatives of the Europe 2020 strategy underlined the importance of voluntary standardisation in product or services markets to assure the compatibility and interoperability between products and services, foster technological development and support innovation.</p>
+                     </td>
+                  </tr>
+               </tbody>
+            </table>
+         </div>
+         <div class="eli-subdivision" id="rct_2">
+            <table width="100%" border="0" cellspacing="0" cellpadding="0">
+               <col width="4%"/>
+               <col width="96%"/>
+               <tbody>
+                  <tr>
+                     <td valign="top">
+                        <p class="oj-normal">(2)</p>
+                     </td>
+                     <td valign="top">
+                        <p class="oj-normal">Standards are essential for European competitiveness and crucial for innovation and progress. The Commission Communications on the Single Market <a id="ntc3-L_2017328EN.01012301-E0003" href="#ntr3-L_2017328EN.01012301-E0003">(<span class="oj-super oj-note-tag">3</span>)</a> and the Digital Single market <a id="ntc4-L_2017328EN.01012301-E0004" href="#ntr4-L_2017328EN.01012301-E0004">(<span class="oj-super oj-note-tag">4</span>)</a> confirm the relevance of common standards to ensure the necessary interoperability of networks and systems in the European Digital Economy. This is reinforced with the adoption of the Communication on ICT Standardisation Priorities <a id="ntc5-L_2017328EN.01012301-E0005" href="#ntr5-L_2017328EN.01012301-E0005">(<span class="oj-super oj-note-tag">5</span>)</a> where the Commission identifies priority ICT technologies where standardisation is considered critical to the completion of the Digital Single Market.</p>
+                     </td>
+                  </tr>
+               </tbody>
+            </table>
+         </div>
+         <div class="eli-subdivision" id="rct_3">
+            <table width="100%" border="0" cellspacing="0" cellpadding="0">
+               <col width="4%"/>
+               <col width="96%"/>
+               <tbody>
+                  <tr>
+                     <td valign="top">
+                        <p class="oj-normal">(3)</p>
+                     </td>
+                     <td valign="top">
+                        <p class="oj-normal">The Communication from the Commission entitled ‘A strategic vision for European standards: moving forward to enhance and accelerate the sustainable growth of the European economy by 2020’ <a id="ntc6-L_2017328EN.01012301-E0006" href="#ntr6-L_2017328EN.01012301-E0006">(<span class="oj-super oj-note-tag">6</span>)</a> recognised the specificity of standardisation in the field of information and communication technologies (‘ICT’), where solutions, applications and services are often developed by global ICT Fora and Consortia that are today leading ICT standards development organisations.</p>
+                     </td>
+                  </tr>
+               </tbody>
+            </table>
+         </div>
+         <div class="eli-subdivision" id="rct_4">
+            <table width="100%" border="0" cellspacing="0" cellpadding="0">
+               <col width="4%"/>
+               <col width="96%"/>
+               <tbody>
+                  <tr>
+                     <td valign="top">
+                        <p class="oj-normal">(4)</p>
+                     </td>
+                     <td valign="top">
+                        <p class="oj-normal">Regulation (EU) No 1025/2012 on European standardisation established a system whereby the Commission may decide to identify the most relevant and most widely accepted ICT technical specifications issued by organisations that are not European, international or national standardisation organisations, that might then be referenced, primarily to enable interoperability in public procurement. The possibility of using the full range of ICT technical specifications when procuring hardware, software and information technology services will enable interoperability between devices, services and applications, will help public administrations to avoid lock-in that occurs when the public procurer cannot change a provider after the expiration of the procurement contract because using ICT proprietary solutions, and it will encourage competition in the supply of interoperable ICT solutions.</p>
+                     </td>
+                  </tr>
+               </tbody>
+            </table>
+         </div>
+         <div class="eli-subdivision" id="rct_5">
+            <table width="100%" border="0" cellspacing="0" cellpadding="0">
+               <col width="4%"/>
+               <col width="96%"/>
+               <tbody>
+                  <tr>
+                     <td valign="top">
+                        <p class="oj-normal">(5)</p>
+                     </td>
+                     <td valign="top">
+                        <p class="oj-normal">For the ICT technical specifications to be eligible for referencing in public procurement they must comply with the requirements set out in Annex II to Regulation (EU) No 1025/2012. Compliance with those requirements guarantees the public authorities that the ICT technical specifications are established in accordance with the principles of openness, transparency, impartiality and consensus that are recognised by the World Trade Organisation in the field of standardisation.</p>
+                     </td>
+                  </tr>
+               </tbody>
+            </table>
+         </div>
+         <div class="eli-subdivision" id="rct_6">
+            <table width="100%" border="0" cellspacing="0" cellpadding="0">
+               <col width="4%"/>
+               <col width="96%"/>
+               <tbody>
+                  <tr>
+                     <td valign="top">
+                        <p class="oj-normal">(6)</p>
+                     </td>
+                     <td valign="top">
+                        <p class="oj-normal">The decision to identify the ICT specification is to be adopted after consultation of the European multi-stakeholder platform on ICT standardisation set up by Commission Decision 2011/C 349/04 <a id="ntc7-L_2017328EN.01012301-E0007" href="#ntr7-L_2017328EN.01012301-E0007">(<span class="oj-super oj-note-tag">7</span>)</a> complemented by other forms of consultation of sectoral experts.</p>
+                     </td>
+                  </tr>
+               </tbody>
+            </table>
+         </div>
+         <div class="eli-subdivision" id="rct_7">
+            <table width="100%" border="0" cellspacing="0" cellpadding="0">
+               <col width="4%"/>
+               <col width="96%"/>
+               <tbody>
+                  <tr>
+                     <td valign="top">
+                        <p class="oj-normal">(7)</p>
+                     </td>
+                     <td valign="top">
+                        <p class="oj-normal">The European multi-stakeholder platform on ICT standardisation evaluated and gave a positive advice to the identification of the following technical specifications for referencing in public procurement: ‘SPF-Sender Policy Framework for Authorizing Use of Domains in Email’ (‘SPF’), ‘STARTTLS-SMTP Service Extension for Secure SMTP over Transport Layer Security’ (‘STARTTLS-SMTP’) and ‘DANE-SMTP Security via Opportunistic DNS-Based Authentication of Named Entities Transport Layer Security’ (‘DANE-SMTP’) developed by Internet Engineering Task Force (IETF); ‘Structured Threat Information Expression’ (‘STIX 1.2’) and ‘Trusted Automated Exchange of Indicator Information’ (‘TAXII 1.1’) developed by the Organization for the Advancement of Structured Information Standards (‘OASIS’). The evaluation and advice of the platform was subsequently submitted to consultation of sectoral experts who confirmed the positive advice to its identification.</p>
+                     </td>
+                  </tr>
+               </tbody>
+            </table>
+         </div>
+         <div class="eli-subdivision" id="rct_8">
+            <table width="100%" border="0" cellspacing="0" cellpadding="0">
+               <col width="4%"/>
+               <col width="96%"/>
+               <tbody>
+                  <tr>
+                     <td valign="top">
+                        <p class="oj-normal">(8)</p>
+                     </td>
+                     <td valign="top">
+                        <p class="oj-normal">‘SPF’ technical specification developed by IETF is an open standard that specifies a technical method to detect sender address falsification. SPF offers the option of checking whether a message is sent from a server that is authorised to do so. It is a simple email-validation system designed to detect email spoofing by providing a mechanism to allow receiving mail exchangers to check that incoming mail from a domain comes from a host authorised by that domain's administrators. The purpose of SPF is to prevent spammers from sending messages with forged ‘From-addresses’ at a particular domain. Recipients can refer to an SPF record to determine whether a message purporting to be from that domain comes from an authorised mail server.</p>
+                     </td>
+                  </tr>
+               </tbody>
+            </table>
+         </div>
+         <div class="eli-subdivision" id="rct_9">
+            <table width="100%" border="0" cellspacing="0" cellpadding="0">
+               <col width="4%"/>
+               <col width="96%"/>
+               <tbody>
+                  <tr>
+                     <td valign="top">
+                        <p class="oj-normal">(9)</p>
+                     </td>
+                     <td valign="top">
+                        <p class="oj-normal">‘STARTTLS-SMTP’ developed by IETF, is a way to take an existing insecure connection and upgrade it to a secure connection. STARTTLS is an extension to the Simple Mail Transfer Protocol (‘SMTP’) service that allows an SMTP server and client to use Transport Layer Security (‘TLS’) to provide private, authenticated communication over the Internet. Particularly unsecured e-mail communication supplies a major attack vector for breaching government networks. If a user sends an e-mail, the mail server of the user's mail provider will send this e-mail to the mail server of the receiver. The connection between these mail servers can be secured in advance with TLS. STARTTLS offers a way to upgrade an unencrypted (plain-text) connection to an encrypted TLS-connection.</p>
+                     </td>
+                  </tr>
+               </tbody>
+            </table>
+         </div>
+         <div class="eli-subdivision" id="rct_10">
+            <table width="100%" border="0" cellspacing="0" cellpadding="0">
+               <col width="4%"/>
+               <col width="96%"/>
+               <tbody>
+                  <tr>
+                     <td valign="top">
+                        <p class="oj-normal">(10)</p>
+                     </td>
+                     <td valign="top">
+                        <p class="oj-normal">‘DANE-SMTP’ developed by IETF is a suite of protocols to enhance Internet security by allowing keys to be placed into Domain Name System (‘DNS’) and secured by DNSSEC (‘DNS Security’). When establishing a secure connection with an unknown party, an online check of the authenticity of the sending party and the destination is desirable. This can be done by certificates issued by certificate authorities (‘CAs’) within the PKI system, or by self-signed certificates. DANE allows the holder of a domain (‘registrant’) to provide additional information on top of the online certificates through a DNSSEC-secured DNS record. DANE is therefore particularly important for combating active attackers.</p>
+                     </td>
+                  </tr>
+               </tbody>
+            </table>
+         </div>
+         <div class="eli-subdivision" id="rct_11">
+            <table width="100%" border="0" cellspacing="0" cellpadding="0">
+               <col width="4%"/>
+               <col width="96%"/>
+               <tbody>
+                  <tr>
+                     <td valign="top">
+                        <p class="oj-normal">(11)</p>
+                     </td>
+                     <td valign="top">
+                        <p class="oj-normal">‘STIX 1.2’ developed by OASIS is a language for describing cyber threat information in a standardised and structured manner. It covers major topics when it comes to cyber threat data, facilitating the analysis and exchange about attacks. It characterises an extensive set of cyber threat information, including indicators of adversary activity such as IP addresses and file hashes and contextual information regarding threats such as adversary Tactics, Techniques and Procedures (‘TTPs’); exploitation targets; Campaigns and Courses of Action (‘COA’). Together this information completely characterises the cyber adversary's motivations, capabilities, and activities, and thus, help in defending against attacks.</p>
+                     </td>
+                  </tr>
+               </tbody>
+            </table>
+         </div>
+         <div class="eli-subdivision" id="rct_12">
+            <table width="100%" border="0" cellspacing="0" cellpadding="0">
+               <col width="4%"/>
+               <col width="96%"/>
+               <tbody>
+                  <tr>
+                     <td valign="top">
+                        <p class="oj-normal">(12)</p>
+                     </td>
+                     <td valign="top">
+                        <p class="oj-normal">‘TAXII v1.1’ technical specification also developed by OASIS standardises the trusted, automated exchange of cyber threat information. TAXII defines services and message exchanges for sharing actionable cyber threat information across organisation, product, or service boundaries in view of the detection, prevention, and mitigation of cyber threats. TAXII empowers organisations to achieve improved situational awareness about emerging threats and it enables organisations to easily share information with partners, while leveraging existing relationships and systems,</p>
+                     </td>
+                  </tr>
+               </tbody>
+            </table>
+         </div>
+         <p class="oj-normal">HAS ADOPTED THIS DECISION:</p>
+      </div>
+      <div class="eli-subdivision" id="enc_1">
+         <div class="eli-subdivision" id="art_1">
+            <p id="d1e311-123-1" class="oj-ti-art">Article 1</p>
+            <p class="oj-normal">The technical specifications listed in the Annex are eligible for referencing in public procurement.</p>
+         </div>
+         <div class="eli-subdivision" id="art_2">
+            <p id="d1e316-123-1" class="oj-ti-art">Article 2</p>
+            <p class="oj-normal">This Decision shall enter into force on the twentieth day following that of its publication in the <span class="oj-italic">Official Journal of the European Union</span>.</p>
+         </div>
+      </div>
+      <div class="eli-subdivision" id="fnp_1">
+         <div class="oj-final">
+            <p class="oj-normal">Done at Brussels, 11 December 2017.</p>
+            <div class="oj-signatory">
+               <p class="oj-signatory">
+                  <span class="oj-italic">For the Commission</span>
+               </p>
+               <p class="oj-signatory">
+                  <span class="oj-italic">The President</span>
+               </p>
+               <p class="oj-signatory">Jean-Claude JUNCKER
+            </p>
+            </div>
+         </div>
+      </div>
+      <hr class="oj-note"/>
+      <p class="oj-note">
+         <a id="ntr1-L_2017328EN.01012301-E0001" href="#ntc1-L_2017328EN.01012301-E0001">(<span class="oj-super">1</span>)</a>  
+            <a href="http://publications.europa.eu/resource/oj/JOL_2012_316_R_TOC">OJ L 316, 14.11.2012, p. 12</a>.</p>
+      <p class="oj-note">
+         <a id="ntr2-L_2017328EN.01012301-E0002" href="#ntc2-L_2017328EN.01012301-E0002">(<span class="oj-super">2</span>)</a>  Communication from the Commission entitled ‘Europe 2020: A strategy for smart, sustainable and inclusive growth’. COM(2010) 2020 final of 3 March 2010.</p>
+      <p class="oj-note">
+         <a id="ntr3-L_2017328EN.01012301-E0003" href="#ntc3-L_2017328EN.01012301-E0003">(<span class="oj-super">3</span>)</a>  Communication from the Commission ‘upgrading the single market: more opportunities for people and business’. COM(2015) 550 final of 28 October 2015.</p>
+      <p class="oj-note">
+         <a id="ntr4-L_2017328EN.01012301-E0004" href="#ntc4-L_2017328EN.01012301-E0004">(<span class="oj-super">4</span>)</a>  Communication on a Digital Single Market Strategy for Europe. COM(2015) 192 final of 6 May 2015.</p>
+      <p class="oj-note">
+         <a id="ntr5-L_2017328EN.01012301-E0005" href="#ntc5-L_2017328EN.01012301-E0005">(<span class="oj-super">5</span>)</a>  COM(2016) 176 final of 19 April 2016.</p>
+      <p class="oj-note">
+         <a id="ntr6-L_2017328EN.01012301-E0006" href="#ntc6-L_2017328EN.01012301-E0006">(<span class="oj-super">6</span>)</a>  COM(2011) 311 final of 1 June 2011.</p>
+      <p class="oj-note">
+         <a id="ntr7-L_2017328EN.01012301-E0007" href="#ntc7-L_2017328EN.01012301-E0007">(<span class="oj-super">7</span>)</a>  Commission Decision 2011/C 349/04 of 28 November 2011 setting up the European multi-stakeholder platform on ICT standardisation (<a href="http://publications.europa.eu/resource/oj/JOC_2011_349_R_TOC">OJ C 349, 30.11.2011, p. 4</a>).</p>
+   </div>
+   <hr class="oj-doc-sep"/>
+   <div id="L_2017328EN.01012501">
+      <div class="eli-container" id="anx_1">
+         <p class="oj-doc-ti" id="d1e32-125-1">ANNEX</p>
+         <p id="d1e38-125-1" class="oj-ti-grseq-1">
+            <span class="oj-bold">Internet Engineering Task Force (IETF)</span>
+         </p>
+         <table width="100%" border="0" cellspacing="0" cellpadding="0" class="oj-table">
+            <col width="26%"/>
+            <col width="74%"/>
+            <tbody>
+               <tr class="oj-table">
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-hdr">No</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-hdr">Title of ICT technical specification</p>
+                  </td>
+               </tr>
+               <tr class="oj-table">
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">1</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">SPF-Sender Policy Framework</p>
+                  </td>
+               </tr>
+               <tr class="oj-table">
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">2</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">STARTTLS-SMTP Service Extension for Secure SMTP over Transport Layer Security</p>
+                  </td>
+               </tr>
+               <tr class="oj-table">
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">3</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">DANE-SMTP Security via Opportunistic DNS-Based Authentication of Named Entities Transport Layer Security (TLS)</p>
+                  </td>
+               </tr>
+            </tbody>
+         </table>
+         <p id="d1e66-125-1" class="oj-ti-grseq-1">
+            <span class="oj-bold">Organisation for the Advancement of Structured Information Standards (OASIS)</span>
+         </p>
+         <table width="100%" border="0" cellspacing="0" cellpadding="0" class="oj-table">
+            <col width="28%"/>
+            <col width="72%"/>
+            <tbody>
+               <tr class="oj-table">
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-hdr">No</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-hdr">Title of ICT technical specification</p>
+                  </td>
+               </tr>
+               <tr class="oj-table">
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">1</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">STIX 1.2 Structured Threat Information Expression</p>
+                  </td>
+               </tr>
+               <tr class="oj-table">
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">2</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">TAXII 1.1 Trusted Automated Exchange of Indicator Information</p>
+                  </td>
+               </tr>
+            </tbody>
+         </table>
+      </div>
+   </div>
+   <hr class="oj-doc-end"/>
+</body>
+</html>

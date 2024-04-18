@@ -1,0 +1,111 @@
+ CONVEX # converter_version:9.8.0 # generated_on:20230223-1328 
+      L_2023039EN.01004501.xml
+               9.2.2023   
+               EN
+               Official Journal of the European Union
+            L 39/45
+      COUNCIL DECISION (EU) 2023/272
+         of 30 January 2023
+         on the position to be adopted, on behalf of the European Union, within the EEA Joint Committee concerning an amendment to Annex XI (Electronic communication, audiovisual services and information society) and Protocol 37 (containing the list provided for in Article 101) to the EEA Agreement (Cybersecurity Act)
+         (Text with EEA relevance)
+         THE COUNCIL OF THE EUROPEAN UNION,
+         Having regard to the Treaty on the Functioning of the European Union, and in particular Article 114 in conjunction with Article 218(9) thereof,
+         Having regard to Council Regulation (EC) No 2894/94 of 28 November 1994 concerning arrangements for implementing the Agreement on the European Economic Area 
+         (, and in particular Article 1(3) thereof,1)Having regard to the proposal from the European Commission,
+         Whereas:
+                  (1)
+               The Agreement on the European Economic Area 
+                  ( (‘the EEA Agreement’) entered into force on 1 January 1994.2)
+                  (2)
+               Pursuant to Article 98 of the EEA Agreement, the EEA Joint Committee may decide to amend, inter alia, Annex XI and Protocol 37 thereof.
+                  (3)
+               Regulation (EU) 2019/881 of the European Parliament and of the Council 
+                  ( is to be incorporated into the EEA Agreement.3)
+                  (4)
+               Annex XI and Protocol 37 to the EEA Agreement should therefore be amended accordingly.
+                  (5)
+               The position of the Union within the EEA Joint Committee should therefore be based on the attached draft Decision,
+                  HAS ADOPTED THIS DECISION:
+         Article 1
+            The position to be adopted, on behalf of the Union, within the EEA Joint Committee on the proposed amendment to Annex XI (Electronic communication, audiovisual services and information society) and Protocol 37 (containing the list provided for in Article 101) to the EEA Agreement shall be based on the draft Decision of the EEA Joint Committee attached to this Decision.
+         Article 2
+            This Decision shall enter into force on the date of its adoption.
+         Done at Brussels, 30 January 2023.
+               For the Council
+               The President
+               P. KULLGREN
+         (  1)OJ L 305, 30.11.1994, p. 6.
+         (  2)OJ L 1, 3.1.1994, p. 3.
+      (  Regulation (EU) 2019/881 of the European Parliament and of the Council of 17 April 2019 on ENISA (the European Union Agency for Cybersecurity) and on information and communications technology cybersecurity certification and repealing Regulation (EU) No 526/2013 (Cybersecurity Act) (3)OJ L 151, 7.6.2019, p. 15).
+            DRAFT
+            DECISION OF THE EEA JOINT COMMITTEE No […]
+            of […]
+            amending Annex XI (Electronic communication, audiovisual services and information society) and Protocol 37 (containing the list provided for in Article 101) to the EEA Agreement
+            THE EEA JOINT COMMITTEE,
+            Having regard to the Agreement on the European Economic Area (‘the EEA Agreement’), and in particular Article 98 thereof,
+            Whereas:
+                     (1)
+                  Regulation (EU) 2019/881 of the European Parliament and of the Council of 17 April 2019 on ENISA (the European Union Agency for Cybersecurity) and on information and communications technology cybersecurity certification and repealing Regulation (EU) No 526/2013 (Cybersecurity Act) 
+                     ( is to be incorporated into the EEA Agreement.1)
+                     (2)
+                  Regulation (EU) 2019/881 repeals Regulation (EU) No 526/2013 of the European Parliament and of the Council 
+                     (, which is incorporated into the EEA Agreement and which is consequently to be repealed under the EEA Agreement.2)
+                     (3)
+                  Annex XI and Protocol 37 to the EEA Agreement should therefore be amended accordingly,
+                     HAS ADOPTED THIS DECISION:
+            Article 1
+               The text of point 5cp (Regulation (EU) No 526/2013 of the European Parliament and of the Council) of Annex XI to the EEA Agreement is replaced by the following:
+               ‘
+               32019 R 0881: Regulation (EU) 2019/881 of the European Parliament and of the Council of 17 April 2019 on ENISA (the European Union Agency for Cybersecurity) and on information and communications technology cybersecurity certification and repealing Regulation (EU) No 526/2013 (Cybersecurity Act) (OJ L 151, 7.6.2019, p. 15).The text of the Regulation shall, for the purposes of this Agreement, be read with the following adaptations:
+                        (a)
+                     Unless otherwise stipulated below, and notwithstanding the provisions of Protocol 1 to the Agreement, the term “Member State(s)” and other terms referring to their authorities contained in the Regulation shall be understood to include, in addition to their meaning in the Regulation, the EFTA States and their authorities.
+                        (b)
+                     As regards the EFTA States, the Agency shall, as and when appropriate, assist the EFTA Surveillance Authority or the Standing Committee, as the case may be, in the performance of their respective tasks.
+                        (c)
+                     As regards the EFTA States, references to Union law shall be understood as references to the EEA Agreement.
+                        (d)
+                     The following paragraph shall be added in Article 14:
+                        “5.   The EFTA States shall participate fully in the Management Board and shall within it have the same rights and obligations as EU Member States, except for the right to vote.”
+                        (e)
+                     The following paragraph shall be added in Article 28:
+                        “4.   Regulation (EC) No 1049/2001 shall, for the application of this Regulation, apply to any documents of the Agency regarding the EFTA States as well.”
+                        (f)
+                     The following paragraph shall be added in Article 30:
+                        “3.   The EFTA States shall participate in the contribution from the Union referred to in paragraph 1 point (a). For this purpose, the procedures laid down in Article 82(1)(a) of and Protocol 32 to the EEA Agreement shall apply 
+                           mutatis mutandis.”
+                        (g)
+                     The following paragraph shall be added in Article 34:
+                           “By way of derogation from Article 12(2)(a) and 82(3)(a) of the Conditions of employment of Other Servants of the European Union, nationals of the EFTA States enjoying their full rights as citizens may be engaged under contract by the Executive Director of the Agency.”
+                        (h)
+                     The following paragraph shall be added in Article 35:
+                           “The EFTA States shall grant privileges and immunities to the Agency and its staff equivalent to those contained in the Protocol on Privileges and Immunities of the European Union.”
+                        (i)
+                     The following paragraph shall be added in Article 40:
+                        “3.   By way of derogation from Articles 12(2)(e), 82(3)(e) and 85(3) of the Conditions of Employment of Other Servants of the European Union, the languages referred to in Article 129(1) of the EEA Agreement shall be considered by the Agency, in respect of its staff, as languages of the Union referred to in Article 55(1) of the Treaty on European Union.”
+                        (j)
+                     The following paragraph shall be added in Article 62:
+                        “6.   The EFTA States shall participate fully in the European Cybersecurity Certification Group, except for the right to vote.”’.
+            Article 2
+               The following point is added in Protocol 37 to the EEA Agreement:
+                        ‘44.
+                     European Cybersecurity Certification Group (Regulation (EU) 2019/881 of the European Parliament and of the Council).’.
+            Article 3
+               The text of Regulation (EU) 2019/881 in the Icelandic and Norwegian languages, to be published in the EEA Supplement to the 
+            Official Journal of the European Union, shall be authentic.
+            Article 4
+               This Decision shall enter into force on […], provided that all the notifications under Article 103(1) of the EEA Agreement have been made 
+            (, or on the day of the entry into force of Decision of the EEA Joint Committee No …/… of […] *1)( [incorporating {Directive (EU) 2016/1148 (NIS Directive)} into the EEA Agreement], whichever is the later.3)
+            Article 5
+               This Decision shall be published in the EEA Section of, and in the EEA Supplement to, the 
+            Official Journal of the European Union.
+            Done at Brussels, […].
+                  For the EEA Joint Committee
+               The President
+                  The Secretaries
+               To the EEA Joint Committee
+            (  1)OJ L 151, 7.6.2019, p. 15.
+            (  2)OJ L 165, 18.6.2013, p. 41.
+            (  [No constitutional requirements indicated.] [Constitutional requirements indicated.]*1)
+         (  OJ L …3)
+      Joint Declaration by the Contracting Parties to Decision No …/… incorporating Regulation (EU) 2019/881 of the European Parliament and of the Council into the Agreement
+            The parties acknowledge that the incorporation of this act is without prejudice to the direct application of Protocol 7 on the privileges and immunities of the European Union to the nationals of EFTA states in the territory of each Member State of the European Union, pursuant to Article 11 of that Protocol.

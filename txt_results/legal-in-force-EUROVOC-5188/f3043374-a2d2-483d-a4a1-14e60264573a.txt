@@ -1,0 +1,45 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html lang="EN">
+<head>
+<meta name="DC.language" content="EN">
+<meta name="DC.title" content="EUR-Lex - 31995H0144 - EN">
+<meta name="DC.subject" content="Electronic data processing, Technology, Scientific and technical information and documentation, Provisions under Article 235 EEC, data protection, harmonisation of standards, information system, information technology, international standard, single market, ">
+<meta name="DC.description" content="95/144/EC: Council Recommendation of 7 April 1995 on common information technology security evaluation criteria  ">
+<meta name="DC.type" http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta name="DC.source" content="Official Journal L 093 , 26/04/1995 P. 0027 - 0028; ">
+<meta name="DC.publisher" content="OPOCE">
+<meta name="DC.identifier" scheme="URI" content="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31995H0144:EN:HTML">
+<style type="text/css" media="all">  @import url(lex/css/lex-screen.css); </style>
+<link rel="stylesheet" type="text/css" media="print" href="lex/css/lex-print.css">
+<title>EUR-Lex - 31995H0144 - EN</title>
+</head>
+<body>
+<div id="banner">
+<a name="top"></a>
+<div class="bglang">
+<p class="bglang">
+<a class="langue" href="../../../editorial/legal_notice.htm" accesskey="8"><b>Avis juridique important</b></a>
+<br>
+</p>
+</div>
+<div class="bgtool">
+<em class="none">|</em>
+</div>
+</div>
+<a name="top"></a>
+<h1>31995H0144</h1>
+<p>
+<strong>95/144/EC: Council Recommendation of 7 April 1995 on common information technology security evaluation criteria  </strong>
+<br>
+<em>
+<br>Official Journal L 093 , 26/04/1995 P. 0027 - 0028<br> </em>
+</p>
+<br>
+<div id="TexteOnly">
+<p>
+<TXT_TE>
+<p>COUNCIL RECOMMENDATION of 7 April 1995 on common information  technology security evaluation criteria (95/144/EC)</p><p>THE COUNCIL OF THE EUROPEAN  UNION,</p><p> Having regard to the Treaty establishing the European Community, and in particular Article 235  thereof,</p><p> Having regard to the proposal from the Commission,</p><p> Having regard to the opinion of the European Parliament  (1),</p><p> Having regard to the opinion of the Economic and Social Committee  (2),</p><p> Whereas the Community has as its task, by establishing a common market and progressively  approximating the economic policies of the Member States, to promote throughout the Community the  harmonious development of economic activity, continued and balanced expansion, increased stability,  accelerated raising of the standard of living, and closer relations amongst the Member States;</p><p> Whereas information stores, processed and transmitted electronically plays an increasingly  important role in the social and economic activities;</p><p> Whereas efficient global communications and the pervasive use of electronic information handling  emphasize the need for adequate protection;</p><p> Whereas the European Parliament has repeatedly stressed in its deliberations and resolutions the  importance of the security of information systems;</p><p> Whereas the Economic and Social Committee has emphasized the need to take issues related to the  security of information systems in Community actions, particularly in view of the impact of the  completion of the internal market;</p><p> Whereas the Commission has proposed actions in the field of data protection and the security of  information systems  (3);</p><p> Whereas the complexity of the security of information systems calls for the development of  strategies to enable the free movement of information in the single market while ensuring the  security of such systems throughout the Community;</p><p> Whereas this Recommendation does not affect the provisions of the Member States with regard to  national security and public order;</p><p> Whereas the responsibilities of the Member States in this domain imply a concerted approach based  on close collaboration with senior officials from the Member States;</p><p> Whereas common information security evaluation criteria play a fundamental role in providing a  basis for the international mutual recognition of certificates;</p><p> Whereas actions at national, international and Community levels provide a good basis for  harmonization at Community level and for the conclusion of international agreements;</p><p> Whereas the sector actors in question have been consulted; whereas the Senior Officials Group on  the security of Information Systems (SOG-IS) has recommended the use of common information  technology security evaluation criteria;</p><p> Whereas such criteria are required for the development of a single market for secure information  technology products; whereas such criteria permit, furthermore, economies of scale;</p><p> Whereas the use of common criteria is also a prerequisite for the building of secure trans-European  applications and services;</p><p> Whereas these aims could not be met if there were different criteria in each Member State and in  each economic sector;</p><p> Whereas the development of additional criteria would involve multiple bilateral actions by Member  States and would involve excessive delays and cumbersome procedures, including a large number of  individual negotiations, which could be avoided by a coordinated action at Community level,</p><p> HEREBY RECOMMENDS:</p><p> </p><p>1.  the application of the Information Technology Security Evaluation Criteria  (ITSEC)  (1) within evaluation and certification schemes for an initial period of two years, to  meet immediate evaluation and certification needs in connection with the trade and use of  information technology products, systems and services;</p><p> 2.  advancing, under the auspices of the Senior Officials Group on the Security of Information  Systems (SOG-IS), international harmonization and standarization of information technology security  evaluation criteria;</p><p> 3.  the negotiation by the Member States or by bodies which they designate, during the said initial  period, or, if necessary, until international harmonization and standardization is agreed, of  bilateral and preferably European or international mutual recognition of security evaluation  certificates;</p><p> 4.  reviewing developments after the said initial period and proposing appropriate actions, on the  advice of the SOG-IS, in the light of experience and the results of the international  harmonization.</p><p> </p><p>Done at Luxembourg, 7 April 1995.</p><p> For the Council The President J. ROSSI  </p><p>  </p>
+</TXT_TE>
+</p>
+</div>
+</body>
+</html>

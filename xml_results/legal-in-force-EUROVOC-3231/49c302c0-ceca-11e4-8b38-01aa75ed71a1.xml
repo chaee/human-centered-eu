@@ -1,0 +1,423 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML//EN" "xhtml-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<!-- CONVEX # converter_version:6.2.1 # generated_on:20150326-1240 -->
+<head>
+   <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
+   <link type="text/css" rel="stylesheet"
+         href="http://publications.europa.eu/resource/presentation-style-sheet/oj/oj.css"/>
+   <title>L_2015076EN.01001901.xml</title>
+</head>
+<body>
+   <table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <col width="10%"/>
+      <col width="10%"/>
+      <col width="60%"/>
+      <col width="20%"/>
+      <tbody>
+         <tr>
+            <td>
+               <p class="hd-date">20.3.2015   </p>
+            </td>
+            <td>
+               <p class="hd-lg">EN</p>
+            </td>
+            <td>
+               <p class="hd-ti">Official Journal of the European Union</p>
+            </td>
+            <td>
+               <p class="hd-oj">L 76/19</p>
+            </td>
+         </tr>
+      </tbody>
+   </table>
+   <hr class="separator"/>
+   <p class="doc-ti" id="d1e40-19-1">COMMISSION IMPLEMENTING REGULATION (EU) 2015/461</p>
+   <p class="doc-ti">of 19 March 2015</p>
+   <p class="doc-ti">laying down implementing technical standards with regard to the process to reach a joint decision on the application to use a group internal model in accordance with Directive 2009/138/EC of the European Parliament and of the Council</p>
+   <p class="doc-ti">(Text with EEA relevance)</p>
+   <p class="normal">THE EUROPEAN COMMISSION,</p>
+   <p class="normal">Having regard to the Treaty on the Functioning of the European Union,</p>
+   <p class="normal">Having regard to Directive 2009/138/EC of 25 November 2009 of the European Parliament and of the Council on the taking-up and pursuit of the business of Insurance and Reinsurance (Solvency II)<a id="ntc1-L_2015076EN.01001901-E0001" href="#ntr1-L_2015076EN.01001901-E0001"> (<span class="super">1</span>)</a> and in particular Article 231(4) thereof,</p>
+   <p class="normal">Whereas:</p>
+   <table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <col width="4%"/>
+      <col width="96%"/>
+      <tbody>
+         <tr>
+            <td valign="top">
+               <p class="normal">(1)</p>
+            </td>
+            <td valign="top">
+               <p class="normal">An efficient exchange of appropriate information between the national supervisory authorities concerned is essential for the provision of an effective process for the reaching of a joint decision on group internal models.</p>
+            </td>
+         </tr>
+      </tbody>
+   </table>
+   <table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <col width="4%"/>
+      <col width="96%"/>
+      <tbody>
+         <tr>
+            <td valign="top">
+               <p class="normal">(2)</p>
+            </td>
+            <td valign="top">
+               <p class="normal">In order to ensure a consistent application of the process for reaching a joint decision, it is important that each step be well defined. A clear process also facilitates exchange of information, promotes mutual understanding, develops relationships between the supervisory authorities concerned and promotes effective supervision.</p>
+            </td>
+         </tr>
+      </tbody>
+   </table>
+   <table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <col width="4%"/>
+      <col width="96%"/>
+      <tbody>
+         <tr>
+            <td valign="top">
+               <p class="normal">(3)</p>
+            </td>
+            <td valign="top">
+               <p class="normal">Timely and realistic planning for the joint decision process is essential. Every supervisory authority concerned should provide the group supervisor with relevant information on a timely basis.</p>
+            </td>
+         </tr>
+      </tbody>
+   </table>
+   <table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <col width="4%"/>
+      <col width="96%"/>
+      <tbody>
+         <tr>
+            <td valign="top">
+               <p class="normal">(4)</p>
+            </td>
+            <td valign="top">
+               <p class="normal">Establishing and documenting clear processes for the content and implementation of the joint decision should ensure that it is fully reasoned.</p>
+            </td>
+         </tr>
+      </tbody>
+   </table>
+   <table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <col width="4%"/>
+      <col width="96%"/>
+      <tbody>
+         <tr>
+            <td valign="top">
+               <p class="normal">(5)</p>
+            </td>
+            <td valign="top">
+               <p class="normal">The process to reach a joint decision on the application to use a group internal model should be consistent for the joint decision on major changes and for changes to the policy for changing the model for group internal models.</p>
+            </td>
+         </tr>
+      </tbody>
+   </table>
+   <table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <col width="4%"/>
+      <col width="96%"/>
+      <tbody>
+         <tr>
+            <td valign="top">
+               <p class="normal">(6)</p>
+            </td>
+            <td valign="top">
+               <p class="normal">This Regulation is based on the draft implementing technical standards submitted by the European Insurance and Occupational Pensions Authority (EIOPA) to the Commission.</p>
+            </td>
+         </tr>
+      </tbody>
+   </table>
+   <table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <col width="4%"/>
+      <col width="96%"/>
+      <tbody>
+         <tr>
+            <td valign="top">
+               <p class="normal">(7)</p>
+            </td>
+            <td valign="top">
+               <p class="normal">EIOPA has conducted open public consultations on the draft implementing technical standards on which this Regulation is based, analysed the potential related costs and benefits and requested the opinion of the Stakeholder Group established in accordance with Article 37 of Regulation (EU) No 1094/2010 of the European Parliament and of the Council<a id="ntc2-L_2015076EN.01001901-E0002" href="#ntr2-L_2015076EN.01001901-E0002"> (<span class="super">2</span>)</a>,</p>
+            </td>
+         </tr>
+      </tbody>
+   </table>
+   <table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <col width="4%"/>
+      <col width="96%"/>
+      <tbody>
+         <tr>
+            <td valign="top">
+               <p class="normal">(8)</p>
+            </td>
+            <td valign="top">
+               <p class="normal">In order to enhance legal certainty about the supervisory regime during the phasing-in period provided for in Article 308a of Directive 2009/138/EC, which will start on 1 April 2015, it is important to ensure that this Regulation enters into force as soon as possible, on the day after that of its publication in the <span class="italic">Official Journal of the European Union</span>.</p>
+            </td>
+         </tr>
+      </tbody>
+   </table>
+   <p class="normal">HAS ADOPTED THIS REGULATION:</p>
+   <p id="d1e141-19-1" class="ti-art">Article 1</p>
+   <p class="sti-art">Subject matter and Scope</p>
+   <p class="normal">This Regulation specifies the procedures to be followed by the supervisory authorities in order to reach a joint decision, referred to in Article 231(2) of Directive 2009/138/EC, on the application for permission to use a group internal model to calculate the consolidated group Solvency Capital Requirement, as well as the Solvency Capital Requirement of insurance and reinsurance undertakings in the group.</p>
+   <p id="d1e148-19-1" class="ti-art">Article 2</p>
+   <p class="sti-art">Definition</p>
+   <p class="normal">For the purpose of this Regulation, ‘supervisory authorities concerned’ are the supervisory authorities of all the Member States in which the head offices of each related insurance and reinsurance undertakings applying for the use of a group internal model to calculate their Solvency Capital Requirement are situated.</p>
+   <p id="d1e159-19-1" class="ti-art">Article 3</p>
+   <p class="sti-art">Agreement on the process</p>
+   <p class="normal">1.   The supervisory authorities concerned shall agree on the process to reach and the way to formalise a joint decision including timeline, main steps and deliverables, also taking into account the requirements set out in Directive 2009/138/EC as further specified in the Commission Delegated Regulation (EU) 2015/35<a id="ntc3-L_2015076EN.01001901-E0003" href="#ntr3-L_2015076EN.01001901-E0003"> (<span class="super">3</span>)</a> supplementing Directive 2009/138/EC. In order to do everything within their power to reach a joint decision according to Article 231(2) of Directive 2009/138/EC, every supervisory authority concerned shall ensure that the main steps and deliverables set out for the agreed process are followed in a timely way.</p>
+   <p class="normal">2.   The supervisory authorities concerned shall take into account when agreeing on the process, any legal impediments or internal processes that may restrict them to give their formal view on the application within the specified timeframe. To this end, all supervisory authorities concerned shall inform the other ones about any legal impediments or internal processes that may exist in their respective supervisory authority.</p>
+   <p class="normal">3.   The supervisory authorities concerned shall provide the other authorities concerned with any information that may be relevant for the decision on the application as soon as practical.</p>
+   <p class="normal">4.   In the case a supervisory authority concerned raises a matter regarding the process, in particular when consensus on a decision is not likely to be reached, it shall explain the reasons for this to the other supervisory authorities concerned and indicate whether it intends to refer the matter to EIOPA according to Article 231(3) of Directive 2009/138/EC. The group supervisor shall discuss with all supervisory authorities concerned with the aim to find a solution to the matter. The supervisory authorities shall agree on a timeframe to reach a solution.</p>
+   <p class="normal">5.   If no satisfactory solution is reached in the agreed timeframe and the relevant supervisory authority decides to refer the matter to EIOPA, it shall do it without delay.</p>
+   <p id="d1e199-19-1" class="ti-art">Article 4</p>
+   <p class="sti-art">Proposal for a decision</p>
+   <p class="normal">1.   Before making a proposal for a decision, the supervisory authorities concerned shall confirm that the assessment of the application has been finalized and that the outcome of this assessment constitutes the basis for making a decision on the application.</p>
+   <p class="normal">2.   The other supervisory authorities concerned shall give their input on the proposal for a decision to the group supervisor in writing by summarising the outcome of the assessment made.</p>
+   <p class="normal">3.   The group supervisor, with the input of the other supervisory authorities concerned referred to in paragraph 2, shall draft a written proposal for a decision, including, if applicable, the terms and conditions the proposed decision is subject to. This proposal shall include the reasons for the decision and, if applicable, for the terms and conditions.</p>
+   <p class="normal">4.   When drafting a proposal for a decision, the group supervisor shall consider, if appropriate, the views expressed during the assessment of the application by the other supervisory authorities concerned regarding the appropriateness of the group internal model for the calculation of the consolidated group Solvency Capital Requirement. If relevant, the group supervisor shall also take into consideration the views from the other supervisory authorities within the college of supervisors regarding the group internal model.</p>
+   <p class="normal">5.   The group supervisor shall send the proposal for a decision to the supervisory authorities concerned and, where appropriate, to the other members and participants of the college.</p>
+   <p class="normal">6.   The other supervisory authorities concerned shall provide in writing to the group supervisor their opinion on the proposal for a decision, including, if applicable, their opinion on the terms and conditions to which the proposed decision is subject. The group supervisor shall aggregate the opinions received and provide a synthesis of them to the other supervisory authorities concerned.</p>
+   <p class="normal">7.   The group supervisor shall organise at least a session with the other supervisory authorities concerned to discuss the proposal for a decision and the opinions provided. These sessions may take place as a physical meeting or, when agreed by all the supervisory authorities concerned, through other means. The discussion shall aim at reaching consensus on a joint decision. Every supervisory authority concerned shall then confirm its views or send in writing its final views and reservations to the group supervisor.</p>
+   <p id="d1e239-19-1" class="ti-art">Article 5</p>
+   <p class="sti-art">Final decision</p>
+   <p class="normal">1.   In the case set out in Article 231(5) of Directive 2009/138/EC when a joint decision has been reached, the group supervisor shall:</p>
+   <table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <col width="4%"/>
+      <col width="96%"/>
+      <tbody>
+         <tr>
+            <td valign="top">
+               <p class="normal">(a)</p>
+            </td>
+            <td valign="top">
+               <p class="normal">document the final decision on the application and, if applicable, on the terms and conditions to which the decision is subject;</p>
+            </td>
+         </tr>
+      </tbody>
+   </table>
+   <table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <col width="4%"/>
+      <col width="96%"/>
+      <tbody>
+         <tr>
+            <td valign="top">
+               <p class="normal">(b)</p>
+            </td>
+            <td valign="top">
+               <p class="normal">send the final decision to all college members and, where appropriate, to participants, together with the views of the supervisory authorities concerned.</p>
+            </td>
+         </tr>
+      </tbody>
+   </table>
+   <p class="normal">In the case referred to in the first subparagraph, the agreement on the final decision shall be confirm in writing by representatives of the supervisory authorities concerned with appropriate authority to commit their respective authorities.</p>
+   <p class="normal">2.   In the case set out in Article 231(6) of Directive 2009/138/EC when a joint decision has not been reached, the group supervisor shall:</p>
+   <table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <col width="4%"/>
+      <col width="96%"/>
+      <tbody>
+         <tr>
+            <td valign="top">
+               <p class="normal">(a)</p>
+            </td>
+            <td valign="top">
+               <p class="normal">document its final decision;</p>
+            </td>
+         </tr>
+      </tbody>
+   </table>
+   <table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <col width="4%"/>
+      <col width="96%"/>
+      <tbody>
+         <tr>
+            <td valign="top">
+               <p class="normal">(b)</p>
+            </td>
+            <td valign="top">
+               <p class="normal">document the views and reservations referred to in Article 4(7);</p>
+            </td>
+         </tr>
+      </tbody>
+   </table>
+   <table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <col width="4%"/>
+      <col width="96%"/>
+      <tbody>
+         <tr>
+            <td valign="top">
+               <p class="normal">(c)</p>
+            </td>
+            <td valign="top">
+               <p class="normal">state the views and reservations from the relevant supervisory authorities concerned and, if applicable, why the group supervisor has deviated from these views when providing the supervisory authorities concerned with a document setting out its decision according to Article 231(6) of Directive 2009/138/EC;</p>
+            </td>
+         </tr>
+      </tbody>
+   </table>
+   <table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <col width="4%"/>
+      <col width="96%"/>
+      <tbody>
+         <tr>
+            <td valign="top">
+               <p class="normal">(d)</p>
+            </td>
+            <td valign="top">
+               <p class="normal">send the decision to the rest of college members and where appropriate to participants, together with the views and reservations of the supervisory authorities concerned.</p>
+            </td>
+         </tr>
+      </tbody>
+   </table>
+   <p id="d1e296-19-1" class="ti-art">Article 6</p>
+   <p class="sti-art">Notification of the decision</p>
+   <p class="normal">1.   When a final decision is made, the group supervisor shall notify the decision to the applicant without delay.</p>
+   <p class="normal">2.   In case of permission to use the group internal model the group supervisor shall include in the decision:</p>
+   <table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <col width="4%"/>
+      <col width="96%"/>
+      <tbody>
+         <tr>
+            <td valign="top">
+               <p class="normal">(a)</p>
+            </td>
+            <td valign="top">
+               <p class="normal">if the decision was a joint decision according to Article 231(5) of Directive 2009/138/EC or made by the group supervisor according to Article 231(6) of Directive 2009/138/EC;</p>
+            </td>
+         </tr>
+      </tbody>
+   </table>
+   <table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <col width="4%"/>
+      <col width="96%"/>
+      <tbody>
+         <tr>
+            <td valign="top">
+               <p class="normal">(b)</p>
+            </td>
+            <td valign="top">
+               <p class="normal">the reasons for the decision;</p>
+            </td>
+         </tr>
+      </tbody>
+   </table>
+   <table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <col width="4%"/>
+      <col width="96%"/>
+      <tbody>
+         <tr>
+            <td valign="top">
+               <p class="normal">(c)</p>
+            </td>
+            <td valign="top">
+               <p class="normal">the names of the related undertakings included in the scope of the internal model for the calculation of the group Solvency Capital Requirement;</p>
+            </td>
+         </tr>
+      </tbody>
+   </table>
+   <table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <col width="4%"/>
+      <col width="96%"/>
+      <tbody>
+         <tr>
+            <td valign="top">
+               <p class="normal">(d)</p>
+            </td>
+            <td valign="top">
+               <p class="normal">the names of the related undertakings allowed to use the group internal model to calculate their Solvency Capital Requirement;</p>
+            </td>
+         </tr>
+      </tbody>
+   </table>
+   <table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <col width="4%"/>
+      <col width="96%"/>
+      <tbody>
+         <tr>
+            <td valign="top">
+               <p class="normal">(e)</p>
+            </td>
+            <td valign="top">
+               <p class="normal">if relevant, the risks and major business units within the scope of a partial internal model;</p>
+            </td>
+         </tr>
+      </tbody>
+   </table>
+   <table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <col width="4%"/>
+      <col width="96%"/>
+      <tbody>
+         <tr>
+            <td valign="top">
+               <p class="normal">(f)</p>
+            </td>
+            <td valign="top">
+               <p class="normal">the starting date from which the solvency capital requirements listed in points (c) and (d) shall be calculated using the group internal model;</p>
+            </td>
+         </tr>
+      </tbody>
+   </table>
+   <table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <col width="4%"/>
+      <col width="96%"/>
+      <tbody>
+         <tr>
+            <td valign="top">
+               <p class="normal">(g)</p>
+            </td>
+            <td valign="top">
+               <p class="normal">if relevant, the terms and conditions to which the permission to use the group internal model is subject, ant the reasons for these terms and conditions;</p>
+            </td>
+         </tr>
+      </tbody>
+   </table>
+   <table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <col width="4%"/>
+      <col width="96%"/>
+      <tbody>
+         <tr>
+            <td valign="top">
+               <p class="normal">(h)</p>
+            </td>
+            <td valign="top">
+               <p class="normal">if relevant, a requirement for the undertaking to develop and provide a plan to extend the scope of the internal model, including the description and timeframe of the plan;</p>
+            </td>
+         </tr>
+      </tbody>
+   </table>
+   <table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <col width="4%"/>
+      <col width="96%"/>
+      <tbody>
+         <tr>
+            <td valign="top">
+               <p class="normal">(i)</p>
+            </td>
+            <td valign="top">
+               <p class="normal">if relevant the integration technique approved to be used to integrate the partial internal model into the solvency capital requirement standard formula.</p>
+            </td>
+         </tr>
+      </tbody>
+   </table>
+   <p class="normal">3.   In case of rejection to use the group internal model, the group supervisor shall include in the decision a brief description of the parts or aspects of the internal model that do not comply with the requirements to use a group internal model, as well as the precise reference to the requirements that are not complied with. The notification shall also state that the rejection does not imply that other requirements have been assessed as complied with.</p>
+   <p id="d1e372-19-1" class="ti-art">Article 7</p>
+   <p class="sti-art">Entry into force</p>
+   <p class="normal">This Regulation shall enter into force on the day following that of its publication in the <span class="italic">Official Journal of the European Union</span>.</p>
+   <div class="final">
+      <p class="normal">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p class="normal">Done at Brussels, 19 March 2015.</p>
+      <div class="signatory">
+         <p class="signatory">
+            <span class="italic">For the Commission</span>
+         </p>
+         <p class="signatory">
+            <span class="italic">The President</span>
+         </p>
+         <p class="signatory">Jean-Claude JUNCKER</p>
+      </div>
+   </div>
+   <hr class="note"/>
+   <p class="note">
+      <a id="ntr1-L_2015076EN.01001901-E0001" href="#ntc1-L_2015076EN.01001901-E0001">(<span class="super">1</span>)</a>  <a href="http://publications.europa.eu/resource/oj/JOL_2009_335_R_TOC">OJ L 335, 17.12.2009, p. 1</a>.</p>
+   <p class="note">
+      <a id="ntr2-L_2015076EN.01001901-E0002" href="#ntc2-L_2015076EN.01001901-E0002">(<span class="super">2</span>)</a>  Regulation (EU) No 1094/2010 of the European Parliament and of the Council of 24 November 2010 establishing a European Supervisory Authority (European Insurance and Occupational Pensions Authority), amending Decision No 716/2009/EC and repealing Commission Decision 2009/79/EC (<a href="http://publications.europa.eu/resource/oj/JOL_2010_331_R_TOC">OJ L 331, 15.12.2010, p. 48</a>).</p>
+   <p class="note">
+      <a id="ntr3-L_2015076EN.01001901-E0003" href="#ntc3-L_2015076EN.01001901-E0003">(<span class="super">3</span>)</a>  Commission Delegated Regulation (EU) 2015/35 of 10 October 2014 supplementing Directive 2009/138/EC of the European Parliament and of the Council on the taking-up and pursuit of the business of Insurance and Reinsurance (Solvency II) (<a href="http://publications.europa.eu/resource/oj/JOL_2015_012_R_TOC">OJ L 12, 17.1.2015, p. 1</a>).</p>
+   <hr class="doc-end"/>
+</body>
+</html>

@@ -1,0 +1,45 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html lang="EN">
+<head>
+<meta name="DC.language" content="EN">
+<meta name="DC.title" content="EUR-Lex - 31997D0359 - EN">
+<meta name="DC.subject" content="Commercial policy, External relations, Technology, GATT, information technology, suspension of customs duties, telecommunications equipment, third country, EC trade agreement, World Trade Organisation, ">
+<meta name="DC.description" content="97/359/EC: Council Decision of 24 March 1997 concerning the elimination of duties on information technology products  ">
+<meta name="DC.type" http-equiv="Content-Type" content="text/html; charset=UNICODE-1-1-UTF-8">
+<meta name="DC.source" content="Official Journal L 155 , 12/06/1997 P. 0001 - 0002; ">
+<meta name="DC.publisher" content="OPOCE">
+<meta name="DC.identifier" scheme="URI" content="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31997D0359:EN:HTML">
+<style type="text/css" media="all">  @import url(lex/css/lex-screen.css); </style>
+<link rel="stylesheet" type="text/css" media="print" href="lex/css/lex-print.css">
+<title>EUR-Lex - 31997D0359 - EN</title>
+</head>
+<body>
+<div id="banner">
+<a name="top"></a>
+<div class="bglang">
+<p class="bglang">
+<a class="langue" href="../../../editorial/legal_notice.htm" accesskey="8"><b>Avis juridique important</b></a>
+<br>
+</p>
+</div>
+<div class="bgtool">
+<em class="none">|</em>
+</div>
+</div>
+<a name="top"></a>
+<h1>31997D0359</h1>
+<p>
+<strong>97/359/EC: Council Decision of 24 March 1997 concerning the elimination of duties on information technology products  </strong>
+<br>
+<em>
+<br>Official Journal L 155 , 12/06/1997 P. 0001 - 0002<br> </em>
+</p>
+<br>
+<div id="TexteOnly">
+<p>
+<TXT_TE>
+<p>COUNCIL DECISION of 24 March 1997 (1) concerning the elimination of duties on information technology products (97/359/EC)</p><p></p><p>THE COUNCIL OF THE EUROPEAN UNION,</p><p>Having regard to the Treaty establishing the European Community, and in particular Article 113, in conjunction with Article 228 (2) first sentence, thereof,</p><p>Having regard to the proposal from the Commission,</p><p>Whereas in the new Transatlantic Agenda adopted at the EU-US summit in Madrid of 13 December 1995, it was decided to attempt to conclude an Information Technology Agreement;</p><p>Whereas, following reports from the Commission on its exploratory consultations with third countries, on 16 November 1996 the Council decided to open negotiations with third countries with a view to concluding an Information Technology Agreement;</p><p>Whereas on 13 December 1996, at the first Conference of the World Trade Organization in Singapore, a Ministerial Declaration on trade in information technology products was adopted; whereas the Declaration sets out certain preconditions for the implementation of the elimination of tariffs for information technology products; whereas these preconditions have been met;</p><p>Whereas the Ministerial Declaration on trade in information technology products together with its annexes and attachments form the Agreement on trade in information technology products;</p><p>Whereas the EC-ITA Schedule CXL, modifying the existing Community schedule, should be submitted to the World Trade Organization;</p><p>Whereas the Agreement on trade in information technology products together with the Communication on its implementation should be approved on behalf of the Community,</p><p>HAS DECIDED AS FOLLOWS:</p><p></p><p></p><p>Article 1</p><p>The Agreement on trade in information technology products together with the Communication on its implementation are hereby approved on behalf of the Community.</p><p>The text of the Agreement and of the Communication are attached to this Decision.</p><p></p><p>Article 2</p><p>As called for under paragraph 4 of the Annex to the Ministerial Declaration on trade in information technology products, the Council:</p><p>(i) takes note that participants representing approximately 90 per cent of world trade in information technology products have notified their acceptance; and</p><p>(ii) approves, on behalf of the Community, the staging requests of participants in the ITA.</p><p></p><p>Article 3</p><p>The Council authorizes the Commission to submit to the World Trade Organization the modifications to the Community schedule as set out in the EC-IT Schedule CXL contained in the Agreement attached hereto.</p><p></p><p>Article 4</p><p>The President of the Council shall, on behalf of the Community, give the notification provided for in the Ministerial Declaration.</p><p></p><p>Article 5</p><p>This Decision shall be published in the Official Journal of the European Communities.</p><p></p><p>Done at Brussels, 24 March 1997.</p><p>For the Council</p><p>The President</p><p>H. VAN MIERLO</p><p></p><p>(1) The consolidated text of this Decision incorporates corrections approved by the Council on 14 May 1997.</p><p></p><p></p><p>  </p>
+</TXT_TE>
+</p>
+</div>
+</body>
+</html>

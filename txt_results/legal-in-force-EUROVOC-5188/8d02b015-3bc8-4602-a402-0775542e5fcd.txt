@@ -1,0 +1,100 @@
+ CONVEX # converter_version:3.1 # generated_on:20131211-0520 
+   L_2010072EN.01004201.xml
+            20.3.2010   
+            EN
+            Official Journal of the European Union
+         L 72/42
+   COMMISSION RECOMMENDATION
+   of 19 March 2010
+   on the authorisation of systems for mobile communication services on board vessels (MCV services)
+   (Text with EEA relevance)
+   (2010/167/EU)
+   THE EUROPEAN COMMISSION,
+   Having regard to the Treaty on the Functioning of the European Union,
+   Having regard to Directive 2002/21/EC of the European Parliament and of the Council of 7 March 2002 on a common regulatory framework for electronic communications networks and services (Framework Directive)
+    (, and in particular Article 19(1) thereof,1)Whereas:
+            (1)
+         The i2010 policy, as the strategic framework for a European Information Society, promotes an open and competitive digital economy in the European Union, emphasises ICT as a driver of inclusion and quality of life, and stresses the benefits of ready access to information and communication resources in all areas of daily life.
+            (2)
+         Mobile communication services on board vessels (MCV services) are used on board freight and passenger vessels sailing within the territorial seas in the European Union and in international waters and are often pan-European or inter-State in nature. Systems providing MCV services (‘MCV systems’) aim to complement existing mobile connectivity when operating in those areas of the territorial seas of the EU Member States, as defined in the United Nations Convention on the Law of the Sea, that are not covered by land-based mobile networks.
+            (3)
+         An MCV system (‘dedicated MCV system’) generally consists of one or more pico-cell base stations on board a vessel (vessel-BS), providing access to a GSM core network via a backhaul link, for example via satellite. The vessel-BS of such a system serve roaming GSM mobile terminals carried by ship passengers or crew.
+            (4)
+         MCV services are currently operated commercially using only the GSM standard and only in bands 880-915 MHz and 1 710-1 785 MHz for uplink (terminal transmit and base station receive) and 925-960 MHz and 1 805-1 880 MHz for downlink (base station transmit and terminal receive). In future, however, they may be extended to other terrestrial public mobile communication systems, operating in accordance with other standards and in other frequency bands.
+            (5)
+         The operation of dedicated MCV systems should be distinguished from the extended coverage provided by land-based mobile electronic communications networks in territorial seas to the extent that this is based on operators’ rights to establish and operate land-based mobile networks.
+            (6)
+         A coordinated approach to the regulation of MCV services would help to facilitate the provision of these services across the European Union, thereby contributing to achievement of the objectives of the EU single market. It would also help to ensure seamless mobile connectivity for consumers and business users and would enhance the potential of innovative maritime communication services.
+            (7)
+         When authorising use of spectrum for the provision of MCV services, Member States must comply with Directive 2002/21/EC and with Directive 2002/20/EC of the European Parliament and of the Council of 7 March 2002 on the authorisation of electronic communications networks and services (Authorisation Directive)
+             (. In particular, under Article 9(1) and (2) of Directive 2002/21/EC, Member States should ensure the effective management of radio frequencies for electronic communication services in their territory and promote harmonisation of the use of radio frequencies across the European Union, consistent with the need to ensure effective and efficient use thereof.2)
+            (8)
+         Under Directive 2002/21/EC, national regulatory authorities in the Member States should contribute to the development of the single market, inter alia, by removing remaining obstacles to the provision of electronic communications networks, associated facilities and services, and electronic communication services at European level and by encouraging the establishment and development of trans-European networks, the interoperability of pan-European services, and end-to-end connectivity. They should also promote competition in the provision of electronic communications networks, electronic communication services and associated facilities and services by, inter alia, encouraging efficient use and ensuring the effective management of radio frequencies and numbering resources.
+            (9)
+         Pursuant to Directive 2002/20/EC, the least onerous authorisation system possible should be used to allow the provision of electronic communications networks and services in order to stimulate the development of new electronic communication services and pan-European communications networks and services and to allow service providers and consumers to benefit from the economies of scale of the single market.
+            (10)
+         In accordance with Article 3(2) of Directive 2002/20/EC, the provision of electronic communications networks or the provision of electronic communication services may, without prejudice to the specific obligations referred to in Article 6(2) or rights of use referred to in Article 5, only be subject to a general authorisation.
+            (11)
+         Following Article 5(1) of Directive 2002/20/EC, Member States should, where possible, in particular where the risk of harmful interference is negligible, not make the use of radio frequencies subject to individual rights of use but to general authorisations that include the conditions of their usage.
+            (12)
+         Provided the technical conditions set out in Commission Decision 2010/166/EU
+             ( are fulfilled, the risk of harmful interference caused by MCV operation will be negligible, so, in principle, general authorisations should be granted by Member States for the use of the radio spectrum for the provision of MCV services.3)
+            (13)
+         Some Member States currently make the use of spectrum for the provision of MCV services subject to individual rights. This authorisation approach should be reassessed, including on the basis of any experience as regards the provision of MCV services in the territorial seas of Member States.
+            (14)
+         According to Article 1 of Directive 2009/114/EC of the European Parliament and of the Council of 16 September 2009 amending Council Directive 87/372/EEC on the frequency bands to be reserved for the coordinated introduction of public pan-European cellular digital land-based mobile communications in the Community
+             ( Member States should examine whether the existing assignment of the 900 MHz band to the competing mobile operators in their territory is likely to distort competition in the mobile markets concerned and should address such distortions in accordance with Article 14 of Directive 2002/20/EC. Member States should, where appropriate, consider using this occasion to change any existing exclusive rights of use granted to operators of land-based mobile networks so that they do not exclude the provision of MCV services in the relevant frequencies.4)
+            (15)
+         Member States should share information amongst each other and with the Commission in order to resolve any harmful interference issues caused by MCV services. In as much as involvement of the Communications Committee and the Radio Spectrum Committee could facilitate the resolution of such issues, these Committees should be informed by the Commission.
+            (16)
+         Pursuant to Directive 2002/22/EC of the European Parliament and of the Council of 7 March 2002 on universal service and users’ rights relating to electronic communications networks and services (Universal Service Directive)
+             ( Member States should ensure that transparent and up-to-date information on applicable prices and tariffs, and on standard terms and conditions, in respect of access to and use of publicly available telephone services is available to end-users and consumers. The Directive also calls upon Member States to ensure that, where subscribing to services providing connection and/or access to the public telephone network, consumers have a right to a contract with an undertaking or undertakings providing such services, specifying, among other things particulars of prices and tariffs and the means by which up-to-date information on all applicable tariffs and maintenance charges may be obtained.5)
+            (17)
+         International agreements in the area of maritime safety and/or public security should not be prejudiced by the operation of MCV services.
+            (18)
+         The regulatory and technical elements of the common approach to authorisation of the use of spectrum for the provision of MCV services in the European Union should be kept under scrutiny to ensure that they remain satisfactory for the overall purpose of avoiding harmful interference, failing which appropriate remedial measures will be considered.
+            (19)
+         The measures provided for in this Recommendation are in accordance with the opinion of the Communications Committee,
+            HAS ADOPTED THIS RECOMMENDATION:
+            1.
+         This Recommendation aims to coordinate national authorisation conditions and procedures relating to the use of the radio spectrum for mobile communication services on board vessels (MCV services) in the territorial seas of Member States in order to facilitate the deployment of such services across the European Union while avoiding harmful interference caused by MCV services to land-based mobile electronic communication services.
+               The national authorisation conditions and procedures referred to in this Recommendation will apply without prejudice to legal obligations concerning maritime safety and public security and regulations and/or administrative provisions concerning equipment for MCV services put in place by Member States, in compliance with European Union law, in particular Directive 1999/5/EC of the European Parliament and of the Council of 9 March 1999 on radio equipment and telecommunications terminal equipment and the mutual recognition of their conformity
+             ( and any applicable EU and international instruments concerning maritime equipment.6)
+            2.
+         ‘Mobile communication services on board vessels (MCV services)’ means electronic communication services, as defined in Article 2(c) of Directive 2002/21/EC, provided by an undertaking to enable persons on board a vessel to communicate via public communication networks using a GSM system without establishing direct connections with land-based mobile networks.
+            3.
+         This Recommendation applies to authorisation of the use of radio spectrum in the frequency bands defined in Decision 2010/166/EU for the provision of MCV services in the territorial seas of Member States, as defined in the United Nations Convention on the Law of the Sea. The provision of MCV services in the high seas, satellite communications between vessels and space stations, and the provision of mobile satellite services (MSS) to end-users on board vessels are outside the scope of this Recommendation.
+            4.
+         No later than 12 months after adoption of this Recommendation, Member States should take all steps necessary to be able to authorise, in the frequency bands or sub-bands made available in accordance with Decision 2010/166/EU, the use of spectrum for the provision of MCV services in their territorial seas on board vessels of their nationality and the use of spectrum for the provision of MCV services in their territorial seas, as applicable.
+            5.
+         Member States should not authorise use of spectrum for the provision of MCV services, unless such use satisfies the technical conditions set out in Decision 2010/166/EU.
+            6.
+         Member States may require that MCV systems only use the specific frequency bands or sub-bands made available, in accordance with Decision 2010/166/EU, for the operation of MCV systems in their territorial seas.
+            7.
+         Member States should make use of spectrum for the provision of MCV services subject to general authorisation. Without prejudice to Article 5(1) of Directive 2002/20/EC, where the use of spectrum for the provision of MCV services is subject to individual rights, Member States should reassess the need for such individual rights with the objective of incorporating the conditions attached to such rights into a general authorisation as soon as possible and at the latest within three years after adoption of this Recommendation.
+            8.
+         No later than 12 months after adoption of this Recommendation, Member States should not require any additional authorisation for the use of spectrum made available for the provision of MCV services in their territorial seas if the use of spectrum by the relevant MCV system is already authorised by another Member State, in accordance with its authorisation regime and in compliance with this Recommendation.
+            9.
+         Member States should consider not requiring an additional authorisation for the use of spectrum in their territorial seas for the provision of MCV services on board vessels of third country nationality, provided that the use of spectrum for the provision of MCV services on such vessels is already authorised by the relevant countries under the same conditions as those set out in Decision 2010/166/EU.
+            10.
+         Member States that, prior to the adoption of this Recommendation, have granted in the frequency bands or sub-bands made available for operation of MCV systems, exclusive individual rights of use for the provision of land-based mobile electronic communications networks and/or services extending to their territorial seas should, on the occasion of the first review, modification, extension or renewal of such exclusive rights of use, based on either EU or national law, where appropriate, change such rights of use in order to allow for the operation of MCV systems in their territorial seas. Pending such first review, modification, extension or renewal, the Member States concerned should promote the provision of MCV services in their territorial seas on the basis of spectrum trading, spectrum sharing or any other comparable arrangements with the land-based mobile operators enjoying the relevant exclusive rights.
+            11.
+         Member States should cooperate actively, constructively and in a spirit of solidarity, using existing procedures where appropriate, to manage any issues concerning harmful interference allegedly caused by the operation of MCV systems.
+            12.
+         Member States should promptly bring issues concerning harmful interference allegedly caused by the operation of an MCV system falling under the jurisdiction of another Member State to the attention of the latter Member State and should inform the Commission. Where appropriate, the Commission should inform the Communications Committee and the Radio Spectrum Committee of the abovementioned issues in order to seek solutions to any difficulties.
+            13.
+         Member States that have jurisdiction over the MCV systems suspected of interfering harmfully with services in the territory of another Member State should respond and promptly resolve any such interference.
+            14.
+         Member States should take any appropriate measures in order to ensure that consumers and other end-users are adequately informed about the terms and conditions for the use of MCV services.
+            15.
+         Member States should keep the use of spectrum for the provision of MCV services under scrutiny, in particular concerning actual or potential harmful interference, and should report their findings to the Commission in order to allow a timely review of this Recommendation if necessary.
+   Done at Brussels, 19 March 2010.
+         For the Commission
+         Neelie KROES
+      Vice-President
+   (  1)OJ L 108, 24.4.2002, p. 33.
+   (  2)OJ L 108, 24.4.2002, p. 21.
+   (  See page 38 of this Official Journal.3)
+   (  4)OJ L 274, 20.10.2009, p. 25.
+   (  5)OJ L 108, 24.4.2002, p. 51.
+   (  6)OJ L 91, 7.4.1999, p. 10.

@@ -1,0 +1,49 @@
+ CONVEX # converter_version:9.15.0 # generated_on:20231206-2031 # ELI version:0.10 
+   L_2014315EN.01004401.xml
+            1.11.2014   
+            EN
+            Official Journal of the European Union
+         L 315/44
+            COMMISSION IMPLEMENTING DECISION
+         of 31 October 2014
+         on the identification of Universal Business Language version 2.1 for referencing in public procurement
+         (Text with EEA relevance)
+      (2014/771/EU)
+      THE EUROPEAN COMMISSION,
+         Having regard to the Treaty on the Functioning of the European Union,
+         Having regard to Regulation (EU) No 1025/2012 of the European Parliament and of the Council of 25 October 2012 on European standardisation, amending Council Directives 89/686/EEC and 93/15/EEC and Directives 94/9/EC, 94/25/EC, 95/16/EC, 97/23/EC, 98/34/EC, 2004/22/EC, 2007/23/EC, 2009/23/EC and 2009/105/EC of the European Parliament and of the Council and repealing Council Decision 87/95/EEC and Decision No 1673/2006/EC of the European Parliament and of the Council 
+         (, and in particular Article 13(1) thereof,1)
+         After consulting the European multi-stakeholder platform on ICT standardisation and sectoral experts,
+         Whereas:
+                     (1)
+                  Standardisation plays an important role in supporting the Europe 2020 strategy, as set out in the Communication from the Commission entitled ‘Europe 2020: A strategy for smart, sustainable and inclusive growth’ 
+                     (. Several flagship initiatives of the Europe 2020 strategy underline the importance of voluntary standardisation in product or services markets to assure the compatibility and interoperability between products and services, foster technological development and support innovation.2)
+                     (2)
+                  In the digital society standardisation deliverables become indispensable to ensure the interoperability between devices, applications, data repositories, services and networks. The Communication from the Commission entitled ‘A strategic vision for European standards: moving forward to enhance and accelerate the sustainable growth of the European economy by 2020’ 
+                     ( recognises the specificity of information and communication technologies (ICT) standardisation where ICT solutions, applications and services are often developed by global ICT Fora and Consortia that have emerged as leading ICT standards development organisations.3)
+                     (3)
+                  Regulation (EU) No 1025/2012 aims at modernising and improving the European standardisation framework. It establishes a system whereby the Commission may decide to identify the most relevant and most widely accepted ICT technical specifications issued by organisations that are not European, international or national standardisation organisations. The possibility to use the full range of ICT technical specifications when procuring hardware, software and information technology services will enable interoperability, will help avoid lock-in for public administrations and will encourage competition in the supply of interoperable ICT solutions.
+                     (4)
+                  The ICT technical specifications that may be eligible for referencing in public procurement must comply with the requirements set out in Annex II to Regulation (EU) No 1025/2012. Compliance with those requirements guarantees the public authorities that the ICT technical specifications are established in accordance with the principles of openness, fairness, objectivity and non-discrimination that are recognised by the World Trade organisation (WTO) in the field of standardisation.
+                     (5)
+                  The decision to identify the ICT specification is to be adopted after consultation of the European multi-stakeholder platform on ICT standardisation set up by Commission Decision 
+                     ( complemented by other forms of consultation of sectoral experts.4)
+                     (6)
+                  On 22 May 2014, the European multi-stakeholder platform on ICT standardisation evaluated Universal Business Language version 2.1 (UBL 2.1) against the requirements set out in Annex II to Regulation (EU) No 1025/2012 and gave a positive advice on its identification for referencing in public procurement. The evaluation of UBL 2.1 was subsequently submitted to consultation of sectoral experts that also gave a positive advice on its identification.
+                     (7)
+                  UBL 2.1 developed by the Organization for the Advancement of Structured Information Standards is a royalty-free library of standard electronic Extensible Markup Language (XML) business documents. It is designed to plug directly into existing business, legal, auditing, and records management practices, and to operate within a standard business framework such as ISO 15000 (ebXML) to provide a complete, standards-based infrastructure that can extend the benefits of existing Electronic Data Interchange (EDI) systems to businesses of all sizes,
+                     HAS ADOPTED THIS DECISION:
+         Article 1
+            Universal Business Language version 2.1 developed by the Organization for the Advancement of Structured Information Standards is eligible for referencing in public procurement.
+      Article 2
+            This Decision shall enter into force on the twentieth day following that of its publication in the 
+         Official Journal of the European Union.
+      Done at Brussels, 31 October 2014.
+               For the Commission
+               The President
+               José Manuel BARROSO
+      (  
+            1)OJ L 316, 14.11.2012, p. 12.
+      (  COM(2010) 2020 final of 3 March 2010.2)
+      (  COM(2011) 311 final of 1 June 2011.3)
+   (  Commission Decision of 28 November 2011 setting up the European multi-stakeholder platform on ICT standardisation (4)OJ C 349, 30.11.2011, p. 4).

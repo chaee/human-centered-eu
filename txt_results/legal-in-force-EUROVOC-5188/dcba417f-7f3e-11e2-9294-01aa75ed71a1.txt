@@ -1,0 +1,174 @@
+ CONVEX # converter_version:3.2 # generated_on:20140215-0044 
+   L_2013051EN.01001801.xml
+            23.2.2013   
+            EN
+            Official Journal of the European Union
+         L 51/18
+   COMMISSION RECOMMENDATION
+   of 9 October 2009
+   on mobilising Information and Communications Technologies to facilitate the transition to an energy-efficient, low-carbon economy
+   (2013/105/EC)
+   THE COMMISSION OF THE EUROPEAN COMMUNITIES,
+   Having regard to the Treaty establishing the European Community, and in particular Article 211 thereof,
+   Whereas:
+            (1)
+         In April 2006, the European Parliament and the Council adopted a Directive on Energy End-Use Efficiency and Energy Services
+             (, setting the framework for measures addressing energy saving potential in the energy end-use sectors not covered by the Emissions Trading Scheme (ETS).1)
+            (2)
+         National Energy Efficiency Action Plans (NEEAPs) required by the Directive 2006/32/EC play a central role in planning and reporting on implementation of national measures addressing energy efficiency with the exception of the ETS. In their first NEEAPs a number of EU Member States have indicated plans to tackle the energy saving potential of ICT
+             (.2)
+            (3)
+         In October 2006, the Commission adopted the Communication 
+            Action plan for energy efficiency: Realising the potential
+                   ( which underscores the need for a paradigm shift to change the behavioural patterns of our societies so that we use less energy while maintaining our quality of life.3)
+            (4)
+         Subsequently, in March 2007 the European Council confirmed the objective to save 20% of the EU's energy consumption compared with projections for 2020 and endorsed the target of 20% reduction of greenhouse gas emissions by 2020. The European Council also called for the development of a sustainable EU climate and energy policy in recognition of the link between energy consumption and carbon emissions. Unlocking the potential to reduce 20% of the EU's energy consumption is expected to result in significant cost savings and environmental benefits.
+            (5)
+         In January 2008, the Commission adopted the Communication 
+            20 20 by 2020: Europe's climate change opportunity, proposing a far-reaching package of concrete proposals indicating that the agreed climate change targets are technologically and economically feasible and provide a unique business opportunity for thousands of European companies (. The proposals were approved by the European Council4) ( and the European Parliament in December 2008.5)
+            (6)
+         In May 2008, the Commission adopted the Communication 
+            Addressing the challenge of energy efficiency through information and communication technologies
+                   ( in which it recognised the potential of Information and Communication Technologies (ICT) to provide a cost-effective means of improving energy efficiency across industry and broader civil society.6)
+            (7)
+         In July 2008 the Commission adopted the Communication 
+            on the Sustainable Consumption and Production and Sustainable Industrial Policy Action Plan
+                   (, (SCP/SIP), with proposals aiming to improve the environmental performance of products throughout their life-cycle and to increase the demand for more sustainable goods, while encouraging EU industry to take advantage of opportunities to innovate.7)
+            (8)
+         In support of the SCP/SIP Action Plan and based on a related mandate in the Communication 
+            Integrated Product Policy: Building on Environmental Life-Cycle Thinking
+                   (, the Commission is developing, via its Joint Research Centre, a guidance handbook8) ( on quantifying and analysing the environmental life cycle impact of products and processes, including carbon emissions and energy efficiency.9)
+            (9)
+         In November 2008, the Commission adopted a European Economic Recovery Plan
+             ( for a faster return to economic growth, emphasising the immediate need for investment in energy efficiency and clean technologies. To implement this plan, in the Communication 10)Investing today for tomorrow's Europe
+                   (, the Commission proposed a package of measures to channel financial support towards energy and high speed broadband networks.11)
+            (10)
+         As part of the European Economic Recovery Plan, the Commission has launched Public-Private Partnerships that aim to further develop green technologies and smart energy infrastructures in the buildings, manufacturing and transport domains: the Energy Efficient Buildings, Factories of the Future and Green Cars Initiatives, respectively.
+            (11)
+         In December 2008, the Commission adopted, as part of the Green Transport initiative, an Action Plan for the Deployment of Intelligent Transport Systems in Europe and an accompanying Proposal for a Directive laying down the framework for the deployment of Intelligent Transport Systems (ITS) in the field of road transport and interfaces with other transport modes
+             (. The Commission proposed specific measures aimed to accelerate the deployment of ITS with the aim of improving energy efficiency in transport systems.12)
+            (12)
+         Energy use by ICT equipment and services represents about 8% of electrical power in the EU, and about 2% of carbon emissions
+             (. The Directive 2005/32/EC of the European Parliament and of the Council of 6 July 2005 establishing a framework for the setting of ecodesign requirements for energy-using products13) ( provides EU-wide rules for placing energy-using products on the market, including ICT products, in relation to their energy efficiency and environmental performance over their full life-cycle. The Directive also gives opportunities to voluntary initiatives tabled by industry.14)
+            (13)
+         In its Communication 
+            on mobilising Information and Communications Technologies to facilitate the transition to an energy-efficient, low-carbon economy
+                   (, the Commission underscored the untapped potential for the ICT sector to focus on systemic improvements to its own processes, including operations, manufacturing, service delivery and supply chain management.15)
+            (14)
+         The results of a public consultation
+             ( published in September 2009 confirmed that different companies currently pursue different strategies to improve their energy and environmental performance. A co-ordinated approach would better highlight opportunities, focus investment and yield economic benefits for the sector as a whole, as well as contributing to energy-efficiency goals.16)
+            (15)
+         Setting ambitious targets by the ICT sector for improving the energy and environmental performance of its processes is of the utmost importance. Progress towards such targets should be measurable and verifiable. Targets should be updated as more reliable baseline data becomes available. The ICT sector has expressed an interest in setting up an ICT for Energy Efficiency (ICT4EE) Forum that would work to adopt and implement a framework to measure the sector's energy and carbon footprints, set targets and benchmark progress.
+            (16)
+         For the purposes of this Recommendation, the ICT sector refers to the ICT manufacturing industries, ICT trade industries and ICT services industries as defined by the Organisation for Economic Co-operation and Development
+             (.17)
+            (17)
+         It is estimated that ICT-enabled improvements in other sectors could save about 15% of total carbon emissions by 2020
+             (. Significant ICT-enabled energy efficiency gains are expected to be achievable in the short term in buildings and construction, in transport logistics and energy end-use.18)
+            (18)
+         The ICT sector can deliver simulation, modelling, analysis, monitoring and visualisation tools that are vitally needed to facilitate a whole building approach to the design and operation of buildings that takes into account the many factors that influence energy demand. However investments are hampered by the absence of a sector-wide reliable and transparent means of quantifying and tracking energy and cost savings over time, which ideally would form the basis of design strategies and tools.
+            (19)
+         Transport and logistics industries rely heavily on the use of ICT for the functioning and optimisation of their overall operations, in particular transportation and storage requirements. They are thus well-positioned to take a leading role in optimising the energy and carbon footprints of their services and providing relevant information to customers.
+            (20)
+         In the buildings and construction, and transport and logistics domains, a need for comparable methodologies for measuring energy performance and carbon emissions has already been identified, and work to this end has already been initiated. Common methodologies should serve to provide reliable data and a basis upon which ICT tools could be developed.
+            (21)
+         Partnerships between sectors could accelerate the development and wide-scale roll-out of ICT-based solutions for monitoring, managing and measuring energy-use and carbon emissions in energy-using activities, thus helping to provide a reliable basis for energy-saving and emissions-reducing decisions.
+            (22)
+         Smart metering can provide real-time information flows and the possibility of new control loops, thereby enabling better management and control of energy, and influencing final consumption by consumers, in particular when metering is accompanied by informative billing. Several Member States have introduced, or are considering legal obligations to introduce, smart metering. Concerted action by Member States to set minimum functional specifications for smart meters would help avoid technical barriers, ensure interoperability and enable the introduction of innovative ICT-based applications for managing energy end-use.
+            (23)
+         Smart metering and smart grids are important means to maximise energy savings in buildings, for the widespread deployment of electric vehicles, and for efficient energy supply and distribution and for integrating renewable energy sources. Applications and services stemming from such developments will likely give rise to new sectors of economic activity, involving actors from both the energy and ICT sectors. The conditions conducive to spawning new markets should be considered alongside pilot schemes and other exploratory initiatives.
+            (24)
+         For the purposes of this Recommendation, dematerialisation of ICT should be understood as reducing the need for the physical equipment that underlies electronic services delivery. Dematerialisation is of particular relevance to public procurement of ICT. This can be achieved by optimising the use of existing physical resources, by optimising the configuration of ICT systems and by ensuring that extensions or upgrades to existing systems are not contractually or technically limited.
+            (25)
+         There is a readiness at all levels of government to engage in activities to improve energy efficiency and reduce carbon emissions, as evidenced by the public consultation referred to in recital 14. The role of ICT in achieving these objectives is also the focus of ongoing initiatives by public authorities across Europe. Effective cooperation among national, regional and local levels of Member State governments is needed to ensure coherence between measures, exploit positive synergy between them and build a body of collective knowledge from sharing the results of experience.
+            (26)
+         It is estimated that the wider use of applications such as, on-line public services and applications, and advanced collaboration technologies could save at least 1 to 2% of total energy-use by 2020 worldwide
+             (. For the EU to generate savings on a large scale, a Europe-wide broadband infrastructure will be essential.19)
+            (27)
+         No single organisation or group of stakeholders can act effectively alone. Concerted action by many organisations, in both the public and private sectors, including partnerships at city and regional levels, can pioneer systemic change across society. Moreover, the Commission wishes to encourage the exchange of best practices on the use of ICT solutions to improve energy efficiency.
+            (28)
+         Engagement at national, regional and local level is necessary if real progress is to be made. It is therefore up to the Member States national, regional and local policy makers to confirm their full commitment to facilitating the timely implementation of the measures set out in this Recommendation.
+            HEREBY RECOMMENDS that the Information and Communication Technologies sector
+   In order to curtail its growing share of global carbon emissions and strengthen the potential of Information and Communication Technologies (ICT) to play a central and critical role in the transition to an energy-efficient, low carbon economy,
+            (1)
+         commits to a progressive decarbonisation process leading to a measurable and verifiable reduction in energy intensity and carbon emissions of all processes involved in the production, transport and sales of ICT equipment and components.
+            (2)
+         participates, through its sector associations, in an exercise to be initiated by the European Commission that aims to:
+                        (a)
+                     develop a framework to measure its energy and environmental performance, for which the sector will be expected to contribute the baseline data by 2010;
+                        (b)
+                     adopt and implement common methodologies to this end by 2011;
+                        (c)
+                     identify, by 2011, energy efficiency targets that aim to exceed the EU 2020 targets by 2015;
+                        (d)
+                     issue a roadmap within three months of adoption of this Recommendation, thereafter annual reports;
+            (3)
+         works with the European Commission and other relevant public bodies and international organisations in order to develop an auditing and verification framework assessing whether and how energy intensity and carbon emissions reduction targets will be met by individual companies.
+            (4)
+         in close cooperation with the buildings and construction sector identifies ICT solutions to improve the environmental and energy performance of new and existing buildings, and construction and renovation practices, leading to a joint roadmap for large-scale adoption of such solutions.
+            (5)
+         in close cooperation with the buildings and construction sector addresses barriers to the wider use of ICT modelling and simulation tools and other relevant applications that facilitate and assist compliance with applicable regulatory regimes governing buildings performance.
+            (6)
+         in close cooperation with the transport and logistics sector identifies ICT solutions to improve the environmental and energy performance of their services, leading to a joint roadmap for large-scale adoption of such solutions, in coordination with the work carried out under the ITS Action Plan.
+            (7)
+         in close cooperation with the transport and logistics sector drafts a systematic framework to provide comprehensive, comparable and reliable data on the energy consumption and carbon emissions of freight and transport operations and services to all potential users.
+            HEREBY RECOMMENDS THAT MEMBERS STATES:
+   In order to ensure full coherence of ICT policies with national, local and regional approaches to making the transition to an energy-efficient, low-carbon economy,
+            (8)
+         through their competent national authorities:
+                        (a)
+                     by the end of 2010 at the latest, agree on a common minimum functional specification for smart metering that focuses on providing consumers with improved information on, and improved capabilities to manage, their energy consumption;
+                        (b)
+                     by the end of 2012 at the latest, set up a coherent timeframe for the rollout of smart metering.
+            (9)
+         adopt and implement procurement practices that leverage the strength of public sector demand to promote the dematerialisation of ICT goods and services.
+            (10)
+         facilitate, at all levels of administration, the use of relevant ICT tools to better understand the implications of different policies and avoid negative spill-over effects from their interaction.
+            (11)
+         encourage the use of energy simulation and modelling in the education and training of professionals in critical sectors, in particular:
+                        (a)
+                     architects, builders and installers;
+                        (b)
+                     energy auditors;
+                        (c)
+                     logistics and the transport of goods or persons;
+                        (d)
+                     public services, planning and policy functions.
+            (12)
+         through their national, regional and local authorities, pursue, and, where necessary, upgrade strategies for the roll-out of a dependable, high-speed, broadband infrastructure to facilitate monitoring and management of consumption, distribution and production of energy including renewables, and the introduction of community-wide systems such as smart metering, smart-grids and smart-cities.
+            (13)
+         in addition to their obligation foreseen in the Art. 3.11 and Annex I.2 of the Directive 2009/72/EC for the internal market in electricity
+             ( engage all relevant stakeholders in large-scale pilots and demonstrations of smart metering and smart grids, to build consensus on the requirements for the emergence of future ICT-enabled innovations.20)
+            (14)
+         through their national, regional and local authorities, make use of open digital platforms to facilitate an integrated approach to urban planning and public service delivery, and to support knowledge-sharing, catalogues of best practices, and the maintenance of easily accessible information repositories.
+            (15)
+         through their national, regional and local authorities, open up opportunities for creative forms of collaboration and problem-solving at the community level through calls for ideas, competitions, and where possible by providing open access to a wide range of public digital resources and public data.
+            (16)
+         through their national, regional and local authorities, extend the benefits of substituting offline administrative processes with online applications and services, which realise energy efficiency improvements, to all segments of their communities.
+            HEREBY INVITES the Member States:
+   to inform the Commission of action taken in response to this Recommendation within 12 months of its publication, and once a year thereafter.
+   Done at Brussels, 9 October 2009.
+         For the Commission
+         Viviane 
+         REDING
+      Member of the Commission
+   (  1)OJ L 114, 27.4.2006, p. 64.
+   (  As mentioned in the Synthesis of the complete assessment of all 27 National Energy Efficiency Action Plans, ‘Moving forward together on saving energy’, SEC(2009)889 final, required by Directive 2006/32/EC.2)
+   (  COM(2006) 545.3)
+   (  COM(2008) 30.4)
+   (  Conclusions of the European Council 11 and 12, December 2008 - Presidency conclusions, 17271/1/08 REV 1, 13 February 2009.5)
+   (  COM(2008) 241.6)
+   (  COM(2008) 397.7)
+   (  COM(2003) 302.8)
+   (  The International Reference Life Cycle Reference System (ILCD) Handbook and supporting Data Network. http://lct.jrc.ec.europa.eu/eplca/deliverables/international-reference-life-cycle-data-system-ilcd-handbook.9)
+   (  COM(2008) 800, A European Economic Recovery Plan.10)
+   (  COM(2009) 36.11)
+   (  COM(2008) 886, Action Plan for the Deployment of Intelligent Transport Systems in Europe and COM(2008) 887, Proposal for a Directive: Framework for the deployment of Intelligent Transport Systems in the field of road transport and for interfaces with other transport modes.12)
+   (  Bio Intelligence ‘Impacts of Information and Communication Technologies on Energy Efficiency’.13)
+   (  14)OJ L 191, 22.7.2005, p. 29.
+   (  COM(2009) 111 final.15)
+   (  Public Consultation on Information and Communication Technologies for a Low Carbon Society, March 30 - June 14, 2009.16)
+   (  OECD Guide to Measuring the Information Society, Rev. July 2009. www.oecd.org/sti/measuring-infoeconomy/guide.17)
+   (  SMART 2020: Enabling the low carbon economy in the information age, a report by The Climate Group on behalf of the Global eSustainability Initiative (GeSI).18)
+   (  SMART 2020: Enabling the low carbon economy in the information age, a report by The Climate Group on behalf of the Global eSustainability Initiative (GeSI).19)
+   (  20)OJ L 211, 14.8.2009, p. 55.

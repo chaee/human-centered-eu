@@ -1,0 +1,375 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML//EN" "xhtml-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<!-- CONVEX # converter_version:6.7.1 # generated_on:20160428-1507 -->
+<head>
+   <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
+   <link type="text/css" rel="stylesheet"
+         href="http://publications.europa.eu/resource/presentation-style-sheet/oj/oj.css"/>
+   <title>L_2014102EN.01001801.xml</title>
+</head>
+<body>
+   <table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <col width="10%"/>
+      <col width="10%"/>
+      <col width="60%"/>
+      <col width="20%"/>
+      <tbody>
+         <tr>
+            <td>
+               <p class="hd-date">5.4.2014   </p>
+            </td>
+            <td>
+               <p class="hd-lg">EN</p>
+            </td>
+            <td>
+               <p class="hd-ti">Official Journal of the European Union</p>
+            </td>
+            <td>
+               <p class="hd-oj">L 102/18</p>
+            </td>
+         </tr>
+      </tbody>
+   </table>
+   <hr class="separator"/>
+   <p class="doc-ti" id="d1e39-18-1">COMMISSION IMPLEMENTING DECISION</p>
+   <p class="doc-ti">of 3 April 2014</p>
+   <p class="doc-ti">on the identification of ICT technical specifications eligible for referencing in public procurement</p>
+   <p class="doc-ti">
+      <span class="sp-normal">
+         <span class="italic">(notified under document C(2014) 2120)</span>
+      </span>
+   </p>
+   <p class="doc-ti">
+      <span class="sp-normal">(2014/188/EU)</span>
+   </p>
+   <p class="normal">THE EUROPEAN COMMISSION,</p>
+   <p class="normal">Having regard to the Treaty on the Functioning of the European Union,</p>
+   <p class="normal">Having regard to Regulation (EU) No 1025/2012 of the European Parliament and of the Council of 25 October 2012 on European standardisation, amending Council Directives 89/686/EEC and 93/15/EEC and Directives 94/9/EC, 94/25/EC, 95/16/EC, 97/23/EC, 98/34/EC, 2004/22/EC, 2007/23/EC, 2009/23/EC and 2009/105/EC of the European Parliament and of the Council and repealing Council Decision 87/95/EEC and Decision No 1673/2006/EC of the European Parliament and of the Council<a id="ntc1-L_2014102EN.01001801-E0001" href="#ntr1-L_2014102EN.01001801-E0001"> (<span class="super">1</span>)</a>, and in particular Article 13(1) thereof,</p>
+   <p class="normal">After consulting the European multi-stakeholder platform on ICT standardisation,</p>
+   <p class="normal">Whereas:</p>
+   <table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <col width="4%"/>
+      <col width="96%"/>
+      <tbody>
+         <tr>
+            <td valign="top">
+               <p class="normal">(1)</p>
+            </td>
+            <td valign="top">
+               <p class="normal">Standardisation plays an important role in supporting the Europe 2020 strategy, as set out in the Communication from the Commission entitled ‘Europe 2020: a strategy for smart, sustainable and inclusive growth’<a id="ntc2-L_2014102EN.01001801-E0002" href="#ntr2-L_2014102EN.01001801-E0002"> (<span class="super">2</span>)</a>. Several flagship initiatives of the Europe 2020 strategy underline the importance of voluntary standardisation in product or services markets to assure the compatibility and interoperability between products and services, foster technological development and support innovation.</p>
+            </td>
+         </tr>
+      </tbody>
+   </table>
+   <table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <col width="4%"/>
+      <col width="96%"/>
+      <tbody>
+         <tr>
+            <td valign="top">
+               <p class="normal">(2)</p>
+            </td>
+            <td valign="top">
+               <p class="normal">In the digital society standardisation deliverables become indispensable to ensure the interoperability between devices, applications, data repositories, services and networks. The Communication from the Commission entitled ‘A strategic vision for European standards: moving forward to enhance and accelerate the sustainable growth of the European economy by 2020’<a id="ntc3-L_2014102EN.01001801-E0003" href="#ntr3-L_2014102EN.01001801-E0003"> (<span class="super">3</span>)</a> recognises the specificity of ICT standardisation where ICT solutions, applications and services are often developed by global ICT Fora and Consortia that have emerged as leading ICT standards development organisations.</p>
+            </td>
+         </tr>
+      </tbody>
+   </table>
+   <table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <col width="4%"/>
+      <col width="96%"/>
+      <tbody>
+         <tr>
+            <td valign="top">
+               <p class="normal">(3)</p>
+            </td>
+            <td valign="top">
+               <p class="normal">Regulation (EU) No 1025/2012 aims at modernising and improving the European standardisation framework. It establishes a system whereby the Commission may decide to identify the most relevant and most widely accepted ICT technical specifications issued by organisations that are not European, international or national standardisation organisations. The possibility to use the full range of ICT technical specifications when procuring hardware, software and information technology services will enable interoperability, will help avoid lock-in for public administrations and will encourage competition in the supply of interoperable ICT solutions.</p>
+            </td>
+         </tr>
+      </tbody>
+   </table>
+   <table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <col width="4%"/>
+      <col width="96%"/>
+      <tbody>
+         <tr>
+            <td valign="top">
+               <p class="normal">(4)</p>
+            </td>
+            <td valign="top">
+               <p class="normal">The ICT technical specifications that may be eligible for referencing in public procurement must comply with the requirements set out in Annex II to Regulation (EU) No 1025/2012. Compliance with those requirements guarantees the public authorities that the ICT technical specifications are established in accordance with the principles of openness, fairness, objectivity and non-discrimination that are recognised by the World Trade organisation (WTO) in the field of standardisation.</p>
+            </td>
+         </tr>
+      </tbody>
+   </table>
+   <table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <col width="4%"/>
+      <col width="96%"/>
+      <tbody>
+         <tr>
+            <td valign="top">
+               <p class="normal">(5)</p>
+            </td>
+            <td valign="top">
+               <p class="normal">The decision to identify the ICT specifications is to be adopted after consultation of the European multi-stakeholder platform on ICT standardisation set up by Commission Decision 2011/C 349/04<a id="ntc4-L_2014102EN.01001801-E0004" href="#ntr4-L_2014102EN.01001801-E0004"> (<span class="super">4</span>)</a> complemented by other forms of consultation of sectoral experts.</p>
+            </td>
+         </tr>
+      </tbody>
+   </table>
+   <table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <col width="4%"/>
+      <col width="96%"/>
+      <tbody>
+         <tr>
+            <td valign="top">
+               <p class="normal">(6)</p>
+            </td>
+            <td valign="top">
+               <p class="normal">On 17 October 2013, the European multi-stakeholder platform on ICT standardisation evaluated a first set of six ICT technical specifications: internet Protocol version 6 (‘IPv6’), Lightweight Directory Access Protocol version 3 (‘LDAPv3’), Domain Name System Security Extensions (‘DNSSEC’), DomainKeys Identified Mail Signatures (‘DKIM’), ECMAScript-402 Internationalisation Specification (‘ECMA-402’) and Extensible Markup Language version 1.0 (‘W3C XML’). The platform gave a positive advice concerning the identification of those specifications. The six technical specifications were subsequently submitted to a broad public consultation that confirmed the advice of the Platform.</p>
+            </td>
+         </tr>
+      </tbody>
+   </table>
+   <table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <col width="4%"/>
+      <col width="96%"/>
+      <tbody>
+         <tr>
+            <td valign="top">
+               <p class="normal">(7)</p>
+            </td>
+            <td valign="top">
+               <p class="normal">‘IPv6’ specification issued by the internet Engineering Task Force (IETF) comprises a set of technical specifications to be applied to a broad range of equipment and services through different sets of ‘Requests for Comments’ (RFCs). Depending on the context and the application, public procurers would need to select those RFCs that are needed for each product or service without hampering interoperability. ‘IPv6’ expands the number of available IP addresses thereby allowing the increasing number of operating systems, web servers, search engines and multimedia sites to interact successfully. ‘IPv6’ is based on advanced technological developments and supports the continuing growth of the internet, enabling new internet scenarios such as internet of Things.</p>
+            </td>
+         </tr>
+      </tbody>
+   </table>
+   <table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <col width="4%"/>
+      <col width="96%"/>
+      <tbody>
+         <tr>
+            <td valign="top">
+               <p class="normal">(8)</p>
+            </td>
+            <td valign="top">
+               <p class="normal">‘LDAPv3’ is an internet Protocol issued by internet Engineering Task Force (IETF) for accessing distributed directory services that act in accordance with X.500 data and service models. ‘LDAPv3’ is specified in a series of IETF Standard Track ‘Requests For Comments’ (RFCs) set out in detail in RFC 4510-to-4519 and is able to ensure a high availability with a replication of LDAP servers. Most products for directory services with relevance to the market support ‘LDAPv3’. This is a stable technology that has the potential to increase interoperability and constitutes a de-facto standard for authentication, authorisation and user-/address-directories for ICT systems that can provide better accessibility and continuity especially for public services to be delivered by the public administration.</p>
+            </td>
+         </tr>
+      </tbody>
+   </table>
+   <table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <col width="4%"/>
+      <col width="96%"/>
+      <tbody>
+         <tr>
+            <td valign="top">
+               <p class="normal">(9)</p>
+            </td>
+            <td valign="top">
+               <p class="normal">‘DNSSEC’ was issued by internet Engineering Task Force (IETF) and is a security extension of the Domain Name System (DNS) that provides data origin authentication and data integrity protection to the Domain Name System (DNS) itself. The ‘DNSSEC’ identification comprises the set of documents that form the core of the DNS security extensions that are needed to support public procurement of the ‘DNSSEC’ block. With ‘DNSSEC’ the DNS is better suited for the exchange of security service parameters that are coupled to domain names. This enhances the trust in the DNS (a critical and fundamental internet service) as a whole and thereby allows its use for certificate storage, distribution and verification infrastructure of applications.</p>
+            </td>
+         </tr>
+      </tbody>
+   </table>
+   <table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <col width="4%"/>
+      <col width="96%"/>
+      <tbody>
+         <tr>
+            <td valign="top">
+               <p class="normal">(10)</p>
+            </td>
+            <td valign="top">
+               <p class="normal">‘DKIM’ is an ICT technical specification developed by internet Engineering Task Force (IETF) that permits a person, role or organisation that owns the signing domain to claim some responsibility for a message by associating the domain with the message. DKIM separates the question of the identity of the signer of the message from the purported author of the message. Assertion of responsibility is validated through a cryptographic signature and by querying the signer's domain directly to retrieve the appropriate public key. ‘DKIM’ is implemented across several market sectors, i.e. the financial and banking sector, e-mail providers, social networks or internet commerce providers. If used by public authorities, ‘DKIM’ would establish a basic level of trust in the origin of communications so that interoperability between sending and receiving organisations improves.</p>
+            </td>
+         </tr>
+      </tbody>
+   </table>
+   <table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <col width="4%"/>
+      <col width="96%"/>
+      <tbody>
+         <tr>
+            <td valign="top">
+               <p class="normal">(11)</p>
+            </td>
+            <td valign="top">
+               <p class="normal">‘ECMA-402’ developed by Ecma International is a general multipurpose programming language described by several specifications that adapt to the linguistic and cultural conventions used by different human languages and countries. The range of ECMAScript is a widely used programming language on the Web, also in Europe. Its usage is very broad, covering web-client based applications like web-browsers, or server-based applications like electronic banking, e-mail severs or even computer games and is also an important programming language used for the World Wide Web. The internationalisation features offered by ECMA-402 are a particularly relevant enhancement of ECMAScript for the multi-linguistic European environment. ECMAScript specifications and standards effectively contribute to an improved interoperability and are very commonly included in national lists of interoperability standards and specifications for public procurement purposes.</p>
+            </td>
+         </tr>
+      </tbody>
+   </table>
+   <table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <col width="4%"/>
+      <col width="96%"/>
+      <tbody>
+         <tr>
+            <td valign="top">
+               <p class="normal">(12)</p>
+            </td>
+            <td valign="top">
+               <p class="normal">‘W3C XML’, issued by World Wide Web Consortium (W3C), is a package of related data structuring specifications that promote widely-scalable sharing of information and computational resources. XML version 1.0 is one of the most widely-used formats for sharing structured information today and many other data format specifications are built on extensions of XML. Its pervasive use as both a person-to-person format and a computer-to-computer format for communicating information makes it an inextricable element of most internet usage. Procurers would need to select the specifications that match the requirements for which they need to procure. The widespread penetration of XML in the world's data stores and networks will ensure that it will be a key format for global ICT interoperability among applications, services and products for decades to come,</p>
+            </td>
+         </tr>
+      </tbody>
+   </table>
+   <p class="normal">HAS ADOPTED THIS DECISION:</p>
+   <p id="d1e279-18-1" class="ti-art">Article 1</p>
+   <p class="normal">ICT technical specifications eligible for referencing in public procurement are set out in the Annex.</p>
+   <p id="d1e284-18-1" class="ti-art">Article 2</p>
+   <p class="normal">This Decision shall enter into force on the twentieth day following that of its publication in the <span class="italic">Official Journal of the European Union</span>.</p>
+   <div class="final">
+      <p class="normal">Done at Brussels, 3 April 2014.</p>
+      <div class="signatory">
+         <p class="signatory">
+            <span class="italic">For the Commission</span>
+         </p>
+         <p class="signatory">
+            <span class="italic">The President</span>
+         </p>
+         <p class="signatory">José Manuel BARROSO</p>
+      </div>
+   </div>
+   <hr class="note"/>
+   <p class="note">
+      <a id="ntr1-L_2014102EN.01001801-E0001" href="#ntc1-L_2014102EN.01001801-E0001">(<span class="super">1</span>)</a>  <a href="http://publications.europa.eu/resource/oj/JOL_2012_316_R_TOC">OJ L 316, 14.11.2012, p. 12</a>.</p>
+   <p class="note">
+      <a id="ntr2-L_2014102EN.01001801-E0002" href="#ntc2-L_2014102EN.01001801-E0002">(<span class="super">2</span>)</a>  COM(2010) 2020 final of 3 March 2010.</p>
+   <p class="note">
+      <a id="ntr3-L_2014102EN.01001801-E0003" href="#ntc3-L_2014102EN.01001801-E0003">(<span class="super">3</span>)</a>  COM(2011) 311 final of 1 June 2011.</p>
+   <p class="note">
+      <a id="ntr4-L_2014102EN.01001801-E0004" href="#ntc4-L_2014102EN.01001801-E0004">(<span class="super">4</span>)</a>  Commission Decision 2011/C 349/04 of 28 November 2011 setting up the European multi-stakeholder platform on ICT standardisation (<a href="http://publications.europa.eu/resource/oj/JOC_2011_349_R_TOC">OJ C 349, 30.11.2011, p. 4</a>).</p>
+   <hr class="doc-sep"/>
+   <div id="L_2014102EN.01002101">
+      <p class="doc-ti" id="d1e32-21-1">ANNEX</p>
+      <p class="ti-tbl" id="d1e38-21-1-table">
+         <span class="italic">Table 1</span>
+      </p>
+      <p class="ti-tbl">
+         <span class="bold">Internet Engineering Task Force (IETF)</span>
+         <a id="ntc1-L_2014102EN.01002101-E0001" href="#ntr1-L_2014102EN.01002101-E0001"> (<span class="super">1</span>)</a>
+      </p>
+      <table width="100%" border="0" cellspacing="0" cellpadding="0" class="table">
+         <col width="28%"/>
+         <col width="72%"/>
+         <tbody>
+            <tr class="table">
+               <td valign="top" class="table">
+                  <p class="tbl-hdr">No</p>
+               </td>
+               <td valign="top" class="table">
+                  <p class="tbl-hdr">Title of ICT technical specification</p>
+               </td>
+            </tr>
+            <tr class="table">
+               <td valign="top" class="table">
+                  <p class="tbl-txt">1</p>
+               </td>
+               <td valign="top" class="table">
+                  <p class="tbl-txt">Internet Protocol version 6 (‘IPv6’)</p>
+               </td>
+            </tr>
+            <tr class="table">
+               <td valign="top" class="table">
+                  <p class="tbl-txt">2</p>
+               </td>
+               <td valign="top" class="table">
+                  <p class="tbl-txt">Lightweight Directory Access Protocol version 3 (‘LDAPv3’)</p>
+               </td>
+            </tr>
+            <tr class="table">
+               <td valign="top" class="table">
+                  <p class="tbl-txt">3</p>
+               </td>
+               <td valign="top" class="table">
+                  <p class="tbl-txt">Domain Name System Security Extensions (‘DNSSEC’)</p>
+               </td>
+            </tr>
+            <tr class="table">
+               <td valign="top" class="table">
+                  <p class="tbl-txt">4</p>
+               </td>
+               <td valign="top" class="table">
+                  <p class="tbl-txt">DomainKeys Identified Mail Signatures (‘DKIM’)</p>
+               </td>
+            </tr>
+         </tbody>
+      </table>
+      <p>
+         <br/>
+      </p>
+      <p class="ti-tbl" id="d1e97-21-1-table">
+         <span class="italic">Table 2</span>
+      </p>
+      <p class="ti-tbl">
+         <span class="bold">Ecma International</span>
+         <a id="ntc2-L_2014102EN.01002101-E0002" href="#ntr2-L_2014102EN.01002101-E0002"> (<span class="super">2</span>)</a>
+      </p>
+      <table width="100%" border="0" cellspacing="0" cellpadding="0" class="table">
+         <col width="20%"/>
+         <col width="80%"/>
+         <tbody>
+            <tr class="table">
+               <td valign="top" class="table">
+                  <p class="tbl-hdr">No</p>
+               </td>
+               <td valign="top" class="table">
+                  <p class="tbl-hdr">Title of ICT technical specification</p>
+               </td>
+            </tr>
+            <tr class="table">
+               <td valign="top" class="table">
+                  <p class="tbl-txt">1</p>
+               </td>
+               <td valign="top" class="table">
+                  <p class="tbl-txt">ECMAScript-402 Internationalisation Specification (‘ECMA-402’)</p>
+               </td>
+            </tr>
+         </tbody>
+      </table>
+      <p>
+         <br/>
+      </p>
+      <p class="ti-tbl" id="d1e129-21-1-table">
+         <span class="italic">Table 3</span>
+      </p>
+      <p class="ti-tbl">
+         <span class="bold">World Wide Web Consortium (W3C)</span>
+         <a id="ntc3-L_2014102EN.01002101-E0003" href="#ntr3-L_2014102EN.01002101-E0003"> (<span class="super">3</span>)</a>
+      </p>
+      <table width="100%" border="0" cellspacing="0" cellpadding="0" class="table">
+         <col width="28%"/>
+         <col width="72%"/>
+         <tbody>
+            <tr class="table">
+               <td valign="top" class="table">
+                  <p class="tbl-hdr">No</p>
+               </td>
+               <td valign="top" class="table">
+                  <p class="tbl-hdr">Title of ICT technical specification</p>
+               </td>
+            </tr>
+            <tr class="table">
+               <td valign="top" class="table">
+                  <p class="tbl-txt">1</p>
+               </td>
+               <td valign="top" class="table">
+                  <p class="tbl-txt">Extensible Markup Language version 1.0 (‘W3C XML’)</p>
+               </td>
+            </tr>
+         </tbody>
+      </table>
+      <hr class="note"/>
+      <p class="note">
+         <a id="ntr1-L_2014102EN.01002101-E0001" href="#ntc1-L_2014102EN.01002101-E0001">(<span class="super">1</span>)</a>  IETF c/o internet Society, 1775 Wiehle Avenue, Suite 201, Reston, VA USA (http://www.ietf.org/).</p>
+      <p class="note">
+         <a id="ntr2-L_2014102EN.01002101-E0002" href="#ntc2-L_2014102EN.01002101-E0002">(<span class="super">2</span>)</a>  Ecma International, Rue du Rhône 14, CH-1204 Geneva, Tel. +41 228496000, Fax +41 228496001 (http://www.ecma-international.org/).</p>
+      <p class="note">
+         <a id="ntr3-L_2014102EN.01002101-E0003" href="#ntc3-L_2014102EN.01002101-E0003">(<span class="super">3</span>)</a>  W3C, 2004 route de Lucioles, Sophia-Antipolis, Biot 06410, Tel. +33 492385076, Fax +33 492387822 (http://www.w3.org/).</p>
+   </div>
+   <hr class="doc-end"/>
+</body>
+</html>

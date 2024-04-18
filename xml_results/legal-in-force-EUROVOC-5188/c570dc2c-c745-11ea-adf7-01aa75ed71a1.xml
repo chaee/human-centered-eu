@@ -1,0 +1,2042 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML//EN" "xhtml-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><!-- CONVEX # converter_version:9.3.0 # generated_on:20200716-1044 --><head>
+      <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
+      <link type="text/css" rel="stylesheet" href="oj-convex.css"/>
+      <title>L_2020227EN.01001201.xml</title>
+   </head>
+   <body>
+      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+         <col width="10%"/>
+         <col width="10%"/>
+         <col width="60%"/>
+         <col width="20%"/>
+         <tbody>
+            <tr>
+               <td  >
+                  <p class="oj-hd-date">16.7.2020   </p>
+               </td>
+               <td  >
+                  <p class="oj-hd-lg">EN</p>
+               </td>
+               <td  >
+                  <p class="oj-hd-ti">Official Journal of the European Union</p>
+               </td>
+               <td  >
+                  <p class="oj-hd-oj">L 227/12</p>
+               </td>
+            </tr>
+         </tbody>
+      </table>
+      <hr class="oj-separator"/>
+      <div>
+         <p class="oj-doc-ti" id="d1e40-12-1">COMMISSION IMPLEMENTING REGULATION (EU) 2020/1030</p>
+         <p class="oj-doc-ti">of 15 July 2020</p>
+         <p class="oj-doc-ti">laying down the technical specifications of data requirements for the topic ‘ICT usage and e-commerce’ for the reference year 2021, pursuant to Regulation (EU) 2019/2152 of the European Parliament and of the Council</p>
+         <p class="oj-doc-ti">(Text with EEA relevance)</p>
+         <p class="oj-normal">THE EUROPEAN COMMISSION,</p>
+         <p class="oj-normal">Having regard to the Treaty on the Functioning of the European Union,</p>
+         <p class="oj-normal">Having regard to Regulation (EU) 2019/2152 of the European Parliament and of the Council of 27 November 2019 on European business statistics, repealing 10 legal acts in the field of business statistics <a id="ntc1-L_2020227EN.01001201-E0001" href="#ntr1-L_2020227EN.01001201-E0001"
+               >(<span class="oj-super oj-note-tag">1</span>)</a>, and in particular Article 7(1) and Article 17(6) thereof,</p>
+         <p class="oj-normal">Whereas:</p>
+         <table width="100%" border="0" cellspacing="0" cellpadding="0">
+            <col width="4%"/>
+            <col width="96%"/>
+            <tbody>
+               <tr>
+                  <td valign="top"  >
+                     <p class="oj-normal">(1)</p>
+                  </td>
+                  <td valign="top"  >
+                     <p class="oj-normal">To ensure the correct implementation of the topic ‘ICT usage and e-commerce’ listed in Annex I to Regulation (EU) 2019/2152, the Commission should specify the variables, the measurement unit, the statistical population, the classifications and breakdowns and the data transmission deadline in order to produce data on ICT usage and e-commerce which is comparable and harmonised between Member States.</p>
+                  </td>
+               </tr>
+            </tbody>
+         </table>
+         <table width="100%" border="0" cellspacing="0" cellpadding="0">
+            <col width="4%"/>
+            <col width="96%"/>
+            <tbody>
+               <tr>
+                  <td valign="top"  >
+                     <p class="oj-normal">(2)</p>
+                  </td>
+                  <td valign="top"  >
+                     <p class="oj-normal">Member States should provide metadata and quality reports for the national statistical business registers and all business statistics. It is therefore necessary to define the arrangements for, content of and deadlines of those reports.</p>
+                  </td>
+               </tr>
+            </tbody>
+         </table>
+         <table width="100%" border="0" cellspacing="0" cellpadding="0">
+            <col width="4%"/>
+            <col width="96%"/>
+            <tbody>
+               <tr>
+                  <td valign="top"  >
+                     <p class="oj-normal">(3)</p>
+                  </td>
+                  <td valign="top"  >
+                     <p class="oj-normal">The measures provided for in this Regulation are in accordance with the opinion of the European Statistical System Committee,</p>
+                  </td>
+               </tr>
+            </tbody>
+         </table>
+         <p class="oj-normal">HAS ADOPTED THIS REGULATION:</p>
+         <div id="001">
+            <p id="d1e103-12-1" class="oj-ti-art">Article 1</p>
+            <p class="oj-normal">For the topic ‘ICT usage and e-commerce’, as referred to in Annex I to Regulation (EU) 2019/2152, Member States shall transmit the data according to the technical specifications of data requirements for the reference year 2021 in accordance with the Annex to this Regulation.</p>
+         </div>
+         <div id="002">
+            <p id="d1e112-12-1" class="oj-ti-art">Article 2</p>
+            <p class="oj-normal">The annual metadata report for the topic ‘ICT usage and e-commerce’, as referred to in Annex I to Regulation (EU) 2019/2152, shall be transmitted to the Commission (Eurostat) by 31 May 2021.</p>
+            <p class="oj-normal">The annual quality report for the topic ‘ICT usage and e-commerce’, as referred to in Annex I to Regulation (EU) 2019/2152, shall be transmitted to the Commission (Eurostat) by 5 November 2021.</p>
+         </div>
+         <div id="003">
+            <p id="d1e133-12-1" class="oj-ti-art">Article 3</p>
+            <p class="oj-normal">This Regulation shall enter into force on the twentieth day following that of its publication in the <span class="oj-italic">Official Journal of the European Union</span>.</p>
+         </div>
+         <div class="oj-final">
+            <p class="oj-normal">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+            <p class="oj-normal">Done at Brussels, 15 July 2020.</p>
+            <div class="oj-signatory">
+               <p class="oj-signatory">
+                  <span class="oj-italic">For the Commission</span>
+               </p>
+               <p class="oj-signatory">
+                  <span class="oj-italic">The President</span>
+               </p>
+               <p class="oj-signatory">Ursula VON DER LEYEN</p>
+            </div>
+         </div>
+         <hr class="oj-note"/>
+         <p class="oj-note">
+            <a id="ntr1-L_2020227EN.01001201-E0001" href="#ntc1-L_2020227EN.01001201-E0001"
+               >(<span class="oj-super">1</span>)</a>  <a href="http://publications.europa.eu/resource/oj/JOL_2019_327_R_TOC"
+               >OJ L 327, 17.12.2019, p. 1</a>.</p>
+      </div>
+      <hr class="oj-doc-sep"/>
+      <div id="L_2020227EN.01001401">
+         <div>
+            <p class="oj-doc-ti" id="d1e32-14-1">ANNEX</p>
+            <p class="oj-doc-ti">Technical specifications of data requirements for the topic ‘ICT usage and e-commerce’</p>
+            <table width="100%" border="0" cellspacing="0" cellpadding="0" class="oj-table">
+               <col width="30%"/>
+               <col width="23%"/>
+               <col width="47%"/>
+               <tbody>
+                  <tr class="oj-table">
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-hdr">Mandatory/optional</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-hdr">Scope (filter)</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-hdr">Variable</p>
+                     </td>
+                  </tr>
+                  <tr class="oj-table">
+                     <td valign="top" class="oj-table" rowspan="11" >
+                        <p class="oj-tbl-txt">Mandatory variables</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                           <col width="4%"/>
+                           <col width="96%"/>
+                           <tbody>
+                              <tr>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">(i)</p>
+                                 </td>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">for all enterprises:</p>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                           <col width="4%"/>
+                           <col width="96%"/>
+                           <tbody>
+                              <tr>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">(1)</p>
+                                 </td>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">main economic activity of the enterprise, in the previous calendar year</p>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                           <col width="4%"/>
+                           <col width="96%"/>
+                           <tbody>
+                              <tr>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">(2)</p>
+                                 </td>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">average number of employees and self-employed persons, in the previous calendar year</p>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                           <col width="4%"/>
+                           <col width="96%"/>
+                           <tbody>
+                              <tr>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">(3)</p>
+                                 </td>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">total value of turnover (excluding VAT), in the previous calendar year</p>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                           <col width="4%"/>
+                           <col width="96%"/>
+                           <tbody>
+                              <tr>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">(4)</p>
+                                 </td>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">number of employees and self-employed persons or percentage of the total number of employees and self-employed persons who have access to the internet for business purposes</p>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                     </td>
+                  </tr>
+                  <tr class="oj-table">
+                     <td valign="top" class="oj-table"  >
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                           <col width="4%"/>
+                           <col width="96%"/>
+                           <tbody>
+                              <tr>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">(ii)</p>
+                                 </td>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">for enterprises with employees and self-employed persons who have access to the internet for business purposes:</p>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                           <col width="4%"/>
+                           <col width="96%"/>
+                           <tbody>
+                              <tr>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">(5)</p>
+                                 </td>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">internet connection: use of any type of fixed line connection</p>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                           <col width="4%"/>
+                           <col width="96%"/>
+                           <tbody>
+                              <tr>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">(6)</p>
+                                 </td>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">use of the following social media: social networks</p>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                           <col width="4%"/>
+                           <col width="96%"/>
+                           <tbody>
+                              <tr>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">(7)</p>
+                                 </td>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">use of the following social media: enterprise’s blog or microblogs</p>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                           <col width="4%"/>
+                           <col width="96%"/>
+                           <tbody>
+                              <tr>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">(8)</p>
+                                 </td>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">use of the following social media: multimedia content sharing websites or apps</p>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                           <col width="4%"/>
+                           <col width="96%"/>
+                           <tbody>
+                              <tr>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">(9)</p>
+                                 </td>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">use of the following social media: wiki based knowledge sharing tools</p>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                           <col width="4%"/>
+                           <col width="96%"/>
+                           <tbody>
+                              <tr>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">(10)</p>
+                                 </td>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">web sales of goods or services via the enterprises’ websites or apps (including extranets), in the previous calendar year</p>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                           <col width="4%"/>
+                           <col width="96%"/>
+                           <tbody>
+                              <tr>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">(11)</p>
+                                 </td>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">web sales of goods or services via e-commerce marketplace websites or apps used by several enterprises for trading goods or services, in the previous calendar year</p>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                           <col width="4%"/>
+                           <col width="96%"/>
+                           <tbody>
+                              <tr>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">(12)</p>
+                                 </td>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">EDI-type sales (receipt of orders placed via Electronic Data Interchange messages) of goods or services, in the previous calendar year</p>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                           <col width="4%"/>
+                           <col width="96%"/>
+                           <tbody>
+                              <tr>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">(13)</p>
+                                 </td>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">use of ERP (Enterprise Resource Planning) software</p>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                           <col width="4%"/>
+                           <col width="96%"/>
+                           <tbody>
+                              <tr>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">(14)</p>
+                                 </td>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">use of a CRM (Customer Relationship Management) software to manage the collection, storing and making available information on customers to various business functions</p>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                           <col width="4%"/>
+                           <col width="96%"/>
+                           <tbody>
+                              <tr>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">(15)</p>
+                                 </td>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">use of a CRM (Customer Relationship Management) software to manage the analysis of information on customers for marketing purposes (such as setting prices, sales promotion, choosing distribution channels)</p>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                           <col width="4%"/>
+                           <col width="96%"/>
+                           <tbody>
+                              <tr>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">(16)</p>
+                                 </td>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">buying cloud computing services used over the internet</p>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                           <col width="4%"/>
+                           <col width="96%"/>
+                           <tbody>
+                              <tr>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">(17)</p>
+                                 </td>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">use of interconnected devices or systems that can be monitored or remotely controlled via the internet (Internet of Things)</p>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                           <col width="4%"/>
+                           <col width="96%"/>
+                           <tbody>
+                              <tr>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">(18)</p>
+                                 </td>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">use of Artificial Intelligence technologies performing analysis of written language (text mining)</p>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                           <col width="4%"/>
+                           <col width="96%"/>
+                           <tbody>
+                              <tr>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">(19)</p>
+                                 </td>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">use of Artificial Intelligence technologies converting spoken language into machine-readable format (speech recognition)</p>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                           <col width="4%"/>
+                           <col width="96%"/>
+                           <tbody>
+                              <tr>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">(20)</p>
+                                 </td>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">use of Artificial Intelligence technologies generating written or spoken language (natural language generation)</p>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                           <col width="4%"/>
+                           <col width="96%"/>
+                           <tbody>
+                              <tr>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">(21)</p>
+                                 </td>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">use of Artificial Intelligence technologies identifying objects or persons based on images (image recognition, image processing)</p>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                           <col width="4%"/>
+                           <col width="96%"/>
+                           <tbody>
+                              <tr>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">(22)</p>
+                                 </td>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">use of machine learning (such as deep learning) for data analysis</p>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                           <col width="4%"/>
+                           <col width="96%"/>
+                           <tbody>
+                              <tr>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">(23)</p>
+                                 </td>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">use of Artificial Intelligence technologies automating different workflows or assisting in decision-making (Artificial Intelligence based software robotic process automation)</p>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                           <col width="4%"/>
+                           <col width="96%"/>
+                           <tbody>
+                              <tr>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">(24)</p>
+                                 </td>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">use of Artificial Intelligence technologies enabling physical movement of machines via autonomous decisions based on observation of surroundings (autonomous robots, self-driving vehicles, autonomous drones)</p>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                     </td>
+                  </tr>
+                  <tr class="oj-table">
+                     <td valign="top" class="oj-table"  >
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                           <col width="4%"/>
+                           <col width="96%"/>
+                           <tbody>
+                              <tr>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">(iii)</p>
+                                 </td>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">for enterprises using any type of fixed line internet connection:</p>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                           <col width="4%"/>
+                           <col width="96%"/>
+                           <tbody>
+                              <tr>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">(25)</p>
+                                 </td>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">maximum contracted download speed of the fastest fixed line internet connection in the ranges: [0 Mbit/s, &lt; 30 Mbit/s], [30 Mbit/s, &lt; 100 Mbit/s], [100 Mbit/s, &lt; 500 Mbit/s], [500 Mbit/s, &lt; 1 Gbit/s], [≥ 1 Gbit/s]</p>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                     </td>
+                  </tr>
+                  <tr class="oj-table">
+                     <td valign="top" class="oj-table"  >
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                           <col width="4%"/>
+                           <col width="96%"/>
+                           <tbody>
+                              <tr>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">(iv)</p>
+                                 </td>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">for enterprises which had web sales, in the previous calendar year:</p>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                           <col width="4%"/>
+                           <col width="96%"/>
+                           <tbody>
+                              <tr>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">(26)</p>
+                                 </td>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">value of web sales of goods or services, or percentage of total turnover generated by web sales of goods and services, in the previous calendar year</p>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                           <col width="4%"/>
+                           <col width="96%"/>
+                           <tbody>
+                              <tr>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">(27)</p>
+                                 </td>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">percentage of value of web sales generated by web sales to private consumers (Business to Consumers: B2C), in the previous calendar year</p>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                           <col width="4%"/>
+                           <col width="96%"/>
+                           <tbody>
+                              <tr>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">(28)</p>
+                                 </td>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">percentage of value of web sales generated by web sales to other enterprises (Business to Business: B2B) and to public sector (Business to Government: B2G), in the previous calendar year</p>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                           <col width="4%"/>
+                           <col width="96%"/>
+                           <tbody>
+                              <tr>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">(29)</p>
+                                 </td>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">web sales to customers located in the own country, in the previous calendar year</p>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                           <col width="4%"/>
+                           <col width="96%"/>
+                           <tbody>
+                              <tr>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">(30)</p>
+                                 </td>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">web sales to customers located in other Member States, in the previous calendar year</p>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                           <col width="4%"/>
+                           <col width="96%"/>
+                           <tbody>
+                              <tr>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">(31)</p>
+                                 </td>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">web sales to customers located in the rest of the world, in the previous calendar year</p>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                     </td>
+                  </tr>
+                  <tr class="oj-table">
+                     <td valign="top" class="oj-table"  >
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                           <col width="4%"/>
+                           <col width="96%"/>
+                           <tbody>
+                              <tr>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">(v)</p>
+                                 </td>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">for enterprises which had web sales of goods and services via the enterprise’s websites or apps and via e-commerce marketplace websites or apps used by several enterprises for trading goods or services, in the previous calendar year:</p>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                           <col width="4%"/>
+                           <col width="96%"/>
+                           <tbody>
+                              <tr>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">(32)</p>
+                                 </td>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">percentage of value of web sales of goods or services generated by sales via the enterprise’s websites or apps, in the previous calendar year</p>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                           <col width="4%"/>
+                           <col width="96%"/>
+                           <tbody>
+                              <tr>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">(33)</p>
+                                 </td>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">percentage of value of web sales of goods or services generated by sales via e-commerce marketplace websites or apps used by several enterprises for trading goods or services, in the previous calendar year</p>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                     </td>
+                  </tr>
+                  <tr class="oj-table">
+                     <td valign="top" class="oj-table"  >
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                           <col width="4%"/>
+                           <col width="96%"/>
+                           <tbody>
+                              <tr>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">(vi)</p>
+                                 </td>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">for enterprises which had web sales to customers located in at least two of the following geographic areas: own country, other Member States or rest of the world, in the previous calendar year:</p>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                           <col width="4%"/>
+                           <col width="96%"/>
+                           <tbody>
+                              <tr>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">(34)</p>
+                                 </td>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">percentage of value of web sales generated by sales to customers located in enterprise’s own country, in the previous calendar year</p>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                           <col width="4%"/>
+                           <col width="96%"/>
+                           <tbody>
+                              <tr>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">(35)</p>
+                                 </td>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">percentage of value of web sales generated by sales to customers located in other Member States, in the previous calendar year</p>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                           <col width="4%"/>
+                           <col width="96%"/>
+                           <tbody>
+                              <tr>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">(36)</p>
+                                 </td>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">percentage of value of web sales generated by sales to customers located in the rest of the world, in the previous calendar year</p>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                     </td>
+                  </tr>
+                  <tr class="oj-table">
+                     <td valign="top" class="oj-table"  >
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                           <col width="4%"/>
+                           <col width="96%"/>
+                           <tbody>
+                              <tr>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">(vii)</p>
+                                 </td>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">for enterprises which had web sales to other Member States, in the previous calendar year:</p>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                           <col width="4%"/>
+                           <col width="96%"/>
+                           <tbody>
+                              <tr>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">(37)</p>
+                                 </td>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">difficulties experienced when selling to other Member States: high costs of delivering or returning products, in the previous calendar year</p>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                           <col width="4%"/>
+                           <col width="96%"/>
+                           <tbody>
+                              <tr>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">(38)</p>
+                                 </td>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">difficulties experienced when selling to other Member States: difficulties related to resolving complaints and disputes, in the previous calendar year</p>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                           <col width="4%"/>
+                           <col width="96%"/>
+                           <tbody>
+                              <tr>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">(39)</p>
+                                 </td>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">difficulties experienced when selling to other Member States: adapting product labelling for sales to other Member States, in the previous calendar year</p>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                           <col width="4%"/>
+                           <col width="96%"/>
+                           <tbody>
+                              <tr>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">(40)</p>
+                                 </td>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">difficulties experienced when selling to other Member States: lack of knowledge of foreign languages for communicating with customers in other Member States, in the previous calendar year</p>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                           <col width="4%"/>
+                           <col width="96%"/>
+                           <tbody>
+                              <tr>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">(41)</p>
+                                 </td>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">difficulties experienced when selling to other Member States: restrictions from enterprise's business partners to sell to certain Member States, in the previous calendar year</p>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                           <col width="4%"/>
+                           <col width="96%"/>
+                           <tbody>
+                              <tr>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">(42)</p>
+                                 </td>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">difficulties experienced when selling to other Member States: difficulties related to the VAT system in other Member States (such as uncertainty regarding VAT treatment in different countries), in the previous calendar year</p>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                     </td>
+                  </tr>
+                  <tr class="oj-table">
+                     <td valign="top" class="oj-table"  >
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                           <col width="4%"/>
+                           <col width="96%"/>
+                           <tbody>
+                              <tr>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">(viii)</p>
+                                 </td>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">for enterprises which had EDI-type sales, in the previous calendar year:</p>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                           <col width="4%"/>
+                           <col width="96%"/>
+                           <tbody>
+                              <tr>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">(43)</p>
+                                 </td>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">value of EDI-type sales of goods or services or percentage of the total turnover generated by EDI-type sales of goods or services, in the previous calendar year</p>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                           <col width="4%"/>
+                           <col width="96%"/>
+                           <tbody>
+                              <tr>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">(44)</p>
+                                 </td>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">sales via EDI-type messages to customers located in enterprise’s own country, in the previous calendar year</p>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                           <col width="4%"/>
+                           <col width="96%"/>
+                           <tbody>
+                              <tr>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">(45)</p>
+                                 </td>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">sales via EDI-type messages to customers located in other Member States, in the previous calendar year</p>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                           <col width="4%"/>
+                           <col width="96%"/>
+                           <tbody>
+                              <tr>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">(46)</p>
+                                 </td>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">sales via EDI-type messages to customers located in the rest of the world, in the previous calendar year</p>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                     </td>
+                  </tr>
+                  <tr class="oj-table">
+                     <td valign="top" class="oj-table"  >
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                           <col width="4%"/>
+                           <col width="96%"/>
+                           <tbody>
+                              <tr>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">(ix)</p>
+                                 </td>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">for enterprises buying cloud computing services used over the internet:</p>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                           <col width="4%"/>
+                           <col width="96%"/>
+                           <tbody>
+                              <tr>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">(47)</p>
+                                 </td>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">buying e-mail as a cloud computing service</p>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                           <col width="4%"/>
+                           <col width="96%"/>
+                           <tbody>
+                              <tr>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">(48)</p>
+                                 </td>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">buying office software (such as word processors or spreadsheets) as a cloud computing service</p>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                           <col width="4%"/>
+                           <col width="96%"/>
+                           <tbody>
+                              <tr>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">(49)</p>
+                                 </td>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">buying finance or accounting software applications as a cloud computing service</p>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                           <col width="4%"/>
+                           <col width="96%"/>
+                           <tbody>
+                              <tr>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">(50)</p>
+                                 </td>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">buying Enterprise Resource Planning (ERP) software applications as cloud computing service</p>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                           <col width="4%"/>
+                           <col width="96%"/>
+                           <tbody>
+                              <tr>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">(51)</p>
+                                 </td>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">buying Customer Relationship Management (CRM) software applications as a cloud computing service</p>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                           <col width="4%"/>
+                           <col width="96%"/>
+                           <tbody>
+                              <tr>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">(52)</p>
+                                 </td>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">buying security software applications (such as antivirus program, network access control) as cloud computing service</p>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                           <col width="4%"/>
+                           <col width="96%"/>
+                           <tbody>
+                              <tr>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">(53)</p>
+                                 </td>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">buying hosting the enterprise’s database(s) as a cloud computing service</p>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                           <col width="4%"/>
+                           <col width="96%"/>
+                           <tbody>
+                              <tr>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">(54)</p>
+                                 </td>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">buying storage of files as a cloud computing service</p>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                           <col width="4%"/>
+                           <col width="96%"/>
+                           <tbody>
+                              <tr>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">(55)</p>
+                                 </td>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">buying computing power to run the enterprise’s own software as a cloud computing service</p>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                           <col width="4%"/>
+                           <col width="96%"/>
+                           <tbody>
+                              <tr>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">(56)</p>
+                                 </td>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">buying computing platform providing a hosted environment for application development, testing or deployment (such as reusable software modules, application programming interfaces (APIs)) as a cloud computing service</p>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                     </td>
+                  </tr>
+                  <tr class="oj-table">
+                     <td valign="top" class="oj-table"  >
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                           <col width="4%"/>
+                           <col width="96%"/>
+                           <tbody>
+                              <tr>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">(x)</p>
+                                 </td>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">for enterprises using interconnected devices or systems that can be monitored or remotely controlled via the internet (Internet of Things):</p>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                           <col width="4%"/>
+                           <col width="96%"/>
+                           <tbody>
+                              <tr>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">(57)</p>
+                                 </td>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">for energy consumption management (such as ‘smart’-meters, -thermostats or -lamps (lights))</p>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                           <col width="4%"/>
+                           <col width="96%"/>
+                           <tbody>
+                              <tr>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">(58)</p>
+                                 </td>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">for premises’ security (such as ‘smart’-alarm systems, -smoke detectors, -door locks or ‐security cameras)</p>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                           <col width="4%"/>
+                           <col width="96%"/>
+                           <tbody>
+                              <tr>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">(59)</p>
+                                 </td>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">for production processes (such as sensors or RFID tags that are monitored/controlled via the internet and used to monitor or automate the process)</p>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                           <col width="4%"/>
+                           <col width="96%"/>
+                           <tbody>
+                              <tr>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">(60)</p>
+                                 </td>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">for logistics management (such as sensors monitored/controlled via the internet for tracking products or vehicles in warehouse management)</p>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                           <col width="4%"/>
+                           <col width="96%"/>
+                           <tbody>
+                              <tr>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">(61)</p>
+                                 </td>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">for condition-based maintenance (such as sensors monitored/controlled via the internet to monitor maintenance needs of machines or vehicles)</p>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                           <col width="4%"/>
+                           <col width="96%"/>
+                           <tbody>
+                              <tr>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">(62)</p>
+                                 </td>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">for customer service (such as ‘smart’ cameras or sensors monitored/controlled via the internet to monitor customers’ activities or offer them a personalised shopping experience)</p>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                           <col width="4%"/>
+                           <col width="96%"/>
+                           <tbody>
+                              <tr>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">(63)</p>
+                                 </td>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">for other purposes</p>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                     </td>
+                  </tr>
+                  <tr class="oj-table">
+                     <td valign="top" class="oj-table"  >
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                           <col width="4%"/>
+                           <col width="96%"/>
+                           <tbody>
+                              <tr>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">(xi)</p>
+                                 </td>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">For enterprises using Artificial Intelligence technologies, referring specifically to mandatory variables (18) to (24), purpose of use:</p>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                           <col width="4%"/>
+                           <col width="96%"/>
+                           <tbody>
+                              <tr>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">(64)</p>
+                                 </td>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">for marketing or sales (such as chatbots based on natural language processing for customer support, customer profiling, price optimisation, personalised marketing offers, market analysis based on machine learning)</p>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                           <col width="4%"/>
+                           <col width="96%"/>
+                           <tbody>
+                              <tr>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">(65)</p>
+                                 </td>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">for production processes (such as predictive maintenance based on machine learning, tools to classify products or find defects in products based on computer vision, autonomous drones for production surveillance, security or inspection tasks, assembly works performed by autonomous robots)</p>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                           <col width="4%"/>
+                           <col width="96%"/>
+                           <tbody>
+                              <tr>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">(66)</p>
+                                 </td>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">for organisation of business administration processes (such as business virtual assistants based on machine learning and/or natural language processing, voice to text conversion based on speech recognition for document drafting, automated planning or scheduling based on machine learning, machine translation)</p>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                           <col width="4%"/>
+                           <col width="96%"/>
+                           <tbody>
+                              <tr>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">(67)</p>
+                                 </td>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">for management of enterprises (such as machine learning to analyse data and help make investment or other decisions, sales or business forecasting based on machine learning, risk assessment based on machine learning)</p>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                           <col width="4%"/>
+                           <col width="96%"/>
+                           <tbody>
+                              <tr>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">(68)</p>
+                                 </td>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">for logistics (such as autonomous robots for pick-and-pack solutions in warehouses, route optimisation based on machine learning, autonomous robots for parcel shipping, tracing, distribution and sorting, autonomous drones for parcel delivery)</p>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                           <col width="4%"/>
+                           <col width="96%"/>
+                           <tbody>
+                              <tr>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">(69)</p>
+                                 </td>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">for ICT security (such as face recognition based on computer vision for authentication of ICT users, detection and prevention of cyber-attacks based on machine learning)</p>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                           <col width="4%"/>
+                           <col width="96%"/>
+                           <tbody>
+                              <tr>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">(70)</p>
+                                 </td>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">for human resources management or recruiting (such as candidates pre-selection screening, automation of recruiting based on machine learning, employee profiling or performance analysis based on machine learning, chatbots based on natural language processing for recruiting or supporting human resources management)</p>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                     </td>
+                  </tr>
+                  <tr class="oj-table">
+                     <td valign="top" class="oj-table" rowspan="8" >
+                        <p class="oj-tbl-txt">Optional variables</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                           <col width="4%"/>
+                           <col width="96%"/>
+                           <tbody>
+                              <tr>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">(i)</p>
+                                 </td>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">for enterprises with employees and self-employed persons who have access to the internet for business purposes:</p>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                           <col width="4%"/>
+                           <col width="96%"/>
+                           <tbody>
+                              <tr>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">(1)</p>
+                                 </td>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">provision of portable devices that allow a mobile connection to the internet using mobile telephone networks for business purposes</p>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                           <col width="4%"/>
+                           <col width="96%"/>
+                           <tbody>
+                              <tr>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">(2)</p>
+                                 </td>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">having a website</p>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                     </td>
+                  </tr>
+                  <tr class="oj-table">
+                     <td valign="top" class="oj-table"  >
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                           <col width="4%"/>
+                           <col width="96%"/>
+                           <tbody>
+                              <tr>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">(ii)</p>
+                                 </td>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">for enterprises that provide their employees and self-employed persons portable devices that allow a mobile connection to the internet using mobile telephone networks for business purposes:</p>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                           <col width="4%"/>
+                           <col width="96%"/>
+                           <tbody>
+                              <tr>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">(3)</p>
+                                 </td>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">number of employees and self-employed persons, or percentage of the total number of employees and self-employed persons, using a portable device provided by the enterprise that allows internet connection via mobile telephone networks for business purposes</p>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                     </td>
+                  </tr>
+                  <tr class="oj-table">
+                     <td valign="top" class="oj-table"  >
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                           <col width="4%"/>
+                           <col width="96%"/>
+                           <tbody>
+                              <tr>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">(iii)</p>
+                                 </td>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">for enterprises having a website:</p>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                           <col width="4%"/>
+                           <col width="96%"/>
+                           <tbody>
+                              <tr>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">(4)</p>
+                                 </td>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">enterprise’s website has a description of goods or services, price information</p>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                           <col width="4%"/>
+                           <col width="96%"/>
+                           <tbody>
+                              <tr>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">(5)</p>
+                                 </td>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">enterprise’s website has online ordering or reservation or booking, such as shopping cart</p>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                           <col width="4%"/>
+                           <col width="96%"/>
+                           <tbody>
+                              <tr>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">(6)</p>
+                                 </td>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">enterprise’s website has a possibility for visitors to customise or design online goods or services</p>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                           <col width="4%"/>
+                           <col width="96%"/>
+                           <tbody>
+                              <tr>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">(7)</p>
+                                 </td>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">enterprise’s website has tracking or status of orders placed</p>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                           <col width="4%"/>
+                           <col width="96%"/>
+                           <tbody>
+                              <tr>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">(8)</p>
+                                 </td>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">enterprise’s website has personalised content on the website for regular/recurrent visitors</p>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                           <col width="4%"/>
+                           <col width="96%"/>
+                           <tbody>
+                              <tr>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">(9)</p>
+                                 </td>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">enterprise’s website has links or references to the enterprise's social media profiles</p>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                     </td>
+                  </tr>
+                  <tr class="oj-table">
+                     <td valign="top" class="oj-table"  >
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                           <col width="4%"/>
+                           <col width="96%"/>
+                           <tbody>
+                              <tr>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">(iv)</p>
+                                 </td>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">for enterprises which had web sales via e-commerce marketplace websites or apps used by several enterprises for trading goods or services, in the previous calendar year:</p>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                           <col width="4%"/>
+                           <col width="96%"/>
+                           <tbody>
+                              <tr>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">(10)</p>
+                                 </td>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">number of e-commerce marketplaces via which the enterprise had web sales in the previous calendar year: one, two, more than two</p>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                     </td>
+                  </tr>
+                  <tr class="oj-table">
+                     <td valign="top" class="oj-table"  >
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                           <col width="4%"/>
+                           <col width="96%"/>
+                           <tbody>
+                              <tr>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">(v)</p>
+                                 </td>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">for enterprises which had web sales via two or more e-commerce marketplaces, in the previous calendar year:</p>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                           <col width="4%"/>
+                           <col width="96%"/>
+                           <tbody>
+                              <tr>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">(11)</p>
+                                 </td>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">information if more than half of the turnover from e-commerce marketplaces came from only one e-commerce marketplace, in the previous calendar year</p>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                     </td>
+                  </tr>
+                  <tr class="oj-table">
+                     <td valign="top" class="oj-table"  >
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                           <col width="4%"/>
+                           <col width="96%"/>
+                           <tbody>
+                              <tr>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">(vi)</p>
+                                 </td>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">For enterprises using Artificial Intelligence technologies, referring specifically to mandatory variables (18) to (24):</p>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                           <col width="4%"/>
+                           <col width="96%"/>
+                           <tbody>
+                              <tr>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">(12)</p>
+                                 </td>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">use of Artificial Intelligence software or systems developed by own employees (including those employed in parent or affiliate enterprises)</p>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                           <col width="4%"/>
+                           <col width="96%"/>
+                           <tbody>
+                              <tr>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">(13)</p>
+                                 </td>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">use of commercial Artificial Intelligence software or systems modified by own employees (including those employed in parent of affiliate enterprises)</p>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                           <col width="4%"/>
+                           <col width="96%"/>
+                           <tbody>
+                              <tr>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">(14)</p>
+                                 </td>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">use of open-source Artificial Intelligence software or systems modified by own employees (including those employed in parent or affiliate enterprises)</p>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                           <col width="4%"/>
+                           <col width="96%"/>
+                           <tbody>
+                              <tr>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">(15)</p>
+                                 </td>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">use of commercial Artificial Intelligence software or systems purchased ready to use (including examples where it was already incorporated in a purchased item or system)</p>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                           <col width="4%"/>
+                           <col width="96%"/>
+                           <tbody>
+                              <tr>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">(16)</p>
+                                 </td>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">use of Artificial Intelligence software or systems developed or modified by contracted external providers</p>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                     </td>
+                  </tr>
+                  <tr class="oj-table">
+                     <td valign="top" class="oj-table"  >
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                           <col width="4%"/>
+                           <col width="96%"/>
+                           <tbody>
+                              <tr>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">(vii)</p>
+                                 </td>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">For enterprises which did not use any Artificial Intelligence technologies, referring specifically to mandatory variables (18) to (24):</p>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                           <col width="4%"/>
+                           <col width="96%"/>
+                           <tbody>
+                              <tr>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">(17)</p>
+                                 </td>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">consideration of using of Artificial Intelligence technologies, referring specifically to mandatory variables (18) to (24)</p>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                     </td>
+                  </tr>
+                  <tr class="oj-table">
+                     <td valign="top" class="oj-table"  >
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                           <col width="4%"/>
+                           <col width="96%"/>
+                           <tbody>
+                              <tr>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">(viii)</p>
+                                 </td>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">For enterprises which did not use but considered to use Artificial Intelligence technologies, referring specifically to mandatory variables (18) to (24):</p>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                           <col width="4%"/>
+                           <col width="96%"/>
+                           <tbody>
+                              <tr>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">(18)</p>
+                                 </td>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">Artificial Intelligence technologies not used because the costs seem too high</p>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                           <col width="4%"/>
+                           <col width="96%"/>
+                           <tbody>
+                              <tr>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">(19)</p>
+                                 </td>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">Artificial Intelligence technologies not used because there is a lack of relevant expertise in the enterprise</p>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                           <col width="4%"/>
+                           <col width="96%"/>
+                           <tbody>
+                              <tr>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">(20)</p>
+                                 </td>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">Artificial Intelligence technologies not used because of incompatibility with existing equipment, software or systems</p>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                           <col width="4%"/>
+                           <col width="96%"/>
+                           <tbody>
+                              <tr>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">(21)</p>
+                                 </td>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">Artificial Intelligence technologies not used because of difficulties with availability or quality of the necessary data</p>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                           <col width="4%"/>
+                           <col width="96%"/>
+                           <tbody>
+                              <tr>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">(22)</p>
+                                 </td>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">Artificial Intelligence technologies not used because of concerns regarding violation of data protection and privacy</p>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                           <col width="4%"/>
+                           <col width="96%"/>
+                           <tbody>
+                              <tr>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">(23)</p>
+                                 </td>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">use of artificial intelligence technologies not used because of lack of clarity about the legal consequences (such as liability in case of damage caused by the use of Artificial Intelligence)</p>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                           <col width="4%"/>
+                           <col width="96%"/>
+                           <tbody>
+                              <tr>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">(24)</p>
+                                 </td>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">Artificial Intelligence technologies not used because of ethical considerations</p>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                           <col width="4%"/>
+                           <col width="96%"/>
+                           <tbody>
+                              <tr>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">(25)</p>
+                                 </td>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">Artificial Intelligence technologies not used because they are not useful for the enterprise</p>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                     </td>
+                  </tr>
+               </tbody>
+            </table>
+            <p>
+               <br/>
+            </p>
+            <table width="100%" border="0" cellspacing="0" cellpadding="0" class="oj-table">
+               <col width="23%"/>
+               <col width="77%"/>
+               <tbody>
+                  <tr class="oj-table">
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-hdr">Measurement unit</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-hdr">Absolute figures, except for characteristics related to turnover in national currency (thousands) or percentage of (total) turnover</p>
+                     </td>
+                  </tr>
+                  <tr class="oj-table">
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Statistical population</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">
+                           <span class="oj-italic">Activity coverage:</span>
+                        </p>
+                        <p class="oj-tbl-txt">NACE Sections C to J, L to N and group 95.1</p>
+                        <p class="oj-tbl-txt">
+                           <span class="oj-italic">Size class coverage:</span>
+                        </p>
+                        <p class="oj-tbl-txt">Enterprises with 10 or more employees and self-employed persons. Enterprises with less than 10 employees and self-employed persons may be covered optionally</p>
+                     </td>
+                  </tr>
+                  <tr class="oj-table">
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Breakdowns</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">
+                           <span class="oj-italic">Activity breakdown</span>
+                        </p>
+                        <p class="oj-tbl-txt">
+                           <span class="oj-bold">for calculation of national aggregates:</span>
+                        </p>
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                           <col width="4%"/>
+                           <col width="96%"/>
+                           <tbody>
+                              <tr>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">—</p>
+                                 </td>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">aggregates of NACE sections and group C+D+E+F+G+H+I+J+L+M+N+95.1, D+E</p>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                           <col width="4%"/>
+                           <col width="96%"/>
+                           <tbody>
+                              <tr>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">—</p>
+                                 </td>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">NACE sections: C, F, G, H, I, J, L, M, N</p>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                           <col width="4%"/>
+                           <col width="96%"/>
+                           <tbody>
+                              <tr>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">—</p>
+                                 </td>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">NACE divisions: 47, 55</p>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                           <col width="4%"/>
+                           <col width="96%"/>
+                           <tbody>
+                              <tr>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">—</p>
+                                 </td>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">aggregates of NACE divisions: 10+11+12+13+14+15+16+17+18, 19+20+21+22+23, 24+25, 26+27+28+29+30+31+32+33</p>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                           <col width="4%"/>
+                           <col width="96%"/>
+                           <tbody>
+                              <tr>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">—</p>
+                                 </td>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">aggregate of the divisions and groups: 26.1+26.2+26.3+26.4+26.8+46.5+58.2+61+62+63.1+95.1</p>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                        <p class="oj-tbl-txt">
+                           <span class="oj-bold">for contribution to the European totals only</span>
+                        </p>
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                           <col width="4%"/>
+                           <col width="96%"/>
+                           <tbody>
+                              <tr>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">—</p>
+                                 </td>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">NACE sections: D, E</p>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                           <col width="4%"/>
+                           <col width="96%"/>
+                           <tbody>
+                              <tr>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">—</p>
+                                 </td>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">NACE divisions: 19, 20, 21, 26, 27, 28, 45, 46, 61, 72, 79</p>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                           <col width="4%"/>
+                           <col width="96%"/>
+                           <tbody>
+                              <tr>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">—</p>
+                                 </td>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">NACE group: 95.1</p>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                           <col width="4%"/>
+                           <col width="96%"/>
+                           <tbody>
+                              <tr>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">—</p>
+                                 </td>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">aggregates of NACE divisions: 10+11+12, 13+14+15, 16+17+18, 22+23, 29+30, 31+32+33, 58+59+60, 62+63, 69+70+71, 73+74+75, 77+78+80+81+82</p>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                        <p class="oj-tbl-txt">
+                           <span class="oj-italic">Size class of number of employees and self-employed persons:</span> 10+, 10–49, 50–249, 250+; optional: 0–9, 0–1, 2–9</p>
+                     </td>
+                  </tr>
+                  <tr class="oj-table">
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">Data transmission deadline</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">5 October 2021</p>
+                     </td>
+                  </tr>
+               </tbody>
+            </table>
+         </div>
+      </div>
+      <hr class="oj-doc-end"/>
+   </body>
+</html>

@@ -1,0 +1,589 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML//EN" "xhtml-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<!-- CONVEX # converter_version:6.5 # generated_on:20150729-0017 -->
+<head>
+   <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
+   <link type="text/css" rel="stylesheet"
+         href="http://publications.europa.eu/resource/presentation-style-sheet/oj/oj.css"/>
+   <title>L_2015199EN.01004301.xml</title>
+</head>
+<body>
+   <table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <col width="10%"/>
+      <col width="10%"/>
+      <col width="60%"/>
+      <col width="20%"/>
+      <tbody>
+         <tr>
+            <td>
+               <p class="hd-date">29.7.2015   </p>
+            </td>
+            <td>
+               <p class="hd-lg">EN</p>
+            </td>
+            <td>
+               <p class="hd-ti">Official Journal of the European Union</p>
+            </td>
+            <td>
+               <p class="hd-oj">L 199/43</p>
+            </td>
+         </tr>
+      </tbody>
+   </table>
+   <hr class="separator"/>
+   <p class="doc-ti" id="d1e40-43-1">COMMISSION DECISION (EU) 2015/1302</p>
+   <p class="doc-ti">of 28 July 2015</p>
+   <p class="doc-ti">on the identification of ‘Integrating the Healthcare Enterprise’ profiles for referencing in public procurement</p>
+   <p class="doc-ti">(Text with EEA relevance)</p>
+   <p class="normal">THE EUROPEAN COMMISSION,</p>
+   <p class="normal">Having regard to the Treaty on the Functioning of the European Union,</p>
+   <p class="normal">Having regard to Regulation (EU) No 1025/2012 of the European Parliament and of the Council of 25 October 2012 on European standardisation, amending Council Directives 89/686/EEC and 93/15/EEC and Directives 94/9/EC, 94/25/EC, 95/16/EC, 97/23/EC, 98/34/EC, 2004/22/EC, 2007/23/EC, 2009/23/EC and 2009/105/EC of the European Parliament and of the Council and repealing Council Decision 87/95/EEC and Decision No 1673/2006/EC of the European Parliament and of the Council<a id="ntc1-L_2015199EN.01004301-E0001" href="#ntr1-L_2015199EN.01004301-E0001"> (<span class="super">1</span>)</a> and in particular Article 13(1) thereof,</p>
+   <p class="normal">After consulting the European multi-stakeholder platform on ICT standardisation and sectoral experts,</p>
+   <p class="normal">Whereas:</p>
+   <table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <col width="4%"/>
+      <col width="96%"/>
+      <tbody>
+         <tr>
+            <td valign="top">
+               <p class="normal">(1)</p>
+            </td>
+            <td valign="top">
+               <p class="normal">Standardisation plays an important role in supporting the Europe 2020 strategy, as set out in the Communication from the Commission entitled ‘Europe 2020: A strategy for smart, sustainable and inclusive growth’<a id="ntc2-L_2015199EN.01004301-E0002" href="#ntr2-L_2015199EN.01004301-E0002"> (<span class="super">2</span>)</a>. Several flagship initiatives of the Europe 2020 strategy underline the importance of voluntary standardisation in product or services markets to assure the compatibility and interoperability between products and services, foster technological development and support innovation.</p>
+            </td>
+         </tr>
+      </tbody>
+   </table>
+   <table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <col width="4%"/>
+      <col width="96%"/>
+      <tbody>
+         <tr>
+            <td valign="top">
+               <p class="normal">(2)</p>
+            </td>
+            <td valign="top">
+               <p class="normal">The completion of the Digital Single Market is a key priority for the European Union as highlighted in the Annual Growth Strategy 2015<a id="ntc3-L_2015199EN.01004301-E0003" href="#ntr3-L_2015199EN.01004301-E0003"> (<span class="super">3</span>)</a>. The Commission has launched the Digital Single Market strategy<a id="ntc4-L_2015199EN.01004301-E0004" href="#ntr4-L_2015199EN.01004301-E0004"> (<span class="super">4</span>)</a> where the role of standardisation and interoperability in creating a European Digital Economy with a long-term growth potential is highlighted.</p>
+            </td>
+         </tr>
+      </tbody>
+   </table>
+   <table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <col width="4%"/>
+      <col width="96%"/>
+      <tbody>
+         <tr>
+            <td valign="top">
+               <p class="normal">(3)</p>
+            </td>
+            <td valign="top">
+               <p class="normal">In the digital society standardisation deliverables become indispensable to ensure the interoperability between devices, applications, data repositories, services and networks. The Communication from the Commission entitled ‘A strategic vision for European standards: moving forward to enhance and accelerate the sustainable growth of the European economy by 2020’<a id="ntc5-L_2015199EN.01004301-E0005" href="#ntr5-L_2015199EN.01004301-E0005"> (<span class="super">5</span>)</a> recognises the specificity of ICT standardisation where ICT solutions, applications and services are often developed by global ICT Fora and Consortia that have emerged as leading ICT standards development organisations.</p>
+            </td>
+         </tr>
+      </tbody>
+   </table>
+   <table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <col width="4%"/>
+      <col width="96%"/>
+      <tbody>
+         <tr>
+            <td valign="top">
+               <p class="normal">(4)</p>
+            </td>
+            <td valign="top">
+               <p class="normal">Regulation (EU) No 1025/2012 aims at modernising and improving the European standardisation framework. It establishes a system whereby the Commission may decide to identify the most relevant and most widely accepted ICT technical specifications issued by organisations that are not European, international or national standardisation organisations. The possibility to use the full range of ICT technical specifications when procuring hardware, software and information technology services will enable interoperability, will help avoid lock-in for public administrations and will encourage competition in the supply of interoperable ICT solutions.</p>
+            </td>
+         </tr>
+      </tbody>
+   </table>
+   <table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <col width="4%"/>
+      <col width="96%"/>
+      <tbody>
+         <tr>
+            <td valign="top">
+               <p class="normal">(5)</p>
+            </td>
+            <td valign="top">
+               <p class="normal">The ICT technical specifications that may be eligible for referencing in public procurement must comply with the requirements set out in Annex II to Regulation (EU) No 1025/2012. Compliance with those requirements guarantees the public authorities that the ICT technical specifications are established in accordance with the principles of openness, fairness, objectivity and non-discrimination that are recognised by the World Trade organisation in the field of standardisation.</p>
+            </td>
+         </tr>
+      </tbody>
+   </table>
+   <table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <col width="4%"/>
+      <col width="96%"/>
+      <tbody>
+         <tr>
+            <td valign="top">
+               <p class="normal">(6)</p>
+            </td>
+            <td valign="top">
+               <p class="normal">The decision to identify the ICT specification is to be adopted after consultation of the European multi-stakeholder platform on ICT standardisation set up by Commission Decision 2011/C 349/04<a id="ntc6-L_2015199EN.01004301-E0006" href="#ntr6-L_2015199EN.01004301-E0006"> (<span class="super">6</span>)</a> complemented by other forms of consultation of sectoral experts.</p>
+            </td>
+         </tr>
+      </tbody>
+   </table>
+   <table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <col width="4%"/>
+      <col width="96%"/>
+      <tbody>
+         <tr>
+            <td valign="top">
+               <p class="normal">(7)</p>
+            </td>
+            <td valign="top">
+               <p class="normal">On 2 October 2014, the European multi-stakeholder platform on ICT standardisation evaluated 27 ‘Integrating the Healthcare Enterprise’ (IHE) profiles against the requirements set out in Annex II to Regulation (EU) No 1025/2012 and gave a positive advice to their identification for referencing in public procurement. The evaluation of the 27 IHE profiles was subsequently submitted to consultation of the eHealth network established by Article 14 of Directive 2011/24/EU of the European Parliament and of the Council<a id="ntc7-L_2015199EN.01004301-E0007" href="#ntr7-L_2015199EN.01004301-E0007"> (<span class="super">7</span>)</a> that confirmed the positive advice to their identification.</p>
+            </td>
+         </tr>
+      </tbody>
+   </table>
+   <table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <col width="4%"/>
+      <col width="96%"/>
+      <tbody>
+         <tr>
+            <td valign="top">
+               <p class="normal">(8)</p>
+            </td>
+            <td valign="top">
+               <p class="normal">IHE develops ICT technical specifications in the field of healthcare information technology. The 27 IHE profiles are detailed specifications developed over a period of 15 years within the committees of IHE that optimise the selection of well-established standards describing the different layers of interoperability (i.e. protocol communication, technical, syntactical, semantic and application levels) with a view to find interoperability solutions for exchanging or sharing medical data.</p>
+            </td>
+         </tr>
+      </tbody>
+   </table>
+   <table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <col width="4%"/>
+      <col width="96%"/>
+      <tbody>
+         <tr>
+            <td valign="top">
+               <p class="normal">(9)</p>
+            </td>
+            <td valign="top">
+               <p class="normal">The 27 IHE profiles have the potential to increase interoperability of eHealth services and applications to the benefit of patients and medical community. The 27 IHE profiles should therefore be identified as ICT technical specifications eligible for referencing in public procurement,</p>
+            </td>
+         </tr>
+      </tbody>
+   </table>
+   <p class="normal">HAS ADOPTED THIS DECISION:</p>
+   <p id="d1e195-43-1" class="ti-art">Article 1</p>
+   <p class="normal">The ‘Integrating the Healthcare Enterprise’ profiles listed in the Annex are eligible for referencing in public procurement.</p>
+   <p id="d1e204-43-1" class="ti-art">Article 2</p>
+   <p class="normal">This Decision shall enter into force on the twentieth day following that of its publication in the <span class="italic">Official Journal of the European Union</span>.</p>
+   <div class="final">
+      <p class="normal">Done at Brussels, 28 July 2015.</p>
+      <div class="signatory">
+         <p class="signatory">
+            <span class="italic">For the Commission</span>
+         </p>
+         <p class="signatory">
+            <span class="italic">The President</span>
+         </p>
+         <p class="signatory">Jean-Claude JUNCKER</p>
+      </div>
+   </div>
+   <hr class="note"/>
+   <p class="note">
+      <a id="ntr1-L_2015199EN.01004301-E0001" href="#ntc1-L_2015199EN.01004301-E0001">(<span class="super">1</span>)</a>  <a href="http://publications.europa.eu/resource/oj/JOL_2012_316_R_TOC">OJ L 316, 14.11.2012, p. 12</a>.</p>
+   <p class="note">
+      <a id="ntr2-L_2015199EN.01004301-E0002" href="#ntc2-L_2015199EN.01004301-E0002">(<span class="super">2</span>)</a>  COM(2010) 2020 final of 3 March 2010.</p>
+   <p class="note">
+      <a id="ntr3-L_2015199EN.01004301-E0003" href="#ntc3-L_2015199EN.01004301-E0003">(<span class="super">3</span>)</a>  COM(2014) 902.</p>
+   <p class="note">
+      <a id="ntr4-L_2015199EN.01004301-E0004" href="#ntc4-L_2015199EN.01004301-E0004">(<span class="super">4</span>)</a>  Communication from the Commission to the European Parliament, the Council, the European Economic and Social Committee and the Committee of the Regions on a Digital Single Market Strategy for Europe COM(2015) 192 final of 6 May 2015.</p>
+   <p class="note">
+      <a id="ntr5-L_2015199EN.01004301-E0005" href="#ntc5-L_2015199EN.01004301-E0005">(<span class="super">5</span>)</a>  COM(2011) 311 final of 1 June 2011.</p>
+   <p class="note">
+      <a id="ntr6-L_2015199EN.01004301-E0006" href="#ntc6-L_2015199EN.01004301-E0006">(<span class="super">6</span>)</a>  Commission Decision 2011/C 349/04 of 28 November 2011 setting up the European multi-stakeholder platform on ICT standardisation (<a href="http://publications.europa.eu/resource/oj/JOC_2011_349_R_TOC">OJ C 349, 30.11.2011, p. 4</a>).</p>
+   <p class="note">
+      <a id="ntr7-L_2015199EN.01004301-E0007" href="#ntc7-L_2015199EN.01004301-E0007">(<span class="super">7</span>)</a>  Directive 2011/24/EU of the European Parliament and of the Council of 9 March 2011 on the application of patients' rights in cross-border healthcare (<a href="http://publications.europa.eu/resource/oj/JOL_2011_088_R_TOC">OJ L 88, 4.4.2011, p. 45</a>).</p>
+   <hr class="doc-sep"/>
+   <div id="L_2015199EN.01004501">
+      <p class="doc-ti" id="d1e32-45-1">ANNEX</p>
+      <p id="d1e38-45-1" class="ti-grseq-1">
+         <span class="bold">LIST OF ‘INTEGRATING THE HEALTHCARE ENTERPRISE’ PROFILES ELIGIBLE FOR REFERENCING IN PUBLIC PROCUREMENT</span>
+      </p>
+      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+         <col width="4%"/>
+         <col width="96%"/>
+         <tbody>
+            <tr>
+               <td valign="top">
+                  <p class="normal">1.</p>
+               </td>
+               <td valign="top">
+                  <p class="normal">IHE XCPD: Cross-Community Patient Discovery;</p>
+               </td>
+            </tr>
+         </tbody>
+      </table>
+      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+         <col width="4%"/>
+         <col width="96%"/>
+         <tbody>
+            <tr>
+               <td valign="top">
+                  <p class="normal">2.</p>
+               </td>
+               <td valign="top">
+                  <p class="normal">IHE XCA: Cross-Community Access;</p>
+               </td>
+            </tr>
+         </tbody>
+      </table>
+      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+         <col width="4%"/>
+         <col width="96%"/>
+         <tbody>
+            <tr>
+               <td valign="top">
+                  <p class="normal">3.</p>
+               </td>
+               <td valign="top">
+                  <p class="normal">IHE XCF: Cross-Community Fetch;</p>
+               </td>
+            </tr>
+         </tbody>
+      </table>
+      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+         <col width="4%"/>
+         <col width="96%"/>
+         <tbody>
+            <tr>
+               <td valign="top">
+                  <p class="normal">4.</p>
+               </td>
+               <td valign="top">
+                  <p class="normal">IHE XDR: Cross-Enterprise Document Reliable Interchange;</p>
+               </td>
+            </tr>
+         </tbody>
+      </table>
+      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+         <col width="4%"/>
+         <col width="96%"/>
+         <tbody>
+            <tr>
+               <td valign="top">
+                  <p class="normal">5.</p>
+               </td>
+               <td valign="top">
+                  <p class="normal">IHE CT: Consistent Time;</p>
+               </td>
+            </tr>
+         </tbody>
+      </table>
+      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+         <col width="4%"/>
+         <col width="96%"/>
+         <tbody>
+            <tr>
+               <td valign="top">
+                  <p class="normal">6.</p>
+               </td>
+               <td valign="top">
+                  <p class="normal">IHE ATNA: Audit Trail and Node Authentication;</p>
+               </td>
+            </tr>
+         </tbody>
+      </table>
+      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+         <col width="4%"/>
+         <col width="96%"/>
+         <tbody>
+            <tr>
+               <td valign="top">
+                  <p class="normal">7.</p>
+               </td>
+               <td valign="top">
+                  <p class="normal">IHE BPPC: Basic Patient Privacy Consents;</p>
+               </td>
+            </tr>
+         </tbody>
+      </table>
+      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+         <col width="4%"/>
+         <col width="96%"/>
+         <tbody>
+            <tr>
+               <td valign="top">
+                  <p class="normal">8.</p>
+               </td>
+               <td valign="top">
+                  <p class="normal">IHE XUA: Cross-Enterprise User Assertion;</p>
+               </td>
+            </tr>
+         </tbody>
+      </table>
+      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+         <col width="4%"/>
+         <col width="96%"/>
+         <tbody>
+            <tr>
+               <td valign="top">
+                  <p class="normal">9.</p>
+               </td>
+               <td valign="top">
+                  <p class="normal">IHE PRE: Pharmacy Prescription;</p>
+               </td>
+            </tr>
+         </tbody>
+      </table>
+      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+         <col width="4%"/>
+         <col width="96%"/>
+         <tbody>
+            <tr>
+               <td valign="top">
+                  <p class="normal">10.</p>
+               </td>
+               <td valign="top">
+                  <p class="normal">IHE DIS: Pharmacy Dispense;</p>
+               </td>
+            </tr>
+         </tbody>
+      </table>
+      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+         <col width="4%"/>
+         <col width="96%"/>
+         <tbody>
+            <tr>
+               <td valign="top">
+                  <p class="normal">11.</p>
+               </td>
+               <td valign="top">
+                  <p class="normal">IHE XPHR: Exchange of Personal Health Record Content;</p>
+               </td>
+            </tr>
+         </tbody>
+      </table>
+      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+         <col width="4%"/>
+         <col width="96%"/>
+         <tbody>
+            <tr>
+               <td valign="top">
+                  <p class="normal">12.</p>
+               </td>
+               <td valign="top">
+                  <p class="normal">IHE XD-MS: Cross-Enterprise Sharing of Medical Summaries Integration Profile;</p>
+               </td>
+            </tr>
+         </tbody>
+      </table>
+      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+         <col width="4%"/>
+         <col width="96%"/>
+         <tbody>
+            <tr>
+               <td valign="top">
+                  <p class="normal">13.</p>
+               </td>
+               <td valign="top">
+                  <p class="normal">IHE XD-SD: Cross-Enterprise Sharing of Scanned Documents;</p>
+               </td>
+            </tr>
+         </tbody>
+      </table>
+      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+         <col width="4%"/>
+         <col width="96%"/>
+         <tbody>
+            <tr>
+               <td valign="top">
+                  <p class="normal">14.</p>
+               </td>
+               <td valign="top">
+                  <p class="normal">IHE PIX: Patient Identifier Cross-Referencing;</p>
+               </td>
+            </tr>
+         </tbody>
+      </table>
+      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+         <col width="4%"/>
+         <col width="96%"/>
+         <tbody>
+            <tr>
+               <td valign="top">
+                  <p class="normal">15.</p>
+               </td>
+               <td valign="top">
+                  <p class="normal">IHE PDQ: Patient Demographics Query;</p>
+               </td>
+            </tr>
+         </tbody>
+      </table>
+      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+         <col width="4%"/>
+         <col width="96%"/>
+         <tbody>
+            <tr>
+               <td valign="top">
+                  <p class="normal">16.</p>
+               </td>
+               <td valign="top">
+                  <p class="normal">IHE XDS.b: Cross-Enterprise Document Sharing;</p>
+               </td>
+            </tr>
+         </tbody>
+      </table>
+      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+         <col width="4%"/>
+         <col width="96%"/>
+         <tbody>
+            <tr>
+               <td valign="top">
+                  <p class="normal">17.</p>
+               </td>
+               <td valign="top">
+                  <p class="normal">IHE XDS-I.b: Cross-Enterprise Document Sharing for Imaging;</p>
+               </td>
+            </tr>
+         </tbody>
+      </table>
+      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+         <col width="4%"/>
+         <col width="96%"/>
+         <tbody>
+            <tr>
+               <td valign="top">
+                  <p class="normal">18.</p>
+               </td>
+               <td valign="top">
+                  <p class="normal">IHE XD-LAB: Laboratory Reports;</p>
+               </td>
+            </tr>
+         </tbody>
+      </table>
+      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+         <col width="4%"/>
+         <col width="96%"/>
+         <tbody>
+            <tr>
+               <td valign="top">
+                  <p class="normal">19.</p>
+               </td>
+               <td valign="top">
+                  <p class="normal">IHE XDM: Cross-Enterprise Document Media Interchange;</p>
+               </td>
+            </tr>
+         </tbody>
+      </table>
+      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+         <col width="4%"/>
+         <col width="96%"/>
+         <tbody>
+            <tr>
+               <td valign="top">
+                  <p class="normal">20.</p>
+               </td>
+               <td valign="top">
+                  <p class="normal">IHE SVS: Sharing Value Sets;</p>
+               </td>
+            </tr>
+         </tbody>
+      </table>
+      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+         <col width="4%"/>
+         <col width="96%"/>
+         <tbody>
+            <tr>
+               <td valign="top">
+                  <p class="normal">21.</p>
+               </td>
+               <td valign="top">
+                  <p class="normal">IHE SWF: Radiology Scheduled Workflow;</p>
+               </td>
+            </tr>
+         </tbody>
+      </table>
+      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+         <col width="4%"/>
+         <col width="96%"/>
+         <tbody>
+            <tr>
+               <td valign="top">
+                  <p class="normal">22.</p>
+               </td>
+               <td valign="top">
+                  <p class="normal">IHE SWF.b: Radiology Scheduled Workflow;</p>
+               </td>
+            </tr>
+         </tbody>
+      </table>
+      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+         <col width="4%"/>
+         <col width="96%"/>
+         <tbody>
+            <tr>
+               <td valign="top">
+                  <p class="normal">23.</p>
+               </td>
+               <td valign="top">
+                  <p class="normal">IHE PIR: Patient Information Reconciliation;</p>
+               </td>
+            </tr>
+         </tbody>
+      </table>
+      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+         <col width="4%"/>
+         <col width="96%"/>
+         <tbody>
+            <tr>
+               <td valign="top">
+                  <p class="normal">24.</p>
+               </td>
+               <td valign="top">
+                  <p class="normal">IHE PAM: Patient Administration Management;</p>
+               </td>
+            </tr>
+         </tbody>
+      </table>
+      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+         <col width="4%"/>
+         <col width="96%"/>
+         <tbody>
+            <tr>
+               <td valign="top">
+                  <p class="normal">25.</p>
+               </td>
+               <td valign="top">
+                  <p class="normal">IHE LTW: Laboratory Testing Workflow;</p>
+               </td>
+            </tr>
+         </tbody>
+      </table>
+      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+         <col width="4%"/>
+         <col width="96%"/>
+         <tbody>
+            <tr>
+               <td valign="top">
+                  <p class="normal">26.</p>
+               </td>
+               <td valign="top">
+                  <p class="normal">IHE LCSD: Laboratory Code Sets Distribution;</p>
+               </td>
+            </tr>
+         </tbody>
+      </table>
+      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+         <col width="4%"/>
+         <col width="96%"/>
+         <tbody>
+            <tr>
+               <td valign="top">
+                  <p class="normal">27.</p>
+               </td>
+               <td valign="top">
+                  <p class="normal">IHE LWA: Laboratory Analytical Workflow.</p>
+               </td>
+            </tr>
+         </tbody>
+      </table>
+   </div>
+   <hr class="doc-end"/>
+</body>
+</html>

@@ -1,0 +1,1690 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML//EN" "xhtml-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><!-- CONVEX # converter_version:8.0.0 # generated_on:20180911-0928 --><head>
+      <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
+      <link type="text/css" rel="stylesheet"
+            href="http://publications.europa.eu/resource/presentation-style-sheet/oj/oj.css"/>
+      <title>L_2018227EN.01000101.xml</title>
+   </head>
+   <body>
+      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+         <col width="10%"/>
+         <col width="10%"/>
+         <col width="60%"/>
+         <col width="20%"/>
+         <tbody>
+            <tr>
+               <td  >
+                  <p class="hd-date">10.9.2018   </p>
+               </td>
+               <td  >
+                  <p class="hd-lg">EN</p>
+               </td>
+               <td  >
+                  <p class="hd-ti">Official Journal of the European Union</p>
+               </td>
+               <td  >
+                  <p class="hd-oj">L 227/1</p>
+               </td>
+            </tr>
+         </tbody>
+      </table>
+      <hr class="separator"/>
+      <div>
+         <p class="doc-ti" id="d1e40-1-1">COMMISSION DELEGATED REGULATION (EU) 2018/1221</p>
+         <p class="doc-ti">of 1 June 2018</p>
+         <p class="doc-ti">amending Delegated Regulation (EU) 2015/35 as regards the calculation of regulatory capital requirements for securitisations and simple, transparent and standardised securitisations held by insurance and reinsurance undertakings</p>
+         <p class="doc-ti">(Text with EEA relevance)</p>
+         <p class="normal">THE EUROPEAN COMMISSION,</p>
+         <p class="normal">Having regard to the Treaty on the Functioning of the European Union,</p>
+         <p class="normal">Having regard to Directive 2009/138/EC of the European Parliament and of the Council of 25 November 2009 on the taking-up and pursuit of the business of Insurance and Reinsurance (Solvency II) <a id="ntc1-L_2018227EN.01000101-E0001" href="#ntr1-L_2018227EN.01000101-E0001"
+               >(<span class="super note-tag">1</span>)</a>, and in particular Article 111(1)(c) and Article 135(2) thereof,</p>
+         <p class="normal">Whereas:</p>
+         <table width="100%" border="0" cellspacing="0" cellpadding="0">
+            <col width="4%"/>
+            <col width="96%"/>
+            <tbody>
+               <tr>
+                  <td valign="top"  >
+                     <p class="normal">(1)</p>
+                  </td>
+                  <td valign="top"  >
+                     <p class="normal">A well-functioning securitisation market provides additional funding sources to capital markets, thus improving the funding capacity of the real economy and contributing to completing the Capital Markets Union. In addition, a well-functioning securitisation market provides alternative investment opportunities to insurance and reinsurance undertakings, which need to diversify their portfolios in a low yield environment. As institutional investors, insurance and reinsurance undertakings should therefore be fully integrated into the Union's securitisation market.</p>
+                  </td>
+               </tr>
+            </tbody>
+         </table>
+         <table width="100%" border="0" cellspacing="0" cellpadding="0">
+            <col width="4%"/>
+            <col width="96%"/>
+            <tbody>
+               <tr>
+                  <td valign="top"  >
+                     <p class="normal">(2)</p>
+                  </td>
+                  <td valign="top"  >
+                     <p class="normal">To ensure a sound recovery of the Union's securitisation market, a new regulatory framework for securitisation was laid down, based on lessons learned during the financial crisis. Regulation (EU) 2017/2402 of the European Parliament and of the Council <a id="ntc2-L_2018227EN.01000101-E0002" href="#ntr2-L_2018227EN.01000101-E0002"
+                           >(<span class="super note-tag">2</span>)</a> lays down the substantive elements of an overarching securitisation framework, with criteria to identify simple, transparent and standardised (‘STS’) securitisations and a system of supervision to monitor the correct application of those criteria by originators, sponsors, issuers and institutional investors. Furthermore, that Regulation provides for a set of common requirements in relation to risk retention, due diligence and disclosure for all financial services sectors. In addition, Regulation (EU) 2017/2401 of the European Parliament and of the Council <a id="ntc3-L_2018227EN.01000101-E0003" href="#ntr3-L_2018227EN.01000101-E0003"
+                           >(<span class="super note-tag">3</span>)</a> amends, with effect from 1 January 2019, Regulation (EU) No 575/2013 of the European Parliament and of the Council <a id="ntc4-L_2018227EN.01000101-E0004" href="#ntr4-L_2018227EN.01000101-E0004"
+                           >(<span class="super note-tag">4</span>)</a> to provide for revised prudential requirements for credit institutions and investment firms originating, sponsoring or investing in securitisations, in particular revised capital requirements for investments in STS securitisation.</p>
+                  </td>
+               </tr>
+            </tbody>
+         </table>
+         <table width="100%" border="0" cellspacing="0" cellpadding="0">
+            <col width="4%"/>
+            <col width="96%"/>
+            <tbody>
+               <tr>
+                  <td valign="top"  >
+                     <p class="normal">(3)</p>
+                  </td>
+                  <td valign="top"  >
+                     <p class="normal">To the extent that the revised legislative framework for securitisation overlaps with the scope of provisions laid down in Commission Delegated Regulation (EU) 2015/35 <a id="ntc5-L_2018227EN.01000101-E0005" href="#ntr5-L_2018227EN.01000101-E0005"
+                           >(<span class="super note-tag">5</span>)</a>, it is necessary, in order to avoid double regulation and for reasons of clarity and consistency, to adapt the prudential framework applicable to insurance and reinsurance undertakings.</p>
+                  </td>
+               </tr>
+            </tbody>
+         </table>
+         <table width="100%" border="0" cellspacing="0" cellpadding="0">
+            <col width="4%"/>
+            <col width="96%"/>
+            <tbody>
+               <tr>
+                  <td valign="top"  >
+                     <p class="normal">(4)</p>
+                  </td>
+                  <td valign="top"  >
+                     <p class="normal">Regulation (EU) 2017/2402 sets out definitions of several concepts related to securitisation. As that Regulation applies to insurance and reinsurance undertakings falling within the scope of Directive 2009/138/EC it is appropriate, for the purposes of defining concepts that are also defined in Regulation (EU) 2017/2402, to refer in Delegated Regulation (EU) 2015/35 to the relevant definitions laid down in Regulation (EU) 2017/2402. For the same reasons, insofar as requirements related to risk retention and due diligence are set out in Regulation (EU) 2017/2402 for all institutional investors, such requirements should be deleted from Delegated Regulation (EU) 2015/35.</p>
+                  </td>
+               </tr>
+            </tbody>
+         </table>
+         <table width="100%" border="0" cellspacing="0" cellpadding="0">
+            <col width="4%"/>
+            <col width="96%"/>
+            <tbody>
+               <tr>
+                  <td valign="top"  >
+                     <p class="normal">(5)</p>
+                  </td>
+                  <td valign="top"  >
+                     <p class="normal">Regulation (EU) 2017/2402 sets qualifying criteria for STS securitisations in order to provide a harmonised definition of a higher quality securitisation product for Union capital markets. The ‘type 1 securitisation’ asset category in Delegated Regulation (EU) 2015/35 was created to achieve a similar objective for insurance and reinsurance undertakings, with comparable qualifying criteria. To ensure consistency and a level playing field on the securitisation market, the general provisions on the ‘type 1 securitisation’ asset category should be deleted from Delegated Regulation (EU) 2015/35 and reference should instead be made to the relevant provisions on STS securitisation laid down in Regulation (EU) 2017/2402. In order to avoid those amendments leading to adverse effects, transitional measures should be provided for with respect to existing assets falling within the ‘type 1 securitisation’ category.</p>
+                  </td>
+               </tr>
+            </tbody>
+         </table>
+         <table width="100%" border="0" cellspacing="0" cellpadding="0">
+            <col width="4%"/>
+            <col width="96%"/>
+            <tbody>
+               <tr>
+                  <td valign="top"  >
+                     <p class="normal">(6)</p>
+                  </td>
+                  <td valign="top"  >
+                     <p class="normal">The calibration of the Solvency Capital Requirement pursuant to Directive 2009/138/EU is risk-based and is intended to provide the right incentives across the different forms of securitisation investments. In order to achieve that objective, the level of the calibration and the risk sensitivity across tranches should be commensurate with the features of STS securitisation, and consistent with the prudential requirements developed for credit institutions and investment firms. Therefore, the existing provisions of Delegated Regulation (EU) 2015/35 on calibration for ‘type 1 securitisation’ should be replaced by a more risk-sensitive calibration for STS securitisation covering all possible tranches that also meet additional requirements in order to minimise risks.</p>
+                  </td>
+               </tr>
+            </tbody>
+         </table>
+         <table width="100%" border="0" cellspacing="0" cellpadding="0">
+            <col width="4%"/>
+            <col width="96%"/>
+            <tbody>
+               <tr>
+                  <td valign="top"  >
+                     <p class="normal">(7)</p>
+                  </td>
+                  <td valign="top"  >
+                     <p class="normal">The entry into application of the revised framework should not adversely affect the existing investments in securitisation, in particular for those institutional investors which have maintained some investments despite the financial crisis. Therefore, transitional measures should be laid down.</p>
+                  </td>
+               </tr>
+            </tbody>
+         </table>
+         <table width="100%" border="0" cellspacing="0" cellpadding="0">
+            <col width="4%"/>
+            <col width="96%"/>
+            <tbody>
+               <tr>
+                  <td valign="top"  >
+                     <p class="normal">(8)</p>
+                  </td>
+                  <td valign="top"  >
+                     <p class="normal">In light of the application dates of Regulation (EU) 2017/2402 and Regulation (EU) 2017/2401 as well as the transitional provisions contained in those pieces of legislation, it is important to ensure that this Regulation becomes applicable on the same date, on 1 January 2019.</p>
+                  </td>
+               </tr>
+            </tbody>
+         </table>
+         <table width="100%" border="0" cellspacing="0" cellpadding="0">
+            <col width="4%"/>
+            <col width="96%"/>
+            <tbody>
+               <tr>
+                  <td valign="top"  >
+                     <p class="normal">(9)</p>
+                  </td>
+                  <td valign="top"  >
+                     <p class="normal">Delegated Regulation (EU) 2015/35 should therefore be amended accordingly,</p>
+                  </td>
+               </tr>
+            </tbody>
+         </table>
+         <p class="normal">HAS ADOPTED THIS REGULATION:</p>
+         <div id="001">
+            <p id="d1e199-1-1" class="ti-art">Article 1</p>
+            <p class="sti-art">Amendments to Delegated Regulation (EU) 2015/35</p>
+            <p class="normal">Delegated Regulation (EU) 2015/35 is amended as follows:</p>
+            <table width="100%" border="0" cellspacing="0" cellpadding="0">
+               <col width="4%"/>
+               <col width="96%"/>
+               <tbody>
+                  <tr>
+                     <td valign="top"  >
+                        <p class="normal">(1)</p>
+                     </td>
+                     <td valign="top"  >
+                        <p class="normal">Article 1 is amended as follows:</p>
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                           <col width="4%"/>
+                           <col width="96%"/>
+                           <tbody>
+                              <tr>
+                                 <td valign="top"  >
+                                    <p class="normal">(a)</p>
+                                 </td>
+                                 <td valign="top"  >
+                                    <p class="normal">the following points 18a and 18b are inserted:</p>
+                                    <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                       <col width="4%"/>
+                                       <col width="96%"/>
+                                       <tbody>
+                                          <tr>
+                                             <td valign="top"  >
+                                                <p class="normal">‘18a.</p>
+                                             </td>
+                                             <td valign="top"  >
+                                                <p class="normal">“securitisation” means a transaction or scheme as defined in Article 2(1) of Regulation (EU) 2017/2402<a id="ntc*1-L_2018227EN.01000101-E0006" href="#ntr*1-L_2018227EN.01000101-E0006"
+                                                      > (<span class="super note-tag">*1</span>)</a>;</p>
+                                             </td>
+                                          </tr>
+                                       </tbody>
+                                    </table>
+                                    <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                       <col width="4%"/>
+                                       <col width="96%"/>
+                                       <tbody>
+                                          <tr>
+                                             <td valign="top"  >
+                                                <p class="normal">18b.</p>
+                                             </td>
+                                             <td valign="top"  >
+                                                <p class="normal">“STS securitisation” means a securitisation designated “simple, transparent and standardised” or “STS” in accordance with the requirements set out in Article 18 of Regulation (EU) 2017/2402;</p>
+                                             </td>
+                                          </tr>
+                                       </tbody>
+                                    </table>
+                                    <p class="note">
+                                       <a id="ntr*1-L_2018227EN.01000101-E0006" href="#ntc*1-L_2018227EN.01000101-E0006"
+                                          class="quotation"
+                                          >(<span class="super">*1</span>)</a>  Regulation (EU) 2017/2402 of the European Parliament and of the Council of 12 December 2017 laying down a general framework for securitisation and creating a specific framework for simple, transparent and standardised securitisation, and amending Directives 2009/65/EC, 2009/138/EC and 2011/61/EU and Regulations (EC) No 1060/2009 and (EU) No 648/2012 (<a href="http://publications.europa.eu/resource/oj/JOL_2017_347_R_TOC"
+                                          >OJ L 347, 28.12.2017, p. 35</a>).’;"
+                        </p>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                           <col width="4%"/>
+                           <col width="96%"/>
+                           <tbody>
+                              <tr>
+                                 <td valign="top"  >
+                                    <p class="normal">(b)</p>
+                                 </td>
+                                 <td valign="top"  >
+                                    <p class="normal">point 19 is replaced by the following:</p>
+                                    <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                       <col width="4%"/>
+                                       <col width="96%"/>
+                                       <tbody>
+                                          <tr>
+                                             <td valign="top"  >
+                                                <p class="normal">‘19.</p>
+                                             </td>
+                                             <td valign="top"  >
+                                                <p class="normal">“securitisation position” means a securitisation position within the meaning of Article 2(19) of Regulation (EU) 2017/2402;’;</p>
+                                             </td>
+                                          </tr>
+                                       </tbody>
+                                    </table>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                           <col width="4%"/>
+                           <col width="96%"/>
+                           <tbody>
+                              <tr>
+                                 <td valign="top"  >
+                                    <p class="normal">(c)</p>
+                                 </td>
+                                 <td valign="top"  >
+                                    <p class="normal">the following point 19a is inserted:</p>
+                                    <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                       <col width="4%"/>
+                                       <col width="96%"/>
+                                       <tbody>
+                                          <tr>
+                                             <td valign="top"  >
+                                                <p class="normal">‘19a.</p>
+                                             </td>
+                                             <td valign="top"  >
+                                                <p class="normal">“senior securitisation position” means a senior securitisation position within the meaning of Article 242(6) of Regulation (EU) No 575/2013<a id="ntc*2-L_2018227EN.01000101-E0007" href="#ntr*2-L_2018227EN.01000101-E0007"
+                                                      > (<span class="super note-tag">*2</span>)</a>;</p>
+                                             </td>
+                                          </tr>
+                                       </tbody>
+                                    </table>
+                                    <p class="note">
+                                       <a id="ntr*2-L_2018227EN.01000101-E0007" href="#ntc*2-L_2018227EN.01000101-E0007"
+                                          class="quotation"
+                                          >(<span class="super">*2</span>)</a>  Regulation (EU) No 575/2013 of the European Parliament and of the Council of 26 June 2013 on prudential requirements for credit institutions and investment firms and amending Regulation (EU) No 648/2012 (<a href="http://publications.europa.eu/resource/oj/JOL_2013_176_R_TOC"
+                                          >OJ L 176, 27.6.2013, p. 1</a>).’;"
+                        </p>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                           <col width="4%"/>
+                           <col width="96%"/>
+                           <tbody>
+                              <tr>
+                                 <td valign="top"  >
+                                    <p class="normal">(d)</p>
+                                 </td>
+                                 <td valign="top"  >
+                                    <p class="normal">points 20 to 23 are replaced by the following:</p>
+                                    <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                       <col width="4%"/>
+                                       <col width="96%"/>
+                                       <tbody>
+                                          <tr>
+                                             <td valign="top"  >
+                                                <p class="normal">‘20.</p>
+                                             </td>
+                                             <td valign="top"  >
+                                                <p class="normal">“re-securitisation position” means an exposure to a re-securitisation within the meaning of Article 2(4) of Regulation (EU) 2017/2402;</p>
+                                             </td>
+                                          </tr>
+                                       </tbody>
+                                    </table>
+                                    <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                       <col width="4%"/>
+                                       <col width="96%"/>
+                                       <tbody>
+                                          <tr>
+                                             <td valign="top"  >
+                                                <p class="normal">21.</p>
+                                             </td>
+                                             <td valign="top"  >
+                                                <p class="normal">“originator” means an originator within the meaning of Article 2(3) of Regulation (EU) 2017/2402;</p>
+                                             </td>
+                                          </tr>
+                                       </tbody>
+                                    </table>
+                                    <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                       <col width="4%"/>
+                                       <col width="96%"/>
+                                       <tbody>
+                                          <tr>
+                                             <td valign="top"  >
+                                                <p class="normal">22.</p>
+                                             </td>
+                                             <td valign="top"  >
+                                                <p class="normal">“sponsor” means a sponsor within the meaning of Article 2(5) of Regulation (EU) 2017/2402;</p>
+                                             </td>
+                                          </tr>
+                                       </tbody>
+                                    </table>
+                                    <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                       <col width="4%"/>
+                                       <col width="96%"/>
+                                       <tbody>
+                                          <tr>
+                                             <td valign="top"  >
+                                                <p class="normal">23.</p>
+                                             </td>
+                                             <td valign="top"  >
+                                                <p class="normal">“tranche” means tranche within the meaning of Article 2(6) of Regulation (EU) 2017/2402;’;</p>
+                                             </td>
+                                          </tr>
+                                       </tbody>
+                                    </table>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                     </td>
+                  </tr>
+               </tbody>
+            </table>
+            <table width="100%" border="0" cellspacing="0" cellpadding="0">
+               <col width="4%"/>
+               <col width="96%"/>
+               <tbody>
+                  <tr>
+                     <td valign="top"  >
+                        <p class="normal">(2)</p>
+                     </td>
+                     <td valign="top"  >
+                        <p class="normal">in Article 4, paragraph 6 is replaced by the following:</p>
+                        <div id="004.006">
+                           <p class="normal">‘6.   For the purposes of paragraph 5, the larger or more complex exposures of an undertaking shall include securitisation positions as referred to in Article 178(8) and (9) and re-securitisation positions.’;</p>
+                        </div>
+                     </td>
+                  </tr>
+               </tbody>
+            </table>
+            <table width="100%" border="0" cellspacing="0" cellpadding="0">
+               <col width="4%"/>
+               <col width="96%"/>
+               <tbody>
+                  <tr>
+                     <td valign="top"  >
+                        <p class="normal">(3)</p>
+                     </td>
+                     <td valign="top"  >
+                        <p class="normal">Article 177 is deleted;</p>
+                     </td>
+                  </tr>
+               </tbody>
+            </table>
+            <table width="100%" border="0" cellspacing="0" cellpadding="0">
+               <col width="4%"/>
+               <col width="96%"/>
+               <tbody>
+                  <tr>
+                     <td valign="top"  >
+                        <p class="normal">(4)</p>
+                     </td>
+                     <td valign="top"  >
+                        <p class="normal">Article 178 is replaced by the following:</p>
+                        <div id="178">
+                           <p id="d1e394-1-1" class="ti-art">‘Article 178</p>
+                           <p class="sti-art">Spread risk on securitisation positions: calculation of the capital requirement</p>
+                           <div id="178.001">
+                              <p class="normal">1.   The capital requirement <span class="italic">SCR<span class="sub">securitisation</span>
+                                 </span> for spread risk on securitisation positions shall be equal to the loss in the basic own funds that would result from an instantaneous relative decrease of <span class="italic">stress<span class="sub">i</span>
+                                 </span> in the value of each securitisation position <span class="italic">i</span>.</p>
+                           </div>
+                           <div id="178.002">
+                              <p class="normal">2.   The risk factor <span class="italic">stress<span class="sub">i</span>
+                                 </span> shall depend on the modified duration denominated in years (<span class="italic">dur<span class="sub">i</span>
+                                 </span>). <span class="italic">dur<span class="sub">i</span>
+                                 </span> shall not be lower than 1 year.</p>
+                           </div>
+                           <div id="178.003">
+                              <p class="normal">3.   Senior STS securitisation positions which fulfil the requirements set out in Article 243 of Regulation (EU) No 575/2013 and for which a credit assessment by a nominated ECAI is available shall be assigned a risk factor <span class="italic">stress<span class="sub">i</span>
+                                 </span> depending on the credit quality step and the modified duration of the securitisation position <span class="italic">i</span>, as set out in the following table:</p>
+                              <table width="100%" border="0" cellspacing="0" cellpadding="0" class="table">
+                                 <col width="10%"/>
+                                 <col width="14%"/>
+                                 <col width="6%"/>
+                                 <col width="6%"/>
+                                 <col width="6%"/>
+                                 <col width="6%"/>
+                                 <col width="6%"/>
+                                 <col width="6%"/>
+                                 <col width="6%"/>
+                                 <col width="6%"/>
+                                 <col width="6%"/>
+                                 <col width="6%"/>
+                                 <col width="6%"/>
+                                 <col width="6%"/>
+                                 <tbody>
+                                    <tr class="table">
+                                       <td valign="top" class="table" colspan="2" >
+                                          <p class="tbl-hdr">Credit quality step</p>
+                                       </td>
+                                       <td valign="top" class="table" colspan="2" >
+                                          <p class="tbl-hdr">0</p>
+                                       </td>
+                                       <td valign="top" class="table" colspan="2" >
+                                          <p class="tbl-hdr">1</p>
+                                       </td>
+                                       <td valign="top" class="table" colspan="2" >
+                                          <p class="tbl-hdr">2</p>
+                                       </td>
+                                       <td valign="top" class="table" colspan="2" >
+                                          <p class="tbl-hdr">3</p>
+                                       </td>
+                                       <td valign="top" class="table" colspan="2" >
+                                          <p class="tbl-hdr">4</p>
+                                       </td>
+                                       <td valign="top" class="table" colspan="2" >
+                                          <p class="tbl-hdr">5 and 6</p>
+                                       </td>
+                                    </tr>
+                                    <tr class="table">
+                                       <td valign="top" class="table"  >
+                                          <p class="tbl-hdr">Duration</p>
+                                       </td>
+                                       <td valign="top" class="table" rowspan="2" >
+                                          <p class="tbl-hdr">
+                                             <span class="italic">stress</span>
+                                             <span class="sub">i</span>
+                                          </p>
+                                       </td>
+                                       <td valign="top" class="table" rowspan="2" >
+                                          <p class="tbl-hdr">a<span class="sub">i</span>
+                                          </p>
+                                       </td>
+                                       <td valign="top" class="table" rowspan="2" >
+                                          <p class="tbl-hdr">b<span class="sub">i</span>
+                                          </p>
+                                       </td>
+                                       <td valign="top" class="table" rowspan="2" >
+                                          <p class="tbl-hdr">a<span class="sub">i</span>
+                                          </p>
+                                       </td>
+                                       <td valign="top" class="table" rowspan="2" >
+                                          <p class="tbl-hdr">b<span class="sub">i</span>
+                                          </p>
+                                       </td>
+                                       <td valign="top" class="table" rowspan="2" >
+                                          <p class="tbl-hdr">a<span class="sub">i</span>
+                                          </p>
+                                       </td>
+                                       <td valign="top" class="table" rowspan="2" >
+                                          <p class="tbl-hdr">b<span class="sub">i</span>
+                                          </p>
+                                       </td>
+                                       <td valign="top" class="table" rowspan="2" >
+                                          <p class="tbl-hdr">a<span class="sub">i</span>
+                                          </p>
+                                       </td>
+                                       <td valign="top" class="table" rowspan="2" >
+                                          <p class="tbl-hdr">b<span class="sub">i</span>
+                                          </p>
+                                       </td>
+                                       <td valign="top" class="table" rowspan="2" >
+                                          <p class="tbl-hdr">a<span class="sub">i</span>
+                                          </p>
+                                       </td>
+                                       <td valign="top" class="table" rowspan="2" >
+                                          <p class="tbl-hdr">b<span class="sub">i</span>
+                                          </p>
+                                       </td>
+                                       <td valign="top" class="table" rowspan="2" >
+                                          <p class="tbl-hdr">a<span class="sub">i</span>
+                                          </p>
+                                       </td>
+                                       <td valign="top" class="table" rowspan="2" >
+                                          <p class="tbl-hdr">b<span class="sub">i</span>
+                                          </p>
+                                       </td>
+                                    </tr>
+                                    <tr class="table">
+                                       <td valign="top" class="table"  >
+                                          <p class="tbl-hdr">(<span class="italic">dur<span class="sub">i</span>
+                                             </span>)</p>
+                                       </td>
+                                    </tr>
+                                    <tr class="table">
+                                       <td valign="top" class="table"  >
+                                          <p class="tbl-txt">up to 5</p>
+                                       </td>
+                                       <td valign="top" class="table"  >
+                                          <p class="tbl-txt">
+                                             <span class="italic">b<span class="sub">i</span>
+                                             </span> · <span class="italic">dur<span class="sub">i</span>
+                                             </span>
+                                          </p>
+                                       </td>
+                                       <td valign="top" class="table"  >
+                                          <p class="tbl-txt">—</p>
+                                       </td>
+                                       <td valign="top" class="table"  >
+                                          <p class="tbl-txt">1,0 %</p>
+                                       </td>
+                                       <td valign="top" class="table"  >
+                                          <p class="tbl-txt">—</p>
+                                       </td>
+                                       <td valign="top" class="table"  >
+                                          <p class="tbl-txt">1,2 %</p>
+                                       </td>
+                                       <td valign="top" class="table"  >
+                                          <p class="tbl-txt">—</p>
+                                       </td>
+                                       <td valign="top" class="table"  >
+                                          <p class="tbl-txt">1,6 %</p>
+                                       </td>
+                                       <td valign="top" class="table"  >
+                                          <p class="tbl-txt">—</p>
+                                       </td>
+                                       <td valign="top" class="table"  >
+                                          <p class="tbl-txt">2,8 %</p>
+                                       </td>
+                                       <td valign="top" class="table"  >
+                                          <p class="tbl-txt">—</p>
+                                       </td>
+                                       <td valign="top" class="table"  >
+                                          <p class="tbl-txt">5,6 %</p>
+                                       </td>
+                                       <td valign="top" class="table"  >
+                                          <p class="tbl-txt">—</p>
+                                       </td>
+                                       <td valign="top" class="table"  >
+                                          <p class="tbl-txt">9,4 %</p>
+                                       </td>
+                                    </tr>
+                                    <tr class="table">
+                                       <td valign="top" class="table"  >
+                                          <p class="tbl-txt">More than 5 and up to 10</p>
+                                       </td>
+                                       <td valign="top" class="table"  >
+                                          <p class="tbl-txt">
+                                             <span class="italic">a<span class="sub">i</span>
+                                             </span> + <span class="italic">b<span class="sub">i</span>
+                                             </span> · (<span class="italic">dur<span class="sub">i</span>
+                                             </span> – 5)</p>
+                                       </td>
+                                       <td valign="top" class="table"  >
+                                          <p class="tbl-txt">5,0 %</p>
+                                       </td>
+                                       <td valign="top" class="table"  >
+                                          <p class="tbl-txt">0,6 %</p>
+                                       </td>
+                                       <td valign="top" class="table"  >
+                                          <p class="tbl-txt">6,0 %</p>
+                                       </td>
+                                       <td valign="top" class="table"  >
+                                          <p class="tbl-txt">0,7 %</p>
+                                       </td>
+                                       <td valign="top" class="table"  >
+                                          <p class="tbl-txt">8,0 %</p>
+                                       </td>
+                                       <td valign="top" class="table"  >
+                                          <p class="tbl-txt">0,8 %</p>
+                                       </td>
+                                       <td valign="top" class="table"  >
+                                          <p class="tbl-txt">14,0 %</p>
+                                       </td>
+                                       <td valign="top" class="table"  >
+                                          <p class="tbl-txt">1,7 %</p>
+                                       </td>
+                                       <td valign="top" class="table"  >
+                                          <p class="tbl-txt">28,0 %</p>
+                                       </td>
+                                       <td valign="top" class="table"  >
+                                          <p class="tbl-txt">3,1 %</p>
+                                       </td>
+                                       <td valign="top" class="table"  >
+                                          <p class="tbl-txt">47,0 %</p>
+                                       </td>
+                                       <td valign="top" class="table"  >
+                                          <p class="tbl-txt">5,3 %</p>
+                                       </td>
+                                    </tr>
+                                    <tr class="table">
+                                       <td valign="top" class="table"  >
+                                          <p class="tbl-txt">More than 10 and up to 15</p>
+                                       </td>
+                                       <td valign="top" class="table"  >
+                                          <p class="tbl-txt">
+                                             <span class="italic">a<span class="sub">i</span>
+                                             </span> + <span class="italic">b<span class="sub">i</span>
+                                             </span> · (<span class="italic">dur<span class="sub">i</span>
+                                             </span> – 10)</p>
+                                       </td>
+                                       <td valign="top" class="table"  >
+                                          <p class="tbl-txt">8,0 %</p>
+                                       </td>
+                                       <td valign="top" class="table"  >
+                                          <p class="tbl-txt">0,6 %</p>
+                                       </td>
+                                       <td valign="top" class="table"  >
+                                          <p class="tbl-txt">9,5 %</p>
+                                       </td>
+                                       <td valign="top" class="table"  >
+                                          <p class="tbl-txt">0,5 %</p>
+                                       </td>
+                                       <td valign="top" class="table"  >
+                                          <p class="tbl-txt">12,0 %</p>
+                                       </td>
+                                       <td valign="top" class="table"  >
+                                          <p class="tbl-txt">0,6 %</p>
+                                       </td>
+                                       <td valign="top" class="table"  >
+                                          <p class="tbl-txt">22,5 %</p>
+                                       </td>
+                                       <td valign="top" class="table"  >
+                                          <p class="tbl-txt">1,1 %</p>
+                                       </td>
+                                       <td valign="top" class="table"  >
+                                          <p class="tbl-txt">43,5 %</p>
+                                       </td>
+                                       <td valign="top" class="table"  >
+                                          <p class="tbl-txt">2,2 %</p>
+                                       </td>
+                                       <td valign="top" class="table"  >
+                                          <p class="tbl-txt">73,5 %</p>
+                                       </td>
+                                       <td valign="top" class="table"  >
+                                          <p class="tbl-txt">0,6 %</p>
+                                       </td>
+                                    </tr>
+                                    <tr class="table">
+                                       <td valign="top" class="table"  >
+                                          <p class="tbl-txt">More than 15 and up to 20</p>
+                                       </td>
+                                       <td valign="top" class="table"  >
+                                          <p class="tbl-txt">
+                                             <span class="italic">a<span class="sub">i</span>
+                                             </span> + <span class="italic">b<span class="sub">i</span>
+                                             </span> · (<span class="italic">dur<span class="sub">i</span>
+                                             </span> – 15)</p>
+                                       </td>
+                                       <td valign="top" class="table"  >
+                                          <p class="tbl-txt">11,0 %</p>
+                                       </td>
+                                       <td valign="top" class="table"  >
+                                          <p class="tbl-txt">0,6 %</p>
+                                       </td>
+                                       <td valign="top" class="table"  >
+                                          <p class="tbl-txt">12,0 %</p>
+                                       </td>
+                                       <td valign="top" class="table"  >
+                                          <p class="tbl-txt">0,5 %</p>
+                                       </td>
+                                       <td valign="top" class="table"  >
+                                          <p class="tbl-txt">15,0 %</p>
+                                       </td>
+                                       <td valign="top" class="table"  >
+                                          <p class="tbl-txt">0,6 %</p>
+                                       </td>
+                                       <td valign="top" class="table"  >
+                                          <p class="tbl-txt">28,0 %</p>
+                                       </td>
+                                       <td valign="top" class="table"  >
+                                          <p class="tbl-txt">1,1 %</p>
+                                       </td>
+                                       <td valign="top" class="table"  >
+                                          <p class="tbl-txt">54,5 %</p>
+                                       </td>
+                                       <td valign="top" class="table"  >
+                                          <p class="tbl-txt">0,6 %</p>
+                                       </td>
+                                       <td valign="top" class="table"  >
+                                          <p class="tbl-txt">76,5 %</p>
+                                       </td>
+                                       <td valign="top" class="table"  >
+                                          <p class="tbl-txt">0,6 %</p>
+                                       </td>
+                                    </tr>
+                                    <tr class="table">
+                                       <td valign="top" class="table"  >
+                                          <p class="tbl-txt">More than 20</p>
+                                       </td>
+                                       <td valign="top" class="table"  >
+                                          <p class="tbl-txt">min[<span class="italic">a<span class="sub">i</span>
+                                             </span> + <span class="italic">b<span class="sub">i</span>
+                                             </span> · (<span class="italic">dur<span class="sub">i</span>
+                                             </span> – 20);1]</p>
+                                       </td>
+                                       <td valign="top" class="table"  >
+                                          <p class="tbl-txt">14,0 %</p>
+                                       </td>
+                                       <td valign="top" class="table"  >
+                                          <p class="tbl-txt">0,6 %</p>
+                                       </td>
+                                       <td valign="top" class="table"  >
+                                          <p class="tbl-txt">14,5 %</p>
+                                       </td>
+                                       <td valign="top" class="table"  >
+                                          <p class="tbl-txt">0,5 %</p>
+                                       </td>
+                                       <td valign="top" class="table"  >
+                                          <p class="tbl-txt">18,0 %</p>
+                                       </td>
+                                       <td valign="top" class="table"  >
+                                          <p class="tbl-txt">0,6 %</p>
+                                       </td>
+                                       <td valign="top" class="table"  >
+                                          <p class="tbl-txt">33,5 %</p>
+                                       </td>
+                                       <td valign="top" class="table"  >
+                                          <p class="tbl-txt">0,6 %</p>
+                                       </td>
+                                       <td valign="top" class="table"  >
+                                          <p class="tbl-txt">57,5 %</p>
+                                       </td>
+                                       <td valign="top" class="table"  >
+                                          <p class="tbl-txt">0,6 %</p>
+                                       </td>
+                                       <td valign="top" class="table"  >
+                                          <p class="tbl-txt">79,5 %</p>
+                                       </td>
+                                       <td valign="top" class="table"  >
+                                          <p class="tbl-txt">0,6 %</p>
+                                       </td>
+                                    </tr>
+                                 </tbody>
+                              </table>
+                           </div>
+                           <div id="178.004">
+                              <p class="normal">4.   Non-senior STS securitisation positions which fulfil the requirements set out in Article 243 of Regulation (EU) No 575/2013 and for which a credit assessment by a nominated ECAI is available shall be assigned a risk factor <span class="italic">stress<span class="sub">i</span>
+                                 </span> depending on the credit quality step and the modified duration of the securitisation position <span class="italic">i</span>, as set out in the following table:</p>
+                              <table width="100%" border="0" cellspacing="0" cellpadding="0" class="table">
+                                 <col width="10%"/>
+                                 <col width="18%"/>
+                                 <col width="6%"/>
+                                 <col width="6%"/>
+                                 <col width="6%"/>
+                                 <col width="6%"/>
+                                 <col width="6%"/>
+                                 <col width="6%"/>
+                                 <col width="6%"/>
+                                 <col width="6%"/>
+                                 <col width="6%"/>
+                                 <col width="6%"/>
+                                 <col width="6%"/>
+                                 <col width="6%"/>
+                                 <tbody>
+                                    <tr class="table">
+                                       <td valign="top" class="table" colspan="2" >
+                                          <p class="tbl-hdr">Credit quality step</p>
+                                       </td>
+                                       <td valign="top" class="table" colspan="2" >
+                                          <p class="tbl-hdr">0</p>
+                                       </td>
+                                       <td valign="top" class="table" colspan="2" >
+                                          <p class="tbl-hdr">1</p>
+                                       </td>
+                                       <td valign="top" class="table" colspan="2" >
+                                          <p class="tbl-hdr">2</p>
+                                       </td>
+                                       <td valign="top" class="table" colspan="2" >
+                                          <p class="tbl-hdr">3</p>
+                                       </td>
+                                       <td valign="top" class="table" colspan="2" >
+                                          <p class="tbl-hdr">4</p>
+                                       </td>
+                                       <td valign="top" class="table" colspan="2" >
+                                          <p class="tbl-hdr">5 and 6</p>
+                                       </td>
+                                    </tr>
+                                    <tr class="table">
+                                       <td valign="top" class="table"  >
+                                          <p class="tbl-hdr">Duration</p>
+                                       </td>
+                                       <td valign="top" class="table" rowspan="2" >
+                                          <p class="tbl-hdr">
+                                             <span class="italic">stress</span>
+                                             <span class="sub">i</span>
+                                          </p>
+                                       </td>
+                                       <td valign="top" class="table" rowspan="2" >
+                                          <p class="tbl-hdr">a<span class="sub">i</span>
+                                          </p>
+                                       </td>
+                                       <td valign="top" class="table" rowspan="2" >
+                                          <p class="tbl-hdr">b<span class="sub">i</span>
+                                          </p>
+                                       </td>
+                                       <td valign="top" class="table" rowspan="2" >
+                                          <p class="tbl-hdr">a<span class="sub">i</span>
+                                          </p>
+                                       </td>
+                                       <td valign="top" class="table" rowspan="2" >
+                                          <p class="tbl-hdr">b<span class="sub">i</span>
+                                          </p>
+                                       </td>
+                                       <td valign="top" class="table" rowspan="2" >
+                                          <p class="tbl-hdr">a<span class="sub">i</span>
+                                          </p>
+                                       </td>
+                                       <td valign="top" class="table" rowspan="2" >
+                                          <p class="tbl-hdr">b<span class="sub">i</span>
+                                          </p>
+                                       </td>
+                                       <td valign="top" class="table" rowspan="2" >
+                                          <p class="tbl-hdr">a<span class="sub">i</span>
+                                          </p>
+                                       </td>
+                                       <td valign="top" class="table" rowspan="2" >
+                                          <p class="tbl-hdr">b<span class="sub">i</span>
+                                          </p>
+                                       </td>
+                                       <td valign="top" class="table" rowspan="2" >
+                                          <p class="tbl-hdr">a<span class="sub">i</span>
+                                          </p>
+                                       </td>
+                                       <td valign="top" class="table" rowspan="2" >
+                                          <p class="tbl-hdr">b<span class="sub">i</span>
+                                          </p>
+                                       </td>
+                                       <td valign="top" class="table" rowspan="2" >
+                                          <p class="tbl-hdr">a<span class="sub">i</span>
+                                          </p>
+                                       </td>
+                                       <td valign="top" class="table" rowspan="2" >
+                                          <p class="tbl-hdr">b<span class="sub">i</span>
+                                          </p>
+                                       </td>
+                                    </tr>
+                                    <tr class="table">
+                                       <td valign="top" class="table"  >
+                                          <p class="tbl-hdr">(<span class="italic">dur<span class="sub">i</span>
+                                             </span>)</p>
+                                       </td>
+                                    </tr>
+                                    <tr class="table">
+                                       <td valign="top" class="table"  >
+                                          <p class="tbl-txt">up to 5</p>
+                                       </td>
+                                       <td valign="top" class="table"  >
+                                          <p class="tbl-txt">min[<span class="italic">b<span class="sub">i</span>
+                                             </span> · <span class="italic">dur<span class="sub">i</span>
+                                             </span>;1]</p>
+                                       </td>
+                                       <td valign="top" class="table"  >
+                                          <p class="tbl-txt">—</p>
+                                       </td>
+                                       <td valign="top" class="table"  >
+                                          <p class="tbl-txt">2,8 %</p>
+                                       </td>
+                                       <td valign="top" class="table"  >
+                                          <p class="tbl-txt">—</p>
+                                       </td>
+                                       <td valign="top" class="table"  >
+                                          <p class="tbl-txt">3,4 %</p>
+                                       </td>
+                                       <td valign="top" class="table"  >
+                                          <p class="tbl-txt">—</p>
+                                       </td>
+                                       <td valign="top" class="table"  >
+                                          <p class="tbl-txt">4,6 %</p>
+                                       </td>
+                                       <td valign="top" class="table"  >
+                                          <p class="tbl-txt">—</p>
+                                       </td>
+                                       <td valign="top" class="table"  >
+                                          <p class="tbl-txt">7,9 %</p>
+                                       </td>
+                                       <td valign="top" class="table"  >
+                                          <p class="tbl-txt">—</p>
+                                       </td>
+                                       <td valign="top" class="table"  >
+                                          <p class="tbl-txt">15,8 %</p>
+                                       </td>
+                                       <td valign="top" class="table"  >
+                                          <p class="tbl-txt">—</p>
+                                       </td>
+                                       <td valign="top" class="table"  >
+                                          <p class="tbl-txt">26,7 %</p>
+                                       </td>
+                                    </tr>
+                                    <tr class="table">
+                                       <td valign="top" class="table"  >
+                                          <p class="tbl-txt">More than 5 and up to 10</p>
+                                       </td>
+                                       <td valign="top" class="table"  >
+                                          <p class="tbl-txt">min[<span class="italic">a<span class="sub">i</span>
+                                             </span> + <span class="italic">b<span class="sub">i</span>
+                                             </span> · (<span class="italic">dur<span class="sub">i</span>
+                                             </span> – 5);1]</p>
+                                       </td>
+                                       <td valign="top" class="table"  >
+                                          <p class="tbl-txt">14,0 %</p>
+                                       </td>
+                                       <td valign="top" class="table"  >
+                                          <p class="tbl-txt">1,6 %</p>
+                                       </td>
+                                       <td valign="top" class="table"  >
+                                          <p class="tbl-txt">17,0 %</p>
+                                       </td>
+                                       <td valign="top" class="table"  >
+                                          <p class="tbl-txt">1,9 %</p>
+                                       </td>
+                                       <td valign="top" class="table"  >
+                                          <p class="tbl-txt">23,0 %</p>
+                                       </td>
+                                       <td valign="top" class="table"  >
+                                          <p class="tbl-txt">2,3 %</p>
+                                       </td>
+                                       <td valign="top" class="table"  >
+                                          <p class="tbl-txt">39,5 %</p>
+                                       </td>
+                                       <td valign="top" class="table"  >
+                                          <p class="tbl-txt">4,7 %</p>
+                                       </td>
+                                       <td valign="top" class="table"  >
+                                          <p class="tbl-txt">79,0 %</p>
+                                       </td>
+                                       <td valign="top" class="table"  >
+                                          <p class="tbl-txt">8,8 %</p>
+                                       </td>
+                                       <td valign="top" class="table"  >
+                                          <p class="tbl-txt">100,0 %</p>
+                                       </td>
+                                       <td valign="top" class="table"  >
+                                          <p class="tbl-txt">0,0 %</p>
+                                       </td>
+                                    </tr>
+                                    <tr class="table">
+                                       <td valign="top" class="table"  >
+                                          <p class="tbl-txt">More than 10 and up to 15</p>
+                                       </td>
+                                       <td valign="top" class="table"  >
+                                          <p class="tbl-txt">
+                                             <span class="italic">a</span>
+                                             <span class="sub">i</span> + <span class="italic">b<span class="sub">i</span>
+                                             </span> · (<span class="italic">dur<span class="sub">i</span>
+                                             </span> – 10)</p>
+                                       </td>
+                                       <td valign="top" class="table"  >
+                                          <p class="tbl-txt">22,0 %</p>
+                                       </td>
+                                       <td valign="top" class="table"  >
+                                          <p class="tbl-txt">1,6 %</p>
+                                       </td>
+                                       <td valign="top" class="table"  >
+                                          <p class="tbl-txt">26,5 %</p>
+                                       </td>
+                                       <td valign="top" class="table"  >
+                                          <p class="tbl-txt">1,5 %</p>
+                                       </td>
+                                       <td valign="top" class="table"  >
+                                          <p class="tbl-txt">34,5 %</p>
+                                       </td>
+                                       <td valign="top" class="table"  >
+                                          <p class="tbl-txt">1,6 %</p>
+                                       </td>
+                                       <td valign="top" class="table"  >
+                                          <p class="tbl-txt">63,0 %</p>
+                                       </td>
+                                       <td valign="top" class="table"  >
+                                          <p class="tbl-txt">3,2 %</p>
+                                       </td>
+                                       <td valign="top" class="table"  >
+                                          <p class="tbl-txt">100,0 %</p>
+                                       </td>
+                                       <td valign="top" class="table"  >
+                                          <p class="tbl-txt">0,0 %</p>
+                                       </td>
+                                       <td valign="top" class="table"  >
+                                          <p class="tbl-txt">100,0 %</p>
+                                       </td>
+                                       <td valign="top" class="table"  >
+                                          <p class="tbl-txt">0,0 %</p>
+                                       </td>
+                                    </tr>
+                                    <tr class="table">
+                                       <td valign="top" class="table"  >
+                                          <p class="tbl-txt">More than 15 and up to 20</p>
+                                       </td>
+                                       <td valign="top" class="table"  >
+                                          <p class="tbl-txt">
+                                             <span class="italic">a<span class="sub">i</span>
+                                             </span> + <span class="italic">b<span class="sub">i</span>
+                                             </span> · (<span class="italic">dur<span class="sub">i</span>
+                                             </span> – 15)</p>
+                                       </td>
+                                       <td valign="top" class="table"  >
+                                          <p class="tbl-txt">30,0 %</p>
+                                       </td>
+                                       <td valign="top" class="table"  >
+                                          <p class="tbl-txt">1,6 %</p>
+                                       </td>
+                                       <td valign="top" class="table"  >
+                                          <p class="tbl-txt">34,0 %</p>
+                                       </td>
+                                       <td valign="top" class="table"  >
+                                          <p class="tbl-txt">1,5 %</p>
+                                       </td>
+                                       <td valign="top" class="table"  >
+                                          <p class="tbl-txt">42,5 %</p>
+                                       </td>
+                                       <td valign="top" class="table"  >
+                                          <p class="tbl-txt">1,6 %</p>
+                                       </td>
+                                       <td valign="top" class="table"  >
+                                          <p class="tbl-txt">79,0 %</p>
+                                       </td>
+                                       <td valign="top" class="table"  >
+                                          <p class="tbl-txt">3,2 %</p>
+                                       </td>
+                                       <td valign="top" class="table"  >
+                                          <p class="tbl-txt">100,0 %</p>
+                                       </td>
+                                       <td valign="top" class="table"  >
+                                          <p class="tbl-txt">0,0 %</p>
+                                       </td>
+                                       <td valign="top" class="table"  >
+                                          <p class="tbl-txt">100,0 %</p>
+                                       </td>
+                                       <td valign="top" class="table"  >
+                                          <p class="tbl-txt">0,0 %</p>
+                                       </td>
+                                    </tr>
+                                    <tr class="table">
+                                       <td valign="top" class="table"  >
+                                          <p class="tbl-txt">More than 20</p>
+                                       </td>
+                                       <td valign="top" class="table"  >
+                                          <p class="tbl-txt">min[<span class="italic">a<span class="sub">i</span>
+                                             </span> + <span class="italic">b<span class="sub">i</span>
+                                             </span> · (<span class="italic">dur<span class="sub">i</span>
+                                             </span> – 20);1]</p>
+                                       </td>
+                                       <td valign="top" class="table"  >
+                                          <p class="tbl-txt">38,0 %</p>
+                                       </td>
+                                       <td valign="top" class="table"  >
+                                          <p class="tbl-txt">1,6 %</p>
+                                       </td>
+                                       <td valign="top" class="table"  >
+                                          <p class="tbl-txt">41,5 %</p>
+                                       </td>
+                                       <td valign="top" class="table"  >
+                                          <p class="tbl-txt">1,5 %</p>
+                                       </td>
+                                       <td valign="top" class="table"  >
+                                          <p class="tbl-txt">50,5 %</p>
+                                       </td>
+                                       <td valign="top" class="table"  >
+                                          <p class="tbl-txt">1,6 %</p>
+                                       </td>
+                                       <td valign="top" class="table"  >
+                                          <p class="tbl-txt">95,0 %</p>
+                                       </td>
+                                       <td valign="top" class="table"  >
+                                          <p class="tbl-txt">1,6 %</p>
+                                       </td>
+                                       <td valign="top" class="table"  >
+                                          <p class="tbl-txt">100,0 %</p>
+                                       </td>
+                                       <td valign="top" class="table"  >
+                                          <p class="tbl-txt">0,0 %</p>
+                                       </td>
+                                       <td valign="top" class="table"  >
+                                          <p class="tbl-txt">100,0 %</p>
+                                       </td>
+                                       <td valign="top" class="table"  >
+                                          <p class="tbl-txt">0,0 %</p>
+                                       </td>
+                                    </tr>
+                                 </tbody>
+                              </table>
+                           </div>
+                           <div id="178.005">
+                              <p class="normal">5.   Senior STS securitisation positions which fulfil the criteria set out in Article 243 of Regulation (EU) No 575/2013 and for which no credit assessment by a nominated ECAI is available shall be assigned a risk factor <span class="italic">stress<span class="sub">i</span>
+                                 </span> depending on the modified duration of the securitisation position <span class="italic">i</span>, as set out in the following table:</p>
+                              <table width="100%" border="0" cellspacing="0" cellpadding="0" class="table">
+                                 <col width="28%"/>
+                                 <col width="38%"/>
+                                 <col width="17%"/>
+                                 <col width="17%"/>
+                                 <tbody>
+                                    <tr class="table">
+                                       <td valign="top" class="table"  >
+                                          <p class="tbl-hdr">Duration</p>
+                                       </td>
+                                       <td valign="top" class="table" rowspan="2" >
+                                          <p class="tbl-hdr">
+                                             <span class="italic">stress</span>
+                                             <span class="sub">i</span>
+                                          </p>
+                                       </td>
+                                       <td valign="top" class="table" rowspan="2" >
+                                          <p class="tbl-hdr">a<span class="sub">i</span>
+                                          </p>
+                                       </td>
+                                       <td valign="top" class="table" rowspan="2" >
+                                          <p class="tbl-hdr">b<span class="sub">i</span>
+                                          </p>
+                                       </td>
+                                    </tr>
+                                    <tr class="table">
+                                       <td valign="top" class="table"  >
+                                          <p class="tbl-hdr">(<span class="italic">dur<span class="sub">i</span>
+                                             </span>)</p>
+                                       </td>
+                                    </tr>
+                                    <tr class="table">
+                                       <td valign="top" class="table"  >
+                                          <p class="tbl-txt">up to 5</p>
+                                       </td>
+                                       <td valign="top" class="table"  >
+                                          <p class="tbl-txt">
+                                             <span class="italic">b<span class="sub">i</span>
+                                             </span> · <span class="italic">dur<span class="sub">i</span>
+                                             </span>
+                                          </p>
+                                       </td>
+                                       <td valign="top" class="table"  >
+                                          <p class="tbl-txt">—</p>
+                                       </td>
+                                       <td valign="top" class="table"  >
+                                          <p class="tbl-txt">4,6 %</p>
+                                       </td>
+                                    </tr>
+                                    <tr class="table">
+                                       <td valign="top" class="table"  >
+                                          <p class="tbl-txt">More than 5 and up to 10</p>
+                                       </td>
+                                       <td valign="top" class="table"  >
+                                          <p class="tbl-txt">
+                                             <span class="italic">a<span class="sub">i</span>
+                                             </span> + <span class="italic">b<span class="sub">i</span>
+                                             </span> · (<span class="italic">dur<span class="sub">i</span>
+                                             </span> – 5)</p>
+                                       </td>
+                                       <td valign="top" class="table"  >
+                                          <p class="tbl-txt">23 %</p>
+                                       </td>
+                                       <td valign="top" class="table"  >
+                                          <p class="tbl-txt">2,5 %</p>
+                                       </td>
+                                    </tr>
+                                    <tr class="table">
+                                       <td valign="top" class="table"  >
+                                          <p class="tbl-txt">More than 10 and up to 15</p>
+                                       </td>
+                                       <td valign="top" class="table"  >
+                                          <p class="tbl-txt">
+                                             <span class="italic">a<span class="sub">i</span>
+                                             </span> + <span class="italic">b<span class="sub">i</span>
+                                             </span> · (<span class="italic">dur<span class="sub">i</span>
+                                             </span> – 10)</p>
+                                       </td>
+                                       <td valign="top" class="table"  >
+                                          <p class="tbl-txt">35,5 %</p>
+                                       </td>
+                                       <td valign="top" class="table"  >
+                                          <p class="tbl-txt">1,8 %</p>
+                                       </td>
+                                    </tr>
+                                    <tr class="table">
+                                       <td valign="top" class="table"  >
+                                          <p class="tbl-txt">More than 15 and up to 20</p>
+                                       </td>
+                                       <td valign="top" class="table"  >
+                                          <p class="tbl-txt">
+                                             <span class="italic">a<span class="sub">i</span>
+                                             </span> + <span class="italic">b<span class="sub">i</span>
+                                             </span> · (<span class="italic">dur<span class="sub">i</span>
+                                             </span> – 15)</p>
+                                       </td>
+                                       <td valign="top" class="table"  >
+                                          <p class="tbl-txt">44,5 %</p>
+                                       </td>
+                                       <td valign="top" class="table"  >
+                                          <p class="tbl-txt">0,5 %</p>
+                                       </td>
+                                    </tr>
+                                    <tr class="table">
+                                       <td valign="top" class="table"  >
+                                          <p class="tbl-txt">More than 20</p>
+                                       </td>
+                                       <td valign="top" class="table"  >
+                                          <p class="tbl-txt">min[<span class="italic">a<span class="sub">i</span>
+                                             </span> + <span class="italic">b<span class="sub">i</span>
+                                             </span> · (<span class="italic">dur<span class="sub">i</span>
+                                             </span> – 20);1]</p>
+                                       </td>
+                                       <td valign="top" class="table"  >
+                                          <p class="tbl-txt">47 %</p>
+                                       </td>
+                                       <td valign="top" class="table"  >
+                                          <p class="tbl-txt">0,5 %</p>
+                                       </td>
+                                    </tr>
+                                 </tbody>
+                              </table>
+                           </div>
+                           <div id="178.006">
+                              <p class="normal">6.   Non-senior STS securitisation positions which fulfil the criteria set out in Article 243 of Regulation (EU) No 575/2013 and for which no credit assessment by a nominated ECAI is available shall be assigned a risk factor <span class="italic">stress<span class="sub">i</span>
+                                 </span> equivalent to credit quality step 5 and depending on the modified duration of the exposure, as set out in the table in paragraph 3.</p>
+                           </div>
+                           <div id="178.007">
+                              <p class="normal">7.   Re-securitisation positions for which a credit assessment by a nominated ECAI is available shall be assigned a risk factor <span class="italic">stress<span class="sub">i</span>
+                                 </span> equal to the following formula:</p>
+                              <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                 <col width="4%"/>
+                                 <col width="96%"/>
+                                 <tbody>
+                                    <tr>
+                                       <td valign="top"  >
+                                          <p class="normal"> </p>
+                                       </td>
+                                       <td valign="top"  >
+                                          <p class="normal">
+                                             <span class="italic">stress<span class="sub">i</span>
+                                             </span> = min(<span class="italic">b<span class="sub">i</span>
+                                             </span> · <span class="italic">dur<span class="sub">i</span>
+                                             </span>;1)</p>
+                                       </td>
+                                    </tr>
+                                 </tbody>
+                              </table>
+                              <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                 <col width="4%"/>
+                                 <col width="96%"/>
+                                 <tbody>
+                                    <tr>
+                                       <td valign="top"  >
+                                          <p class="normal"> </p>
+                                       </td>
+                                       <td valign="top"  >
+                                          <p class="normal">where <span class="italic">b<span class="sub">i</span>
+                                             </span> shall be assigned depending on the credit quality step of re-securitisation position <span class="italic">i</span>, as set out in the following table:</p>
+                                       </td>
+                                    </tr>
+                                 </tbody>
+                              </table>
+                              <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                 <col width="4%"/>
+                                 <col width="96%"/>
+                                 <tbody>
+                                    <tr>
+                                       <td valign="top"  >
+                                          <p class="normal"> </p>
+                                       </td>
+                                       <td valign="top"  >
+                                          <table width="100%" border="0" cellspacing="0" cellpadding="0" class="table">
+                                             <col width="17%"/>
+                                             <col width="12%"/>
+                                             <col width="12%"/>
+                                             <col width="12%"/>
+                                             <col width="12%"/>
+                                             <col width="12%"/>
+                                             <col width="12%"/>
+                                             <col width="12%"/>
+                                             <tbody>
+                                                <tr class="table">
+                                                   <td valign="top" class="table"  >
+                                                      <p class="tbl-hdr">Credit quality step</p>
+                                                   </td>
+                                                   <td valign="top" class="table"  >
+                                                      <p class="tbl-hdr">0</p>
+                                                   </td>
+                                                   <td valign="top" class="table"  >
+                                                      <p class="tbl-hdr">1</p>
+                                                   </td>
+                                                   <td valign="top" class="table"  >
+                                                      <p class="tbl-hdr">2</p>
+                                                   </td>
+                                                   <td valign="top" class="table"  >
+                                                      <p class="tbl-hdr">3</p>
+                                                   </td>
+                                                   <td valign="top" class="table"  >
+                                                      <p class="tbl-hdr">4</p>
+                                                   </td>
+                                                   <td valign="top" class="table"  >
+                                                      <p class="tbl-hdr">5</p>
+                                                   </td>
+                                                   <td valign="top" class="table"  >
+                                                      <p class="tbl-hdr">6</p>
+                                                   </td>
+                                                </tr>
+                                                <tr class="table">
+                                                   <td valign="top" class="table"  >
+                                                      <p class="tbl-txt">
+                                                         <span class="italic">b<span class="sub">i</span>
+                                                         </span>
+                                                      </p>
+                                                   </td>
+                                                   <td valign="top" class="table"  >
+                                                      <p class="tbl-txt">33 %</p>
+                                                   </td>
+                                                   <td valign="top" class="table"  >
+                                                      <p class="tbl-txt">40 %</p>
+                                                   </td>
+                                                   <td valign="top" class="table"  >
+                                                      <p class="tbl-txt">51 %</p>
+                                                   </td>
+                                                   <td valign="top" class="table"  >
+                                                      <p class="tbl-txt">91 %</p>
+                                                   </td>
+                                                   <td valign="top" class="table"  >
+                                                      <p class="tbl-txt">100 %</p>
+                                                   </td>
+                                                   <td valign="top" class="table"  >
+                                                      <p class="tbl-txt">100 %</p>
+                                                   </td>
+                                                   <td valign="top" class="table"  >
+                                                      <p class="tbl-txt">100 %</p>
+                                                   </td>
+                                                </tr>
+                                             </tbody>
+                                          </table>
+                                       </td>
+                                    </tr>
+                                 </tbody>
+                              </table>
+                           </div>
+                           <div id="178.008">
+                              <p class="normal">8.   Securitisation positions not covered by paragraphs 3 to 7, for which a credit assessment by a nominated ECAI is available shall be assigned a risk factor <span class="italic">stress<span class="sub">i</span>
+                                 </span> equal to the following formula:</p>
+                              <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                 <col width="4%"/>
+                                 <col width="96%"/>
+                                 <tbody>
+                                    <tr>
+                                       <td valign="top"  >
+                                          <p class="normal"> </p>
+                                       </td>
+                                       <td valign="top"  >
+                                          <p class="normal">
+                                             <span class="italic">stress<span class="sub">i</span>
+                                             </span> = min(<span class="italic">b<span class="sub">i</span>
+                                             </span> · <span class="italic">dur<span class="sub">i</span>
+                                             </span>;1)</p>
+                                       </td>
+                                    </tr>
+                                 </tbody>
+                              </table>
+                              <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                 <col width="4%"/>
+                                 <col width="96%"/>
+                                 <tbody>
+                                    <tr>
+                                       <td valign="top"  >
+                                          <p class="normal"> </p>
+                                       </td>
+                                       <td valign="top"  >
+                                          <p class="normal">where <span class="italic">b<span class="sub">i</span>
+                                             </span> shall be assigned depending on the credit quality step of securitisation position <span class="italic">i</span>, as set out in the following table:</p>
+                                       </td>
+                                    </tr>
+                                 </tbody>
+                              </table>
+                              <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                 <col width="4%"/>
+                                 <col width="96%"/>
+                                 <tbody>
+                                    <tr>
+                                       <td valign="top"  >
+                                          <p class="normal"> </p>
+                                       </td>
+                                       <td valign="top"  >
+                                          <table width="100%" border="0" cellspacing="0" cellpadding="0" class="table">
+                                             <col width="17%"/>
+                                             <col width="12%"/>
+                                             <col width="12%"/>
+                                             <col width="12%"/>
+                                             <col width="12%"/>
+                                             <col width="12%"/>
+                                             <col width="12%"/>
+                                             <col width="12%"/>
+                                             <tbody>
+                                                <tr class="table">
+                                                   <td valign="top" class="table"  >
+                                                      <p class="tbl-hdr">Credit quality step</p>
+                                                   </td>
+                                                   <td valign="top" class="table"  >
+                                                      <p class="tbl-hdr">0</p>
+                                                   </td>
+                                                   <td valign="top" class="table"  >
+                                                      <p class="tbl-hdr">1</p>
+                                                   </td>
+                                                   <td valign="top" class="table"  >
+                                                      <p class="tbl-hdr">2</p>
+                                                   </td>
+                                                   <td valign="top" class="table"  >
+                                                      <p class="tbl-hdr">3</p>
+                                                   </td>
+                                                   <td valign="top" class="table"  >
+                                                      <p class="tbl-hdr">4</p>
+                                                   </td>
+                                                   <td valign="top" class="table"  >
+                                                      <p class="tbl-hdr">5</p>
+                                                   </td>
+                                                   <td valign="top" class="table"  >
+                                                      <p class="tbl-hdr">6</p>
+                                                   </td>
+                                                </tr>
+                                                <tr class="table">
+                                                   <td valign="top" class="table"  >
+                                                      <p class="tbl-txt">
+                                                         <span class="italic">b<span class="sub">i</span>
+                                                         </span>
+                                                      </p>
+                                                   </td>
+                                                   <td valign="top" class="table"  >
+                                                      <p class="tbl-txt">12,5 %</p>
+                                                   </td>
+                                                   <td valign="top" class="table"  >
+                                                      <p class="tbl-txt">13,4 %</p>
+                                                   </td>
+                                                   <td valign="top" class="table"  >
+                                                      <p class="tbl-txt">16,6 %</p>
+                                                   </td>
+                                                   <td valign="top" class="table"  >
+                                                      <p class="tbl-txt">19,7 %</p>
+                                                   </td>
+                                                   <td valign="top" class="table"  >
+                                                      <p class="tbl-txt">82 %</p>
+                                                   </td>
+                                                   <td valign="top" class="table"  >
+                                                      <p class="tbl-txt">100 %</p>
+                                                   </td>
+                                                   <td valign="top" class="table"  >
+                                                      <p class="tbl-txt">100 %</p>
+                                                   </td>
+                                                </tr>
+                                             </tbody>
+                                          </table>
+                                       </td>
+                                    </tr>
+                                 </tbody>
+                              </table>
+                           </div>
+                           <div id="178.009">
+                              <p class="normal">9.   Securitisation positions not covered by paragraphs 3 to 8, shall be assigned a risk factor <span class="italic">stress<span class="sub">i</span>
+                                 </span> of 100 %.’;</p>
+                           </div>
+                        </div>
+                     </td>
+                  </tr>
+               </tbody>
+            </table>
+            <table width="100%" border="0" cellspacing="0" cellpadding="0">
+               <col width="4%"/>
+               <col width="96%"/>
+               <tbody>
+                  <tr>
+                     <td valign="top"  >
+                        <p class="normal">(5)</p>
+                     </td>
+                     <td valign="top"  >
+                        <p class="normal">the following Article 178a is inserted:</p>
+                        <div id="178A">
+                           <p id="d1e1405-1-1" class="ti-art">‘Article 178a</p>
+                           <p class="sti-art">Spread risk on securitisation positions: transitional provisions</p>
+                           <div id="178A.001">
+                              <p class="normal">1.   Notwithstanding Article 178(3), securitisations issued before 1 January 2019 that qualify as type 1 securitisations in accordance with Article 177(2) in the version in force on 31 December 2018 shall be assigned a risk factor <span class="italic">stress<span class="sub">i</span>
+                                 </span> in accordance with Article 178(3) even where those securitisations are not STS securitisations which fulfil the requirements set out in Article 243 of Regulation (EU) No 575/2013.</p>
+                           </div>
+                           <div id="178A.002">
+                              <p class="normal">2.   Paragraph 1 shall apply only in circumstances where no new underlying exposures were added or substituted after 31 December 2018.</p>
+                           </div>
+                           <div id="178A.003">
+                              <p class="normal">3.   Notwithstanding Article 178(3), securitisations issued before 18 January 2015 that qualify as type 1 securitisations in accordance with Article 177(4) in the version in force on 31 December 2018 shall be assigned a risk factor <span class="italic">stress<span class="sub">i</span>
+                                 </span> in accordance with Articles 177 and 178 in the version in force on 31 December 2018.</p>
+                           </div>
+                           <div id="178A.004">
+                              <p class="normal">4.   Notwithstanding Article 178(3), securitisations issued before 1 January 2019 that qualify as type 1 securitisations in accordance with Article 177(5) in the version in force on 31 December 2018 shall, until 31 December 2025, be assigned a risk factor <span class="italic">stress<span class="sub">i</span>
+                                 </span> in accordance with Articles 177 and 178 in the version in force on 31 December 2018.’;</p>
+                           </div>
+                        </div>
+                     </td>
+                  </tr>
+               </tbody>
+            </table>
+            <table width="100%" border="0" cellspacing="0" cellpadding="0">
+               <col width="4%"/>
+               <col width="96%"/>
+               <tbody>
+                  <tr>
+                     <td valign="top"  >
+                        <p class="normal">(6)</p>
+                     </td>
+                     <td valign="top"  >
+                        <p class="normal">Article 180 is amended as follows:</p>
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                           <col width="4%"/>
+                           <col width="96%"/>
+                           <tbody>
+                              <tr>
+                                 <td valign="top"  >
+                                    <p class="normal">(a)</p>
+                                 </td>
+                                 <td valign="top"  >
+                                    <p class="normal">paragraph 10 is replaced by the following:</p>
+                                    <div id="180.010">
+                                       <p class="normal">‘10.   STS securitisation positions which fulfil the criteria set out in Article 243 of Regulation (EU) No 575/2013 and which are fully, unconditionally and irrevocably guaranteed by the European Investment Fund or the European Investment Bank, where the guarantee meets the requirements set out in Article 215, shall be assigned a risk factor <span class="italic">stress<span class="sub">i</span>
+                                          </span> of 0 %.’;</p>
+                                    </div>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                           <col width="4%"/>
+                           <col width="96%"/>
+                           <tbody>
+                              <tr>
+                                 <td valign="top"  >
+                                    <p class="normal">(b)</p>
+                                 </td>
+                                 <td valign="top"  >
+                                    <p class="normal">the following paragraph 10a is inserted:</p>
+                                    <div id="180.010A">
+                                       <p class="normal">‘10a.   Notwithstanding paragraph 10, securitisations issued before 1 January 2019 that qualify as type 1 securitisations in accordance with paragraph 10 in the version in force on 31 December 2018 shall be assigned a risk factor <span class="italic">stress<span class="sub">i</span>
+                                          </span> of 0 % even where those securitisations are not STS securitisations which fulfil the requirements set out in Article 243 of Regulation (EU) No 575/2013.’;</p>
+                                    </div>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                     </td>
+                  </tr>
+               </tbody>
+            </table>
+            <table width="100%" border="0" cellspacing="0" cellpadding="0">
+               <col width="4%"/>
+               <col width="96%"/>
+               <tbody>
+                  <tr>
+                     <td valign="top"  >
+                        <p class="normal">(7)</p>
+                     </td>
+                     <td valign="top"  >
+                        <p class="normal">Articles 254, 255 and 256 are deleted;</p>
+                     </td>
+                  </tr>
+               </tbody>
+            </table>
+            <table width="100%" border="0" cellspacing="0" cellpadding="0">
+               <col width="4%"/>
+               <col width="96%"/>
+               <tbody>
+                  <tr>
+                     <td valign="top"  >
+                        <p class="normal">(8)</p>
+                     </td>
+                     <td valign="top"  >
+                        <p class="normal">Article 257 is amended as follows:</p>
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                           <col width="4%"/>
+                           <col width="96%"/>
+                           <tbody>
+                              <tr>
+                                 <td valign="top"  >
+                                    <p class="normal">(a)</p>
+                                 </td>
+                                 <td valign="top"  >
+                                    <p class="normal">paragraphs 1 and 2 are replaced by the following:</p>
+                                    <div id="257.001">
+                                       <p class="normal">‘1.   Where insurance and reinsurance undertakings become aware that the originator, sponsor or original lender fails to comply with the requirements set out in Article 6 of Regulation (EU) 2017/2402, or insurance or reinsurance undertakings become aware that the requirements set out in Article 5(1), (2) and (3) of that Regulation are not being complied with, they shall inform the supervisory authority immediately.</p>
+                                    </div>
+                                    <div id="257.002">
+                                       <p class="normal">2.   Where the requirements in Article 5(1), (2) and (3) of Regulation (EU) 2017/2402 are not fulfilled in any respect by reason of the negligence or omission of the insurance or reinsurance undertaking, the supervisory authority shall impose a proportionate increase to the Solvency Capital Requirement in accordance with paragraph 3 of this Article.’;</p>
+                                    </div>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                           <col width="4%"/>
+                           <col width="96%"/>
+                           <tbody>
+                              <tr>
+                                 <td valign="top"  >
+                                    <p class="normal">(b)</p>
+                                 </td>
+                                 <td valign="top"  >
+                                    <p class="normal">paragraphs 4 and 5 are replaced by the following:</p>
+                                    <div id="257.004">
+                                       <p class="normal">‘4.   The risk factors shall be progressively increased with each subsequent breach of the requirements set out in Article 5 of Regulation (EU) 2017/2402.</p>
+                                    </div>
+                                    <div id="257.005">
+                                       <p class="normal">5.   Where insurance and reinsurance undertakings fail to comply with any requirement set out in Article 5(4) of Regulation (EU) 2017/2402, by reason of their negligence or omission, the supervisory authorities shall assess whether that failure should be considered a significant deviation from the undertaking's system of governance as referred to in Article 37(1)(c) of Directive 2009/138/EC.’.</p>
+                                    </div>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                     </td>
+                  </tr>
+               </tbody>
+            </table>
+         </div>
+         <div id="002">
+            <p id="d1e1591-1-1" class="ti-art">Article 2</p>
+            <p class="sti-art">Entry into force and application</p>
+            <p class="normal">This Regulation shall enter into force on the twentieth day following that of its publication in the <span class="italic">Official Journal of the European Union</span>.</p>
+            <p class="normal">It shall apply from 1 January 2019.</p>
+         </div>
+         <div class="final">
+            <p class="normal">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+            <p class="normal">Done at Brussels, 1 June 2018.</p>
+            <div class="signatory">
+               <p class="signatory">
+                  <span class="italic">For the Commission</span>
+               </p>
+               <p class="signatory">
+                  <span class="italic">The President</span>
+               </p>
+               <p class="signatory">Jean-Claude JUNCKER</p>
+            </div>
+         </div>
+         <hr class="note"/>
+         <p class="note">
+            <a id="ntr1-L_2018227EN.01000101-E0001" href="#ntc1-L_2018227EN.01000101-E0001"
+               >(<span class="super">1</span>)</a>  <a href="http://publications.europa.eu/resource/oj/JOL_2009_335_R_TOC"
+               >OJ L 335, 17.12.2009, p. 1</a>.</p>
+         <p class="note">
+            <a id="ntr2-L_2018227EN.01000101-E0002" href="#ntc2-L_2018227EN.01000101-E0002"
+               >(<span class="super">2</span>)</a>  Regulation (EU) 2017/2402 of the European Parliament and of the Council of 12 December 2017 laying down a general framework for securitisation and creating a specific framework for simple, transparent and standardised securitisation, and amending Directives 2009/65/EC, 2009/138/EC and 2011/61/EU and Regulations (EC) No 1060/2009 and (EU) No 648/2012 (<a href="http://publications.europa.eu/resource/oj/JOL_2017_347_R_TOC"
+               >OJ L 347, 28.12.2017, p. 35</a>).</p>
+         <p class="note">
+            <a id="ntr3-L_2018227EN.01000101-E0003" href="#ntc3-L_2018227EN.01000101-E0003"
+               >(<span class="super">3</span>)</a>  Regulation (EU) 2017/2401 of the European Parliament and of the Council of 12 December 2017 amending Regulation (EU) No 575/2013 on prudential requirements for credit institutions and investment firms (<a href="http://publications.europa.eu/resource/oj/JOL_2017_347_R_TOC"
+               >OJ L 347, 28.12.2017, p. 1</a>).</p>
+         <p class="note">
+            <a id="ntr4-L_2018227EN.01000101-E0004" href="#ntc4-L_2018227EN.01000101-E0004"
+               >(<span class="super">4</span>)</a>  Regulation (EU) No 575/2013 of the European Parliament and of the Council of 26 June 2013 on prudential requirements for credit institutions and investment firms and amending Regulation (EU) No 648/2012 (<a href="http://publications.europa.eu/resource/oj/JOL_2013_176_R_TOC"
+               >OJ L 176, 27.6.2013, p. 1</a>).</p>
+         <p class="note">
+            <a id="ntr5-L_2018227EN.01000101-E0005" href="#ntc5-L_2018227EN.01000101-E0005"
+               >(<span class="super">5</span>)</a>  Commission Delegated Regulation (EU) 2015/35 of 10 October 2014 supplementing Directive 2009/138/EC of the European Parliament and of the Council on the taking-up and pursuit of the business of Insurance and Reinsurance (Solvency II) (<a href="http://publications.europa.eu/resource/oj/JOL_2015_012_R_TOC"
+               >OJ L 12, 17.1.2015, p. 1</a>).</p>
+      </div>
+      <hr class="doc-end"/>
+   </body>
+</html>

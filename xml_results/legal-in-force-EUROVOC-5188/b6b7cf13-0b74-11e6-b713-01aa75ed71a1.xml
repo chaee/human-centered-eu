@@ -1,0 +1,387 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML//EN" "xhtml-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<!-- CONVEX # converter_version:6.7.1 # generated_on:20160426-0117 -->
+<head>
+   <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
+   <link type="text/css" rel="stylesheet"
+         href="http://publications.europa.eu/resource/presentation-style-sheet/oj/oj.css"/>
+   <title>L_2016109EN.01004001.xml</title>
+</head>
+<body>
+   <table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <col width="10%"/>
+      <col width="10%"/>
+      <col width="60%"/>
+      <col width="20%"/>
+      <tbody>
+         <tr>
+            <td>
+               <p class="hd-date">26.4.2016   </p>
+            </td>
+            <td>
+               <p class="hd-lg">EN</p>
+            </td>
+            <td>
+               <p class="hd-ti">Official Journal of the European Union</p>
+            </td>
+            <td>
+               <p class="hd-oj">L 109/40</p>
+            </td>
+         </tr>
+      </tbody>
+   </table>
+   <hr class="separator"/>
+   <p class="doc-ti" id="d1e40-40-1">COMMISSION IMPLEMENTING DECISION (EU) 2016/650</p>
+   <p class="doc-ti">of 25 April 2016</p>
+   <p class="doc-ti">laying down standards for the security assessment of qualified signature and seal creation devices pursuant to Articles 30(3) and 39(2) of Regulation (EU) No 910/2014 of the European Parliament and of the Council on electronic identification and trust services for electronic transactions in the internal market</p>
+   <p class="doc-ti">(Text with EEA relevance)</p>
+   <p class="normal">THE EUROPEAN COMMISSION,</p>
+   <p class="normal">Having regard to the Treaty on the Functioning of the European Union,</p>
+   <p class="normal">Having regard to Regulation (EU) No 910/2014 of the European Parliament and of the Council of 23 July 2014 on electronic identification and trust services for electronic transactions in the internal market and repealing Directive 1999/93/EC<a id="ntc1-L_2016109EN.01004001-E0001" href="#ntr1-L_2016109EN.01004001-E0001"> (<span class="super">1</span>)</a>, and in particular Articles 30(3) and 39(2) thereof,</p>
+   <p class="normal">Whereas:</p>
+   <table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <col width="4%"/>
+      <col width="96%"/>
+      <tbody>
+         <tr>
+            <td valign="top">
+               <p class="normal">(1)</p>
+            </td>
+            <td valign="top">
+               <p class="normal">Annex II to Regulation (EU) No 910/2014 sets out the requirements for qualified electronic signature creation devices and qualified electronic seal creation devices.</p>
+            </td>
+         </tr>
+      </tbody>
+   </table>
+   <table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <col width="4%"/>
+      <col width="96%"/>
+      <tbody>
+         <tr>
+            <td valign="top">
+               <p class="normal">(2)</p>
+            </td>
+            <td valign="top">
+               <p class="normal">The task of drawing up the technical specifications needed for the production and placing on the market of products, taking into account the current stage of technology, is carried out by organisations competent in the standardisation area.</p>
+            </td>
+         </tr>
+      </tbody>
+   </table>
+   <table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <col width="4%"/>
+      <col width="96%"/>
+      <tbody>
+         <tr>
+            <td valign="top">
+               <p class="normal">(3)</p>
+            </td>
+            <td valign="top">
+               <p class="normal">ISO/IEC (International Organisation for Standardization/International Electrotechnical Commission) establishes the general concepts and principles of IT security and specifies the general model of assessment to be used as the basis for evaluation of security properties of IT products.</p>
+            </td>
+         </tr>
+      </tbody>
+   </table>
+   <table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <col width="4%"/>
+      <col width="96%"/>
+      <tbody>
+         <tr>
+            <td valign="top">
+               <p class="normal">(4)</p>
+            </td>
+            <td valign="top">
+               <p class="normal">The European Committee for Standardisation (CEN) has developed, under the standardisation mandate M/460 given by the Commission, standards for qualified electronic signature and seals creation devices, where the electronic signature creation data or electronic seal creation data is held in an entirely but not necessarily exclusively user-managed environment. These standards are considered suitable for the assessment of conformity of such devices with the relevant requirements set out in Annex II to Regulation (EU) No 910/2014.</p>
+            </td>
+         </tr>
+      </tbody>
+   </table>
+   <table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <col width="4%"/>
+      <col width="96%"/>
+      <tbody>
+         <tr>
+            <td valign="top">
+               <p class="normal">(5)</p>
+            </td>
+            <td valign="top">
+               <p class="normal">Annex II to Regulation (EU) No 910/2014 sets that only a qualified trust service provider can manage electronic signature creation data on behalf of a signatory. Security requirements and their respective certification specifications are different when the signatory physically possesses a product and when a qualified trust service provider operates on behalf of the signatory. To address both situations as well as to favour the development over time of products and assessment standards suitable to particular needs, the Annex to this Decision should list standards covering both situations.</p>
+            </td>
+         </tr>
+      </tbody>
+   </table>
+   <table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <col width="4%"/>
+      <col width="96%"/>
+      <tbody>
+         <tr>
+            <td valign="top">
+               <p class="normal">(6)</p>
+            </td>
+            <td valign="top">
+               <p class="normal">At the time this Commission Decision has been adopted, several trust service providers already offer solutions managing electronic signature creation data on behalf of their customers. Certifications of products are currently limited to the hardware security modules certified against different standards but are not yet certified specifically against the requirements for qualified signature and seal creation devices. Nevertheless, published standards, such as EN 419 211 (applicable to electronic signature created in an entirely but not necessarily exclusively user-managed environment) do not yet exist for an equally important market of certified remote products. Since standards that might be appropriate for such purposes are currently under development, when such standards are available and assessed as compliant with the requirements set out in Annex II to Regulation (EU) No 910/2014, the Commission will complement this Decision. Until the moment where the list of such standards is established, an alternative process can be used for the assessment of the conformity of such products under the conditions provided for under point (b) of Article 30(3) of Regulation (EU) No 910/2014.</p>
+            </td>
+         </tr>
+      </tbody>
+   </table>
+   <table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <col width="4%"/>
+      <col width="96%"/>
+      <tbody>
+         <tr>
+            <td valign="top">
+               <p class="normal">(7)</p>
+            </td>
+            <td valign="top">
+               <p class="normal">The Annex lists EN 419 211 which consists of different parts (1 to 6) covering different situations. EN 419 211 Part 5 and 419 211 Part 6 give extensions related to the qualified signature creation device environment, such as communication with trusted signature creation applications. Product manufacturers are free to apply such extensions. According to recital 56 of Regulation (EU) No 910/2014, the scope of certification under Articles 30 and 39 of that Regulation is limited to protecting the signature creation data and signature creation applications are excluded from the scope of the certification.</p>
+            </td>
+         </tr>
+      </tbody>
+   </table>
+   <table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <col width="4%"/>
+      <col width="96%"/>
+      <tbody>
+         <tr>
+            <td valign="top">
+               <p class="normal">(8)</p>
+            </td>
+            <td valign="top">
+               <p class="normal">To ensure that the electronic signatures or seals generated by a qualified signature or seal creation device are reliably protected against forgery, as required by Annex II to Regulation (EU) No 910/2014, suitable cryptographic algorithms, key lengths and hash functions are the prerequisite for the security of the certified product. Since this matter has not been harmonised at European level, Member States should cooperate to agree on cryptographic algorithms, key lengths and hash functions to be used in the field of electronic signatures and seals.</p>
+            </td>
+         </tr>
+      </tbody>
+   </table>
+   <table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <col width="4%"/>
+      <col width="96%"/>
+      <tbody>
+         <tr>
+            <td valign="top">
+               <p class="normal">(9)</p>
+            </td>
+            <td valign="top">
+               <p class="normal">The adoption of the present Decision renders Commission Decision 2003/511/EC<a id="ntc2-L_2016109EN.01004001-E0002" href="#ntr2-L_2016109EN.01004001-E0002"> (<span class="super">2</span>)</a> obsolete. It should therefore be repealed.</p>
+            </td>
+         </tr>
+      </tbody>
+   </table>
+   <table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <col width="4%"/>
+      <col width="96%"/>
+      <tbody>
+         <tr>
+            <td valign="top">
+               <p class="normal">(10)</p>
+            </td>
+            <td valign="top">
+               <p class="normal">The measures provided for in this Decision are in accordance with the opinion of the Committee referred to in Article 48 of Regulation (EU) No 910/2014,</p>
+            </td>
+         </tr>
+      </tbody>
+   </table>
+   <p class="normal">HAS ADOPTED THIS DECISION:</p>
+   <p id="d1e147-40-1" class="ti-art">Article 1</p>
+   <p class="normal">1.   The standards for the security assessment of information technology products that apply to the certification of qualified electronic signature creation devices or qualified electronic seal creation devices according to point (a) of Article 30(3) or 39(2) of Regulation (EU) No 910/2014, where the electronic signature creation data or electronic seal creation data is held in an entirely but not necessarily exclusively user-managed environment are listed in the Annex to this Decision.</p>
+   <p class="normal">2.   Until the establishment by the Commission of a list of standards for the security assessment of information technology products that apply to the certification of qualified electronic signature creation devices or qualified electronic seal creation devices, where a qualified trust service provider manages the electronic signature creation data or electronic seal creation data on behalf of a signatory or of a creator of a seal, the certification of such products shall be based on a process that, pursuant to Article 30(3)(b), uses security levels comparable to those required by Article 30(3)(a) and that is notified to the Commission by the public or private body referred to in paragraph 1 of Article 30 of Regulation (EU) No 910/2014.</p>
+   <p id="d1e160-40-1" class="ti-art">Article 2</p>
+   <p class="normal">Decision 2003/511/EC is hereby repealed.</p>
+   <p id="d1e165-40-1" class="ti-art">Article 3</p>
+   <p class="normal">This Decision shall enter into force on the twentieth day following that of its publication in the <span class="italic">Official Journal of the European Union</span>.</p>
+   <div class="final">
+      <p class="normal">Done at Brussels, 25 April 2016.</p>
+      <div class="signatory">
+         <p class="signatory">
+            <span class="italic">For the Commission</span>
+         </p>
+         <p class="signatory">
+            <span class="italic">The President</span>
+         </p>
+         <p class="signatory">Jean-Claude JUNCKER</p>
+      </div>
+   </div>
+   <hr class="note"/>
+   <p class="note">
+      <a id="ntr1-L_2016109EN.01004001-E0001" href="#ntc1-L_2016109EN.01004001-E0001">(<span class="super">1</span>)</a>  <a href="http://publications.europa.eu/resource/oj/JOL_2014_257_R_TOC">OJ L 257, 28.8.2014, p. 73</a>.</p>
+   <p class="note">
+      <a id="ntr2-L_2016109EN.01004001-E0002" href="#ntc2-L_2016109EN.01004001-E0002">(<span class="super">2</span>)</a>  Commission Decision 2003/511/EC of 14 July 2003 on the publication of reference numbers of generally recognised standards for electronic signature products in accordance with Directive 1999/93/EC of the European Parliament and of the Council (<a href="http://publications.europa.eu/resource/oj/JOL_2003_175_R_TOC">OJ L 175, 15.7.2003, p. 45</a>).</p>
+   <hr class="doc-sep"/>
+   <div id="L_2016109EN.01004201">
+      <p class="doc-ti" id="d1e32-42-1">ANNEX</p>
+      <p id="d1e38-42-1" class="ti-grseq-1">
+         <span class="bold">LIST OF STANDARDS REFERRED TO IN ARTICLE 1(1)</span>
+      </p>
+      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+         <col width="4%"/>
+         <col width="96%"/>
+         <tbody>
+            <tr>
+               <td valign="top">
+                  <p class="normal">—</p>
+               </td>
+               <td valign="top">
+                  <p class="normal">ISO/IEC 15408 — Information technology — Security techniques — Evaluation criteria for IT security, Parts 1 to 3 as listed below:</p>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="4%"/>
+                     <col width="96%"/>
+                     <tbody>
+                        <tr>
+                           <td valign="top">
+                              <p class="normal">—</p>
+                           </td>
+                           <td valign="top">
+                              <p class="normal">ISO/IEC 15408-1:2009 — Information technology — Security techniques — Evaluation criteria for IT security — Part 1. ISO, 2009.</p>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="4%"/>
+                     <col width="96%"/>
+                     <tbody>
+                        <tr>
+                           <td valign="top">
+                              <p class="normal">—</p>
+                           </td>
+                           <td valign="top">
+                              <p class="normal">ISO/IEC 15408-2:2008 — Information technology — Security techniques — Evaluation criteria for IT security — Part 2. ISO, 2008.</p>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="4%"/>
+                     <col width="96%"/>
+                     <tbody>
+                        <tr>
+                           <td valign="top">
+                              <p class="normal">—</p>
+                           </td>
+                           <td valign="top">
+                              <p class="normal">ISO/IEC 15408-3:2008 — Information technology — Security techniques — Evaluation criteria for IT security — Part 3. ISO, 2008,</p>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+                  <p class="normal">and</p>
+               </td>
+            </tr>
+         </tbody>
+      </table>
+      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+         <col width="4%"/>
+         <col width="96%"/>
+         <tbody>
+            <tr>
+               <td valign="top">
+                  <p class="normal">—</p>
+               </td>
+               <td valign="top">
+                  <p class="normal">ISO/IEC 18045:2008: Information technology — Security techniques — Methodology for IT security evaluation,</p>
+                  <p class="normal">and</p>
+               </td>
+            </tr>
+         </tbody>
+      </table>
+      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+         <col width="4%"/>
+         <col width="96%"/>
+         <tbody>
+            <tr>
+               <td valign="top">
+                  <p class="normal">—</p>
+               </td>
+               <td valign="top">
+                  <p class="normal">EN 419 211 — Protection profiles for secure signature creation device, Parts 1 to 6 — as appropriate — as listed below:</p>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="4%"/>
+                     <col width="96%"/>
+                     <tbody>
+                        <tr>
+                           <td valign="top">
+                              <p class="normal">—</p>
+                           </td>
+                           <td valign="top">
+                              <p class="normal">EN 419211-1:2014 — Protection profiles for secure signature creation device — Part 1: Overview</p>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="4%"/>
+                     <col width="96%"/>
+                     <tbody>
+                        <tr>
+                           <td valign="top">
+                              <p class="normal">—</p>
+                           </td>
+                           <td valign="top">
+                              <p class="normal">EN 419211-2:2013 — Protection profiles for secure signature creation device — Part 2: Device with key generation</p>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="4%"/>
+                     <col width="96%"/>
+                     <tbody>
+                        <tr>
+                           <td valign="top">
+                              <p class="normal">—</p>
+                           </td>
+                           <td valign="top">
+                              <p class="normal">EN 419211-3:2013 — Protection profiles for secure signature creation device — Part 3: Device with key import</p>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="4%"/>
+                     <col width="96%"/>
+                     <tbody>
+                        <tr>
+                           <td valign="top">
+                              <p class="normal">—</p>
+                           </td>
+                           <td valign="top">
+                              <p class="normal">EN 419211-4:2013 — Protection profiles for secure signature creation device — Part 4: Extension for device with key generation and trusted channel to certificate generation application</p>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="4%"/>
+                     <col width="96%"/>
+                     <tbody>
+                        <tr>
+                           <td valign="top">
+                              <p class="normal">—</p>
+                           </td>
+                           <td valign="top">
+                              <p class="normal">EN 419211-5:2013 — Protection profiles for secure signature creation device — Part 5: Extension for device with key generation and trusted channel to signature creation application</p>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="4%"/>
+                     <col width="96%"/>
+                     <tbody>
+                        <tr>
+                           <td valign="top">
+                              <p class="normal">—</p>
+                           </td>
+                           <td valign="top">
+                              <p class="normal">EN 419211-6:2014 — Protection profiles for secure signature creation device — Part 6: Extension for device with key import and trusted channel to signature creation application</p>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+               </td>
+            </tr>
+         </tbody>
+      </table>
+   </div>
+   <hr class="doc-end"/>
+</body>
+</html>

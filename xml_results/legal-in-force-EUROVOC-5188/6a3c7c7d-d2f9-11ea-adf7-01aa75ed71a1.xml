@@ -1,0 +1,1882 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML//EN" "xhtml-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><!-- CONVEX # converter_version:9.15.0 # generated_on:20231207-2252 # ELI version:0.10 --><head>
+      <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
+      <link type="text/css" rel="stylesheet" href="oj-convex.css"/>
+      <title>L_2020249EN.01003301.xml</title>
+   </head>
+   <body>
+      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+         <col width="10%"/>
+         <col width="10%"/>
+         <col width="60%"/>
+         <col width="20%"/>
+         <tbody>
+            <tr>
+               <td  >
+                  <p class="oj-hd-date">31.7.2020   </p>
+               </td>
+               <td  >
+                  <p class="oj-hd-lg">EN</p>
+               </td>
+               <td  >
+                  <p class="oj-hd-ti">Official Journal of the European Union</p>
+               </td>
+               <td  >
+                  <p class="oj-hd-oj">L 249/33</p>
+               </td>
+            </tr>
+         </tbody>
+      </table>
+      <hr class="oj-separator"/>
+      <div class="eli-container">
+         <div class="eli-main-title" id="tit_1">
+            <p class="oj-doc-ti" id="d1e40-33-1">
+            REGULATION (EU) 2020/1056 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL
+         </p>
+            <p class="oj-doc-ti">of 15 July 2020
+         </p>
+            <p class="oj-doc-ti">on electronic freight transport information</p>
+            <p class="oj-doc-ti">(Text with EEA relevance)</p>
+         </div>
+         <div class="eli-subdivision" id="pbl_1">
+            <p class="oj-normal">THE EUROPEAN PARLIAMENT AND THE COUNCIL OF THE EUROPEAN UNION,</p>
+            <div class="eli-subdivision" id="cit_1">
+               <p class="oj-normal">Having regard to the Treaty on the Functioning of the European Union, and in particular Article 91 and Article 100(2) thereof,</p>
+            </div>
+            <div class="eli-subdivision" id="cit_2">
+               <p class="oj-normal">Having regard to the proposal from the European Commission,</p>
+            </div>
+            <div class="eli-subdivision" id="cit_3">
+               <p class="oj-normal">After transmission of the draft legislative act to the national parliaments,</p>
+            </div>
+            <div class="eli-subdivision" id="cit_4">
+               <p class="oj-normal">Having regard to the opinion of the European Economic and Social Committee <a id="ntc1-L_2020249EN.01003301-E0001" href="#ntr1-L_2020249EN.01003301-E0001"
+                     >(<span class="oj-super oj-note-tag">1</span>)</a>,</p>
+            </div>
+            <div class="eli-subdivision" id="cit_5">
+               <p class="oj-normal">After consulting the Committee of the Regions,</p>
+            </div>
+            <div class="eli-subdivision" id="cit_6">
+               <p class="oj-normal">Acting in accordance with the ordinary legislative procedure <a id="ntc2-L_2020249EN.01003301-E0002" href="#ntr2-L_2020249EN.01003301-E0002"
+                     >(<span class="oj-super oj-note-tag">2</span>)</a>,</p>
+            </div>
+            <p class="oj-normal">Whereas:</p>
+            <div class="eli-subdivision" id="rct_1">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(1)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">The efficiency of freight transport and logistics is vital for the growth and competitiveness of the Union economy, the functioning of the internal market and the social and economic cohesion of all regions of the Union.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="rct_2">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(2)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">The aim of this Regulation is to encourage the digitalisation of freight transport and logistics to reduce administrative costs, improve enforcement capabilities of competent authorities, and enhance the efficiency and sustainability of transport.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="rct_3">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(3)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">The movement of goods, including waste, is accompanied by a large amount of information which is still exchanged in paper format among businesses, and between businesses and competent authorities. The use of paper documents represents a significant administrative burden for logistics operators and an additional cost for logistics operators and related industries (such as trade and manufacturing), in particular for SMEs, and has a negative impact on the environment.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="rct_4">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(4)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">The absence of a uniform legal framework at Union level requiring competent authorities to accept relevant freight transport information, required by legislation, in electronic form, is considered to be the main reason for the lack of progress towards the simplification and greater efficiency of information exhanges made possible by available electronic means. The acceptance by competent authorities of information in electronic form with common specifications would ease not only communication between competent authorities and economic operators but, indirectly, also the development of uniform and simplified business-to-business electronic communication across the Union. It would also lead to significant administrative cost savings for economic operators, and particularly SMEs, which constitute the large majority of transport and logistics companies within the Union.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="rct_5">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(5)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">Some areas of Union transport law require competent authorities to accept digitised information, but this concerns far from all relevant Union legal acts. It should be possible to use electronic means to make regulatory information on the transport of goods available to competent authorities throughout the territory of the Union in respect of all relevant phases of transport operations conducted within the Union. Furthermore, that possibility should apply to all regulatory information and to all transport modes.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="rct_6">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(6)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">Competent authorities should therefore be required to accept information made available electronically whenever economic operators are obliged to make information available as proof of compliance with requirements laid down in Union legal acts covered by this Regulation. This requirement should also cover information requested by the authorities as additional information in accordance with the provisions of those Union legal acts, for example, when some information is missing. The same should apply where national law requires the provision of regulatory information identical, in whole or in part, to information to be provided pursuant to Union legal acts falling within the scope of this Regulation. Authorities should also endeavour to communicate electronically with the economic operators concerned in relation to that information. Such communication should be without prejudice to relevant provisions of Union legal acts and national law related to follow-up measures during or after regulatory information checks. The obligation for competent authorities to accept information made available electronically by economic operators should also apply whenever provisions of Union legal acts or national law falling within the scope of this Regulation require information that is also referred to in relevant international conventions such as the conventions governing the international contracts of carriage in the different transport modes, for example the UN Convention on the Contract for the International Carriage of Goods by Road (CMR), the Convention concerning International Carriage by Rail (COTIF), the IATA Resolution 672 on E-air Waybill, the Convention for the Unification of Certain Rules for International Carriage by Air (Montreal Convention), and the Budapest Convention on the Contract for the Carriage of Goods by Inland Waterways (CMNI).</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="rct_7">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(7)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">Since this Regulation is only intended to facilitate and encourage the provision of information between the economic operators and competent authorities by electronic means, it should be without prejudice to the provisions of Union legal acts or national law determining the content of regulatory information and, in particular, should not impose any additional regulatory information or language requirements. While this Regulation is intended to allow the compliance with regulatory information requirements by electronic means rather than by means of paper documents, it is without prejudice to the possibility for the economic operators concerned to present that information in paper format, as provided for in the relevant provisions of Union legal acts or national law, and should be without prejudice to relevant Union requirements regarding the documents to be used for the structured presentation of the information in question. This Regulation should be without prejudice to the provisions of Regulation (EC) No 1013/2006 of the European Parliament and of the Council <a id="ntc3-L_2020249EN.01003301-E0003" href="#ntr3-L_2020249EN.01003301-E0003"
+                                 >(<span class="oj-super oj-note-tag">3</span>)</a> concerning procedural requirements for shipments of waste and to the provisions referring to controls by customs offices. This Regulation should also be without prejudice to the reporting obligations, including those relating to the competence of customs offices or the competence of other authorities, set out in Regulation (EU) No 952/2013 of the European Parliament and of the Council <a id="ntc4-L_2020249EN.01003301-E0004" href="#ntr4-L_2020249EN.01003301-E0004"
+                                 >(<span class="oj-super oj-note-tag">4</span>)</a> or in implementing or delegated acts adopted thereunder or in Regulation (EU) 2019/1239 of the European Parliament and of the Council <a id="ntc5-L_2020249EN.01003301-E0005" href="#ntr5-L_2020249EN.01003301-E0005"
+                                 >(<span class="oj-super oj-note-tag">5</span>)</a>.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="rct_8">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(8)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">The use of electronic means to exchange regulatory information can reduce administrative costs for economic operators and can enhance the efficiency of competent authorities. Both economic operators and competent authorities would need to take the necessary measures to make possible electronic exchanges of regulatory freight transport information (eFTI) in machine-readable format via platforms based on information and communications technology (eFTI platforms), including acquiring the necessary equipment. However, the economic operators concerned should remain responsible for providing information in human-readable format whenever specifically requested by competent authorities in order to allow competent authorities to perform their duties in situations where access to an eFTI platform is not available.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="rct_9">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(9)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">In order to enable economic operators to provide relevant information in electronic form in the same way in all Member States, it is necessary to rely on common specifications, which should be adopted by the Commission by means of delegated and implementing acts referred to in this Regulation.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="rct_10">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(10)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">Common specifications on the definition and technical characteristics of data elements should ensure data interoperability by establishing a single comprehensive data set to be used for the electronic communication of the information. This comprehensive data set should contain all the data elements corresponding to the information requirements contained in the relevant provisions of Union legal acts and national law, where each data element that is common to one or more subsets is included only once.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="rct_11">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(11)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">Common specifications should also set out common procedures and detailed rules for access and processing of that information by competent authorities, including any related communication between competent authorities and the economic operators concerned, such as requests for additional information, necessary for competent authorities to exercise their respective regulatory enforcement competences in accordance with the relevant provisions of Union legal acts and national law.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="rct_12">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(12)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">When laying down those common specifications, due account should be taken of relevant data exchange specifications laid down in relevant Union legal acts and contained in relevant European and international standards for data exchange, including multimodal standards, and of the principles and recommendations set out in the Commission’s Communication of 23 March 2017 entitled the ‘European Interoperability Framework – Implementation Strategy’, which provides an approach to the delivery of European digital public services commonly agreed by the Member States. Due care should also be taken that those specifications remain technologically neutral and open to innovative technologies.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="rct_13">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(13)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">With a view to minimising costs for both competent authorities and economic operators, the establishment of access points for competent authorities could be considered. Those access points would act only as intermediaries between the eFTI platforms and competent authorities, and should therefore neither store nor process the eFTI data to which they mediate access, except for metadata connected to eFTI data processing, such as operation logs necessary for monitoring or statistical purposes. Member States could also agree to establish joint access points for their respective competent authorities.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="rct_14">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(14)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">This Regulation should establish the functional requirements applicable to eFTI platforms which should be used by economic operators to make regulatory freight transport information available to competent authorities in electronic form in order to meet the conditions for the mandatory acceptance of this information by competent authorities, as laid down in this Regulation. Requirements should also be established for third-party platform service providers (eFTI service providers). Those requirements should ensure, in particular, that all eFTI data can be processed solely in accordance with a comprehensive rights-based access-control system that provides assigned functionalities, that all competent authorities can have immediate access to that data in accordance to their respective regulatory enforcement competences, that the processing by electronic means of personal data can be carried out in accordance with Regulation (EU) 2016/679 of the European Parliament and of the Council <a id="ntc6-L_2020249EN.01003301-E0006" href="#ntr6-L_2020249EN.01003301-E0006"
+                                 >(<span class="oj-super oj-note-tag">6</span>)</a>, and that the processing of sensitive commercial information can be carried out in a way that respects the confidentiality of that information.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="rct_15">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(15)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">The Commission should adopt specifications regarding the functional requirements for eFTI platforms. When adopting those specifications, the Commission should seek to ensure the interoperability of the eFTI platforms in order to facilitate the exchange of data between such platforms and to allow economic operators to use the eFTI platform of their choice. In order to facilitate implementation and minimise costs, the Commission should also take into account relevant technical solutions and standards used by existing ICT systems. At the same time, the Commission should ensure that those specifications remain technologically neutral to the greatest extent possible, in order to encourage continuous innovation and to avoid technological lock-in.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="rct_16">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(16)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">To build the confidence of both competent authorities and economic operators as regards compliance by eFTI platforms and eFTI service providers with those functional requirements, the Member States should put in place a certification system underpinned by accreditation in accordance with Regulation (EC) No 765/2008 of the European Parliament and of the Council <a id="ntc7-L_2020249EN.01003301-E0007" href="#ntr7-L_2020249EN.01003301-E0007"
+                                 >(<span class="oj-super oj-note-tag">7</span>)</a>. To take advantage of the benefits of certification, providers of ICT systems that are already in use are encouraged to ensure that those systems comply with the requirements for eFTI platforms laid down in this Regulation, and to apply for certification. The certification of ICT systems should be carried out without delay.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="rct_17">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(17)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">The use of eFTI platforms provides economic operators with guaranteed acceptance of regulatory information and provides competent authorities with reliable and secure access to that information. Nevertheless, and notwithstanding the obligation for all competent authorities to accept the information made available through a certified eFTI platform in accordance with this Regulation, the use of other ICT systems should remain possible if a Member State so chooses. At the same time, this Regulation should not prevent the business-to-business use of eFTI platforms, or prevent the use of additional functionalities on eFTI platforms, provided that this does not adversely affect the processing of the regulatory information that falls within the scope of this Regulation, in compliance with the requirements of this Regulation.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="rct_18">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(18)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">In order to ensure uniform conditions for the implementation of the obligation to accept regulatory information made available in electronic form pursuant to this Regulation, implementing powers should be conferred on the Commission. In particular, implementing powers should be conferred on the Commission to establish common procedures and detailed rules for competent authorities for the access to and processing of that regulatory information where the economic operators concerned make that information available electronically, including detailed rules and technical specifications, and to establish detailed specifications for the implementation of the requirements for eFTI platforms and for eFTI service providers. Those powers should be exercised in accordance with Regulation (EU) No 182/2011 of the European Parliament and of the Council <a id="ntc8-L_2020249EN.01003301-E0008" href="#ntr8-L_2020249EN.01003301-E0008"
+                                 >(<span class="oj-super oj-note-tag">8</span>)</a>.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="rct_19">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(19)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">In order to ensure the proper application of this Regulation, the power to adopt acts in accordance with Article 290 of the Treaty on the Functioning of the European Union should be delegated to the Commission in respect of amending Part A of Annex I to take into account any delegated or implementing acts adopted by the Commission which establish new Union regulatory information requirements in relation to the transport of goods; and amending Part B of Annex I, in order to incorporate the lists of regulatory information requirements in national law that have been notified to the Commission by the Member States in accordance with this Regulation, and in order to incorporate any new provision of relevant national law which introduces changes to the national regulatory information requirements, or lays down new relevant regulatory information requirements that fall within the scope of this Regulation that have been notified to the Commission by the Member States in accordance with this Regulation; and in respect of supplementing this Regulation by establishing and amending the common data set and data subsets in relation to the respective regulatory information requirements covered by this Regulation; and supplementing certain technical aspects of this Regulation, namely as regards the rules on certification and the use of the certification mark of eFTI platforms and the rules on certification of eFTI service providers. It is of particular importance that the Commission carry out appropriate consultations during its preparatory work, including at expert level, and that those consultations be conducted in accordance with the principles laid down in the Interinstitutional Agreement of 13 April 2016 on Better Law-Making <a id="ntc9-L_2020249EN.01003301-E0009" href="#ntr9-L_2020249EN.01003301-E0009"
+                                 >(<span class="oj-super oj-note-tag">9</span>)</a>.</p>
+                           <p class="oj-normal">In particular, to ensure equal participation in the preparation of delegated acts, the European Parliament and the Council receive all documents at the same time as Member States’ experts, and their experts systematically have access to meetings of Commission expert groups dealing with the preparation of delegated acts. Furthermore, the engagement of all relevant stakeholders in the appropriate fora, such as the group of experts established by Commission Decision of 13 September 2018 setting up the ‘Digital Transport and Logistics Forum’, is important in the development and preparation of those acts.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="rct_20">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(20)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">Since the objective of this Regulation, namely to ensure a uniform approach to acceptance by competent authorities of freight transport information made available electronically, cannot be sufficiently achieved by the Member States but can rather, by reason of the need to establish common requirements, be better achieved at Union level, the Union may adopt measures, in accordance with the principle of subsidiarity as set out in Article 5 of the Treaty on European Union. In accordance with the principle of proportionality, as set out in that Article, this Regulation does not go beyond what is necessary in order to achieve that objective.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="rct_21">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(21)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">Processing by electronic means of personal data required as part of freight transport regulatory information should be carried out in accordance with Regulation (EU) 2016/679.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="rct_22">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(22)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">The Commission should carry out an evaluation of this Regulation. Information should be collected in order to inform this evaluation and to assess the performance of this Regulation against the objective that it pursues.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="rct_23">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(23)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">Effective and efficient enforcement necessitates that all competent authorities have direct and real-time access to relevant regulatory information in electronic form. To that end, and in accordance with the ‘digital by default’ principle mentioned in the Commission’s Communication of 19 April 2016 entitled ‘EU eGovernment Action Plan 2016–2020 – Accelerating the digital transformation of government’, the use of electronic means should become the predominant way to exchange regulatory information between the economic operators and competent authorities. Therefore, the Commission should assess possible initiatives with a view to establishing an obligation for economic operators to use electronic means to make regulatory information available to competent authorities. The Commission should propose, where appropriate, corresponding initiatives, including possible amendments to this Regulation and other relevant Union legal acts. With a view to improving the enforcement capabilities of competent authorities and minimising costs for both competent authorities and the economic operators, the Commission should also consider further measures such as enhanced interoperability of and a common access point to ICT systems and platforms used for recording and processing regulatory information as provided for in other Union transport law.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="rct_24">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(24)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">This Regulation cannot be effectively applied before the delegated and implementing acts provided for in it have entered into force. For that reason, the Commission has a legal obligation to adopt those delegated and implementing acts and should start immediately to work on them in order to ensure the timely adoption of the relevant specifications, where possible in advance of the respective deadlines set in this Regulation. The timely adoption of those delegated and implementing acts is essential for the Member States and economic operators to have enough time to take the necessary measures in compliance with this Regulation. Therefore, different application periods in this Regulation should be set accordingly.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="rct_25">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(25)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">Likewise, the notification obligation of Member States under this Regulation should be performed within one year of the date of entry into force of this Regulation in order to enable the Commission to adopt the first delegated act pursuant to this Regulation in a timely manner.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="rct_26">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(26)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">The European Data Protection Supervisor was consulted in accordance with Article 28(2) of Regulation (EC) No 45/2001 of the European Parliament and of the Council <a id="ntc10-L_2020249EN.01003301-E0010" href="#ntr10-L_2020249EN.01003301-E0010"
+                                 >(<span class="oj-super oj-note-tag">10</span>)</a>,</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <p class="oj-normal">HAVE ADOPTED THIS REGULATION:</p>
+         </div>
+         <div class="eli-subdivision" id="enc_1">
+            <div id="cpt_I">
+               <p id="d1e365-33-1" class="oj-ti-section-1">CHAPTER I</p>
+               <div class="eli-title" id="cpt_I.tit_1">
+                  <p id="L_2020249EN.01003301-d-001" class="oj-ti-section-2">
+                     <span class="oj-bold">GENERAL PROVISIONS</span>
+                  </p>
+               </div>
+               <div class="eli-subdivision" id="art_1">
+                  <p id="d1e373-33-1" class="oj-ti-art">Article 1</p>
+                  <div class="eli-title" id="art_1.tit_1">
+                     <p class="oj-sti-art">Subject matter</p>
+                  </div>
+                  <p class="oj-normal">This Regulation establishes a legal framework for the electronic communication of regulatory information between the economic operators concerned and competent authorities in relation to the transport of goods on the territory of the Union.</p>
+                  <p class="oj-normal">For that purpose, this Regulation:</p>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="4%"/>
+                     <col width="96%"/>
+                     <tbody>
+                        <tr>
+                           <td valign="top"  >
+                              <p class="oj-normal">(a)</p>
+                           </td>
+                           <td valign="top"  >
+                              <p class="oj-normal">lays down the conditions based on which competent authorities are required to accept regulatory information when that information is made available electronically by the economic operators concerned;</p>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="4%"/>
+                     <col width="96%"/>
+                     <tbody>
+                        <tr>
+                           <td valign="top"  >
+                              <p class="oj-normal">(b)</p>
+                           </td>
+                           <td valign="top"  >
+                              <p class="oj-normal">lays down rules on the provision of services related to making regulatory information available electronically by the economic operators concerned to competent authorities.</p>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+               </div>
+               <div class="eli-subdivision" id="art_2">
+                  <p id="d1e396-33-1" class="oj-ti-art">Article 2</p>
+                  <div class="eli-title" id="art_2.tit_1">
+                     <p class="oj-sti-art">Scope</p>
+                  </div>
+                  <div id="002.001">
+                     <p class="oj-normal">1.   This Regulation applies to:</p>
+                     <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                        <col width="4%"/>
+                        <col width="96%"/>
+                        <tbody>
+                           <tr>
+                              <td valign="top"  >
+                                 <p class="oj-normal">(a)</p>
+                              </td>
+                              <td valign="top"  >
+                                 <p class="oj-normal">regulatory information requirements set out in:</p>
+                                 <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                    <col width="4%"/>
+                                    <col width="96%"/>
+                                    <tbody>
+                                       <tr>
+                                          <td valign="top"  >
+                                             <p class="oj-normal">(i)</p>
+                                          </td>
+                                          <td valign="top"  >
+                                             <p class="oj-normal">Article 6(1) of EEC Council Regulation No 11 <a id="ntc11-L_2020249EN.01003301-E0011" href="#ntr11-L_2020249EN.01003301-E0011"
+                                                   >(<span class="oj-super oj-note-tag">11</span>)</a>;</p>
+                                          </td>
+                                       </tr>
+                                    </tbody>
+                                 </table>
+                                 <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                    <col width="4%"/>
+                                    <col width="96%"/>
+                                    <tbody>
+                                       <tr>
+                                          <td valign="top"  >
+                                             <p class="oj-normal">(ii)</p>
+                                          </td>
+                                          <td valign="top"  >
+                                             <p class="oj-normal">Article 3 of Council Directive 92/106/EEC <a id="ntc12-L_2020249EN.01003301-E0012" href="#ntr12-L_2020249EN.01003301-E0012"
+                                                   >(<span class="oj-super oj-note-tag">12</span>)</a>;</p>
+                                          </td>
+                                       </tr>
+                                    </tbody>
+                                 </table>
+                                 <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                    <col width="4%"/>
+                                    <col width="96%"/>
+                                    <tbody>
+                                       <tr>
+                                          <td valign="top"  >
+                                             <p class="oj-normal">(iii)</p>
+                                          </td>
+                                          <td valign="top"  >
+                                             <p class="oj-normal">Article 8(3) of Regulation (EC) No 1072/2009 of the European Parliament and of the Council <a id="ntc13-L_2020249EN.01003301-E0013" href="#ntr13-L_2020249EN.01003301-E0013"
+                                                   >(<span class="oj-super oj-note-tag">13</span>)</a>;</p>
+                                          </td>
+                                       </tr>
+                                    </tbody>
+                                 </table>
+                                 <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                    <col width="4%"/>
+                                    <col width="96%"/>
+                                    <tbody>
+                                       <tr>
+                                          <td valign="top"  >
+                                             <p class="oj-normal">(iv)</p>
+                                          </td>
+                                          <td valign="top"  >
+                                             <p class="oj-normal">point (c) of Article 16 and Article 18(1) of Regulation (EC) No 1013/2006; this Regulation is without prejudice to controls by customs offices provided for in relevant provisions of Union legal acts;</p>
+                                          </td>
+                                       </tr>
+                                    </tbody>
+                                 </table>
+                                 <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                    <col width="4%"/>
+                                    <col width="96%"/>
+                                    <tbody>
+                                       <tr>
+                                          <td valign="top"  >
+                                             <p class="oj-normal">(v)</p>
+                                          </td>
+                                          <td valign="top"  >
+                                             <p class="oj-normal">Chapter 5.4 of Part 5 of Annex A to the European Agreement concerning the International Carriage of Dangerous Goods by Road (ADR), concluded at Geneva on 30 September 1957, as referred to in Section I.1 of Annex I to Directive 2008/68/EC of the European Parliament and of the Council <a id="ntc14-L_2020249EN.01003301-E0014" href="#ntr14-L_2020249EN.01003301-E0014"
+                                                   >(<span class="oj-super oj-note-tag">14</span>)</a>; Chapter 5.4 of Part 5 of the Regulations concerning the International Carriage of Dangerous Goods by Rail (RID), appearing as Appendix C to COTIF concluded at Vilnius on 3 June 1999, as referred to in Section II.1 of Annex II to that Directive; and Chapter 5.4 of Part 5 of the Regulations annexed to the European Agreement concerning the International Carriage of Dangerous Goods by Inland Waterways (ADN), concluded at Geneva on 26 May 2000, as referred to in Section III.1 of Annex III to that Directive;</p>
+                                          </td>
+                                       </tr>
+                                    </tbody>
+                                 </table>
+                              </td>
+                           </tr>
+                        </tbody>
+                     </table>
+                     <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                        <col width="4%"/>
+                        <col width="96%"/>
+                        <tbody>
+                           <tr>
+                              <td valign="top"  >
+                                 <p class="oj-normal">(b)</p>
+                              </td>
+                              <td valign="top"  >
+                                 <p class="oj-normal">regulatory information requirements laid down in delegated or implementing acts adopted by the Commission pursuant to a Union legal act referred to in point (a) of this paragraph or pursuant to Directive (EU) 2016/797 of the European Parliament and of the Council <a id="ntc15-L_2020249EN.01003301-E0015" href="#ntr15-L_2020249EN.01003301-E0015"
+                                       >(<span class="oj-super oj-note-tag">15</span>)</a> or to Regulation (EC) No 300/2008 of the European Parliament and of the Council <a id="ntc16-L_2020249EN.01003301-E0016" href="#ntr16-L_2020249EN.01003301-E0016"
+                                       >(<span class="oj-super oj-note-tag">16</span>)</a>. Those delegated or implementing acts shall be listed in Part A of Annex I to this Regulation;</p>
+                              </td>
+                           </tr>
+                        </tbody>
+                     </table>
+                     <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                        <col width="4%"/>
+                        <col width="96%"/>
+                        <tbody>
+                           <tr>
+                              <td valign="top"  >
+                                 <p class="oj-normal">(c)</p>
+                              </td>
+                              <td valign="top"  >
+                                 <p class="oj-normal">regulatory information requirements set out in the provisions of national law listed in Part B of Annex I to this Regulation.</p>
+                              </td>
+                           </tr>
+                        </tbody>
+                     </table>
+                  </div>
+                  <div id="002.002">
+                     <p class="oj-normal">2.   By 21 August 2021, Member States shall notify the Commission of the provisions of national law and corresponding regulatory information requirements that require the provision of information identical, in whole or in part, to the information to be provided pursuant to the regulatory information requirements referred to in points (a) and (b) of paragraph 1.</p>
+                     <p class="oj-normal">Subsequent to that notification, the Member States shall notify the Commission of any provisions of national law that:</p>
+                     <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                        <col width="4%"/>
+                        <col width="96%"/>
+                        <tbody>
+                           <tr>
+                              <td valign="top"  >
+                                 <p class="oj-normal">(a)</p>
+                              </td>
+                              <td valign="top"  >
+                                 <p class="oj-normal">introduce changes to regulatory information requirements set out in the provisions of national law listed in Part B of Annex I; or</p>
+                              </td>
+                           </tr>
+                        </tbody>
+                     </table>
+                     <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                        <col width="4%"/>
+                        <col width="96%"/>
+                        <tbody>
+                           <tr>
+                              <td valign="top"  >
+                                 <p class="oj-normal">(b)</p>
+                              </td>
+                              <td valign="top"  >
+                                 <p class="oj-normal">lay down new relevant regulatory information requirements that require the provision of information identical, in whole or in part, to the information to be provided pursuant to the regulatory information requirements referred to in points (a) and (b) of paragraph 1.</p>
+                              </td>
+                           </tr>
+                        </tbody>
+                     </table>
+                     <p class="oj-normal">Member States shall make such notifications within one month from the adoption of such provisions.</p>
+                  </div>
+                  <div id="002.003">
+                     <p class="oj-normal">3.   The Commission shall adopt delegated acts in accordance with Article 14, amending:</p>
+                     <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                        <col width="4%"/>
+                        <col width="96%"/>
+                        <tbody>
+                           <tr>
+                              <td valign="top"  >
+                                 <p class="oj-normal">(a)</p>
+                              </td>
+                              <td valign="top"  >
+                                 <p class="oj-normal">Part A of Annex I in order to incorporate references to any regulatory information requirements referred to in point (b) of paragraph 1 of this Article;</p>
+                              </td>
+                           </tr>
+                        </tbody>
+                     </table>
+                     <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                        <col width="4%"/>
+                        <col width="96%"/>
+                        <tbody>
+                           <tr>
+                              <td valign="top"  >
+                                 <p class="oj-normal">(b)</p>
+                              </td>
+                              <td valign="top"  >
+                                 <p class="oj-normal">Part B of Annex I in order to incorporate or delete references to national law and regulatory information requirements in accordance with the notifications made pursuant to paragraph 2 of this Article.</p>
+                              </td>
+                           </tr>
+                        </tbody>
+                     </table>
+                  </div>
+               </div>
+               <div class="eli-subdivision" id="art_3">
+                  <p id="d1e569-33-1" class="oj-ti-art">Article 3</p>
+                  <div class="eli-title" id="art_3.tit_1">
+                     <p class="oj-sti-art">Definitions</p>
+                  </div>
+                  <p class="oj-normal">For the purposes of this Regulation, the following definitions apply:</p>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="4%"/>
+                     <col width="96%"/>
+                     <tbody>
+                        <tr>
+                           <td valign="top"  >
+                              <p class="oj-normal">(1)</p>
+                           </td>
+                           <td valign="top"  >
+                              <p class="oj-normal">‘regulatory information’ means information, whether or not presented in the form of a document, that is related to the transport of goods in the territory of the Union, including of goods in transit, which is to be made available by an economic operator concerned in accordance with the provisions referred to in Article 2(1) in order to prove compliance with the relevant requirements of the acts laying down those provisions;</p>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="4%"/>
+                     <col width="96%"/>
+                     <tbody>
+                        <tr>
+                           <td valign="top"  >
+                              <p class="oj-normal">(2)</p>
+                           </td>
+                           <td valign="top"  >
+                              <p class="oj-normal">‘regulatory information requirement’ means a requirement to provide regulatory information;</p>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="4%"/>
+                     <col width="96%"/>
+                     <tbody>
+                        <tr>
+                           <td valign="top"  >
+                              <p class="oj-normal">(3)</p>
+                           </td>
+                           <td valign="top"  >
+                              <p class="oj-normal">‘competent authority’ means a public authority, agency or other body which is competent to perform tasks pursuant to the legal acts referred to in Article 2(1) and for which access to regulatory information is necessary, such as checking, enforcing, validating or monitoring compliance on the territory of a Member State;</p>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="4%"/>
+                     <col width="96%"/>
+                     <tbody>
+                        <tr>
+                           <td valign="top"  >
+                              <p class="oj-normal">(4)</p>
+                           </td>
+                           <td valign="top"  >
+                              <p class="oj-normal">‘electronic freight transport information’ or ‘eFTI’ means a set of data elements that are processed by electronic means for the purpose of exchanging regulatory information among the economic operators concerned and between the economic operators concerned and competent authorities;</p>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="4%"/>
+                     <col width="96%"/>
+                     <tbody>
+                        <tr>
+                           <td valign="top"  >
+                              <p class="oj-normal">(5)</p>
+                           </td>
+                           <td valign="top"  >
+                              <p class="oj-normal">‘eFTI data subset’ means a set of structured data elements that correspond to the regulatory information required pursuant to specific Union legal act or national law referred to in Article 2(1);</p>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="4%"/>
+                     <col width="96%"/>
+                     <tbody>
+                        <tr>
+                           <td valign="top"  >
+                              <p class="oj-normal">(6)</p>
+                           </td>
+                           <td valign="top"  >
+                              <p class="oj-normal">‘eFTI common data set’ means a comprehensive set of structured data elements that correspond to all the eFTI data subsets, where the data elements common to the different eFTI data subsets are included only once;</p>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="4%"/>
+                     <col width="96%"/>
+                     <tbody>
+                        <tr>
+                           <td valign="top"  >
+                              <p class="oj-normal">(7)</p>
+                           </td>
+                           <td valign="top"  >
+                              <p class="oj-normal">‘data element’ means the smallest unit of information which has a unique definition and precise technical characteristics, such as format, length and character type;</p>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="4%"/>
+                     <col width="96%"/>
+                     <tbody>
+                        <tr>
+                           <td valign="top"  >
+                              <p class="oj-normal">(8)</p>
+                           </td>
+                           <td valign="top"  >
+                              <p class="oj-normal">‘processing’ means an operation or set of operations performed on eFTI, whether or not by automated means, such as collection, recording, organisation, structuring, storage, adaptation or alteration, retrieval, consultation, use, disclosure by transmission, dissemination or otherwise making eFTI available, alignment or combination, restriction, erasure or destruction;</p>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="4%"/>
+                     <col width="96%"/>
+                     <tbody>
+                        <tr>
+                           <td valign="top"  >
+                              <p class="oj-normal">(9)</p>
+                           </td>
+                           <td valign="top"  >
+                              <p class="oj-normal">‘operation log’ means an automated record of the electronic processing of eFTI;</p>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="4%"/>
+                     <col width="96%"/>
+                     <tbody>
+                        <tr>
+                           <td valign="top"  >
+                              <p class="oj-normal">(10)</p>
+                           </td>
+                           <td valign="top"  >
+                              <p class="oj-normal">‘eFTI platform’ means a solution based on information and communication technology (ICT), such as an operating system, an operating environment, or a database, intended to be used for the processing of eFTI;</p>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="4%"/>
+                     <col width="96%"/>
+                     <tbody>
+                        <tr>
+                           <td valign="top"  >
+                              <p class="oj-normal">(11)</p>
+                           </td>
+                           <td valign="top"  >
+                              <p class="oj-normal">‘eFTI platform developer’ means a natural or legal person which has developed or acquired an eFTI platform either for the purpose of processing regulatory information related to its own economic activity or for putting that platform on the market;</p>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="4%"/>
+                     <col width="96%"/>
+                     <tbody>
+                        <tr>
+                           <td valign="top"  >
+                              <p class="oj-normal">(12)</p>
+                           </td>
+                           <td valign="top"  >
+                              <p class="oj-normal">‘eFTI service’ means a service consisting of eFTI processing by means of an eFTI platform, alone or in combination with other ICT solutions, including other eFTI platforms;</p>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="4%"/>
+                     <col width="96%"/>
+                     <tbody>
+                        <tr>
+                           <td valign="top"  >
+                              <p class="oj-normal">(13)</p>
+                           </td>
+                           <td valign="top"  >
+                              <p class="oj-normal">‘eFTI service provider’ means a natural or legal person which provides an eFTI service to the economic operators concerned on the basis of a contract;</p>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="4%"/>
+                     <col width="96%"/>
+                     <tbody>
+                        <tr>
+                           <td valign="top"  >
+                              <p class="oj-normal">(14)</p>
+                           </td>
+                           <td valign="top"  >
+                              <p class="oj-normal">‘economic operator concerned’ means a transport or logistics operator, or any other natural or legal person, who is responsible for making regulatory information available to competent authorities in accordance with the relevant regulatory information requirements;</p>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="4%"/>
+                     <col width="96%"/>
+                     <tbody>
+                        <tr>
+                           <td valign="top"  >
+                              <p class="oj-normal">(15)</p>
+                           </td>
+                           <td valign="top"  >
+                              <p class="oj-normal">‘human-readable format’ means a way of presenting data in an electronic form that can be used as information by a natural person without requiring any further processing;</p>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="4%"/>
+                     <col width="96%"/>
+                     <tbody>
+                        <tr>
+                           <td valign="top"  >
+                              <p class="oj-normal">(16)</p>
+                           </td>
+                           <td valign="top"  >
+                              <p class="oj-normal">‘machine-readable format’ means a way of presenting data in an electronic form that can be used for automatic processing by a machine;</p>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="4%"/>
+                     <col width="96%"/>
+                     <tbody>
+                        <tr>
+                           <td valign="top"  >
+                              <p class="oj-normal">(17)</p>
+                           </td>
+                           <td valign="top"  >
+                              <p class="oj-normal">‘conformity assessment body’ means a conformity assessment body within the meaning of Regulation (EC) No 765/2008, which is accredited in accordance with that Regulation to carry out the conformity assessment of eFTI platforms or eFTI service providers;</p>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="4%"/>
+                     <col width="96%"/>
+                     <tbody>
+                        <tr>
+                           <td valign="top"  >
+                              <p class="oj-normal">(18)</p>
+                           </td>
+                           <td valign="top"  >
+                              <p class="oj-normal">‘shipment’ means the transport of a determined set of goods, including waste, between the first place of pick-up and final place of delivery under the terms of a single transport contract or of multiple consecutive transport contracts, including, where applicable, the transfer between different modes of transport, irrespective of the quantity or number of containers, packages or pieces transported.</p>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+               </div>
+            </div>
+            <div id="cpt_II">
+               <p id="d1e746-33-1" class="oj-ti-section-1">CHAPTER II</p>
+               <div class="eli-title" id="cpt_II.tit_1">
+                  <p id="L_2020249EN.01003301-d-002" class="oj-ti-section-2">
+                     <span class="oj-bold">REGULATORY INFORMATION MADE AVAILABLE ELECTRONICALLY</span>
+                  </p>
+               </div>
+               <div class="eli-subdivision" id="art_4">
+                  <p id="d1e754-33-1" class="oj-ti-art">Article 4</p>
+                  <div class="eli-title" id="art_4.tit_1">
+                     <p class="oj-sti-art">Requirements for economic operators concerned</p>
+                  </div>
+                  <div id="004.001">
+                     <p class="oj-normal">1.   For the purposes of Article 5(1), (2) and (3), the economic operators concerned shall comply with the requirements set out in this Article.</p>
+                  </div>
+                  <div id="004.002">
+                     <p class="oj-normal">2.   Where the economic operators concerned make regulatory information available electronically to a competent authority, they shall do so on the basis of data processed on a certified eFTI platform and, if applicable, by a certified eFTI service provider. That regulatory information shall be made available by the economic operators concerned in machine-readable format and, at the request of the competent authority, in human-readable format.</p>
+                  </div>
+                  <div id="004.003">
+                     <p class="oj-normal">3.   Information in machine-readable format shall be made available via an authenticated and secure connection to the data source of an eFTI platform. The economic operators concerned shall communicate the unique electronic identifying link referred to in point (e) of Article 9(1) that enables the competent authority to uniquely identify the regulatory information related to the shipment.</p>
+                  </div>
+                  <div id="004.004">
+                     <p class="oj-normal">4.   Information in human-readable format requested by competent authorities shall be made available on the spot, on the screen of an electronic device owned by the economic operator concerned.</p>
+                  </div>
+               </div>
+               <div class="eli-subdivision" id="art_5">
+                  <p id="d1e779-33-1" class="oj-ti-art">Article 5</p>
+                  <div class="eli-title" id="art_5.tit_1">
+                     <p class="oj-sti-art">Requirements for competent authorities</p>
+                  </div>
+                  <div id="005.001">
+                     <p class="oj-normal">1.   As from 30 months after the date of entry into force of the first of the delegated and implementing acts referred to in Articles 7 and 8, competent authorities shall accept regulatory information made available electronically by the economic operators concerned in accordance with Article 4, including where such regulatory information is requested by competent authorities as additional information.</p>
+                  </div>
+                  <div id="005.002">
+                     <p class="oj-normal">2.   Where the economic operator concerned has made, regulatory information required pursuant to Regulation (EC) No 1013/2006 available electronically in accordance with Article 4 of this Regulation, the competent authorities concerned shall also accept such regulatory information without the agreement referred to in Article 26(3) and (4) of Regulation (EC) No 1013/2006.</p>
+                  </div>
+                  <div id="005.003">
+                     <p class="oj-normal">3.   Where regulatory information required pursuant to a specific Union legal act or national law referred to in Article 2(1) includes official validation, such as stamps or certificates, the respective authority shall provide that validation electronically, in accordance with the requirements established by the delegated and implementing acts referred to in Articles 7 and 8.</p>
+                  </div>
+                  <div id="005.004">
+                     <p class="oj-normal">4.   In order to comply with the requirements set out in paragraphs 1 to 3 of this Article, Member States shall take measures to enable all their competent authorities to access and process regulatory information made available by the economic operators concerned in accordance with Article 4. Those measures shall comply with delegated and implementing acts referred to in Articles 7 and 8.</p>
+                  </div>
+               </div>
+               <div class="eli-subdivision" id="art_6">
+                  <p id="d1e804-33-1" class="oj-ti-art">Article 6</p>
+                  <div class="eli-title" id="art_6.tit_1">
+                     <p class="oj-sti-art">Confidential commercial information</p>
+                  </div>
+                  <p class="oj-normal">Competent authorities, eFTI service providers and the economic operators concerned shall take measures to ensure the confidentiality of commercial information that is processed and exchanged in accordance with this Regulation and ensure that such information may be accessed and processed only when authorised.</p>
+               </div>
+               <div class="eli-subdivision" id="art_7">
+                  <p id="d1e811-33-1" class="oj-ti-art">Article 7</p>
+                  <div class="eli-title" id="art_7.tit_1">
+                     <p class="oj-sti-art">eFTI common data set and eFTI data subsets</p>
+                  </div>
+                  <div id="007.001">
+                     <p class="oj-normal">1.   The Commission shall adopt delegated acts in accordance with Article 14 to supplement this Regulation by establishing and amending the eFTI common data set and eFTI data subsets in relation to the respective regulatory information requirements referred to in Article 2(1), including corresponding specifications on the definition and technical characteristics for each data element included in the eFTI common data set and eFTI data subsets.</p>
+                  </div>
+                  <div id="007.002">
+                     <p class="oj-normal">2.   When adopting the delegated acts referred to in paragraph 1, the Commission shall:</p>
+                     <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                        <col width="4%"/>
+                        <col width="96%"/>
+                        <tbody>
+                           <tr>
+                              <td valign="top"  >
+                                 <p class="oj-normal">(a)</p>
+                              </td>
+                              <td valign="top"  >
+                                 <p class="oj-normal">take into account relevant international conventions and Union law; and</p>
+                              </td>
+                           </tr>
+                        </tbody>
+                     </table>
+                     <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                        <col width="4%"/>
+                        <col width="96%"/>
+                        <tbody>
+                           <tr>
+                              <td valign="top"  >
+                                 <p class="oj-normal">(b)</p>
+                              </td>
+                              <td valign="top"  >
+                                 <p class="oj-normal">seek to ensure the interoperability of the eFTI common data set and eFTI data subsets with relevant data models that are accepted internationally or at Union level, including multimodal data models.</p>
+                              </td>
+                           </tr>
+                        </tbody>
+                     </table>
+                  </div>
+                  <div id="007.003">
+                     <p class="oj-normal">3.   The first such delegated act shall cover all the elements referred to in paragraph 1 and shall be adopted no later than 21 February 2023.</p>
+                  </div>
+               </div>
+               <div class="eli-subdivision" id="art_8">
+                  <p id="d1e848-33-1" class="oj-ti-art">Article 8</p>
+                  <div class="eli-title" id="art_8.tit_1">
+                     <p class="oj-sti-art">Common procedures and rules for access</p>
+                  </div>
+                  <div id="008.001">
+                     <p class="oj-normal">1.   The Commission shall adopt implementing acts laying down common procedures and detailed rules, including common technical specifications, for access by competent authorities to eFTI platforms, including procedures for the processing of regulatory information and for communication between competent authorities and the economic operators concerned in relation to that information.</p>
+                  </div>
+                  <div id="008.002">
+                     <p class="oj-normal">2.   When adopting the implementing acts referred to in paragraph 1, the Commission shall seek to enhance the efficiency of the administrative procedures and to minimise compliance costs both for the economic operators concerned and competent authorities.</p>
+                  </div>
+                  <div id="008.003">
+                     <p class="oj-normal">3.   Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 15(2). The first such implementing act shall cover all the elements referred to in paragraph 1 of this Article and shall be adopted no later than 21 February 2023.</p>
+                  </div>
+               </div>
+            </div>
+            <div id="cpt_III">
+               <p id="d1e872-33-1" class="oj-ti-section-1">CHAPTER III</p>
+               <div class="eli-title" id="cpt_III.tit_1">
+                  <p id="L_2020249EN.01003301-d-003" class="oj-ti-section-2">
+                     <span class="oj-bold">eFTI PLATFORMS AND eFTI SERVICE PROVIDERS</span>
+                  </p>
+               </div>
+               <div id="cpt_III.sct_1">
+                  <p id="d1e881-33-1" class="oj-ti-section-1">
+                     <span class="oj-italic">SECTION 1</span>
+                  </p>
+                  <div class="eli-title" id="cpt_III.sct_1.tit_1">
+                     <p id="L_2020249EN.01003301-d-004" class="oj-ti-section-2">
+                        <span class="oj-bold">
+                           <span class="oj-italic">Requirements for eFTI platforms and eFTI service providers</span>
+                        </span>
+                     </p>
+                  </div>
+                  <div class="eli-subdivision" id="art_9">
+                     <p id="d1e891-33-1" class="oj-ti-art">Article 9</p>
+                     <div class="eli-title" id="art_9.tit_1">
+                        <p class="oj-sti-art">Functional requirements for eFTI platforms</p>
+                     </div>
+                     <div id="009.001">
+                        <p class="oj-normal">1.   The eFTI platforms used for processing regulatory information shall provide functionalities that ensure that:</p>
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                           <col width="4%"/>
+                           <col width="96%"/>
+                           <tbody>
+                              <tr>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">(a)</p>
+                                 </td>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">personal data can be processed in accordance with Regulation (EU) 2016/679;</p>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                           <col width="4%"/>
+                           <col width="96%"/>
+                           <tbody>
+                              <tr>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">(b)</p>
+                                 </td>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">commercial data can be processed in accordance with Article 6;</p>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                           <col width="4%"/>
+                           <col width="96%"/>
+                           <tbody>
+                              <tr>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">(c)</p>
+                                 </td>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">competent authorities can access and process data in accordance with the specifications adopted by means of delegated and implementing acts referred to in Articles 7 and 8;</p>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                           <col width="4%"/>
+                           <col width="96%"/>
+                           <tbody>
+                              <tr>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">(d)</p>
+                                 </td>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">the economic operators concerned can make information available to competent authorities in accordance with Article 4;</p>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                           <col width="4%"/>
+                           <col width="96%"/>
+                           <tbody>
+                              <tr>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">(e)</p>
+                                 </td>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">a unique electronic identifying link can be established between a shipment and the related data elements, including a structured reference to the eFTI platform where the data is made available, such as a unique reference identifier;</p>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                           <col width="4%"/>
+                           <col width="96%"/>
+                           <tbody>
+                              <tr>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">(f)</p>
+                                 </td>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">data can be processed solely on the basis of authorised and authenticated access;</p>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                           <col width="4%"/>
+                           <col width="96%"/>
+                           <tbody>
+                              <tr>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">(g)</p>
+                                 </td>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">all data processing is duly recorded in operation logs in order to allow, as a minimum, the identification of each distinct processing operation, the natural or legal person having made the operation and the sequencing of the operations on each individual data element; if an operation involves modifying or erasing an existing data element, the original data element shall be preserved;</p>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                           <col width="4%"/>
+                           <col width="96%"/>
+                           <tbody>
+                              <tr>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">(h)</p>
+                                 </td>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">data can be archived and remain accessible for competent authorities in accordance with the relevant Union legal acts and national law laying down the respective regulatory information requirements;</p>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                           <col width="4%"/>
+                           <col width="96%"/>
+                           <tbody>
+                              <tr>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">(i)</p>
+                                 </td>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">the operation logs referred to in point (g) of this paragraph are archived and remain accessible for competent authorities for auditing purposes for the period of time specified in the relevant Union legal acts and national law laying down the respective regulatory information requirements and, for monitoring purposes, for the periods of time referred to in Article 17;</p>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                           <col width="4%"/>
+                           <col width="96%"/>
+                           <tbody>
+                              <tr>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">(j)</p>
+                                 </td>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">data is protected against corruption and theft;</p>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                           <col width="4%"/>
+                           <col width="96%"/>
+                           <tbody>
+                              <tr>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">(k)</p>
+                                 </td>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">the data elements processed correspond to the eFTI common data set and to eFTI data subsets as established by the delegated acts referred to in Article 7, and can be processed in any of the official languages of the Union as provided for by the relevant Union legal acts and national law laying down the respective regulatory information requirements.</p>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                     </div>
+                     <div id="009.002">
+                        <p class="oj-normal">2.   The Commission shall adopt implementing acts laying down detailed specifications regarding the requirements set out in paragraph 1 of this Article. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 15(2). When adopting those specifications, the Commission shall:</p>
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                           <col width="4%"/>
+                           <col width="96%"/>
+                           <tbody>
+                              <tr>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">(a)</p>
+                                 </td>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">seek to ensure the interoperability of the eFTI platforms;</p>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                           <col width="4%"/>
+                           <col width="96%"/>
+                           <tbody>
+                              <tr>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">(b)</p>
+                                 </td>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">take into account relevant existing technical solutions and standards;</p>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                           <col width="4%"/>
+                           <col width="96%"/>
+                           <tbody>
+                              <tr>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">(c)</p>
+                                 </td>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">ensure that those specifications remain, to the largest extent possible, technologically neutral.</p>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                        <p class="oj-normal">The first such implementing act shall cover all the elements referred to in paragraph 1 of this Article and shall be adopted no later than 21 August 2023.</p>
+                     </div>
+                  </div>
+                  <div class="eli-subdivision" id="art_10">
+                     <p id="d1e999-33-1" class="oj-ti-art">Article 10</p>
+                     <div class="eli-title" id="art_10.tit_1">
+                        <p class="oj-sti-art">Requirements for eFTI service providers</p>
+                     </div>
+                     <div id="010.001">
+                        <p class="oj-normal">1.   eFTI service providers shall ensure that:</p>
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                           <col width="4%"/>
+                           <col width="96%"/>
+                           <tbody>
+                              <tr>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">(a)</p>
+                                 </td>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">data is processed only by authorised users and in accordance with clearly defined and assigned processing rights within the eFTI platform, in accordance with the relevant regulatory information requirements;</p>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                           <col width="4%"/>
+                           <col width="96%"/>
+                           <tbody>
+                              <tr>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">(b)</p>
+                                 </td>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">data is stored and accessible in accordance with the Union legal acts and national law laying down the respective regulatory information requirements;</p>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                           <col width="4%"/>
+                           <col width="96%"/>
+                           <tbody>
+                              <tr>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">(c)</p>
+                                 </td>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">competent authorities have immediate access to regulatory information concerning a freight transport operation processed by means of their eFTI platforms, free of any charges or fees;</p>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                           <col width="4%"/>
+                           <col width="96%"/>
+                           <tbody>
+                              <tr>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">(d)</p>
+                                 </td>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">data is appropriately secured, including against unauthorised or unlawful processing and against accidental loss, destruction or damage.</p>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                     </div>
+                     <div id="010.002">
+                        <p class="oj-normal">2.   The Commission shall adopt implementing acts laying down detailed rules regarding the requirements set out in paragraph 1 of this Article. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 15(2). The first such implementing act covering all the elements referred to in paragraph 1 of this Article shall be adopted no later than 21 August 2023.</p>
+                     </div>
+                  </div>
+               </div>
+               <div id="cpt_III.sct_2">
+                  <p id="d1e1044-33-1" class="oj-ti-section-1">
+                     <span class="oj-italic">SECTION 2</span>
+                  </p>
+                  <div class="eli-title" id="cpt_III.sct_2.tit_1">
+                     <p id="L_2020249EN.01003301-d-005" class="oj-ti-section-2">
+                        <span class="oj-bold">
+                           <span class="oj-italic">Certification</span>
+                        </span>
+                     </p>
+                  </div>
+                  <div class="eli-subdivision" id="art_11">
+                     <p id="d1e1054-33-1" class="oj-ti-art">Article 11</p>
+                     <div class="eli-title" id="art_11.tit_1">
+                        <p class="oj-sti-art">Conformity assessment bodies</p>
+                     </div>
+                     <div id="011.001">
+                        <p class="oj-normal">1.   Conformity assessment bodies shall be accredited in accordance with Regulation (EC) No 765/2008 for the purposes of performing the certification of eFTI platforms and eFTI service providers as set out in Articles 12 and 13 of this Regulation.</p>
+                     </div>
+                     <div id="011.002">
+                        <p class="oj-normal">2.   For the purposes of accreditation, conformity assessment bodies shall meet the requirements laid down in Annex II. National accreditation bodies shall communicate to the national authority designated in accordance with paragraph 3 of this Article the address of the website where they make publicly available the information on the accredited conformity assessment bodies, including an up-to-date list of these bodies.</p>
+                     </div>
+                     <div id="011.003">
+                        <p class="oj-normal">3.   Each Member State shall designate an authority that shall maintain an up-to-date list of the accredited conformity assessment bodies, eFTI platforms and eFTI service providers which hold a valid certification on the basis of the information provided pursuant to paragraph (2) of this Article and to Article 12(2) and Article 13(2). Those designated national authorities shall make that list publicly available on an official government website.</p>
+                     </div>
+                     <div id="011.004">
+                        <p class="oj-normal">4.   By 31 March each year, those designated national authorities shall notify to the Commission the list referred to in paragraph 3 together with the address of the website where that list is publicly available. The Commission shall publish those website addresses on its official website.</p>
+                     </div>
+                  </div>
+                  <div class="eli-subdivision" id="art_12">
+                     <p id="d1e1079-33-1" class="oj-ti-art">Article 12</p>
+                     <div class="eli-title" id="art_12.tit_1">
+                        <p class="oj-sti-art">Certification of eFTI platforms</p>
+                     </div>
+                     <div id="012.001">
+                        <p class="oj-normal">1.   Upon application by an eFTI platform developer, a conformity assessment body shall assess the compliance of the eFTI platform with the requirements laid down in Article 9(1). In the case of a positive assessment, the conformity assessment body shall issue a compliance certificate for that eFTI platform. In the case of a negative assessment, the conformity assessment body shall provide the reasons for the negative assessment to the applicant.</p>
+                     </div>
+                     <div id="012.002">
+                        <p class="oj-normal">2.   Each conformity assessment body shall maintain an up-to-date list of the eFTI platforms that it has certified and for which it has withdrawn or suspended certification. It shall make that list publicly available on its website and shall communicate the address of that website to the designated national authority referred to in Article 11(3).</p>
+                     </div>
+                     <div id="012.003">
+                        <p class="oj-normal">3.   Information made available to competent authorities by means of a certified eFTI platform shall be accompanied by a certification mark.</p>
+                     </div>
+                     <div id="012.004">
+                        <p class="oj-normal">4.   The eFTI platform developer shall apply for a reassessment of its certification if the technical specifications laid down in the implementing acts referred to in Article 9(2) are revised.</p>
+                     </div>
+                     <div id="012.005">
+                        <p class="oj-normal">5.   The Commission is empowered to adopt delegated acts in accordance with Article 14 to supplement this Regulation by laying down rules on the certification of eFTI platforms and on the use of the certification mark, including rules on the renewal, suspension and withdrawal of certification.</p>
+                     </div>
+                  </div>
+                  <div class="eli-subdivision" id="art_13">
+                     <p id="d1e1109-33-1" class="oj-ti-art">Article 13</p>
+                     <div class="eli-title" id="art_13.tit_1">
+                        <p class="oj-sti-art">Certification of eFTI service providers</p>
+                     </div>
+                     <div id="013.001">
+                        <p class="oj-normal">1.   Upon application by an eFTI service provider, a conformity assessment body shall assess the compliance of the eFTI service provider with the requirements laid down in Article 10(1). In the case of a positive assessment, the conformity assessment body shall issue a compliance certificate. In the case of a negative assessment, the conformity assessment body shall provide the reasons for the negative assessment to the applicant.</p>
+                     </div>
+                     <div id="013.002">
+                        <p class="oj-normal">2.   Each conformity assessment body shall maintain an up-to-date list of the eFTI service providers that it has certified and for which it has withdrawn or suspended certification. It shall make that list publicly available on its website and shall communicate the address of that website to the designated national authority referred to in Article 11(3).</p>
+                     </div>
+                     <div id="013.003">
+                        <p class="oj-normal">3.   The Commission is empowered to adopt delegated acts in accordance with Article 14 to supplement this Regulation by laying down rules on certification of eFTI service providers, including rules on the renewal, suspension and withdrawal of certification.</p>
+                     </div>
+                  </div>
+               </div>
+            </div>
+            <div id="cpt_IV">
+               <p id="d1e1130-33-1" class="oj-ti-section-1">CHAPTER IV</p>
+               <div class="eli-title" id="cpt_IV.tit_1">
+                  <p id="L_2020249EN.01003301-d-006" class="oj-ti-section-2">
+                     <span class="oj-bold">DELEGATIONS OF POWER AND IMPLEMENTING PROVISIONS</span>
+                  </p>
+               </div>
+               <div class="eli-subdivision" id="art_14">
+                  <p id="d1e1138-33-1" class="oj-ti-art">Article 14</p>
+                  <div class="eli-title" id="art_14.tit_1">
+                     <p class="oj-sti-art">Exercise of the delegation</p>
+                  </div>
+                  <div id="014.001">
+                     <p class="oj-normal">1.   The power to adopt delegated acts is conferred on the Commission subject to the conditions laid down in this Article.</p>
+                  </div>
+                  <div id="014.002">
+                     <p class="oj-normal">2.   The power to adopt delegated acts referred to in Article 2(3), Article 7, Article 12(5) and Article 13(3) shall be conferred on the Commission for a period of five years from 20 August 2020. The Commission shall draw up a report in respect of the delegation of power no later than nine months before the end of the five-year period. The delegation of power shall be tacitly extended for periods of an identical duration, unless the European Parliament or the Council opposes such extension no later than three months before the end of each period.</p>
+                  </div>
+                  <div id="014.003">
+                     <p class="oj-normal">3.   The delegation of power referred to in Article 2(3), Article 7, Article 12(5), Article 13(3) may be revoked at any time by the European Parliament or by the Council. A decision to revoke shall put an end to the delegation of the power specified in that decision. It shall take effect the day following the publication of the decision in the <span class="oj-italic">Official Journal of the European Union</span> or at a later date specified therein. It shall not affect the validity of any delegated acts already in force.</p>
+                  </div>
+                  <div id="014.004">
+                     <p class="oj-normal">4.   Before adopting a delegated act, the Commission shall consult experts designated by each Member State in accordance with the principles laid down in the Interinstitutional Agreement of 13 April 2016 on Better Law-Making.</p>
+                  </div>
+                  <div id="014.005">
+                     <p class="oj-normal">5.   As soon as it adopts a delegated act, the Commission shall notify it simultaneously to the European Parliament and to the Council.</p>
+                  </div>
+                  <div id="014.006">
+                     <p class="oj-normal">6.   A delegated act adopted pursuant to Article 2(3), Article 7, Article 12(5) and Article 13(3) shall enter into force only if no objection has been expressed either by the European Parliament or by the Council within a period of two months of notification of that act to the European Parliament and to the Council or if, before the expiry of that period, the European Parliament and the Council have both informed the Commission that they will not object. That period shall be extended by two months at the initiative of the European Parliament or of the Council.</p>
+                  </div>
+               </div>
+               <div class="eli-subdivision" id="art_15">
+                  <p id="d1e1182-33-1" class="oj-ti-art">Article 15</p>
+                  <div class="eli-title" id="art_15.tit_1">
+                     <p class="oj-sti-art">Committee procedure</p>
+                  </div>
+                  <div id="015.001">
+                     <p class="oj-normal">1.   The Commission shall be assisted by a committee. That committee shall be a committee within the meaning of Regulation (EU) No 182/2011.</p>
+                  </div>
+                  <div id="015.002">
+                     <p class="oj-normal">2.   Where reference is made to this paragraph, Article 5 of Regulation (EU) No 182/2011 shall apply.</p>
+                  </div>
+               </div>
+            </div>
+            <div id="cpt_V">
+               <p id="d1e1198-33-1" class="oj-ti-section-1">CHAPTER V</p>
+               <div class="eli-title" id="cpt_V.tit_1">
+                  <p id="L_2020249EN.01003301-d-007" class="oj-ti-section-2">
+                     <span class="oj-bold">FINAL PROVISIONS</span>
+                  </p>
+               </div>
+               <div class="eli-subdivision" id="art_16">
+                  <p id="d1e1206-33-1" class="oj-ti-art">Article 16</p>
+                  <div class="eli-title" id="art_16.tit_1">
+                     <p class="oj-sti-art">Review</p>
+                  </div>
+                  <div id="016.001">
+                     <p class="oj-normal">1.   No later than 21 February 2029, the Commission shall carry out an evaluation of this Regulation and present a report on the main findings to the European Parliament, to the Council and to the European Economic and Social Committee.</p>
+                     <p class="oj-normal">The Commission shall also assess possible initiatives with a view in particular to:</p>
+                     <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                        <col width="4%"/>
+                        <col width="96%"/>
+                        <tbody>
+                           <tr>
+                              <td valign="top"  >
+                                 <p class="oj-normal">(a)</p>
+                              </td>
+                              <td valign="top"  >
+                                 <p class="oj-normal">establishing the obligation for economic operators to make available electronically regulatory information to competent authorities, in accordance with this Regulation;</p>
+                              </td>
+                           </tr>
+                        </tbody>
+                     </table>
+                     <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                        <col width="4%"/>
+                        <col width="96%"/>
+                        <tbody>
+                           <tr>
+                              <td valign="top"  >
+                                 <p class="oj-normal">(b)</p>
+                              </td>
+                              <td valign="top"  >
+                                 <p class="oj-normal">establishing further interoperability and interconnectivity between the eFTI environment and the different ICT systems and platforms used for recording and processing regulatory information as provided for in other Union transport law.</p>
+                              </td>
+                           </tr>
+                        </tbody>
+                     </table>
+                     <p class="oj-normal">These assessments shall in particular cover the amendment of this Regulation and that of other relevant Union legal acts and shall be accompanied, where appropriate, by a legislative proposal.</p>
+                  </div>
+                  <div id="016.002">
+                     <p class="oj-normal">2.   Member States shall provide the Commission with the necessary information set out in Article 17 for the preparation of the report referred to in paragraph 1 of this Article.</p>
+                  </div>
+               </div>
+               <div class="eli-subdivision" id="art_17">
+                  <p id="d1e1242-33-1" class="oj-ti-art">Article 17</p>
+                  <div class="eli-title" id="art_17.tit_1">
+                     <p class="oj-sti-art">Monitoring</p>
+                  </div>
+                  <p class="oj-normal">By 21 August 2027, and every five years thereafter, Member States shall provide the Commission, on the basis of the operation logs referred to in points (g) and (i) of Article 9(1), with the number of times competent authorities accessed and processed the regulatory information that was made available electronically by the economic operators concerned in accordance with Article 4.</p>
+                  <p class="oj-normal">That information shall be provided in respect of each year covered by the reporting period.</p>
+               </div>
+               <div class="eli-subdivision" id="art_18">
+                  <p id="d1e1254-33-1" class="oj-ti-art">Article 18</p>
+                  <div class="eli-title" id="art_18.tit_1">
+                     <p class="oj-sti-art">Entry into force and application</p>
+                  </div>
+                  <div id="018.001">
+                     <p class="oj-normal">1.   This Regulation shall enter into force on the twentieth day following that of its publication in the <span class="oj-italic">Official Journal of the European Union</span>.</p>
+                  </div>
+                  <div id="018.002">
+                     <p class="oj-normal">2.   It shall apply from 21 August 2024.</p>
+                  </div>
+                  <div id="018.003">
+                     <p class="oj-normal">3.   However, Article 2(2), Article 5(4), Article 7, Article 8, Article 9(2) and Article 10(2) shall apply from the date of entry into force of this Regulation.</p>
+                  </div>
+               </div>
+            </div>
+         </div>
+         <div class="eli-subdivision" id="fnp_1">
+            <div class="oj-final">
+               <p class="oj-normal">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+               <p class="oj-normal">Done at Brussels, 15 July 2020.</p>
+               <div class="oj-signatory">
+                  <p class="oj-signatory">
+                     <span class="oj-italic">For the European Parliament</span>
+                  </p>
+                  <p class="oj-signatory">
+                     <span class="oj-italic">The President</span>
+                  </p>
+                  <p class="oj-signatory">D.M. SASSOLI
+            </p>
+               </div>
+               <div class="oj-signatory">
+                  <p class="oj-signatory">
+                     <span class="oj-italic">For the Council</span>
+                  </p>
+                  <p class="oj-signatory">
+                     <span class="oj-italic">The President</span>
+                  </p>
+                  <p class="oj-signatory">J. KLOECKNER
+            </p>
+               </div>
+            </div>
+         </div>
+         <hr class="oj-note"/>
+         <p class="oj-note">
+            <a id="ntr1-L_2020249EN.01003301-E0001" href="#ntc1-L_2020249EN.01003301-E0001"
+               >(<span class="oj-super">1</span>)</a>  
+            <a href="http://publications.europa.eu/resource/oj/JOC_2019_062_R_TOC"
+               >OJ C 62, 15.2.2019, p. 265</a>.</p>
+         <p class="oj-note">
+            <a id="ntr2-L_2020249EN.01003301-E0002" href="#ntc2-L_2020249EN.01003301-E0002"
+               >(<span class="oj-super">2</span>)</a>  Position of the European Parliament of 12 March 2019 (not yet published in the Official Journal) and position of the Council at first reading of 7 April 2020 (<a href="http://publications.europa.eu/resource/oj/JOC_2020_157_R_TOC"
+               >OJ C 157, 8.5.2020, p. 1</a>). Position of the European Parliament of 8 July 2020 (not yet published in the Official Journal).</p>
+         <p class="oj-note">
+            <a id="ntr3-L_2020249EN.01003301-E0003" href="#ntc3-L_2020249EN.01003301-E0003"
+               >(<span class="oj-super">3</span>)</a>  Regulation (EC) No 1013/2006 of the European Parliament and of the Council of 14 June 2006 on shipments of waste (<a href="http://publications.europa.eu/resource/oj/JOL_2006_190_R_TOC"
+               >OJ L 190, 12.7.2006, p. 1</a>).</p>
+         <p class="oj-note">
+            <a id="ntr4-L_2020249EN.01003301-E0004" href="#ntc4-L_2020249EN.01003301-E0004"
+               >(<span class="oj-super">4</span>)</a>  Regulation (EU) No 952/2013 of the European Parliament and of the Council of 9 October 2013 laying down the Union Customs Code (<a href="http://publications.europa.eu/resource/oj/JOL_2013_269_R_TOC"
+               >OJ L 269, 10.10.2013, p. 1</a>).</p>
+         <p class="oj-note">
+            <a id="ntr5-L_2020249EN.01003301-E0005" href="#ntc5-L_2020249EN.01003301-E0005"
+               >(<span class="oj-super">5</span>)</a>  Regulation (EU) 2019/1239 of the European Parliament and of the Council of 20 June 2019 establishing a European Maritime Single Window environment and repealing Directive 2010/65/EU (<a href="http://publications.europa.eu/resource/oj/JOL_2019_198_R_TOC"
+               >OJ L 198, 25.7.2019, p. 64</a>).</p>
+         <p class="oj-note">
+            <a id="ntr6-L_2020249EN.01003301-E0006" href="#ntc6-L_2020249EN.01003301-E0006"
+               >(<span class="oj-super">6</span>)</a>  Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data, and repealing Directive 95/46/EC (General Data Protection Regulation) (<a href="http://publications.europa.eu/resource/oj/JOL_2016_119_R_TOC"
+               >OJ L 119, 4.5.2016, p. 1</a>).</p>
+         <p class="oj-note">
+            <a id="ntr7-L_2020249EN.01003301-E0007" href="#ntc7-L_2020249EN.01003301-E0007"
+               >(<span class="oj-super">7</span>)</a>  Regulation (EC) No 765/2008 of the European Parliament and of the Council of 9 July 2008 setting out the requirements for accreditation and market surveillance relating to the marketing of products and repealing Regulation (EEC) No 339/93 (<a href="http://publications.europa.eu/resource/oj/JOL_2008_218_R_TOC"
+               >OJ L 218, 13.8.2008, p. 30</a>).</p>
+         <p class="oj-note">
+            <a id="ntr8-L_2020249EN.01003301-E0008" href="#ntc8-L_2020249EN.01003301-E0008"
+               >(<span class="oj-super">8</span>)</a>  Regulation (EU) No 182/2011 of the European Parliament and of the Council of 16 February 2011 laying down the rules and general principles concerning mechanisms for control by the Member States of the Commission’s exercise of implementing powers (<a href="http://publications.europa.eu/resource/oj/JOL_2011_055_R_TOC"
+               >OJ L 55, 28.2.2011, p. 13</a>).</p>
+         <p class="oj-note">
+            <a id="ntr9-L_2020249EN.01003301-E0009" href="#ntc9-L_2020249EN.01003301-E0009"
+               >(<span class="oj-super">9</span>)</a>  
+            <a href="http://publications.europa.eu/resource/oj/JOL_2016_123_R_TOC"
+               >OJ L 123, 12.5.2016, p. 1</a>.</p>
+         <p class="oj-note">
+            <a id="ntr10-L_2020249EN.01003301-E0010" href="#ntc10-L_2020249EN.01003301-E0010"
+               >(<span class="oj-super">10</span>)</a>  Regulation (EC) No 45/2001 of the European Parliament and of the Council of 18 December 2000 on the protection of individuals with regard to the processing of personal data by the Community institutions and bodies and on the free movement of such data (<a href="http://publications.europa.eu/resource/oj/JOL_2001_008_R_TOC"
+               >OJ L 8, 12.1.2001, p. 1</a>).</p>
+         <p class="oj-note">
+            <a id="ntr11-L_2020249EN.01003301-E0011" href="#ntc11-L_2020249EN.01003301-E0011"
+               >(<span class="oj-super">11</span>)</a>  EEC Council: Regulation No 11 concerning the abolition of discrimination in transport rates and conditions, in implementation of Article 79(3) of the Treaty establishing the European Economic Community (<a href="http://publications.europa.eu/resource/oj/JOP_1960_052_R_TOC"
+               >OJ P 52, 16.8.1960, p. 1121</a>).</p>
+         <p class="oj-note">
+            <a id="ntr12-L_2020249EN.01003301-E0012" href="#ntc12-L_2020249EN.01003301-E0012"
+               >(<span class="oj-super">12</span>)</a>  Council Directive 92/106/EEC of 7 December 1992 on the establishment of common rules for certain types of combined transport of goods between Member States (<a href="http://publications.europa.eu/resource/oj/JOL_1992_368_R_TOC"
+               >OJ L 368, 17.12.1992, p. 38</a>).</p>
+         <p class="oj-note">
+            <a id="ntr13-L_2020249EN.01003301-E0013" href="#ntc13-L_2020249EN.01003301-E0013"
+               >(<span class="oj-super">13</span>)</a>  Regulation (EC) No 1072/2009 of the European Parliament and of the Council of 21 October 2009 on common rules for access to the international road haulage market (<a href="http://publications.europa.eu/resource/oj/JOL_2009_300_R_TOC"
+               >OJ L 300, 14.11.2009, p. 72</a>).</p>
+         <p class="oj-note">
+            <a id="ntr14-L_2020249EN.01003301-E0014" href="#ntc14-L_2020249EN.01003301-E0014"
+               >(<span class="oj-super">14</span>)</a>  Directive 2008/68/EC of the European Parliament and of the Council of 24 September 2008 on the inland transport of dangerous goods (<a href="http://publications.europa.eu/resource/oj/JOL_2008_260_R_TOC"
+               >OJ L 260, 30.9.2008, p. 13</a>).</p>
+         <p class="oj-note">
+            <a id="ntr15-L_2020249EN.01003301-E0015" href="#ntc15-L_2020249EN.01003301-E0015"
+               >(<span class="oj-super">15</span>)</a>  Directive (EU) 2016/797 of the European Parliament and of the Council of 11 May 2016 on the interoperability of the rail system within the European Union (<a href="http://publications.europa.eu/resource/oj/JOL_2016_138_R_TOC"
+               >OJ L 138, 26.5.2016, p. 44</a>).</p>
+         <p class="oj-note">
+            <a id="ntr16-L_2020249EN.01003301-E0016" href="#ntc16-L_2020249EN.01003301-E0016"
+               >(<span class="oj-super">16</span>)</a>  Regulation (EC) No 300/2008 of the European Parliament and of the Council of 11 March 2008 on common rules in the field of civil aviation security and repealing Regulation (EC) No 2320/2002 (<a href="http://publications.europa.eu/resource/oj/JOL_2008_097_R_TOC"
+               >OJ L 97, 9.4.2008, p. 72</a>).</p>
+      </div>
+      <hr class="oj-doc-sep"/>
+      <div id="L_2020249EN.01004601">
+         <div class="eli-container" id="anx_I">
+            <p class="oj-doc-ti" id="d1e32-46-1">ANNEX I</p>
+            <p class="oj-doc-ti">
+               <span class="oj-bold">REGULATORY INFORMATION THAT FALLS WITHIN THE SCOPE OF THIS REGULATION</span>
+            </p>
+            <p id="d1e42-46-1" class="oj-ti-grseq-1">PART A – Regulatory information requirements referred to in point (b) of Article 2(1)</p>
+            <p class="oj-normal">List of delegated and implementing acts referred to in point (b) of Article 2(1):</p>
+            <table width="100%" border="0" cellspacing="0" cellpadding="0">
+               <col width="4%"/>
+               <col width="96%"/>
+               <tbody>
+                  <tr>
+                     <td valign="top"  >
+                        <p class="oj-normal">(1)</p>
+                     </td>
+                     <td valign="top"  >
+                        <p class="oj-normal">Commission Implementing Regulation (EU) 2015/1998 <a id="ntc1-L_2020249EN.01004601-E0001" href="#ntr1-L_2020249EN.01004601-E0001"
+                              >(<span class="oj-super oj-note-tag">1</span>)</a> laying down detailed measures for the implementation of the common basic standards on aviation security: Annex 6.3.2.6 (a), (b), (c), (d), (e), (f) and (g).</p>
+                     </td>
+                  </tr>
+               </tbody>
+            </table>
+            <p id="d1e66-46-1" class="oj-ti-grseq-1">PART B – National law</p>
+            <p class="oj-normal">The relevant provisions of national law requiring the provision of information identical, in whole or in part, to the information specified in points (a) and (b) of Article 2(1) are listed below.</p>
+            <p class="oj-normal">[Member State]</p>
+            <table width="100%" border="0" cellspacing="0" cellpadding="0">
+               <col width="4%"/>
+               <col width="96%"/>
+               <tbody>
+                  <tr>
+                     <td valign="top"  >
+                        <p class="oj-normal">(1)</p>
+                     </td>
+                     <td valign="top"  >
+                        <p class="oj-normal">Legal act: [provision]</p>
+                     </td>
+                  </tr>
+               </tbody>
+            </table>
+            <hr class="oj-note"/>
+            <p class="oj-note">
+               <a id="ntr1-L_2020249EN.01004601-E0001" href="#ntc1-L_2020249EN.01004601-E0001"
+                  >(<span class="oj-super">1</span>)</a>  Commission Implementing Regulation (EU) 2015/1998 of 5 November 2015 laying down detailed measures for the implementation of the common basic standards on aviation security (<a href="http://publications.europa.eu/resource/oj/JOL_2015_299_R_TOC"
+                  >OJ L 299, 14.11.2015, p. 1</a>).</p>
+         </div>
+      </div>
+      <hr class="oj-doc-sep"/>
+      <div id="L_2020249EN.01004701">
+         <div class="eli-container" id="anx_II">
+            <p class="oj-doc-ti" id="d1e32-47-1">ANNEX II</p>
+            <p class="oj-doc-ti">
+               <span class="oj-bold">REQUIREMENTS RELATING TO CONFORMITY ASSESSMENT BODIES</span>
+            </p>
+            <div class="oj-enumeration-spacing">
+               <p style="display: inline;">1.   </p>
+               <p style="display: inline;">
+                  <span>A conformity assessment body shall be established under national law and have legal personality.</span>
+               </p>
+            </div>
+            <div class="oj-enumeration-spacing">
+               <p style="display: inline;">2.   </p>
+               <span>A conformity assessment body shall be a third-party body independent of the organisation or the eFTI platform or platform service provider it assesses.</span>
+               <p class="oj-normal">A body belonging to a business association or professional federation representing undertakings involved in the design, manufacturing, provision, assembly, use or maintenance of eFTI platform or platform service provider which it assesses may, on condition that its independence and the absence of any conflict of interest are demonstrated, be considered such a body.</p>
+            </div>
+            <div class="oj-enumeration-spacing">
+               <p style="display: inline;">3.   </p>
+               <span>A conformity assessment body, its top level management and the personnel responsible for carrying out the conformity assessment tasks shall not be the designer, manufacturer, supplier, installer, purchaser, owner, user or maintainer of the eFTI platform or platform service provider which they assess, nor the representative of any of those parties.</span>
+               <p class="oj-normal">A conformity assessment body, its top level management and the personnel responsible for carrying out the conformity assessment tasks shall not be directly involved in the design, manufacture or construction, the marketing, installation, use or maintenance of that eFTI platform or platform service provider, or represent the parties engaged in those activities. They shall not engage in any activity that may conflict with their independence of judgement or integrity in relation to conformity assessment activities for which they are accredited. This shall in particular apply to consultancy services.</p>
+               <p class="oj-normal">Conformity assessment bodies shall ensure that the activities of their subsidiaries or subcontractors do not affect the confidentiality, objectivity or impartiality of their conformity assessment activities.</p>
+            </div>
+            <div class="oj-enumeration-spacing">
+               <p style="display: inline;">4.   </p>
+               <p style="display: inline;">
+                  <span>Conformity assessment bodies and their personnel shall carry out the conformity assessment activities with the highest degree of professional integrity and the requisite technical competence in the specific field, and shall be free from all pressures and inducements, particularly financial, which might influence their judgement or the results of their conformity assessment activities, especially as regards persons or groups of persons with an interest in the results of those activities.</span>
+               </p>
+            </div>
+            <div class="oj-enumeration-spacing">
+               <p style="display: inline;">5.   </p>
+               <span>A conformity assessment body shall be capable of carrying out all the conformity assessment tasks assigned to it by Articles 12 and 13 of this Regulation, whether those tasks are carried out by the conformity assessment body itself or on its behalf and under its responsibility.</span>
+               <p class="oj-normal">A conformity assessment body shall have at its disposal the necessary:</p>
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(a)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">personnel with technical knowledge and sufficient and appropriate experience to perform the conformity assessment tasks;</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(b)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">descriptions of procedures in accordance with which conformity assessment is carried out;</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(c)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">procedures for the performance of activities which take due account of the size of an undertaking, the sector in which it operates, its structure and the degree of complexity of the technology in question.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+               <p class="oj-normal">A conformity assessment body shall have the means necessary to perform the technical and administrative tasks connected with the conformity assessment activities in an appropriate manner.</p>
+            </div>
+            <div class="oj-enumeration-spacing">
+               <p style="display: inline;">6.   </p>
+               <span>The personnel responsible for carrying out conformity assessment tasks shall have the following:</span>
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(a)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">sound technical and vocational training covering all the conformity assessment activities;</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(b)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">satisfactory knowledge of the requirements of the assessments they carry out and adequate authority to carry out those assessments;</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(c)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">appropriate knowledge and understanding of the requirements set out in Articles 9 and 10 of this Regulation;</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(d)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">the ability to draw up compliance certificates, records and reports demonstrating that assessments have been carried out.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="oj-enumeration-spacing">
+               <p style="display: inline;">7.   </p>
+               <span>The impartiality of the conformity assessment bodies, their top level management and of the personnel responsible for carrying out the conformity assessment tasks shall be guaranteed.</span>
+               <p class="oj-normal">The remuneration of the top level management and personnel responsible for carrying out the conformity assessment tasks of a conformity assessment body shall not depend on the number of assessments carried out or on the results of those assessments.</p>
+            </div>
+            <div class="oj-enumeration-spacing">
+               <p style="display: inline;">8.   </p>
+               <p style="display: inline;">
+                  <span>Conformity assessment bodies shall take out liability insurance, unless liability is assumed by the State in accordance with national law or the Member State itself is directly responsible for the conformity assessment.</span>
+               </p>
+            </div>
+            <div class="oj-enumeration-spacing">
+               <p style="display: inline;">9.   </p>
+               <p style="display: inline;">
+                  <span>The personnel of a conformity assessment body shall observe professional secrecy with regard to all information obtained in carrying out their tasks under Articles 12 and 13 of this Regulation or any provision of national law giving effect to them, except to the competent authorities of the Member State in which its activities are carried out. Proprietary rights shall be protected.</span>
+               </p>
+            </div>
+            <div class="oj-enumeration-spacing">
+               <p style="display: inline;">10.   </p>
+               <p style="display: inline;">
+                  <span>Conformity assessment bodies shall participate in, or ensure that their personnel responsible for carrying out the conformity assessment tasks are informed of, the relevant standardisation activities and relevant regulatory activities.</span>
+               </p>
+            </div>
+         </div>
+      </div>
+      <hr class="oj-doc-end"/>
+   </body>
+</html>

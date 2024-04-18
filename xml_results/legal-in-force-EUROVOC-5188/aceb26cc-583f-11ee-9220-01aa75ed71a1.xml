@@ -1,0 +1,2182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML//EN" "xhtml-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<!-- CONVEX # converter_version:9.15.0 # generated_on:20230921-0041 # ELI version:0.10 -->
+<head>
+   <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
+   <link type="text/css" rel="stylesheet" href="oj-convex.css"/>
+   <title>L_2023233EN.01000701.xml</title>
+</head>
+<body>
+   <table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <col width="10%"/>
+      <col width="10%"/>
+      <col width="60%"/>
+      <col width="20%"/>
+      <tbody>
+         <tr>
+            <td>
+               <p class="oj-hd-date">21.9.2023   </p>
+            </td>
+            <td>
+               <p class="oj-hd-lg">EN</p>
+            </td>
+            <td>
+               <p class="oj-hd-ti">Official Journal of the European Union</p>
+            </td>
+            <td>
+               <p class="oj-hd-oj">L 233/7</p>
+            </td>
+         </tr>
+      </tbody>
+   </table>
+   <hr class="oj-separator"/>
+   <div class="eli-container">
+      <div class="eli-main-title" id="tit_1">
+         <p class="oj-doc-ti" id="d1e40-7-1">
+            COMMISSION DELEGATED REGULATION (EU) 2023/1797</p>
+         <p class="oj-doc-ti">of 7 July 2023
+         </p>
+         <p class="oj-doc-ti">supplementing Regulation (EU) 2019/1700 of the European Parliament and of the Council by specifying the number and titles of the variables for the use of information and communication technologies statistics domain for reference year 2024</p>
+         <p class="oj-doc-ti">(Text with EEA relevance)</p>
+      </div>
+      <div class="eli-subdivision" id="pbl_1">
+         <p class="oj-normal">THE EUROPEAN COMMISSION,</p>
+         <div class="eli-subdivision" id="cit_1">
+            <p class="oj-normal">Having regard to the Treaty on the Functioning of the European Union,</p>
+         </div>
+         <div class="eli-subdivision" id="cit_2">
+            <p class="oj-normal">Having regard to Regulation (EU) 2019/1700 of the European Parliament and of the Council of 10 October 2019 establishing a common framework for European statistics relating to persons and households, based on data at individual level collected from samples, amending Regulations (EC) No 808/2004, (EC) No 452/2008 and (EC) No 1338/2008 of the European Parliament and of the Council, and repealing Regulation (EC) No 1177/2003 of the European Parliament and of the Council and Council Regulation (EC) No 577/98 <a id="ntc1-L_2023233EN.01000701-E0001" href="#ntr1-L_2023233EN.01000701-E0001">(<span class="oj-super oj-note-tag">1</span>)</a>, and in particular Article 6(1) thereof,</p>
+         </div>
+         <div class="eli-subdivision" id="cit_3">
+            <p class="oj-normal">Whereas:</p>
+         </div>
+         <div class="eli-subdivision" id="cit_4">
+            <p class="oj-normal">In order to cover the needs in statistics for the relevant detailed topics set out in Annex I to Regulation (EU) 2019/1700, the Commission should specify the number and titles of the variables for the dataset in the use of information and communication technologies domain for reference year 2024,</p>
+         </div>
+         <p class="oj-normal">HAS ADOPTED THIS REGULATION:</p>
+      </div>
+      <div class="eli-subdivision" id="enc_1">
+         <div class="eli-subdivision" id="art_1">
+            <p id="d1e78-7-1" class="oj-ti-art">Article 1</p>
+            <p class="oj-normal">The number and titles of the variables for the use of information and communication technologies domain for reference year 2024 shall be as set out in the Annex.</p>
+         </div>
+         <div class="eli-subdivision" id="art_2">
+            <p id="d1e83-7-1" class="oj-ti-art">Article 2</p>
+            <p class="oj-normal">This Regulation shall enter into force on the twentieth day following that of its publication in the <span class="oj-italic">Official Journal of the European Union</span>.</p>
+         </div>
+      </div>
+      <div class="eli-subdivision" id="fnp_1">
+         <div class="oj-final">
+            <p class="oj-normal">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+            <p class="oj-normal">Done at Brussels, 7 July 2023.</p>
+            <div class="oj-signatory">
+               <p class="oj-signatory">
+                  <span class="oj-italic">For the Commission</span>
+               </p>
+               <p class="oj-signatory">
+                  <span class="oj-italic">The President</span>
+               </p>
+               <p class="oj-signatory">Ursula VON DER LEYEN
+            </p>
+            </div>
+         </div>
+      </div>
+      <hr class="oj-note"/>
+      <p class="oj-note">
+         <a id="ntr1-L_2023233EN.01000701-E0001" href="#ntc1-L_2023233EN.01000701-E0001">(<span class="oj-super">1</span>)</a>  
+            <a href="http://publications.europa.eu/resource/oj/JOL_2019_261_I_TOC">OJ L 261 I, 14.10.2019, p. 1</a>.</p>
+   </div>
+   <hr class="oj-doc-sep"/>
+   <div id="L_2023233EN.01000801">
+      <div class="eli-container" id="anx_1">
+         <p class="oj-doc-ti" id="d1e32-8-1">ANNEX</p>
+         <p class="oj-doc-ti">Number and titles of the variables for the use of information and communication technologies domain for reference year 2024</p>
+         <table width="100%" border="0" cellspacing="0" cellpadding="0" class="oj-table">
+            <col width="19%"/>
+            <col width="19%"/>
+            <col width="30%"/>
+            <col width="32%"/>
+            <tbody>
+               <tr class="oj-table">
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-hdr">Topic</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-hdr">Detailed topic</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-hdr">Variable identifier</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-hdr">Variable name / variable description</p>
+                  </td>
+               </tr>
+               <tr class="oj-table">
+                  <td valign="top" class="oj-table" rowspan="17">
+                     <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                        <col width="4%"/>
+                        <col width="96%"/>
+                        <tbody>
+                           <tr>
+                              <td valign="top">
+                                 <p class="oj-normal">01.</p>
+                              </td>
+                              <td valign="top">
+                                 <span class="oj-italic">Technical Items – 15 mandatory technical variables, - 2 optional technical variables</span>
+                              </td>
+                           </tr>
+                        </tbody>
+                     </table>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">Data collection information</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">REFYEAR</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">Year of survey</p>
+                  </td>
+               </tr>
+               <tr class="oj-table">
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">Data collection information</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">INTDATE</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">Reference date – first interview date</p>
+                  </td>
+               </tr>
+               <tr class="oj-table">
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">Data collection information</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">STRATUM_ID</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">Stratum</p>
+                  </td>
+               </tr>
+               <tr class="oj-table">
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">Data collection information</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">PSU</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">Primary sampling unit</p>
+                  </td>
+               </tr>
+               <tr class="oj-table">
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">Identification</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">HH_ID</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">Household ID</p>
+                  </td>
+               </tr>
+               <tr class="oj-table">
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">Identification</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">IND_ID</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">Individual ID</p>
+                  </td>
+               </tr>
+               <tr class="oj-table">
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">Identification</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">HH_REF_ID</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">ID of the household the individual belongs to</p>
+                  </td>
+               </tr>
+               <tr class="oj-table">
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">Weights</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">HH_WGHT</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">Household weight</p>
+                  </td>
+               </tr>
+               <tr class="oj-table">
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">Weights</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">IND_WGHT</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">Individual weight</p>
+                  </td>
+               </tr>
+               <tr class="oj-table">
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">Interview characteristics</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">TIME</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">Interview duration</p>
+                  </td>
+               </tr>
+               <tr class="oj-table">
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">Interview characteristics</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">INT_TYPE</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">Interview type</p>
+                  </td>
+               </tr>
+               <tr class="oj-table">
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">Localisation</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">COUNTRY</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">Country of residence</p>
+                  </td>
+               </tr>
+               <tr class="oj-table">
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">Localisation</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">GEO_NUTS1</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">Region of residence</p>
+                  </td>
+               </tr>
+               <tr class="oj-table">
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">Localisation</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">GEO_NUTS2</p>
+                     <p class="oj-tbl-txt">(optional)</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">Region of residence (optional)</p>
+                  </td>
+               </tr>
+               <tr class="oj-table">
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">Localisation</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">GEO_NUTS3</p>
+                     <p class="oj-tbl-txt">(optional)</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">Region of residence (optional)</p>
+                  </td>
+               </tr>
+               <tr class="oj-table">
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">Localisation</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">DEG_URBA</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">Degree of urbanisation</p>
+                  </td>
+               </tr>
+               <tr class="oj-table">
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">Localisation</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">GEO_DEV</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">Geographical location</p>
+                  </td>
+               </tr>
+               <tr class="oj-table">
+                  <td valign="top" class="oj-table" rowspan="15">
+                     <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                        <col width="4%"/>
+                        <col width="96%"/>
+                        <tbody>
+                           <tr>
+                              <td valign="top">
+                                 <p class="oj-normal">02.</p>
+                              </td>
+                              <td valign="top">
+                                 <span class="oj-italic">Person and household characteristics – 7 collected variables, - 1 derived variable, 7 optional variables</span>
+                              </td>
+                           </tr>
+                        </tbody>
+                     </table>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">Demography</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">SEX</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">Sex</p>
+                  </td>
+               </tr>
+               <tr class="oj-table">
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">Demography</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">YEARBIR</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">Year of birth</p>
+                  </td>
+               </tr>
+               <tr class="oj-table">
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">Demography</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">PASSBIR</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">Passing of birthday</p>
+                  </td>
+               </tr>
+               <tr class="oj-table">
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">Demography</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">AGE</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">Age in completed years</p>
+                  </td>
+               </tr>
+               <tr class="oj-table">
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">Citizenship and migrant background</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">CITIZENSHIP</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">Country of main citizenship</p>
+                  </td>
+               </tr>
+               <tr class="oj-table">
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">Citizenship and migrant background</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">CNTRYB</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">Country of birth</p>
+                  </td>
+               </tr>
+               <tr class="oj-table">
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">Household composition</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">HH_POP</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">Household size (number of members in the household)</p>
+                  </td>
+               </tr>
+               <tr class="oj-table">
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">Household composition</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">HH_POP_16_24 (optional)</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">Number of members of the household aged from 16 to 24 (optional)</p>
+                  </td>
+               </tr>
+               <tr class="oj-table">
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">Household composition</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">HH_POP_16_24S (optional)</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">Number of students of the household aged 16 to 24 (optional)</p>
+                  </td>
+               </tr>
+               <tr class="oj-table">
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">Household composition</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">HH_POP_25_64 (optional)</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">Number of members of the household aged from 25 to 64 (optional)</p>
+                  </td>
+               </tr>
+               <tr class="oj-table">
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">Household composition</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">HH_POP_65_MAX (optional)</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">Number of members of the household aged more than or equal to 65 (optional)</p>
+                  </td>
+               </tr>
+               <tr class="oj-table">
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">Household composition</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">HH_CHILD</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">Number of children under 16</p>
+                  </td>
+               </tr>
+               <tr class="oj-table">
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">Household composition</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">HH_CHILD_14_15</p>
+                     <p class="oj-tbl-txt">(optional)</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">Number of children aged from 14 to 15 (optional)</p>
+                  </td>
+               </tr>
+               <tr class="oj-table">
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">Household composition</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">HH_CHILD_5_13</p>
+                     <p class="oj-tbl-txt">(optional)</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">Number of children aged from 5 to 13 (optional)</p>
+                  </td>
+               </tr>
+               <tr class="oj-table">
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">Household composition</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">HH_CHILD_LE_4</p>
+                     <p class="oj-tbl-txt">(optional)</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">Number of children aged less than or equal to 4 (optional)</p>
+                  </td>
+               </tr>
+               <tr class="oj-table">
+                  <td valign="top" class="oj-table" rowspan="8">
+                     <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                        <col width="4%"/>
+                        <col width="96%"/>
+                        <tbody>
+                           <tr>
+                              <td valign="top">
+                                 <p class="oj-normal">03.</p>
+                              </td>
+                              <td valign="top">
+                                 <span class="oj-italic">Labour market participation – 5 collected variables, 3 optional variables</span>
+                              </td>
+                           </tr>
+                        </tbody>
+                     </table>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">Main activity status (self-defined)</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">MAINSTAT</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">Main activity status (self-defined)</p>
+                  </td>
+               </tr>
+               <tr class="oj-table">
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">Elementary job characteristics</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">STAPRO</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">Status in employment in main job</p>
+                  </td>
+               </tr>
+               <tr class="oj-table">
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">Elementary job characteristics</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">NACE1D</p>
+                     <p class="oj-tbl-txt">(optional)</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">Economic activity of the local unit for main job (optional)</p>
+                  </td>
+               </tr>
+               <tr class="oj-table">
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">Elementary job characteristics</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">ISCO2D</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">Occupation in main job</p>
+                  </td>
+               </tr>
+               <tr class="oj-table">
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">Elementary job characteristics</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">OCC_ICT</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">ICT professional or non-ICT professional</p>
+                  </td>
+               </tr>
+               <tr class="oj-table">
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">Elementary job characteristics</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">OCC_MAN</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">Manual or non-manual worker</p>
+                  </td>
+               </tr>
+               <tr class="oj-table">
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">Elementary job characteristics</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">EMPST_WKT</p>
+                     <p class="oj-tbl-txt">(optional)</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">Full- or part-time main job (self-defined) (optional)</p>
+                  </td>
+               </tr>
+               <tr class="oj-table">
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">Duration of contract</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">EMPST_CONTR</p>
+                     <p class="oj-tbl-txt">(optional)</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">Permanency of main job (optional)</p>
+                  </td>
+               </tr>
+               <tr class="oj-table">
+                  <td valign="top" class="oj-table" rowspan="2">
+                     <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                        <col width="4%"/>
+                        <col width="96%"/>
+                        <tbody>
+                           <tr>
+                              <td valign="top">
+                                 <p class="oj-normal">04.</p>
+                              </td>
+                              <td valign="top">
+                                 <span class="oj-italic">Educational attainment and background – 1 collected variable, 1 derived variable</span>
+                              </td>
+                           </tr>
+                        </tbody>
+                     </table>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">Educational attainment level</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">ISCEDD</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">Educational attainment level (highest level of education successfully completed)</p>
+                  </td>
+               </tr>
+               <tr class="oj-table">
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">Educational attainment level</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">ISCED</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">Educational attainment level aggregated</p>
+                  </td>
+               </tr>
+               <tr class="oj-table">
+                  <td valign="top" class="oj-table">
+                     <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                        <col width="4%"/>
+                        <col width="96%"/>
+                        <tbody>
+                           <tr>
+                              <td valign="top">
+                                 <p class="oj-normal">05.</p>
+                              </td>
+                              <td valign="top">
+                                 <span class="oj-italic">Health status and disability, access to, availability and use of health care and health determinants – 1 collected variables</span>
+                              </td>
+                           </tr>
+                        </tbody>
+                     </table>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">Elements of the Minimum European Health Module</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">GALI</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">Limitation in activities because of health problems</p>
+                  </td>
+               </tr>
+               <tr class="oj-table">
+                  <td valign="top" class="oj-table">
+                     <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                        <col width="4%"/>
+                        <col width="96%"/>
+                        <tbody>
+                           <tr>
+                              <td valign="top">
+                                 <p class="oj-normal">06.</p>
+                              </td>
+                              <td valign="top">
+                                 <span class="oj-italic">Income, consumption and elements of wealth, including debts – 1 collected variable</span>
+                              </td>
+                           </tr>
+                        </tbody>
+                     </table>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">Total monthly household income</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">HH_IQ5</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">Total average net current monthly income</p>
+                  </td>
+               </tr>
+               <tr class="oj-table">
+                  <td valign="top" class="oj-table" rowspan="131">
+                     <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                        <col width="4%"/>
+                        <col width="96%"/>
+                        <tbody>
+                           <tr>
+                              <td valign="top">
+                                 <p class="oj-normal">07.</p>
+                              </td>
+                              <td valign="top">
+                                 <p class="oj-normal">Information society participation – 113 collected variables, - 16 optional variables, - 2 derived</p>
+                              </td>
+                           </tr>
+                        </tbody>
+                     </table>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">Access to ICT</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">IACC</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">Access of the household to the internet at home (by any device)</p>
+                  </td>
+               </tr>
+               <tr class="oj-table">
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">Use and frequency of use of ICT</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">IU</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">Most recent internet use, at any location, with any enabling device</p>
+                  </td>
+               </tr>
+               <tr class="oj-table">
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">Use and frequency of use of ICT</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">IFUS</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">Average frequency of internet use in the last 3 months</p>
+                  </td>
+               </tr>
+               <tr class="oj-table">
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">Internet activities</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">IUEM</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">Internet use in the last 3 months for private purpose for sending/receiving e-mails</p>
+                  </td>
+               </tr>
+               <tr class="oj-table">
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">Internet activities</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">IUPH1</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">Internet use in the last 3 months for private purpose for making calls (including video calls) over the internet</p>
+                  </td>
+               </tr>
+               <tr class="oj-table">
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">Internet activities</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">IUSNET</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">Internet use in the last 3 months for private purpose for participating on social media (creating user profile, posting messages or other contributions)</p>
+                  </td>
+               </tr>
+               <tr class="oj-table">
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">Internet activities</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">IUCHAT1</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">Internet use in the last 3 months for private purpose for instant messaging (exchanging messages)</p>
+                  </td>
+               </tr>
+               <tr class="oj-table">
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">Internet activities</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">IUIF</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">Internet use in the last 3 months for private purpose for finding information about goods or services</p>
+                  </td>
+               </tr>
+               <tr class="oj-table">
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">Internet activities</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">IUNW1</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">Internet use in the last 3 months for private purpose for reading online news sites, newspapers or news magazines</p>
+                  </td>
+               </tr>
+               <tr class="oj-table">
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">Internet activities</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">IUPOL2</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">Internet use in the last 3 months for private purpose for expressing opinions on civic or political issues on websites or in social media</p>
+                  </td>
+               </tr>
+               <tr class="oj-table">
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">Internet activities</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">IUVOTE</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">Internet use in the last 3 months for private purpose for taking part in online consultations or voting to define civic or political issues (such as urban planning, signing a petition)</p>
+                  </td>
+               </tr>
+               <tr class="oj-table">
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">Internet activities</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">IUMUSS1</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">Internet use in the last 3 months for private purpose for listening to music (such as web radio, music streaming) or downloading music</p>
+                  </td>
+               </tr>
+               <tr class="oj-table">
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">Internet activities</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">IUSTV</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">Internet use in the last 3 months for private purpose for watching internet streamed TV programmes (live or catch-up) from TV broadcasters (such as [national examples])</p>
+                  </td>
+               </tr>
+               <tr class="oj-table">
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">Internet activities</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">IUVOD</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">Internet use in the last 3 months for private purpose for watching commercial streaming services</p>
+                  </td>
+               </tr>
+               <tr class="oj-table">
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">Internet activities</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">IUVSS</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">Internet use in the last 3 months for private purpose for watching video content from sharing services</p>
+                  </td>
+               </tr>
+               <tr class="oj-table">
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">Internet activities</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">IUPDG</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">Internet use in the last 3 months for private purpose for playing or downloading games</p>
+                  </td>
+               </tr>
+               <tr class="oj-table">
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">Internet activities</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">IUPCAST</p>
+                     <p class="oj-tbl-txt">(optional)</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">Internet use in the last 3 months for private purpose for listening to podcasts or downloading podcasts (optional)</p>
+                  </td>
+               </tr>
+               <tr class="oj-table">
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">Internet activities</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">IHIF</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">Internet use in the last 3 months for private purpose for seeking health-related information (such as about injuries, diseases, nutrition, improving health)</p>
+                  </td>
+               </tr>
+               <tr class="oj-table">
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">Internet activities</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">IUMAPP</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">Internet use in the last 3 months for private purpose for making an appointment with a practitioner via a website or app (such as of a hospital, a health care centre, a physiotherapist or a psychotherapist)</p>
+                  </td>
+               </tr>
+               <tr class="oj-table">
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">Internet activities</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">IUAPR</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">Internet use in the last 3 months for private purpose for accessing personal health records online</p>
+                  </td>
+               </tr>
+               <tr class="oj-table">
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">Internet activities</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">IUOHC</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">Internet use in the last 3 months for private purpose for using other health services via a website or app instead of having to go to the hospital or visit a doctor (such as by getting a prescription or a consultation online)</p>
+                  </td>
+               </tr>
+               <tr class="oj-table">
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">Internet activities</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">IUSELL</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">Internet use in the last 3 months for private purpose for selling goods or services via a website or app</p>
+                  </td>
+               </tr>
+               <tr class="oj-table">
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">Internet activities</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">IUBK</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">Internet use in the last 3 months for private purpose for internet banking (including mobile banking)</p>
+                  </td>
+               </tr>
+               <tr class="oj-table">
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">Internet activities</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">IUOLC</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">Internet use in the last 3 months for conducting learning activities for educational, professional or private purposes, by doing an online course</p>
+                  </td>
+               </tr>
+               <tr class="oj-table">
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">Internet activities</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">IUOLM</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">Internet use in the last 3 months for conducting learning activities for educational, professional or private purposes, by using online learning material other than a complete online course (such as video tutorials, webinars, electronic textbooks, learning apps or platforms)</p>
+                  </td>
+               </tr>
+               <tr class="oj-table">
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">Internet activities</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">IUOCIS1</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">Internet use in the last 3 months for conducting learning activities for educational, professional or private purposes, by communicating with educators or learners using audio or video online tools</p>
+                  </td>
+               </tr>
+               <tr class="oj-table">
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">Internet activities</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">IUOFE</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">Learning activities the respondent participated in, in the last 3 months, for formal education (such as school or university)</p>
+                  </td>
+               </tr>
+               <tr class="oj-table">
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">Internet activities</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">IUOW</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">Learning activities the respondent participated in, in the last 3 months, for professional/work-related purposes</p>
+                  </td>
+               </tr>
+               <tr class="oj-table">
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">Internet activities</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">IUOPP</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">Learning activities the respondent participated in, in the last 3 months, for private purpose</p>
+                  </td>
+               </tr>
+               <tr class="oj-table">
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">Internet activities</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">IUACRG</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">Having opened an account or registered with a free app or service (such as subscription/ account for social media, apps for buying transport tickets, music streaming, games)</p>
+                  </td>
+               </tr>
+               <tr class="oj-table">
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">Internet activities</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">IUACDL</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">Deleted or tried to delete (or close) own account of a free app or service (such as social media, apps for buying transport tickets, music streaming, games) in the last 3 months</p>
+                  </td>
+               </tr>
+               <tr class="oj-table">
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">Internet activities</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">IUACDLP</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">Problems encountered when trying to delete own account of a free app or service (such as difficulty to find a way to delete the account, spending a disproportionate amount of time to do it, technical issues, unacceptable conditions for withdrawal, inability to succeed) in the last 3 months</p>
+                  </td>
+               </tr>
+               <tr class="oj-table">
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">Interaction with public authorities</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">IGOVIP</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">Activities via a website or app of public authorities or public services for private purpose in the last 12 months consisting in accessing by the respondent information stored about himself/herself by public authorities or public services (such as information regarding [national examples])</p>
+                  </td>
+               </tr>
+               <tr class="oj-table">
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">Interaction with public authorities</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">IGOVIDB</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">Activities via a website or app of public authorities or public services for private purpose in the last 12 months consisting in accessing by the respondent information from public databases or registers (such as information about availability of books in public libraries, cadastral registers, enterprise registers)</p>
+                  </td>
+               </tr>
+               <tr class="oj-table">
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">Interaction with public authorities</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">IGOV12IF</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">Activities via a website or app of public authorities or public services for private purpose in the last 12 months consisting in obtaining information by the respondent (for example about services, benefits, entitlements, laws, opening hours)</p>
+                  </td>
+               </tr>
+               <tr class="oj-table">
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">Interaction with public authorities</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">IGOVIX</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">Respondent has not accessed any personal records or databases nor obtained any information via a website or app of public authorities or public services for private purpose in the last 12 months</p>
+                  </td>
+               </tr>
+               <tr class="oj-table">
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">Interaction with public authorities</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">IGOV12FM</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">Downloading/printing official forms by the respondent from a website or app of public authorities or public services for private purpose in the last 12 months</p>
+                  </td>
+               </tr>
+               <tr class="oj-table">
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">Interaction with public authorities</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">IGOVAPR</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">Making an appointment or reservation by the respondent via a website or app with public authorities or public services (such as reservation of a book in a public library, appointment with a government servant or a state healthcare provider) for private purpose in the last 12 months</p>
+                  </td>
+               </tr>
+               <tr class="oj-table">
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">Interaction with public authorities</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">IGOVPOST</p>
+                     <p class="oj-tbl-txt">(Optional)</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">Receiving by the respondent any official communication or documents sent by public authorities via the respondent’s account on a website or app (name of the service, if applicable in the country) of public authorities or services (such as notifications of fines or invoices, letters, service of court summons, court documents, [national examples]) for private purpose in the last 12 months? Usage of e-mail or SMS based information messages or notifications that a document is available should be excluded. (optional)</p>
+                  </td>
+               </tr>
+               <tr class="oj-table">
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">Interaction with public authorities</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">IGOVTAX2</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">Completed, edited, reviewed or approved respondent’s own tax declaration via a website or app for private purpose in the last 12 months</p>
+                  </td>
+               </tr>
+               <tr class="oj-table">
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">Interaction with public authorities</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">IGOVODC</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">Activities via a website or app of public authorities or public services for private purpose in the last 12 months consisting in requesting by the respondent official documents or certificates (such as graduation, birth, marriage, divorce, death, residence certificates, police or criminal records, [national examples])</p>
+                  </td>
+               </tr>
+               <tr class="oj-table">
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">Interaction with public authorities</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">IGOVBE</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">Activities via a website or app of public authorities or public services for private purpose in the last 12 months consisting in requesting benefits or entitlements by the respondent (such as pension, unemployment, child allowance, enrolment in schools, universities, [national examples])</p>
+                  </td>
+               </tr>
+               <tr class="oj-table">
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">Interaction with public authorities</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">IGOVRCC</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">Activities via a website or app of public authorities or public services for private purpose in the last 12 months consisting in making other requests, claims or complaints by the respondent (such as reporting theft to the police, launching a legal complaint, requesting legal aid, initiating a civil claim procedure in front of a court, [national examples])</p>
+                  </td>
+               </tr>
+               <tr class="oj-table">
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">Interaction with public authorities</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">IRGOVNN</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">Reasons for not requesting any official documents or not making any claims via a website or app of public authorities or public services in the last 12 months –respondent did not have to request any documents or to make any claims</p>
+                  </td>
+               </tr>
+               <tr class="oj-table">
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">Interaction with public authorities</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">IRGOVLS</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">Reasons for not requesting any official documents or not making any claims via a website or app of public authorities or public services in the last 12 months – lack of skills or knowledge (such as respondent did not know how to use the website or app or it was too complicated to use)</p>
+                  </td>
+               </tr>
+               <tr class="oj-table">
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">Interaction with public authorities</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">IRGOVSEC</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">Reasons for not requesting any official documents or not making any claims via a website or app of public authorities or public services in the last 12 months – concerns about the security of personal data or unwillingness to pay online (credit card fraud)</p>
+                  </td>
+               </tr>
+               <tr class="oj-table">
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">Interaction with public authorities</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">IRGOVEID</p>
+                     <p class="oj-tbl-txt">(Optional)</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">Reasons for not requesting any official documents or not making any claims via a website or app of public authorities or public services in the last 12 months – lack of electronic signature, activated electronic identification (eID) or any other tool to use the eID (required for using the services) [national examples] (optional)</p>
+                  </td>
+               </tr>
+               <tr class="oj-table">
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">Interaction with public authorities</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">IRGOVOP</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">Reasons for not requesting any official documents or not making any claims via a website or app of public authorities or public services in the last 12 months – another person did it on the respondent’s behalf (such as consultant, adviser, relative)</p>
+                  </td>
+               </tr>
+               <tr class="oj-table">
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">Interaction with public authorities</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">IRGOVNAP</p>
+                     <p class="oj-tbl-txt">(Optional)</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">Reasons for not requesting any official documents or not making any claims via a website or app of public authorities or public services in the last 12 months – there was no such online service available (optional)</p>
+                  </td>
+               </tr>
+               <tr class="oj-table">
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">Interaction with public authorities</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">IRGOVOTH</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">Reasons for not requesting any official documents or not making any claims via a website or app of public authorities or public services in the last 12 months – other reason</p>
+                  </td>
+               </tr>
+               <tr class="oj-table">
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">Interaction with public authorities</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">IGOVANYS</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">Respondent has interacted with public authorities</p>
+                  </td>
+               </tr>
+               <tr class="oj-table">
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">Interaction with public authorities</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">IIGOVDU</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">Issues when using a website or app of public authorities or public services in the last 12 months – website or app was difficult to use (such as it was not user-friendly, the wording was not clear, procedure was not well explained)</p>
+                  </td>
+               </tr>
+               <tr class="oj-table">
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">Interaction with public authorities</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">IIGOVTP</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">Issues when using a website or app of public authorities or public services in the last 12 months –technical problems experienced when using website or app (such as long loading, website crashed)</p>
+                  </td>
+               </tr>
+               <tr class="oj-table">
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">Interaction with public authorities</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">IIGOVEID</p>
+                     <p class="oj-tbl-txt">(optional)</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">Issues when using a website or app of public authorities or public services in the last 12 months –problems in using the electronic signature or electronic identification (eID) (optional)</p>
+                  </td>
+               </tr>
+               <tr class="oj-table">
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">Interaction with public authorities</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">IIGOVPAY</p>
+                     <p class="oj-tbl-txt">(optional)</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">Issues when using a website or app of public authorities or public services in the last 12 months – the respondent was not able to pay via the website or app (such as due to lack of access to the payment methods required) (optional)</p>
+                  </td>
+               </tr>
+               <tr class="oj-table">
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">Interaction with public authorities</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">IIGOVMOB</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">Issues when using a website or app of public authorities or public services in the last 12 months – the respondent was not able to access the service on smartphone or tablet (such as non compatible device version or non-available applications)</p>
+                  </td>
+               </tr>
+               <tr class="oj-table">
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">Interaction with public authorities</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">IIGOVOTH</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">Issues when using a website or app of public authorities or public services in the last 12 months –other issue</p>
+                  </td>
+               </tr>
+               <tr class="oj-table">
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">Interaction with public authorities</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">IIGOVX</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">The respondent has not encountered any issues when using a website or app of public authorities or public services in the last 12 months</p>
+                  </td>
+               </tr>
+               <tr class="oj-table">
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">e-Commerce</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">IBUY</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">Last purchase or order of goods or services over the internet for private use</p>
+                  </td>
+               </tr>
+               <tr class="oj-table">
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">e-Commerce</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">BCLOT1</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">Internet use for buying clothes (including sport clothing), shoes or accessories (such as bags, jewellery) from enterprises or private persons (including used goods) via a website or app for private use in the last 3 months</p>
+                  </td>
+               </tr>
+               <tr class="oj-table">
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">e-Commerce</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">BSPG</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">Internet use for buying sports goods (excluding sport clothing) from enterprises or private persons (including used goods) via a website or app for private use in the last 3 months</p>
+                  </td>
+               </tr>
+               <tr class="oj-table">
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">e-Commerce</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">BCG</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">Internet use for buying children toys or childcare items (such as nappies, bottles, baby strollers) from enterprises or private persons (including used goods) via a website or app for private use in the last 3 months</p>
+                  </td>
+               </tr>
+               <tr class="oj-table">
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">e-Commerce</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">BFURN1</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">Internet use for buying furniture, home accessories (such as carpets or curtains) or gardening products (such as tools, plants) from enterprises or private persons (including used goods) via a website or app for private use in the last 3 months</p>
+                  </td>
+               </tr>
+               <tr class="oj-table">
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">e-Commerce</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">BMUFL</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">Internet use for buying music as CDs, vinyls etc. and/or films or series as DVDs, Blu-ray etc. from enterprises or private persons (including used goods) via a website or app for private use in the last 3 months</p>
+                  </td>
+               </tr>
+               <tr class="oj-table">
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">e-Commerce</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">BBOOKNLG</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">Internet use for buying printed books, magazines or newspapers from enterprises or private persons (including used goods) via a website or app for private use in the last 3 months</p>
+                  </td>
+               </tr>
+               <tr class="oj-table">
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">e-Commerce</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">BHARD1</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">Internet use for buying computers, tablets, mobile phones or accessories from enterprises or private persons (including used goods) via a website or app for private use in the last 3 months</p>
+                  </td>
+               </tr>
+               <tr class="oj-table">
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">e-Commerce</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">BEEQU1</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">Internet use for buying consumer electronics (such as TV-sets, stereos, cameras, sound bars or smart speakers, virtual assistants) or household appliances (such as washing machines) from enterprises or private persons (including used goods) via a website or app for private use in the last 3 months</p>
+                  </td>
+               </tr>
+               <tr class="oj-table">
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">e-Commerce</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">BMED1</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">Internet use for buying medicine or dietary supplements such as vitamins (excluding online renewal of prescriptions) from enterprises or private persons (including used goods) via a website or app for private use in the last 3 months</p>
+                  </td>
+               </tr>
+               <tr class="oj-table">
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">e-Commerce</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">BFDR</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">Internet use for buying deliveries from restaurants, fast-food chains, catering services from enterprises or private persons via a website or app for private use in the last 3 months</p>
+                  </td>
+               </tr>
+               <tr class="oj-table">
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">e-Commerce</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">BFDS</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">Internet use for buying food or beverages from stores or from meal-kits providers from enterprises or private persons via a website or app for private use in the last 3 months</p>
+                  </td>
+               </tr>
+               <tr class="oj-table">
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">e-Commerce</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">BCBW</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">Internet use for buying cosmetics, beauty or wellness products from enterprises or private persons (including used goods) via a website or app for private use in the last 3 months</p>
+                  </td>
+               </tr>
+               <tr class="oj-table">
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">e-Commerce</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">BCPH</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">Internet use for buying cleaning products or personal hygiene products (such as toothbrushes, handkerchiefs, washing detergents, cleaning cloths) from enterprises or private persons (including used goods) via a website or app for private use in the last 3 months</p>
+                  </td>
+               </tr>
+               <tr class="oj-table">
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">e-Commerce</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">BBMC</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">Internet use for buying bicycles, mopeds, cars, or other vehicles or their spare parts from enterprises or private persons (including used goods) via a website or app for private use in the last 3 months</p>
+                  </td>
+               </tr>
+               <tr class="oj-table">
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">e-Commerce</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">BOPG</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">Internet use for buying other physical goods from enterprises or private persons (including used goods) via a website or app for private use in the last 3 months</p>
+                  </td>
+               </tr>
+               <tr class="oj-table">
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">e-Commerce</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">BSIMC</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">Internet use for buying subscriptions to the internet or mobile phone connections via a website or app for private use in the last 3 months</p>
+                  </td>
+               </tr>
+               <tr class="oj-table">
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">e-Commerce</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">BSUTIL</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">Internet use for buying subscriptions to electricity, water or heating supply, waste disposal or similar services via a website or app for private use in the last 3 months</p>
+                  </td>
+               </tr>
+               <tr class="oj-table">
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">e-Commerce</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">BTPS_E</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">Internet use for buying transport services from enterprises, such as bus, train, flight ticket or taxi ride, via a website or app for private use in the last 3 months</p>
+                  </td>
+               </tr>
+               <tr class="oj-table">
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">e-Commerce</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">BRA_E</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">Internet use for renting accommodation from enterprises such as hotels or travel agencies via a website or app for private use in the last 3 months</p>
+                  </td>
+               </tr>
+               <tr class="oj-table">
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">e-Commerce</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">BTICK2</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">Internet use for buying tickets to events (such as concerts, cinema, sports events, fairs) via a website or app for private use in the last 3 months</p>
+                  </td>
+               </tr>
+               <tr class="oj-table">
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">e-Commerce</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">BBOOK2</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">Internet use for buying e-books or audio books as downloads (including updates) via a website or app for private use in the last 3 months</p>
+                  </td>
+               </tr>
+               <tr class="oj-table">
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">e-Commerce</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">BSOFT2</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">Internet use for buying software as downloads (including upgrades) via a website or app for private use in the last 3 months</p>
+                  </td>
+               </tr>
+               <tr class="oj-table">
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">e-Commerce</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">BGAMES2</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">Internet use for buying games as downloads (including upgrades) or virtual in-game items via a website or app for private use in the last 3 months</p>
+                  </td>
+               </tr>
+               <tr class="oj-table">
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">e-Commerce</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">BMUSS2</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">Internet use for having a paid subscription (including existing and new subscriptions) to a music streaming service for private use in the last 3 months</p>
+                  </td>
+               </tr>
+               <tr class="oj-table">
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">e-Commerce</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">BFLMS2</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">Internet use for having a paid subscription (including existing and new subscriptions) to films, series or sports streaming service for private use in the last 3 months</p>
+                  </td>
+               </tr>
+               <tr class="oj-table">
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">e-Commerce</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">BBOOKNLS2</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">Internet use for having a paid subscription (including existing and new subscriptions) to online news sites, online newspapers (e-papers) or online magazines via a website or app for private use in the last 3 months</p>
+                  </td>
+               </tr>
+               <tr class="oj-table">
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">e-Commerce</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">BGAMSS</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">Internet use for having a paid subscription (including existing and new subscriptions) to gaming streaming services for private use in the last 3 months</p>
+                  </td>
+               </tr>
+               <tr class="oj-table">
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">e-Commerce</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">BHLFTS2</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">Internet use for having a paid subscription (including existing and new subscriptions) to apps related to health or fitness for private use in the last 3 months</p>
+                  </td>
+               </tr>
+               <tr class="oj-table">
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">e-Commerce</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">BAPP2</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">Internet use for having a paid subscription (including existing and new subscriptions) to other apps (such as apps related to learning languages, travelling, weather) for private use in the last 3 months</p>
+                  </td>
+               </tr>
+               <tr class="oj-table">
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">e-Commerce</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">BOTS (optional)</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">Internet use for buying any other services (excluding financial and insurance services) via a website or app for private use in the last 3 months (optional)</p>
+                  </td>
+               </tr>
+               <tr class="oj-table">
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">e-Commerce</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">BFIN_IN1</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">Internet use for buying insurance policies, including travel insurance, also as a package together with for example a plane ticket, via a website or app for private purposes in the last 3 months</p>
+                  </td>
+               </tr>
+               <tr class="oj-table">
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">e-Commerce</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">BFIN_CR1</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">Internet use for taking a loan, mortgage or arranging credit from banks or other financial providers via a website or app for private purposes in the last 3 months</p>
+                  </td>
+               </tr>
+               <tr class="oj-table">
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">e-Commerce</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">BFIN_SH1</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">Internet use for buying or selling shares, bonds, units in funds or other financial assets via a website or app for private purposes in the last 3 months</p>
+                  </td>
+               </tr>
+               <tr class="oj-table">
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">Connection to the internet from anywhere</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">IOT_DEM2</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">Use of internet-connected (smart) thermostat, utility meter, lights, plug-ins or other internet-connected solutions for energy management for the respondent’s home for private purposes in the last 3 months</p>
+                  </td>
+               </tr>
+               <tr class="oj-table">
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">Connection to the internet from anywhere</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">IOT_DSEC2</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">Use of internet-connected home alarm system, smoke detector, security cameras, door locks or other internet-connected security or safety solutions for the respondent’s home for private purposes in the last 3 months</p>
+                  </td>
+               </tr>
+               <tr class="oj-table">
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">Connection to the internet from anywhere</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">IOT_DHA2</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">Use of internet-connected home appliances such as robot vacuums, fridges, ovens, coffee machines, gardening or irrigation tools for private purposes in the last 3 months</p>
+                  </td>
+               </tr>
+               <tr class="oj-table">
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">Connection to the internet from anywhere</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">IOT_DVA2</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">Use of a virtual assistant in the form of a smart speaker or of an app for private purposes in the last 3 months</p>
+                  </td>
+               </tr>
+               <tr class="oj-table">
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">Connection to the internet from anywhere</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">IOT_DX2</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">Respondent did not use any of the internet-connected devices for energy management, security or safety solutions, home appliances or virtual assistants for private purposes in the last 3 months</p>
+                  </td>
+               </tr>
+               <tr class="oj-table">
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">Connection to the internet from anywhere</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">IOT_BDK2</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">Reasons for not using any of the internet-connected devices for energy management, security or safety solutions, home appliances or virtual assistants for private purposes in the last 3 months – respondent did not know that such devices or systems exist</p>
+                  </td>
+               </tr>
+               <tr class="oj-table">
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">Connection to the internet from anywhere</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">IOT_BNN2</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">Reasons for not using any of the internet-connected devices for energy management, security or safety solutions, home appliances or virtual assistants for private purposes in the last 3 months – respondent had no need to use those connected devices or systems</p>
+                  </td>
+               </tr>
+               <tr class="oj-table">
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">Connection to the internet from anywhere</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">IOT_BCST2</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">Reasons for not using any of the internet-connected devices for energy management, security or safety solutions, home appliances or virtual assistants for private purposes in the last 3 months – costs too high</p>
+                  </td>
+               </tr>
+               <tr class="oj-table">
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">Connection to the internet from anywhere</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">IOT_BLC2</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">Reasons for not using any of the internet-connected devices for energy management, security or safety solutions, home appliances or virtual assistants for private purposes in the last 3 months – lack of compatibility with other devices or systems</p>
+                  </td>
+               </tr>
+               <tr class="oj-table">
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">Connection to the internet from anywhere</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">IOT_BLSK2</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">Reasons for not using any of the internet-connected devices for energy management, security or safety solutions, home appliances or virtual assistants for private purposes in the last 3 months – lack of skills to use those devices or systems</p>
+                  </td>
+               </tr>
+               <tr class="oj-table">
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">Connection to the internet from anywhere</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">IOT_BCPP2</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">Reasons for not using any of the internet-connected devices for energy management, security or safety solutions, home appliances or virtual assistants for private purposes in the last 3 months – concerns about the privacy and protection of data about the respondent generated by those devices or systems</p>
+                  </td>
+               </tr>
+               <tr class="oj-table">
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">Connection to the internet from anywhere</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">IOT_BCSC2</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">Reasons for not using any of the internet-connected devices for energy management, security or safety solutions, home appliances or virtual assistants for private purposes in the last 3 months – concerns about security (such as that the device or system will be hacked)</p>
+                  </td>
+               </tr>
+               <tr class="oj-table">
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">Connection to the internet from anywhere</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">IOT_BCSH2</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">Reasons for not using any of the internet-connected devices for energy management, security or safety solutions, home appliances or virtual assistants for private purposes in the last 3 months – concerns about safety or health (such as that the use of the device or system could lead to an accident, injury or health problem)</p>
+                  </td>
+               </tr>
+               <tr class="oj-table">
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">Connection to the internet from anywhere</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">IOT_BOTH2</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">Reasons for not using any of the internet-connected devices for energy management, security or safety solutions, home appliances or virtual assistants for private purposes in the last 3 months – other reasons</p>
+                  </td>
+               </tr>
+               <tr class="oj-table">
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">Connection to the internet from anywhere</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">IOT_IUTV2</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">Internet use on an internet-connected TV in the respondent’s home for private purposes in the last 3 months</p>
+                  </td>
+               </tr>
+               <tr class="oj-table">
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">Connection to the internet from anywhere</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">IOT_IUGC2</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">Internet use on an internet-connected game console in the respondent’s home for private purposes in the last 3 months</p>
+                  </td>
+               </tr>
+               <tr class="oj-table">
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">Connection to the internet from anywhere</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">IOT_IUHA2</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">Internet use on an internet-connected home audio system or smart speakers in the respondent’s home for private purposes in the last 3 months</p>
+                  </td>
+               </tr>
+               <tr class="oj-table">
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">Connection to the internet from anywhere</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">IOT_DCS2</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">Use of an internet-connected smart watch, fitness band, internet-connected goggles or headsets, safety- trackers, internet-connected accessories, internet-connected clothes or shoes for private purposes in the last 3 months</p>
+                  </td>
+               </tr>
+               <tr class="oj-table">
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">Connection to the internet from anywhere</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">IOT_DHE2</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">Use of internet-connected devices for monitoring blood pressure, sugar level, body weight (such as smart scales), care robots or other internet-connected devices for health and medical care for private purposes in the last 3 months</p>
+                  </td>
+               </tr>
+               <tr class="oj-table">
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">Connection to the internet from anywhere</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">IOT_DTOY2</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">Use of toys connected to the internet (including for children or adults), such as robot toys, drones or dolls for private purposes in the last 3 months</p>
+                  </td>
+               </tr>
+               <tr class="oj-table">
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">Connection to the internet from anywhere</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">IOT_DCAR2</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">Use of a car with built-in wireless internet connection for private purposes in the last 3 months</p>
+                  </td>
+               </tr>
+               <tr class="oj-table">
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">Connection to the internet from anywhere</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">IOT_USE2</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">Respondent used Internet of things in the last 3 months</p>
+                  </td>
+               </tr>
+               <tr class="oj-table">
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">Connection to the internet from anywhere</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">IOT_PSEC2</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">Problems encountered with the mentioned internet-connected devices or systems – security or privacy problems (such as the device or system was hacked, problems with the protection of information about the respondent and his/her family generated by those devices or systems) in the last 3 months</p>
+                  </td>
+               </tr>
+               <tr class="oj-table">
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">Connection to the internet from anywhere</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">IOT_PSHE2</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">Problems encountered with the mentioned internet-connected devices or systems – safety or health problems (such as the use of the device or system lead to an accident, injury or health problem) in the last 3 months</p>
+                  </td>
+               </tr>
+               <tr class="oj-table">
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">Connection to the internet from anywhere</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">IOT_PDU2</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">Problems encountered with the mentioned internet-connected devices or systems – difficulties with using the device (such as setting-up, installing, connecting, pairing the device) in the last 3 months</p>
+                  </td>
+               </tr>
+               <tr class="oj-table">
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">Connection to the internet from anywhere</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">IOT_POTH2</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">Problems encountered with the mentioned internet-connected devices or systems – other problems (such as connection problems, support problems) in the last 3 months</p>
+                  </td>
+               </tr>
+               <tr class="oj-table">
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">Connection to the internet from anywhere</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">IOT_PX2</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">Respondent has not encountered any problem with the mentioned internet-connected devices or systems in the last 3 months</p>
+                  </td>
+               </tr>
+               <tr class="oj-table">
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">Effect of use</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">ECO_DMOB</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">Way in which the respondent dealt with his/her mobile phone or smartphone that he/she replaced or no longer uses (excluding devices provided by employers)</p>
+                  </td>
+               </tr>
+               <tr class="oj-table">
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">Effect of use</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">ECO_DLT</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">Way in which the respondent dealt with his/her laptop or tablet that he/she replaced or no longer uses (excluding devices provided by employers)</p>
+                  </td>
+               </tr>
+               <tr class="oj-table">
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">Effect of use</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">ECO_DPC</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">Way in which the respondent dealt with his/her desktop computer that he/she replaced or no longer uses (excluding devices provided by employers)</p>
+                  </td>
+               </tr>
+               <tr class="oj-table">
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">Effect of use</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">ECO_PP</p>
+                     <p class="oj-tbl-txt">(optional)</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">Characteristics considered as important by the respondent when he/she most recently bought a mobile or smartphone, tablet, laptop or desktop computer – price (optional)</p>
+                  </td>
+               </tr>
+               <tr class="oj-table">
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">Effect of use</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">ECO_BDS</p>
+                     <p class="oj-tbl-txt">(optional)</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">Characteristics considered as important by the respondent when he/she most recently bought a mobile or smartphone, tablet, laptop or desktop computer – brand, design or size (optional)</p>
+                  </td>
+               </tr>
+               <tr class="oj-table">
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">Effect of use</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">ECO_PHD</p>
+                     <p class="oj-tbl-txt">(optional)</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">Characteristics considered as important by the respondent when he/she most recently bought a mobile or smartphone, tablet, laptop or desktop computer – hardware characteristics (such as storage, processor speed, camera, graphics card) (optional)</p>
+                  </td>
+               </tr>
+               <tr class="oj-table">
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">Effect of use</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">ECO_PECD</p>
+                     <p class="oj-tbl-txt">(optional)</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">Characteristics considered as important by the respondent when he/she most recently bought a mobile or smartphone, tablet, laptop or desktop computer – eco-design of the device such as durable, upgradeable and reparable design that requires fewer materials; environmentally friendly materials used for packaging (optional)</p>
+                  </td>
+               </tr>
+               <tr class="oj-table">
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">Effect of use</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">ECO_PEG</p>
+                     <p class="oj-tbl-txt">(optional)</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">Characteristics considered as important by the respondent when he/she most recently bought a mobile or smartphone, tablet, laptop or desktop computer – possibility to extend the life span of the device by buying extra guarantee (optional)</p>
+                  </td>
+               </tr>
+               <tr class="oj-table">
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">Effect of use</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">ECO_PEE</p>
+                     <p class="oj-tbl-txt">(optional)</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">Characteristics considered as important by the respondent when he/she most recently bought a mobile or smartphone, tablet, laptop or desktop computer – energy efficiency of the device</p>
+                     <p class="oj-tbl-txt">(optional)</p>
+                  </td>
+               </tr>
+               <tr class="oj-table">
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">Effect of use</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">ECO_PTBS</p>
+                     <p class="oj-tbl-txt">(optional)</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">Characteristics considered as important by the respondent when he/she most recently bought a mobile or smartphone, tablet, laptop or desktop computer – a take-back scheme offered by manufacturer or seller (i.e. the manufacturer or seller takes the device which becomes obsolete at no cost or offers discounts to the client to purchase another device) (optional)</p>
+                  </td>
+               </tr>
+               <tr class="oj-table">
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">Effect of use</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">ECO_PX</p>
+                     <p class="oj-tbl-txt">(optional)</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">Characteristics considered as important by the respondent when he/she most recently bought a mobile or smartphone, tablet, laptop or desktop computer – the respondent has not considered any of the mentioned characteristics (optional)</p>
+                  </td>
+               </tr>
+               <tr class="oj-table">
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">Effect of use</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">ECO_PBX</p>
+                     <p class="oj-tbl-txt">(optional)</p>
+                  </td>
+                  <td valign="top" class="oj-table">
+                     <p class="oj-tbl-txt">Characteristics considered as important by the respondent when he/she most recently bought a mobile or smartphone, tablet, laptop or desktop computer – the respondent never bought any of these devices (optional)</p>
+                  </td>
+               </tr>
+            </tbody>
+         </table>
+      </div>
+   </div>
+   <hr class="oj-doc-end"/>
+</body>
+</html>

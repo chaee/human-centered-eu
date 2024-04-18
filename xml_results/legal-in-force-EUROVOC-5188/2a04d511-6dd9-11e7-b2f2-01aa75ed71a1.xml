@@ -1,0 +1,424 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML//EN" "xhtml-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<!-- CONVEX # converter_version:7.6.1 # generated_on:20170721-0014 -->
+<head>
+   <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
+   <link type="text/css" rel="stylesheet"
+         href="http://publications.europa.eu/resource/presentation-style-sheet/oj/oj.css"/>
+   <title>L_2017190EN.01001601.xml</title>
+</head>
+<body>
+   <table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <col width="10%"/>
+      <col width="10%"/>
+      <col width="60%"/>
+      <col width="20%"/>
+      <tbody>
+         <tr>
+            <td>
+               <p class="hd-date">21.7.2017   </p>
+            </td>
+            <td>
+               <p class="hd-lg">EN</p>
+            </td>
+            <td>
+               <p class="hd-ti">Official Journal of the European Union</p>
+            </td>
+            <td>
+               <p class="hd-oj">L 190/16</p>
+            </td>
+         </tr>
+      </tbody>
+   </table>
+   <hr class="separator"/>
+   <p class="doc-ti" id="d1e40-16-1">COMMISSION IMPLEMENTING DECISION (EU) 2017/1358</p>
+   <p class="doc-ti">of 20 July 2017</p>
+   <p class="doc-ti">on the identification of ICT Technical Specifications for referencing in public procurement</p>
+   <p class="doc-ti">(Text with EEA relevance)</p>
+   <p class="normal">THE EUROPEAN COMMISSION,</p>
+   <p class="normal">Having regard to the Treaty on the Functioning of the European Union,</p>
+   <p class="normal">Having regard to Regulation (EU) No 1025/2012 of the European Parliament and of the Council of 25 October 2012 on European standardisation, amending Council Directives 89/686/EEC and 93/15/EEC and Directives 94/9/EC, 94/25/EC, 95/16/EC, 97/23/EC, 98/34/EC, 2004/22/EC, 2007/23/EC, 2009/23/EC and 2009/105/EC of the European Parliament and of the Council and repealing Council Decision 87/95/EEC and Decision No 1673/2006/EC of the European Parliament and of the Council<a id="ntc1-L_2017190EN.01001601-E0001" href="#ntr1-L_2017190EN.01001601-E0001"> (<span class="super note-tag">1</span>)</a> and in particular Article 13(1) thereof,</p>
+   <p class="normal">After consulting the European multi-stakeholder platform on ICT standardisation and sectoral experts</p>
+   <p class="normal">Whereas:</p>
+   <table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <col width="4%"/>
+      <col width="96%"/>
+      <tbody>
+         <tr>
+            <td valign="top">
+               <p class="normal">(1)</p>
+            </td>
+            <td valign="top">
+               <p class="normal">Standardisation plays an important role in supporting the Europe 2020 strategy, as set out in the Communication from the Commission entitled ‘Europe 2020: A strategy for smart, sustainable and inclusive growth’. Several flagship initiatives of the Europe 2020 strategy underlined the importance of voluntary standardisation in product or services markets to assure the compatibility and interoperability between products and services, foster technological development and support innovation.</p>
+            </td>
+         </tr>
+      </tbody>
+   </table>
+   <table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <col width="4%"/>
+      <col width="96%"/>
+      <tbody>
+         <tr>
+            <td valign="top">
+               <p class="normal">(2)</p>
+            </td>
+            <td valign="top">
+               <p class="normal">Standards are essential for European competitiveness and crucial for innovation and progress. Their relevance is highlighted by the Commission in the context of the recent initiatives for the completion of Single Market<a id="ntc2-L_2017190EN.01001601-E0002" href="#ntr2-L_2017190EN.01001601-E0002"> (<span class="super note-tag">2</span>)</a> and the Digital Single market<a id="ntc3-L_2017190EN.01001601-E0003" href="#ntr3-L_2017190EN.01001601-E0003"> (<span class="super note-tag">3</span>)</a> where the role of standardisation and interoperability in creating a European Digital Economy is reinforced with the adoption of the Communication on ICT Standardisation Priorities for the Digital Single Market<a id="ntc4-L_2017190EN.01001601-E0004" href="#ntr4-L_2017190EN.01001601-E0004"> (<span class="super note-tag">4</span>)</a> setting out a comprehensive strategic and political approach to standardisation for priority ICT Technologies that are critical to the completion of the Digital Single Market.</p>
+            </td>
+         </tr>
+      </tbody>
+   </table>
+   <table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <col width="4%"/>
+      <col width="96%"/>
+      <tbody>
+         <tr>
+            <td valign="top">
+               <p class="normal">(3)</p>
+            </td>
+            <td valign="top">
+               <p class="normal">In the digital society standardisation deliverables become indispensable to ensure interoperability of networks and systems. The Communication from the Commission entitled ‘A strategic vision for European standards: moving forward to enhance and accelerate the sustainable growth of the European economy by 2020’<a id="ntc5-L_2017190EN.01001601-E0005" href="#ntr5-L_2017190EN.01001601-E0005"> (<span class="super note-tag">5</span>)</a> recognises the specificity of standardisation in the field of information and communication technologies (ICT), where solutions, applications and services are often developed by global ICT Fora and Consortia that have emerged as leading ICT standards development organisations.</p>
+            </td>
+         </tr>
+      </tbody>
+   </table>
+   <table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <col width="4%"/>
+      <col width="96%"/>
+      <tbody>
+         <tr>
+            <td valign="top">
+               <p class="normal">(4)</p>
+            </td>
+            <td valign="top">
+               <p class="normal">Regulation (EU) No 1025/2012 aims at modernising and improving the European standardisation framework. It establishes a system whereby the Commission may decide to identify the most relevant and most widely accepted ICT technical specifications issued by organisations that are not European, international or national standardisation organisations. The possibility of using the full range of ICT technical specifications when procuring hardware, software and information technology services will enable interoperability between devices, services and applications, will help public administrations to avoid lock-in that occurs when the public procurer cannot change a provider after the expiration of the procurement contract because using ICT proprietary solutions, and will encourage competition in the supply of interoperable ICT solutions.</p>
+            </td>
+         </tr>
+      </tbody>
+   </table>
+   <table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <col width="4%"/>
+      <col width="96%"/>
+      <tbody>
+         <tr>
+            <td valign="top">
+               <p class="normal">(5)</p>
+            </td>
+            <td valign="top">
+               <p class="normal">For the ICT technical specifications to be eligible for referencing in public procurement they must comply with the requirements set out in Annex II to Regulation (EU) No 1025/2012. Compliance with those requirements guarantees the public authorities that the ICT technical specifications are established in accordance with the principles of transparency, openness, impartiality and consensus that are recognised by the World Trade Organisation in the field of standardisation.</p>
+            </td>
+         </tr>
+      </tbody>
+   </table>
+   <table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <col width="4%"/>
+      <col width="96%"/>
+      <tbody>
+         <tr>
+            <td valign="top">
+               <p class="normal">(6)</p>
+            </td>
+            <td valign="top">
+               <p class="normal">The decision to identify the ICT specification is to be adopted after consultation of the European multi-stakeholder platform on ICT standardisation set up by Commission Decision 2011/C 349/04<a id="ntc6-L_2017190EN.01001601-E0006" href="#ntr6-L_2017190EN.01001601-E0006"> (<span class="super note-tag">6</span>)</a> complemented by other forms of consultation of sectoral experts.</p>
+            </td>
+         </tr>
+      </tbody>
+   </table>
+   <table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <col width="4%"/>
+      <col width="96%"/>
+      <tbody>
+         <tr>
+            <td valign="top">
+               <p class="normal">(7)</p>
+            </td>
+            <td valign="top">
+               <p class="normal">The European multi-stakeholder platform on ICT standardisation evaluated and gave a positive advice to the identification of the following technical specifications for referencing in public procurement: ‘Simple Knowledge Organisation System’ (hereinafter referred as ‘SKOS’), and ‘Resource Description Framework’ 1.0 and 1.1 (hereinafter referred as ‘RDF 1.0 &amp; 1.1’) developed by World Wide Web Consortium (W3C); ‘Service Metadata Publisher 1.0’ (hereinafter referred as ‘SMP 1.0’) developed by the Organization for the Advancement of Structured Information Standards (OASIS); ‘MIME-Based Secure Peer-to-Peer Business Data Interchange Using HTTP, Applicability Statement 2’, RFC 4130 (hereinafter referred as ‘AS2’) and ‘the Internationalized Resource Identifiers’ RFC 3987 (hereinafter referred as ‘IRIs’) developed by Internet Engineering Task Force (IETF); ‘Data Foundation &amp; Terminology Model’, ‘PID Information Types API’, ‘Data Type Registries Model’ and ‘Practical Policies Recommendations’ technical specifications, all developed by Research Data Alliance (RDA) Foundation. The evaluation and advice of the platform was subsequently submitted to consultation of sectoral experts who confirmed the positive advice to its identification.</p>
+            </td>
+         </tr>
+      </tbody>
+   </table>
+   <table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <col width="4%"/>
+      <col width="96%"/>
+      <tbody>
+         <tr>
+            <td valign="top">
+               <p class="normal">(8)</p>
+            </td>
+            <td valign="top">
+               <p class="normal">‘SKOS’ technical specification developed by W3C makes non-formal knowledge organisation systems available to the public online in a structured form, with the aim of organising and providing access to knowhow on the meaning and cohesion of the underlying terms. The ‘SKOS’ data model provides a standard, low-cost migration path for porting existing knowledge organization systems to the semantic web. ‘SKOS’ also provides a lightweight, intuitive language for developing and sharing new knowledge organization systems. It may be used on its own, or in combination with formal knowledge representation languages such as the Web Ontology language (OWL).</p>
+            </td>
+         </tr>
+      </tbody>
+   </table>
+   <table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <col width="4%"/>
+      <col width="96%"/>
+      <tbody>
+         <tr>
+            <td valign="top">
+               <p class="normal">(9)</p>
+            </td>
+            <td valign="top">
+               <p class="normal">‘RDF 1.0’ also developed by W3C is a standard model for data interchange on the Web with features that facilitate data merging even if the underlying schemas differ, and it specifically supports the evolution of schemas over time without requiring all the data consumers to be changed. ‘RDF 1.1’ is an evolution of ‘RDF 1.0’ with backward compatibility, using internationalized identifiers, fine-tuning of the use of datatypes and language tags on literals, and a number of new serialization formats.</p>
+            </td>
+         </tr>
+      </tbody>
+   </table>
+   <table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <col width="4%"/>
+      <col width="96%"/>
+      <tbody>
+         <tr>
+            <td valign="top">
+               <p class="normal">(10)</p>
+            </td>
+            <td valign="top">
+               <p class="normal">‘SMP 1.0’ technical specification developed by OASIS defines a protocol for publishing service metadata within a 4-corner network, where entities exchange business documents through intermediary gateway services (sometimes called Access Points). To successfully send a business document in a 4-corner network, an entity must be able to discover critical metadata about the recipient (endpoint) of the business document, such as types of documents the endpoint is capable of receiving and methods of transport supported. The recipient makes this metadata available to other entities in the network through a Service Metadata Publisher service. The specification describes the request/response exchanges between a Service Metadata Publisher and a client wishing to discover endpoint information</p>
+            </td>
+         </tr>
+      </tbody>
+   </table>
+   <table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <col width="4%"/>
+      <col width="96%"/>
+      <tbody>
+         <tr>
+            <td valign="top">
+               <p class="normal">(11)</p>
+            </td>
+            <td valign="top">
+               <p class="normal">‘AS2’ developed by IETF is one of the most popular methods for transporting structured business data securely and reliably over the Internet. It essentially involves two computers — a client and a server — connecting in a point-to-point manner via the web. AS2 creates an “envelope” for the structured business data, allowing them to be sent securely — using digital certificates and encryption — over the Internet. AS2 is used by private and public sector organizations and governments in several Member States for both specific use cases and general infrastructure implementations supporting secure transfer of messages and business documents'.</p>
+            </td>
+         </tr>
+      </tbody>
+   </table>
+   <table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <col width="4%"/>
+      <col width="96%"/>
+      <tbody>
+         <tr>
+            <td valign="top">
+               <p class="normal">(12)</p>
+            </td>
+            <td valign="top">
+               <p class="normal">‘IRIs’ technical specification developed by IETF is a protocol element that extends upon the Uniform Resource Identifier (URI) scheme, which is based on the ASCII character set, by supporting a much wider set of characters that are used in EU Latin-based alphabets containing letters outside the ASCII set or use another script altogether (Greek, Bulgarian).</p>
+            </td>
+         </tr>
+      </tbody>
+   </table>
+   <table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <col width="4%"/>
+      <col width="96%"/>
+      <tbody>
+         <tr>
+            <td valign="top">
+               <p class="normal">(13)</p>
+            </td>
+            <td valign="top">
+               <p class="normal">The Research Data Alliance (RDA) is an international organization focused on the development of infrastructure and community activities and recommendations designed to reduce barriers to data sharing and exchange and the acceleration of data driven innovation worldwide. Four technical specifications from RDA are identified. ‘RDA Data Foundation &amp; Terminology Model’ is a core model, basic vocabulary and query tool of foundational terminology which ensures researchers use a common terminology when referring to data; ‘RDA PID Information Types API — Persistent Identifier Type Registry’ is a Conceptual model for structuring typed information to better identify PIDs, and a common interface for access to this information; ‘RDA Data Type Registries Model’ is a data type model and registry (‘MIME-types’ for data) to help tools interpret, display and process data; and ‘RDA Practical Policies recommendations’ is a set of machine actionable policies to enhance trust &amp; interoperability.</p>
+            </td>
+         </tr>
+      </tbody>
+   </table>
+   <p class="normal">HAS ADOPTED THIS DECISION:</p>
+   <p id="d1e326-16-1" class="ti-art">Article 1</p>
+   <p class="normal">The technical specifications listed in the Annex are eligible for referencing in public procurement.</p>
+   <p id="d1e331-16-1" class="ti-art">Article 2</p>
+   <p class="normal">This Decision shall enter into force on the twentieth day following that of its publication in the <span class="italic">Official Journal of the European Union</span>.</p>
+   <div class="final">
+      <p class="normal">Done at Brussels, 20 July 2017.</p>
+      <div class="signatory">
+         <p class="signatory">
+            <span class="italic">For the Commission</span>
+         </p>
+         <p class="signatory">
+            <span class="italic">The President</span>
+         </p>
+         <p class="signatory">Jean-Claude JUNCKER</p>
+      </div>
+   </div>
+   <hr class="note"/>
+   <p class="note">
+      <a id="ntr1-L_2017190EN.01001601-E0001" href="#ntc1-L_2017190EN.01001601-E0001">(<span class="super">1</span>)</a>  <a href="http://publications.europa.eu/resource/oj/JOL_2012_316_R_TOC">OJ L 316, 14.11.2012, p. 12</a>.</p>
+   <p class="note">
+      <a id="ntr2-L_2017190EN.01001601-E0002" href="#ntc2-L_2017190EN.01001601-E0002">(<span class="super">2</span>)</a>  Communication from the Commission ‘upgrading the single market: more opportunities for people and business’. COM (2015) 550 final of 28 October 2015.</p>
+   <p class="note">
+      <a id="ntr3-L_2017190EN.01001601-E0003" href="#ntc3-L_2017190EN.01001601-E0003">(<span class="super">3</span>)</a>  Communication on a Digital Single Market Strategy for Europe. COM(2015) 192 final of 6 May 2015 and Communication on the Mid-Term Review on the implementation of the Digital Single Market Strategy COM(2017) 228 final of 10 May 2017.</p>
+   <p class="note">
+      <a id="ntr4-L_2017190EN.01001601-E0004" href="#ntc4-L_2017190EN.01001601-E0004">(<span class="super">4</span>)</a>  COM (2016)176 final of 19 April 2016.</p>
+   <p class="note">
+      <a id="ntr5-L_2017190EN.01001601-E0005" href="#ntc5-L_2017190EN.01001601-E0005">(<span class="super">5</span>)</a>  COM (2011) 311 final of 1 June 2011.</p>
+   <p class="note">
+      <a id="ntr6-L_2017190EN.01001601-E0006" href="#ntc6-L_2017190EN.01001601-E0006">(<span class="super">6</span>)</a>  Commission Decision 2011/C 349/04 of 28 November 2011 setting up the European multi-stakeholder platform on ICT standardisation (<a href="http://publications.europa.eu/resource/oj/JOC_2011_349_R_TOC">OJ C 349, 30.11.2011, p. 4</a>)</p>
+   <hr class="doc-sep"/>
+   <div id="L_2017190EN.01001901">
+      <p class="doc-ti" id="d1e32-19-1">ANNEX</p>
+      <p class="ti-tbl" id="d1e38-19-1-table">
+         <span class="bold">World Wide Web Consortium (W3C)</span>
+         <a id="ntc1-L_2017190EN.01001901-E0001" href="#ntr1-L_2017190EN.01001901-E0001"> (<span class="super note-tag">1</span>)</a>
+      </p>
+      <table width="100%" border="0" cellspacing="0" cellpadding="0" class="table">
+         <col width="28%"/>
+         <col width="72%"/>
+         <tbody>
+            <tr class="table">
+               <td valign="top" class="table">
+                  <p class="tbl-hdr">No</p>
+               </td>
+               <td valign="top" class="table">
+                  <p class="tbl-hdr">Title of ICT technical specification</p>
+               </td>
+            </tr>
+            <tr class="table">
+               <td valign="top" class="table">
+                  <p class="tbl-txt">1</p>
+               </td>
+               <td valign="top" class="table">
+                  <p class="tbl-txt">Simple Knowledge Organisation System (SKOS)</p>
+               </td>
+            </tr>
+            <tr class="table">
+               <td valign="top" class="table">
+                  <p class="tbl-txt">2</p>
+               </td>
+               <td valign="top" class="table">
+                  <p class="tbl-txt">Resource Description Framework 1.0 and 1.1 (RDF 1.0 &amp; 1.1)</p>
+               </td>
+            </tr>
+         </tbody>
+      </table>
+      <p>
+         <br/>
+      </p>
+      <p class="ti-tbl" id="d1e65-19-1-table">
+         <span class="bold">OASIS (Advancing open standards for the information society)</span>
+         <a id="ntc2-L_2017190EN.01001901-E0002" href="#ntr2-L_2017190EN.01001901-E0002"> (<span class="super note-tag">2</span>)</a>
+      </p>
+      <table width="100%" border="0" cellspacing="0" cellpadding="0" class="table">
+         <col width="28%"/>
+         <col width="72%"/>
+         <tbody>
+            <tr class="table">
+               <td valign="top" class="table">
+                  <p class="tbl-hdr">No</p>
+               </td>
+               <td valign="top" class="table">
+                  <p class="tbl-hdr">Title of ICT technical specification</p>
+               </td>
+            </tr>
+            <tr class="table">
+               <td valign="top" class="table">
+                  <p class="tbl-txt">1</p>
+               </td>
+               <td valign="top" class="table">
+                  <p class="tbl-txt">Service Metadata Publisher 1.0 (SMP 1.0)</p>
+               </td>
+            </tr>
+         </tbody>
+      </table>
+      <p>
+         <br/>
+      </p>
+      <p class="ti-tbl" id="d1e87-19-1-table">
+         <span class="bold">Internet Engineering Task Force (IETF)</span>
+         <a id="ntc3-L_2017190EN.01001901-E0003" href="#ntr3-L_2017190EN.01001901-E0003"> (<span class="super note-tag">3</span>)</a>
+      </p>
+      <table width="100%" border="0" cellspacing="0" cellpadding="0" class="table">
+         <col width="23%"/>
+         <col width="77%"/>
+         <tbody>
+            <tr class="table">
+               <td valign="top" class="table">
+                  <p class="tbl-hdr">No</p>
+               </td>
+               <td valign="top" class="table">
+                  <p class="tbl-hdr">Title of ICT technical specification</p>
+               </td>
+            </tr>
+            <tr class="table">
+               <td valign="top" class="table">
+                  <p class="tbl-txt">1</p>
+               </td>
+               <td valign="top" class="table">
+                  <p class="tbl-txt">MIME-Based Secure Peer-to-Peer Business Data Interchange Using HTTP, Applicability Statement 2, RFC 4130 (AS2)</p>
+               </td>
+            </tr>
+            <tr class="table">
+               <td valign="top" class="table">
+                  <p class="tbl-txt">2</p>
+               </td>
+               <td valign="top" class="table">
+                  <p class="tbl-txt">Internationalized Resource Identifiers, RFC 3987 (IRIs)</p>
+               </td>
+            </tr>
+         </tbody>
+      </table>
+      <p>
+         <br/>
+      </p>
+      <p class="ti-tbl" id="d1e114-19-1-table">
+         <span class="bold">Research Data Alliance (RDA)</span>
+         <a id="ntc4-L_2017190EN.01001901-E0004" href="#ntr4-L_2017190EN.01001901-E0004"> (<span class="super note-tag">4</span>)</a>
+      </p>
+      <table width="100%" border="0" cellspacing="0" cellpadding="0" class="table">
+         <col width="25%"/>
+         <col width="75%"/>
+         <tbody>
+            <tr class="table">
+               <td valign="top" class="table">
+                  <p class="tbl-hdr">No</p>
+               </td>
+               <td valign="top" class="table">
+                  <p class="tbl-hdr">Title of ICT technical specification</p>
+               </td>
+            </tr>
+            <tr class="table">
+               <td valign="top" class="table">
+                  <p class="tbl-txt">1</p>
+               </td>
+               <td valign="top" class="table">
+                  <p class="tbl-txt">TS1 Data Foundation &amp; Terminology Model</p>
+               </td>
+            </tr>
+            <tr class="table">
+               <td valign="top" class="table">
+                  <p class="tbl-txt">2</p>
+               </td>
+               <td valign="top" class="table">
+                  <p class="tbl-txt">TS2 PID Information Types API- Persistent Identifier Type Registry</p>
+               </td>
+            </tr>
+            <tr class="table">
+               <td valign="top" class="table">
+                  <p class="tbl-txt">3</p>
+               </td>
+               <td valign="top" class="table">
+                  <p class="tbl-txt">TS3 Data Type Registries Model</p>
+               </td>
+            </tr>
+            <tr class="table">
+               <td valign="top" class="table">
+                  <p class="tbl-txt">4</p>
+               </td>
+               <td valign="top" class="table">
+                  <p class="tbl-txt">TS4 Practical Policies recommendations</p>
+               </td>
+            </tr>
+         </tbody>
+      </table>
+      <hr class="note"/>
+      <p class="note">
+         <a id="ntr1-L_2017190EN.01001901-E0001" href="#ntc1-L_2017190EN.01001901-E0001">(<span class="super">1</span>)</a>  http://www.w3.org/</p>
+      <p class="note">
+         <a id="ntr2-L_2017190EN.01001901-E0002" href="#ntc2-L_2017190EN.01001901-E0002">(<span class="super">2</span>)</a>  http://www.oasis-open.org/</p>
+      <p class="note">
+         <a id="ntr3-L_2017190EN.01001901-E0003" href="#ntc3-L_2017190EN.01001901-E0003">(<span class="super">3</span>)</a>  http://www.ietf.org/</p>
+      <p class="note">
+         <a id="ntr4-L_2017190EN.01001901-E0004" href="#ntc4-L_2017190EN.01001901-E0004">(<span class="super">4</span>)</a>  https://rd-alliance.org/</p>
+   </div>
+   <hr class="doc-end"/>
+</body>
+</html>

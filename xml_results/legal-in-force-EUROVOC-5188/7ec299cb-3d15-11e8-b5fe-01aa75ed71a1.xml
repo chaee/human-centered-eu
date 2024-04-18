@@ -1,0 +1,1004 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML//EN" "xhtml-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<!-- CONVEX # converter_version:7.8.1 # generated_on:20180411-0010 -->
+<head>
+   <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
+   <link type="text/css" rel="stylesheet"
+         href="http://publications.europa.eu/resource/presentation-style-sheet/oj/oj.css"/>
+   <title>L_2018093EN.01000401.xml</title>
+</head>
+<body>
+   <table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <col width="10%"/>
+      <col width="10%"/>
+      <col width="60%"/>
+      <col width="20%"/>
+      <tbody>
+         <tr>
+            <td>
+               <p class="hd-date">11.4.2018   </p>
+            </td>
+            <td>
+               <p class="hd-lg">EN</p>
+            </td>
+            <td>
+               <p class="hd-ti">Official Journal of the European Union</p>
+            </td>
+            <td>
+               <p class="hd-oj">L 93/4</p>
+            </td>
+         </tr>
+      </tbody>
+   </table>
+   <hr class="separator"/>
+   <p class="doc-ti" id="d1e39-4-1">COMMISSION DECISION (EU, Euratom) 2018/559</p>
+   <p class="doc-ti">of 6 April 2018</p>
+   <p class="doc-ti">laying down implementing rules for Article 6 of Decision (EU, Euratom) 2017/46 on the security of communication and information systems in the European Commission</p>
+   <p class="normal">THE EUROPEAN COMMISSION,</p>
+   <p class="normal">Having regard to the Treaty on the Functioning of the European Union, and in particular Article 249 thereof,</p>
+   <p class="normal">Having regard to the Treaty establishing the European Atomic Energy Community,</p>
+   <p class="normal">Having regard to Commission Decision (EU, Euratom) 2017/46 of 10 January 2017 on the security of communication and information systems in the European Commission<a id="ntc1-L_2018093EN.01000401-E0001" href="#ntr1-L_2018093EN.01000401-E0001"> (<span class="super note-tag">1</span>)</a>, and in particular Article 6 thereof,</p>
+   <p class="normal">Whereas:</p>
+   <table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <col width="4%"/>
+      <col width="96%"/>
+      <tbody>
+         <tr>
+            <td valign="top">
+               <p class="normal">(1)</p>
+            </td>
+            <td valign="top">
+               <p class="normal">With the adoption of Decision (EU, Euratom) 2017/46, there is a need for the Commission to review, update and consolidate the implementing rules linked to the repealed Commission Decision C(2006) 3602 on the security of communication and information systems used by the Commission.</p>
+            </td>
+         </tr>
+      </tbody>
+   </table>
+   <table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <col width="4%"/>
+      <col width="96%"/>
+      <tbody>
+         <tr>
+            <td valign="top">
+               <p class="normal">(2)</p>
+            </td>
+            <td valign="top">
+               <p class="normal">The member of the Commission responsible for security, in full compliance with the internal rules of procedures, has been empowered to establish implementing rules in line with Article 13 of Decision (EU, Euratom) 2017/46<a id="ntc2-L_2018093EN.01000401-E0002" href="#ntr2-L_2018093EN.01000401-E0002"> (<span class="super note-tag">2</span>)</a>.</p>
+            </td>
+         </tr>
+      </tbody>
+   </table>
+   <table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <col width="4%"/>
+      <col width="96%"/>
+      <tbody>
+         <tr>
+            <td valign="top">
+               <p class="normal">(3)</p>
+            </td>
+            <td valign="top">
+               <p class="normal">The implementing rules of Decision C(2006) 3602 should therefore be repealed,</p>
+            </td>
+         </tr>
+      </tbody>
+   </table>
+   <p class="normal">HAS ADOPTED THIS DECISION:</p>
+   <p id="d1e102-4-1" class="ti-section-1">CHAPTER 1</p>
+   <p id="L_2018093EN.01000401-d-001" class="ti-section-2">
+      <span class="bold">GENERAL PROVISIONS</span>
+   </p>
+   <p id="d1e110-4-1" class="ti-art">Article 1</p>
+   <p class="sti-art">Subject matter and scope</p>
+   <p class="normal">1.   The subject matter and scope of this Decision are provided in Article 1 of Decision (EU, Euratom) 2017/46.</p>
+   <p class="normal">2.   The provisions in this Decision apply to all communication and information systems (CISs). However, the responsibilities defined in this Decision shall not apply to CISs handling EU classified information. The relevant responsibilities for these systems shall be determined by the system owner and the Commission Security Authority in line with Commission Decision (EU, Euratom) 2015/444<a id="ntc3-L_2018093EN.01000401-E0003" href="#ntr3-L_2018093EN.01000401-E0003"> (<span class="super note-tag">3</span>)</a>.</p>
+   <p class="normal">3.   Chapter 2 of this Decision presents an overview of the practical implementation of the organisation and responsibilities relating to IT security. Chapter 3 of this Decision presents an overview of the processes relating to Article 6 of Decision (EU, Euratom) 2017/46.</p>
+   <p id="d1e140-4-1" class="ti-art">Article 2</p>
+   <p class="sti-art">Definitions</p>
+   <p class="normal">The definitions in Article 2 of Decision (EU, Euratom) 2017/46 apply to this Decision. For the purposes of this Decision the following definitions shall also apply:</p>
+   <table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <col width="4%"/>
+      <col width="96%"/>
+      <tbody>
+         <tr>
+            <td valign="top">
+               <p class="normal">1.</p>
+            </td>
+            <td valign="top">
+               <p class="normal">‘Crypto Approval Authority’ (CAA) is a function assumed by the Commission Security Authority that falls under the authority of the Director-General for Human Resources and Security;</p>
+            </td>
+         </tr>
+      </tbody>
+   </table>
+   <table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <col width="4%"/>
+      <col width="96%"/>
+      <tbody>
+         <tr>
+            <td valign="top">
+               <p class="normal">2.</p>
+            </td>
+            <td valign="top">
+               <p class="normal">‘External network connection’ means any electronic communications connection between the Commission's internal network and any other network, including the internet. This definition excludes third party networks that are provided under contract to be part of the Commission's internal network.</p>
+            </td>
+         </tr>
+      </tbody>
+   </table>
+   <table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <col width="4%"/>
+      <col width="96%"/>
+      <tbody>
+         <tr>
+            <td valign="top">
+               <p class="normal">3.</p>
+            </td>
+            <td valign="top">
+               <p class="normal">‘Key escrow’ means a procedure for storing copies of cryptographic keys with one or more separate parties, ensuring the segregation of duties, to enable their recovery in case the operational copy is lost. Keys may be split into two or more parts, each of which is lodged with a different party to ensure that no single party possesses the entire key.</p>
+            </td>
+         </tr>
+      </tbody>
+   </table>
+   <table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <col width="4%"/>
+      <col width="96%"/>
+      <tbody>
+         <tr>
+            <td valign="top">
+               <p class="normal">4.</p>
+            </td>
+            <td valign="top">
+               <p class="normal">‘RASCI’ is an abbreviation for a responsibility assignment based on the following attribution indicators:</p>
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top">
+                           <p class="normal">(a)</p>
+                        </td>
+                        <td valign="top">
+                           <p class="normal">‘responsible’ (R) means having the obligation to act and take decisions to achieve required outcomes;</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top">
+                           <p class="normal">(b)</p>
+                        </td>
+                        <td valign="top">
+                           <p class="normal">‘accountable’ (A) means being answerable for actions, decisions and performance;</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top">
+                           <p class="normal">(c)</p>
+                        </td>
+                        <td valign="top">
+                           <p class="normal">‘supports’ (S) means having the obligation to work with the person responsible to complete the task;</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top">
+                           <p class="normal">(d)</p>
+                        </td>
+                        <td valign="top">
+                           <p class="normal">‘consulted’ (C) means being sought for advice or opinion;</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top">
+                           <p class="normal">(e)</p>
+                        </td>
+                        <td valign="top">
+                           <p class="normal">‘informed’ (I) means being kept up to date with relevant information.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </td>
+         </tr>
+      </tbody>
+   </table>
+   <p id="d1e233-4-1" class="ti-section-1">CHAPTER 2</p>
+   <p id="L_2018093EN.01000401-d-002" class="ti-section-2">
+      <span class="bold">ORGANISATION AND RESPONSIBILITIES</span>
+   </p>
+   <p id="d1e241-4-1" class="ti-art">Article 3</p>
+   <p class="sti-art">Roles and responsibilities</p>
+   <p class="normal">The roles and responsibilities relating to Articles 4 to 8 of this Decision are defined in the Annex in accordance with the RASCI model.</p>
+   <p id="d1e248-4-1" class="ti-art">Article 4</p>
+   <p class="sti-art">Alignment with the Commission's information security policy</p>
+   <p class="normal">1.   The Directorate-General for Human Resources and Security shall review the Commission's IT security policy and related standards and guidelines to ensure that they are in line with the Commission's general security policies, in particular Commission Decision (EU, Euratom) 2015/443<a id="ntc4-L_2018093EN.01000401-E0004" href="#ntr4-L_2018093EN.01000401-E0004"> (<span class="super note-tag">4</span>)</a> and Decision (EU, Euratom) 2015/444.</p>
+   <p class="normal">2.   Upon request by other Commission departments, the Directorate-General for Human Resources and Security may review their IT security policies or other IT security documentation to ensure their consistency with the Commission's information security policy. The head of the Commission department concerned shall ensure that any inconsistencies are addressed.</p>
+   <p class="normal">3.   Under its responsibility for the security of information, the Directorate-General for Human Resources and Security shall cooperate with the Directorate-General for Informatics to ensure that the IT security processes take full account of the classification and principles of security laid down in Decision (EU, Euratom) 2015/443, in particular Articles 3 and 9.</p>
+   <p id="d1e279-4-1" class="ti-section-1">CHAPTER 3</p>
+   <p id="L_2018093EN.01000401-d-003" class="ti-section-2">
+      <span class="bold">IT SECURITY PROCESSES</span>
+   </p>
+   <p id="d1e287-4-1" class="ti-art">Article 5</p>
+   <p class="sti-art">Encrypting technologies</p>
+   <p class="normal">1.   The use of encrypting technologies for the protection of EU classified information (EUCI) shall comply with Decision (EU, Euratom) 2015/444.</p>
+   <p class="normal">2.   The decisions on the use of encrypting technologies for the protection of non-EUCI data shall be taken by the system owner of each CIS, taking into account both the risks that are intended to be mitigated through encryption and the risks that it introduces.</p>
+   <p class="normal">3.   Prior approval from the CAA is required for all uses of encrypting technologies, unless the encryption is used only to protect the confidentiality of non-EUCI data in transit and uses standard network communications protocols.</p>
+   <p class="normal">4.   With the exception noted in paragraph 3 of this Article, Commission departments shall ensure that back-ups of any decryption keys are stored in key escrow for the purpose of recovering stored data in the event that the decryption key is not available. The recovery of encrypted data using back-ups of decryption keys shall be carried out only when authorised in line with the standard defined by the CAA.</p>
+   <p class="normal">5.   Requests for approval for the use of encrypting technologies shall be formally documented and shall include details of the CIS and data to be protected, the technologies to be used and the related security operating procedures. These requests for approval shall be signed by the system owner.</p>
+   <p class="normal">6.   Requests for approval for the use of encrypting technologies shall be evaluated by the CAA in line with the published standards and requirements.</p>
+   <p id="d1e322-4-1" class="ti-art">Article 6</p>
+   <p class="sti-art">IT security inspections</p>
+   <p class="normal">1.   The Directorate-General for Human Resources and Security shall undertake IT security inspections in order to verify whether IT security measures comply with the Commission's IT security policies and to check the integrity of these control measures.</p>
+   <p class="normal">2.   The Directorate-General for Human Resources and Security may perform an IT security inspection:</p>
+   <table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <col width="4%"/>
+      <col width="96%"/>
+      <tbody>
+         <tr>
+            <td valign="top">
+               <p class="normal">(a)</p>
+            </td>
+            <td valign="top">
+               <p class="normal">on its own initiative;</p>
+            </td>
+         </tr>
+      </tbody>
+   </table>
+   <table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <col width="4%"/>
+      <col width="96%"/>
+      <tbody>
+         <tr>
+            <td valign="top">
+               <p class="normal">(b)</p>
+            </td>
+            <td valign="top">
+               <p class="normal">on request from the Information Security Steering Board (ISSB);</p>
+            </td>
+         </tr>
+      </tbody>
+   </table>
+   <table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <col width="4%"/>
+      <col width="96%"/>
+      <tbody>
+         <tr>
+            <td valign="top">
+               <p class="normal">(c)</p>
+            </td>
+            <td valign="top">
+               <p class="normal">on a request received from a system owner;</p>
+            </td>
+         </tr>
+      </tbody>
+   </table>
+   <table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <col width="4%"/>
+      <col width="96%"/>
+      <tbody>
+         <tr>
+            <td valign="top">
+               <p class="normal">(d)</p>
+            </td>
+            <td valign="top">
+               <p class="normal">further to a security incident; or</p>
+            </td>
+         </tr>
+      </tbody>
+   </table>
+   <table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <col width="4%"/>
+      <col width="96%"/>
+      <tbody>
+         <tr>
+            <td valign="top">
+               <p class="normal">(e)</p>
+            </td>
+            <td valign="top">
+               <p class="normal">further to the identification of a high risk to a particular system.</p>
+            </td>
+         </tr>
+      </tbody>
+   </table>
+   <p class="normal">3.   Data owners may request an IT security inspection before storing their information in a CIS.</p>
+   <p class="normal">4.   The results of an inspection shall be documented in a formal report to the system owner, and copied to the LISO, that includes findings and recommendations for improving the CIS's compliance with the IT security policy. The Directorate-General for Human Resources and Security shall report significant issues and recommendations to the ISSB.</p>
+   <p class="normal">5.   The Directorate-General for Human Resources and Security shall monitor the implementation of the recommendations.</p>
+   <p class="normal">6.   Where appropriate, IT security inspections shall include the inspection of services, premises and equipment provided to the system owner, including both internal and external service providers.</p>
+   <p id="d1e389-4-1" class="ti-art">Article 7</p>
+   <p class="sti-art">Access from external networks</p>
+   <p class="normal">1.   The Directorate-General for Human Resources and Security shall lay down the rules in a standard on authorising access between Commission CISs and external networks.</p>
+   <p class="normal">2.   The rules shall distinguish different types of external network connections and lay down appropriate security rules for each type of connection, including whether a prior authorisation for the connection is required from the relevant authority as noted in paragraph 4 of this Article.</p>
+   <p class="normal">3.   If required, authorisation shall be granted on the basis of a formal request and approval process. The approval shall be valid for a specified duration and shall be obtained before the connection is activated.</p>
+   <p class="normal">4.   The Directorate-General for Human Resources and Security shall have the overall responsibility for authorising requests, but may delegate the responsibility for authorising some types of connection at its own discretion in line with Article 17(3) of Decision (EU, Euratom) 2015/443 and subject to the conditions laid down under (8).</p>
+   <p class="normal">5.   The authorising entity may impose additional security requirements as a prerequisite for approval, in order to protect the Commission's CIS and networks from the risks of unauthorised access or other security breaches.</p>
+   <p class="normal">6.   The Directorate-General for Informatics is the standard provider of network services for the Commission. Any other Commission department operating a network that is not provided by the Directorate-General for Informatics shall first obtain the agreement of the ISSB. The Commission department shall document the business justification for the request and demonstrate that the network controls are sufficient to meet the requirements for controlling incoming and outgoing flows of information.</p>
+   <p class="normal">7.   The system owner of a CIS shall determine the security requirements for external access to that CIS and shall ensure the implementation of appropriate measures to protect its security, with the support of the LISO.</p>
+   <p class="normal">8.   The security measures implemented for external network connections shall be based on the principles of need-to-know and least privilege, which ensure that individuals only receive the information and access rights that they need to perform their official duties for the Commission.</p>
+   <p class="normal">9.   All external network connections shall be filtered and monitored to detect potential security breaches.</p>
+   <p class="normal">10.   Where connections are established to allow the outsourcing of a CIS, the authorisation shall be conditional on the successful completion of the procedure described in Article 8.</p>
+   <p id="d1e445-4-1" class="ti-art">Article 8</p>
+   <p class="sti-art">Outsourcing of CISs</p>
+   <p class="normal">1.   For the purposes of this Decision, a CIS is considered to be outsourced when it is provided on the basis of a contract with a third party contractor, under which the CIS is housed on non-Commission premises. This includes the outsourcing of individual or multiple CISs or other IT services, data centres on non-Commission premises, and the handling of Commission data sets by external services.</p>
+   <p class="normal">2.   The outsourcing of a CIS shall take into account the sensitivity or classification of the information handled as follows:</p>
+   <table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <col width="4%"/>
+      <col width="96%"/>
+      <tbody>
+         <tr>
+            <td valign="top">
+               <p class="normal">(a)</p>
+            </td>
+            <td valign="top">
+               <p class="normal">CISs handling EUCI shall be accredited in accordance with Decision (EU, Euratom) 2015/444, and the Commission Security Accreditation Authority (SAA) shall be consulted in advance. Systems handling EUCI shall not be outsourced.</p>
+            </td>
+         </tr>
+      </tbody>
+   </table>
+   <table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <col width="4%"/>
+      <col width="96%"/>
+      <tbody>
+         <tr>
+            <td valign="top">
+               <p class="normal">(b)</p>
+            </td>
+            <td valign="top">
+               <p class="normal">The system owner of a CIS handling non-EUCI information shall implement proportionate measures to address the security needs in line with the relevant legal obligations or the sensitivity of the information, taking into account the risks of outsourcing. The Directorate-General for Human Resources and Security may impose additional requirements.</p>
+            </td>
+         </tr>
+      </tbody>
+   </table>
+   <table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <col width="4%"/>
+      <col width="96%"/>
+      <tbody>
+         <tr>
+            <td valign="top">
+               <p class="normal">(c)</p>
+            </td>
+            <td valign="top">
+               <p class="normal">Outsourced development projects shall take into account the sensitivity of the developed code and any test data used during development.</p>
+            </td>
+         </tr>
+      </tbody>
+   </table>
+   <p class="normal">3.   The following principles shall apply to outsourced CIS in addition to those laid down in Article 3 of Decision (EU, Euratom) 2017/46:</p>
+   <table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <col width="4%"/>
+      <col width="96%"/>
+      <tbody>
+         <tr>
+            <td valign="top">
+               <p class="normal">(a)</p>
+            </td>
+            <td valign="top">
+               <p class="normal">outsourcing arrangements shall be designed to avoid dependency on specific suppliers;</p>
+            </td>
+         </tr>
+      </tbody>
+   </table>
+   <table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <col width="4%"/>
+      <col width="96%"/>
+      <tbody>
+         <tr>
+            <td valign="top">
+               <p class="normal">(b)</p>
+            </td>
+            <td valign="top">
+               <p class="normal">outsourcing security arrangements shall minimise the possibilities for third party staff to access or modify Commission information;</p>
+            </td>
+         </tr>
+      </tbody>
+   </table>
+   <table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <col width="4%"/>
+      <col width="96%"/>
+      <tbody>
+         <tr>
+            <td valign="top">
+               <p class="normal">(c)</p>
+            </td>
+            <td valign="top">
+               <p class="normal">third party staff that have access to an outsourced CIS shall provide confidentiality agreements;</p>
+            </td>
+         </tr>
+      </tbody>
+   </table>
+   <table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <col width="4%"/>
+      <col width="96%"/>
+      <tbody>
+         <tr>
+            <td valign="top">
+               <p class="normal">(d)</p>
+            </td>
+            <td valign="top">
+               <p class="normal">the outsourcing of a CIS shall be indicated in the inventory of CISs.</p>
+            </td>
+         </tr>
+      </tbody>
+   </table>
+   <p class="normal">4.   The system owner with the participation of the data owner shall:</p>
+   <table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <col width="4%"/>
+      <col width="96%"/>
+      <tbody>
+         <tr>
+            <td valign="top">
+               <p class="normal">(a)</p>
+            </td>
+            <td valign="top">
+               <p class="normal">assess and document the risks relating to outsourcing;</p>
+            </td>
+         </tr>
+      </tbody>
+   </table>
+   <table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <col width="4%"/>
+      <col width="96%"/>
+      <tbody>
+         <tr>
+            <td valign="top">
+               <p class="normal">(b)</p>
+            </td>
+            <td valign="top">
+               <p class="normal">lay down relevant security requirements;</p>
+            </td>
+         </tr>
+      </tbody>
+   </table>
+   <table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <col width="4%"/>
+      <col width="96%"/>
+      <tbody>
+         <tr>
+            <td valign="top">
+               <p class="normal">(c)</p>
+            </td>
+            <td valign="top">
+               <p class="normal">consult with the system owners of all other connected CISs to ensure that their security requirements are included;</p>
+            </td>
+         </tr>
+      </tbody>
+   </table>
+   <table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <col width="4%"/>
+      <col width="96%"/>
+      <tbody>
+         <tr>
+            <td valign="top">
+               <p class="normal">(d)</p>
+            </td>
+            <td valign="top">
+               <p class="normal">ensure that appropriate security requirements and rights are included in the outsourcing contract;</p>
+            </td>
+         </tr>
+      </tbody>
+   </table>
+   <table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <col width="4%"/>
+      <col width="96%"/>
+      <tbody>
+         <tr>
+            <td valign="top">
+               <p class="normal">(e)</p>
+            </td>
+            <td valign="top">
+               <p class="normal">fulfil any other requirements laid down in the detailed procedure as noted in paragraph 8 of this Article.</p>
+            </td>
+         </tr>
+      </tbody>
+   </table>
+   <p class="normal">These actions shall be completed before the contract or other agreement is signed for the outsourcing of one or more CISs.</p>
+   <p class="normal">5.   System owners shall manage the risks relating to outsourcing during the lifetime of the CIS in order to meet the defined security requirements.</p>
+   <p class="normal">6.   System owners shall ensure that third party contractors are obliged to immediately notify the Commission of all IT security incidents affecting an outsourced Commission CIS.</p>
+   <p class="normal">7.   The system owner is responsible for ensuring the compliance of the CIS, the outsourcing contract and the security arrangements with the Commission's rules on information security and IT security.</p>
+   <p class="normal">8.   The Directorate-General for Human Resources and Security shall lay down the detailed standard related to the responsibilities and activities set out in points (1) to (7) in accordance with Article 10 below.</p>
+   <p id="d1e571-4-1" class="ti-section-1">CHAPTER 4</p>
+   <p id="L_2018093EN.01000401-d-004" class="ti-section-2">
+      <span class="bold">MISCELLANEOUS AND FINAL PROVISIONS</span>
+   </p>
+   <p id="d1e579-4-1" class="ti-art">Article 9</p>
+   <p class="sti-art">Transparency</p>
+   <p class="normal">This Decision shall be brought to the attention of Commission staff and to all individuals to whom it applies, and published in the <span class="italic">Official Journal of the European Union</span>.</p>
+   <p id="d1e589-4-1" class="ti-art">Article 10</p>
+   <p class="sti-art">Standards</p>
+   <p class="normal">1.   The provisions of this Decision shall, where necessary, be further detailed in standards and/or guidelines to be adopted in line with Decision (EU, Euratom) 2017/46 and with Decision C(2017) 7428. IT security standards and guidelines shall provide further details on these implementing rules and Decision (EU, Euratom) 2017/46 for specific security domains according to ISO 27001:2013 Annex A. These standards and guidelines are based on industry best practices and are selected to suit the Commission's IT environment.</p>
+   <p class="normal">2.   Standards shall, where necessary, be developed according to ISO 27001:2013 Annex A in the following domains:</p>
+   <table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <col width="4%"/>
+      <col width="96%"/>
+      <tbody>
+         <tr>
+            <td valign="top">
+               <p class="normal">(1)</p>
+            </td>
+            <td valign="top">
+               <p class="normal">organisation of information security;</p>
+            </td>
+         </tr>
+      </tbody>
+   </table>
+   <table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <col width="4%"/>
+      <col width="96%"/>
+      <tbody>
+         <tr>
+            <td valign="top">
+               <p class="normal">(2)</p>
+            </td>
+            <td valign="top">
+               <p class="normal">human resources security;</p>
+            </td>
+         </tr>
+      </tbody>
+   </table>
+   <table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <col width="4%"/>
+      <col width="96%"/>
+      <tbody>
+         <tr>
+            <td valign="top">
+               <p class="normal">(3)</p>
+            </td>
+            <td valign="top">
+               <p class="normal">asset management;</p>
+            </td>
+         </tr>
+      </tbody>
+   </table>
+   <table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <col width="4%"/>
+      <col width="96%"/>
+      <tbody>
+         <tr>
+            <td valign="top">
+               <p class="normal">(4)</p>
+            </td>
+            <td valign="top">
+               <p class="normal">access control;</p>
+            </td>
+         </tr>
+      </tbody>
+   </table>
+   <table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <col width="4%"/>
+      <col width="96%"/>
+      <tbody>
+         <tr>
+            <td valign="top">
+               <p class="normal">(5)</p>
+            </td>
+            <td valign="top">
+               <p class="normal">cryptography;</p>
+            </td>
+         </tr>
+      </tbody>
+   </table>
+   <table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <col width="4%"/>
+      <col width="96%"/>
+      <tbody>
+         <tr>
+            <td valign="top">
+               <p class="normal">(6)</p>
+            </td>
+            <td valign="top">
+               <p class="normal">physical and environmental security;</p>
+            </td>
+         </tr>
+      </tbody>
+   </table>
+   <table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <col width="4%"/>
+      <col width="96%"/>
+      <tbody>
+         <tr>
+            <td valign="top">
+               <p class="normal">(7)</p>
+            </td>
+            <td valign="top">
+               <p class="normal">operational security;</p>
+            </td>
+         </tr>
+      </tbody>
+   </table>
+   <table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <col width="4%"/>
+      <col width="96%"/>
+      <tbody>
+         <tr>
+            <td valign="top">
+               <p class="normal">(8)</p>
+            </td>
+            <td valign="top">
+               <p class="normal">communications security;</p>
+            </td>
+         </tr>
+      </tbody>
+   </table>
+   <table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <col width="4%"/>
+      <col width="96%"/>
+      <tbody>
+         <tr>
+            <td valign="top">
+               <p class="normal">(9)</p>
+            </td>
+            <td valign="top">
+               <p class="normal">system acquisition, development and maintenance;</p>
+            </td>
+         </tr>
+      </tbody>
+   </table>
+   <table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <col width="4%"/>
+      <col width="96%"/>
+      <tbody>
+         <tr>
+            <td valign="top">
+               <p class="normal">(10)</p>
+            </td>
+            <td valign="top">
+               <p class="normal">supplier relationships;</p>
+            </td>
+         </tr>
+      </tbody>
+   </table>
+   <table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <col width="4%"/>
+      <col width="96%"/>
+      <tbody>
+         <tr>
+            <td valign="top">
+               <p class="normal">(11)</p>
+            </td>
+            <td valign="top">
+               <p class="normal">information security incident management;</p>
+            </td>
+         </tr>
+      </tbody>
+   </table>
+   <table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <col width="4%"/>
+      <col width="96%"/>
+      <tbody>
+         <tr>
+            <td valign="top">
+               <p class="normal">(12)</p>
+            </td>
+            <td valign="top">
+               <p class="normal">information security aspects of business continuity management;</p>
+            </td>
+         </tr>
+      </tbody>
+   </table>
+   <table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <col width="4%"/>
+      <col width="96%"/>
+      <tbody>
+         <tr>
+            <td valign="top">
+               <p class="normal">(13)</p>
+            </td>
+            <td valign="top">
+               <p class="normal">compliance.</p>
+            </td>
+         </tr>
+      </tbody>
+   </table>
+   <p class="normal">3.   The ISSB shall approve the standards mentioned under paragraph 1 and 2 of this Article before their adoption.</p>
+   <p class="normal">4.   The implementing rules to Decision C(2006) 3602 related to the scope of this Decision are hereby repealed.</p>
+   <p class="normal">5.   The standards and guidelines adopted under Decision C(2006) 3602 of 16 August 2006 shall remain in effect, insofar as they do not conflict with these implementing rules, until they are repealed or replaced by standards or guidelines to be adopted under Article 13 of Decision (EU, Euratom) 2017/46.</p>
+   <p id="d1e703-4-1" class="ti-art">Article 11</p>
+   <p class="sti-art">Entry into force</p>
+   <p class="normal">This Decision shall enter into force on the twentieth day following that of its publication in the <span class="italic">Official Journal of the European Union</span>.</p>
+   <div class="final">
+      <p class="normal">Done at Brussels, 6 April 2018.</p>
+      <div class="signatory">
+         <p class="signatory">
+            <span class="italic">For the Commission,</span>
+         </p>
+         <p class="signatory">
+            <span class="italic">On behalf of the President,</span>
+         </p>
+         <p class="signatory">Günther OETTINGER</p>
+         <p class="signatory">
+            <span class="italic">Member of the Commission</span>
+         </p>
+      </div>
+   </div>
+   <hr class="note"/>
+   <p class="note">
+      <a id="ntr1-L_2018093EN.01000401-E0001" href="#ntc1-L_2018093EN.01000401-E0001">(<span class="super">1</span>)</a>  <a href="http://publications.europa.eu/resource/oj/JOL_2017_006_R_TOC">OJ L 6, 11.1.2017, p. 40</a>.</p>
+   <p class="note">
+      <a id="ntr2-L_2018093EN.01000401-E0002" href="#ntc2-L_2018093EN.01000401-E0002">(<span class="super">2</span>)</a>  Commission Decision C(2017) 7428 final of 8 November 2017 granting an empowerment to adopt implementing rules, standards and guidelines relating to the security of communication and information systems in the European Commission.</p>
+   <p class="note">
+      <a id="ntr3-L_2018093EN.01000401-E0003" href="#ntc3-L_2018093EN.01000401-E0003">(<span class="super">3</span>)</a>  Commission Decision (EU, Euratom) 2015/444 of 13 March 2015 on the security rules for protecting EU classified information (<a href="http://publications.europa.eu/resource/oj/JOL_2015_072_R_TOC">OJ L 72, 17.3.2015, p. 53</a>).</p>
+   <p class="note">
+      <a id="ntr4-L_2018093EN.01000401-E0004" href="#ntc4-L_2018093EN.01000401-E0004">(<span class="super">4</span>)</a>  Commission Decision (EU, Euratom) 2015/443 of 13 March 2015 on Security in the Commission (<a href="http://publications.europa.eu/resource/oj/JOL_2015_072_R_TOC">OJ L 72, 17.3.2015, p. 41</a>).</p>
+   <hr class="doc-sep"/>
+   <div id="L_2018093EN.01001001">
+      <p class="doc-ti" id="d1e32-10-1">ANNEX</p>
+      <p id="d1e38-10-1" class="ti-grseq-1">
+         <span class="bold">ROLES AND RESPONSIBILITIES (RASCI)</span>
+      </p>
+      <p class="normal">The RASCI model assigns roles to entities using the following abbreviations:</p>
+      <p class="normal">(a)   <span class="bold">R</span>— Responsible;</p>
+      <p class="normal">(b)   <span class="bold">A</span>— Accountable;</p>
+      <p class="normal">(c)   <span class="bold">S</span>— Supporting;</p>
+      <p class="normal">(d)   <span class="bold">C</span>— Consulted;</p>
+      <p class="normal">(e)   <span class="bold">I</span>— Informed.</p>
+      <table width="100%" border="0" cellspacing="0" cellpadding="0" class="table">
+         <col width="18%"/>
+         <col width="8%"/>
+         <col width="8%"/>
+         <col width="17%"/>
+         <col width="9%"/>
+         <col width="8%"/>
+         <col width="8%"/>
+         <col width="8%"/>
+         <col width="17%"/>
+         <tbody>
+            <tr class="table">
+               <td valign="top" class="table">
+                  <p class="normal">Role</p>
+                  <p class="normal">Process</p>
+               </td>
+               <td valign="top" class="table">
+                  <p class="tbl-hdr">ISSB</p>
+               </td>
+               <td valign="top" class="table">
+                  <p class="tbl-hdr">HR (DS)</p>
+               </td>
+               <td valign="top" class="table">
+                  <p class="tbl-hdr">Commission Departments</p>
+               </td>
+               <td valign="top" class="table">
+                  <p class="tbl-hdr">System Owner</p>
+               </td>
+               <td valign="top" class="table">
+                  <p class="tbl-hdr">Data Owner</p>
+               </td>
+               <td valign="top" class="table">
+                  <p class="tbl-hdr">LISO</p>
+               </td>
+               <td valign="top" class="table">
+                  <p class="tbl-hdr">DIGIT</p>
+               </td>
+               <td valign="top" class="table">
+                  <p class="tbl-hdr">Contractors</p>
+               </td>
+            </tr>
+            <tr class="table">
+               <td valign="top" class="table">
+                  <p class="tbl-hdr">Alignment with the Commission's information security policy</p>
+               </td>
+               <td valign="top" class="table">
+                  <p class="normal"> </p>
+               </td>
+               <td valign="top" class="table">
+                  <p class="tbl-txt">
+                     <span class="bold">R/A</span>
+                  </p>
+               </td>
+               <td valign="top" class="table">
+                  <p class="tbl-txt">
+                     <span class="bold">S</span>
+                  </p>
+               </td>
+               <td valign="top" class="table">
+                  <p class="normal"> </p>
+               </td>
+               <td valign="top" class="table">
+                  <p class="normal"> </p>
+               </td>
+               <td valign="top" class="table">
+                  <p class="normal"> </p>
+               </td>
+               <td valign="top" class="table">
+                  <p class="tbl-txt">
+                     <span class="bold">S</span>
+                  </p>
+               </td>
+               <td valign="top" class="table">
+                  <p class="normal"> </p>
+               </td>
+            </tr>
+            <tr class="table">
+               <td valign="top" class="table">
+                  <p class="tbl-hdr">Encrypting technologies</p>
+               </td>
+               <td valign="top" class="table">
+                  <p class="normal"> </p>
+               </td>
+               <td valign="top" class="table">
+                  <p class="tbl-txt">
+                     <span class="bold">C</span>
+                  </p>
+               </td>
+               <td valign="top" class="table">
+                  <p class="tbl-txt">
+                     <span class="bold">A</span>
+                  </p>
+               </td>
+               <td valign="top" class="table">
+                  <p class="tbl-txt">
+                     <span class="bold">R</span>
+                  </p>
+               </td>
+               <td valign="top" class="table">
+                  <p class="tbl-txt">
+                     <span class="bold">I</span>
+                  </p>
+               </td>
+               <td valign="top" class="table">
+                  <p class="tbl-txt">
+                     <span class="bold">C</span>
+                  </p>
+               </td>
+               <td valign="top" class="table">
+                  <p class="normal"> </p>
+               </td>
+               <td valign="top" class="table">
+                  <p class="normal"> </p>
+               </td>
+            </tr>
+            <tr class="table">
+               <td valign="top" class="table">
+                  <p class="tbl-hdr">IT Security Inspections</p>
+               </td>
+               <td valign="top" class="table">
+                  <p class="tbl-txt">
+                     <span class="bold">I</span>
+                  </p>
+               </td>
+               <td valign="top" class="table">
+                  <p class="tbl-txt">
+                     <span class="bold">A/R</span>
+                  </p>
+               </td>
+               <td valign="top" class="table">
+                  <p class="normal"> </p>
+               </td>
+               <td valign="top" class="table">
+                  <p class="tbl-txt">
+                     <span class="bold">S</span>
+                  </p>
+               </td>
+               <td valign="top" class="table">
+                  <p class="tbl-txt">
+                     <span class="bold">I</span>
+                  </p>
+               </td>
+               <td valign="top" class="table">
+                  <p class="tbl-txt">
+                     <span class="bold">I</span>
+                  </p>
+               </td>
+               <td valign="top" class="table">
+                  <p class="tbl-txt">
+                     <span class="bold">S</span>
+                  </p>
+               </td>
+               <td valign="top" class="table">
+                  <p class="normal"> </p>
+               </td>
+            </tr>
+            <tr class="table">
+               <td valign="top" class="table">
+                  <p class="tbl-hdr">Access from external networks</p>
+               </td>
+               <td valign="top" class="table">
+                  <p class="tbl-txt">
+                     <span class="bold">C</span>
+                     <a id="ntc1-L_2018093EN.01001001-E0001" href="#ntr1-L_2018093EN.01001001-E0001"> (<span class="super note-tag">1</span>)</a>
+                  </p>
+               </td>
+               <td valign="top" class="table">
+                  <p class="tbl-txt">
+                     <span class="bold">C</span>
+                  </p>
+               </td>
+               <td valign="top" class="table">
+                  <p class="tbl-txt">
+                     <span class="bold">A</span>
+                  </p>
+               </td>
+               <td valign="top" class="table">
+                  <p class="tbl-txt">
+                     <span class="bold">R</span>
+                  </p>
+               </td>
+               <td valign="top" class="table">
+                  <p class="tbl-txt">
+                     <span class="bold">I</span>
+                  </p>
+               </td>
+               <td valign="top" class="table">
+                  <p class="tbl-txt">
+                     <span class="bold">S</span>
+                  </p>
+               </td>
+               <td valign="top" class="table">
+                  <p class="tbl-txt">
+                     <span class="bold">S</span>
+                  </p>
+               </td>
+               <td valign="top" class="table">
+                  <p class="normal"> </p>
+               </td>
+            </tr>
+            <tr class="table">
+               <td valign="top" class="table">
+                  <p class="tbl-hdr">Outsourcing of CISs</p>
+               </td>
+               <td valign="top" class="table">
+                  <p class="normal"> </p>
+               </td>
+               <td valign="top" class="table">
+                  <p class="tbl-txt">
+                     <span class="bold">S/C</span>
+                  </p>
+               </td>
+               <td valign="top" class="table">
+                  <p class="tbl-txt">
+                     <span class="bold">A</span>
+                  </p>
+               </td>
+               <td valign="top" class="table">
+                  <p class="tbl-txt">
+                     <span class="bold">R/C</span>
+                     <a id="ntc2-L_2018093EN.01001001-E0002" href="#ntr2-L_2018093EN.01001001-E0002"> (<span class="super note-tag">2</span>)</a>
+                  </p>
+               </td>
+               <td valign="top" class="table">
+                  <p class="tbl-txt">
+                     <span class="bold">S</span>
+                  </p>
+               </td>
+               <td valign="top" class="table">
+                  <p class="tbl-txt">
+                     <span class="bold">C</span>
+                  </p>
+               </td>
+               <td valign="top" class="table">
+                  <p class="normal"> </p>
+               </td>
+               <td valign="top" class="table">
+                  <p class="tbl-txt">
+                     <span class="bold">S</span>
+                  </p>
+               </td>
+            </tr>
+         </tbody>
+      </table>
+      <hr class="note"/>
+      <p class="note">
+         <a id="ntr1-L_2018093EN.01001001-E0001" href="#ntc1-L_2018093EN.01001001-E0001">(<span class="super">1</span>)</a>  The ISSB is consulted in relation to the operation of internal networks by any Commission department other than the Directorate-General for Informatics.</p>
+      <p class="note">
+         <a id="ntr2-L_2018093EN.01001001-E0002" href="#ntc2-L_2018093EN.01001001-E0002">(<span class="super">2</span>)</a>  The system owner of a CIS being outsourced shall be responsible, and the system owner of any other CIS with which an outsourced CIS interconnects shall be consulted.</p>
+   </div>
+   <hr class="doc-end"/>
+</body>
+</html>

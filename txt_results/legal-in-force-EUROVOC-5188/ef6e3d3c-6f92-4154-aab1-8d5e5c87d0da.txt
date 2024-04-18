@@ -1,0 +1,204 @@
+ CONVEX # converter_version:3.2 # generated_on:20140206-0717 
+   L_2005079EN.01000101.xml
+            24.3.2005   
+            EN
+            Official Journal of the European Union
+         L 79/1
+   DECISION NO 456/2005/EC OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL
+   of 9 March 2005
+   establishing a multiannual Community programme to make digital content in Europe more accessible, usable and exploitable
+   (Text with EEA relevance)
+   THE EUROPEAN PARLIAMENT AND THE COUNCIL OF THE EUROPEAN UNION,
+   Having regard to the Treaty establishing the European Community, and in particular Article 157(3) thereof,
+   Having regard to the proposal from the Commission,
+   Having regard to the opinion of the European Economic and Social Committee
+    (,1)After consulting the Committee of the Regions,
+   Acting in accordance with the procedure laid down in Article 251 of the Treaty
+    (,2)Whereas:
+            (1)
+         The evolution of the information society and the emergence of broadband will influence the life of every citizen in the European Union by, 
+            inter alia, stimulating access to knowledge and new ways of acquiring knowledge, thus increasing the demand for new content, applications and services.
+            (2)
+         Internet penetration in the Community is still growing considerably. The opportunities offered by the Internet should be exploited in order to enable every individual and organisation in the Community to enjoy the social and economic benefits of sharing information and knowledge. The stage has now been set in Europe to exploit the potential of digital content.
+            (3)
+         The conclusions of the European Council held in Lisbon on 23 and 24 March 2000 stressed that the shift to a digital, knowledge-based economy, prompted by new goods and services, will be a powerful engine for growth, competitiveness and jobs. On that occasion the role of the content industries in creating added value by exploiting and networking European cultural diversity was specifically recognised.
+            (4)
+         The 
+            eEurope 2005 Action Plan, developing the Lisbon strategy, calls for actions to stimulate the emergence of secure services, applications and content over broadband networks and thus to provide a favourable environment for private investment, for the creation of new jobs, to boost productivity, to modernise public services and to give everyone the opportunity to participate in the global information society.
+            (5)
+         The demand for quality digital content in Europe, with balanced access and user rights, by a broad community, be they citizens in society, students, researchers, SMEs and other business users, or people with special needs wishing to augment their knowledge, or ‘re‐users’ wishing to exploit digital content resources to create services, is increasingly apparent.
+            (6)
+         Digital content stakeholders are content providers (including public and private organisations and institutions that create, collect or own digital content) and content users (including organisations and enterprises that are end-users that reuse and/or add value to digital content). Particular attention should be given to the participation of SMEs.
+            (7)
+         The 
+            eContent Programme (2001 to 2004) adopted by Council Decision 2001/48/EC (, favoured the development and use of European digital content on the Internet and the linguistic diversity of European websites in the information society. The Commission Communication of 10 October 2003 concerning the mid-term evaluation of the 3)eContent Programme reaffirms the importance of acting in this field.
+            (8)
+         Technological advances offer the potential to add value to content in the form of embedded knowledge and to improve interoperability at the service level, which is fundamental to accessing and using and distributing digital content. This is particularly relevant to those areas of public interest to be addressed by this programme.
+            (9)
+         Fostering of solid business models will enhance the continuity of the projects initiated under this programme, and will thus improve the conditions for greater economic return from services based on access to, and reuse of, digital content.
+            (10)
+         A legislative framework has been defined to deal with the challenges of digital content in the information society
+             (
+                  4) (
+                  5) (.6)
+            (11)
+         Different practices among Member States continue to pose technical obstacles impeding wide access, use, reuse and exploitation of public sector information in the Community.
+            (12)
+         Where the digital content involves personal data, Directives 95/46/EC
+             ( and 2002/58/EC7) ( should be respected and the technologies used should respect and, where possible, enhance privacy.8)
+            (13)
+         Community actions undertaken concerning the content of information should promote the Community's multilingual and multicultural specificity.
+            (14)
+         The measures necessary for the implementation of this Decision should be adopted in accordance with Council Decision 1999/468/EC of 28 June 1999 laying down the procedures for the exercise of implementing powers conferred on the Commission
+             (.9)
+            (15)
+         The Commission should ensure complementarity and synergy with related Community initiatives and programmes, in particular those related to education and culture and to the European interoperability framework.
+            (16)
+         This Decision lays down, for the entire duration of the programme, a financial framework constituting the prime reference, within the meaning of point 33 of the Interinstitutional Agreement of 6 May 1999 between the European Parliament, the Council and the Commission on budgetary discipline and improvement of the budgetary procedure
+             (, for the budgetary authority during the annual budgetary procedure.10)
+            (17)
+         Since the objectives of the proposed action, namely aiming at making digital content in Europe more accessible, usable and exploitable, cannot be sufficiently achieved by the Member States due to the transnational character of the issues at stake and can therefore, by reason of the European scope and effects of the actions, be better achieved at Community level, the Community may adopt measures, in accordance with the principle of subsidiarity as set out in Article 5 of the Treaty. In accordance with the principle of proportionality, as set out in that Article, this Decision does not go beyond what is necessary in order to achieve those objectives,
+            HAVE DECIDED AS FOLLOWS:
+   Article 1
+   Objective of the Programme
+   1.   This Decision establishes a Community programme for the period 2005 to 2008 to make digital content in Europe more accessible, usable and exploitable, facilitating the creation and diffusion of information, in areas of public interest, at Community level.
+   The programme shall be known as the‘
+   eContentplus’ programme (hereinafter the Programme).2.   In order to attain the overall aim of the Programme, the following lines of action shall be addressed:
+            (a)
+         facilitating at Community level access to digital content, its use and exploitation
+            ;
+            (b)
+         facilitating improvement of quality and enhancing best practice related to digital content between content providers and users, and across sectors;
+            (c)
+         reinforcing cooperation between digital content stakeholders and awareness.
+            The activities to be carried out under those lines of action target areas of public sector information, spatial data and educational, cultural and scientific content as set out in Annex I. The Programme shall be implemented in accordance with Annex II.
+   Article 2
+   Participation
+   1.   Participation in the Programme shall be open to legal entities established in the Member States. It shall also be open to participation of legal entities established in the candidate countries in accordance with bilateral agreements in existence or to be concluded with those countries.
+   2.   Participation in the Programme may be opened to legal entities established in EFTA States which are contracting parties to the EEA Agreement, in accordance with the provisions of that Agreement.
+   3.   Participation in the Programme may be opened, without financial support by the Community, to legal entities established in third countries and to international organisations, where such participation contributes effectively to the implementation of the Programme. The decision to allow such participation shall be adopted in accordance with the procedure referred to in Article 4(2).
+   Article 3
+   Competences of the Commission
+   1.   The Commission shall be responsible for the implementation of the Programme.
+   2.   The Commission shall draw up a work programme on the basis of this Decision.
+   3.   In the implementation of the Programme, the Commission shall, in close cooperation with the Member States, ensure general consistency and complementarity with other relevant Community policies, programmes and actions that impinge upon the development and use of European digital content and the promotion of linguistic diversity in the information society, in particular the Community research and technological development programmes, IDA, 
+   eTEN, eInclusion, eLearning, Modinis and Safer Internet.4.   The Commission shall act in accordance with the procedure referred to in Article 4(2) for the purposes of the following:
+            (a)
+         adoption and modifications of the work programme;
+            (b)
+         determination of the criteria and content of calls for proposals, in line with the objectives set out in Article 1;
+            (c)
+         assessment of the projects proposed under calls for proposals for Community funding of an estimated amount of Community contribution equal to, or more than, EUR 1 million;
+            (d)
+         any departure from the rules set out in Annex II.
+            5.   The Commission shall inform the committee referred to in Article 4 of progress with the implementation of the Programme.
+   Article 4
+   Committee
+   1.   The Commission shall be assisted by a committee.
+   2.   Where reference is made to this paragraph, Articles 4 and 7 of Decision 1999/468/EC shall apply, having regard to the provisions of Article 8 thereof.
+   The period laid down in Article 4(3) of Decision 1999/468/EC shall be set at three months.
+   3.   The Committee shall adopt its rules of procedure.
+   Article 5
+   Monitoring and evaluation
+   1.   In order to ensure that Community aid is used efficiently, the Commission shall ensure that actions under this Decision are subject to prior appraisal, follow-up and subsequent evaluation.
+   2.   The Commission shall monitor the implementation of projects under the Programme. The Commission shall evaluate the manner in which the projects have been carried out and the impact of their implementation in order to assess whether the original objectives have been achieved.
+   3.   The Commission shall report on the implementation of the lines of action referred to in Article 1(2) to the European Parliament, the Council, the European Economic and Social Committee and the Committee of the Regions by mid-2006 at the latest. In this context, the Commission shall report on the consistency of the amount for 2007 to 2008 with the financial perspective. If applicable, the Commission shall take the necessary steps within the budgetary procedures for 2007 to 2008 to ensure the consistency of the annual appropriations with the financial perspective. The Commission shall submit a final evaluation report at the end of the Programme.
+   4.   The Commission shall forward the results of its quantitative and qualitative evaluations to the European Parliament and the Council together with any appropriate proposals for the amendment of this Decision. The results shall be forwarded before presentation of the draft general budget of the European Union for the years 2007 and 2009 respectively.
+   Article 6
+   Financial framework
+   1.   The financial framework for the implementation of the Community actions under this Decision for the period from 1 January 2005 to 31 December 2008 is hereby set at EUR 149 million, of which EUR 55,6 million is for the period until 31 December 2006.
+   2.   For the period following 31 December 2006, the amount shall be deemed to be confirmed if it is consistent for this phase with the financial perspective in force for the period commencing in 2007.
+   3.   The annual appropriations for the period from 2005 to 2008 shall be authorised by the budgetary authority within the limits of the financial perspective. An indicative breakdown of expenditure is given in Annex III.
+   Done at Strasbourg, 9 March 2005.
+         For the European Parliament
+         The President
+         J. P. 
+      BORRELL FONTELLES
+         For the Council
+         The President
+         N. 
+      SCHMIT
+   (  1)OJ C 117, 30.4.2004, p. 49.
+   (  Opinion of the European Parliament of 22 April 2004 (not yet published in the Official Journal), Council Common Position of 24 September 2004 (2)OJ C 25 E, 1.2.2005, p. 19) and Position of the European Parliament of 27 January 2005 (not yet published in the Official Journal). Council Decision of 28 February 2005.
+   (  3)OJ L 14, 18.1.2001, p. 32.
+   (  Directive 2003/98/EC of the European Parliament and of the Council of 17 November 2003 on the reuse of public sector information (4)OJ L 345, 31.12.2003, p. 90).
+   (  Directive 2001/29/EC of the European Parliament and of the Council of 22 May 2001 on the harmonisation of certain aspects of copyright and related rights in the information society, (5)OJ L 167, 22.6.2001, p. 10).
+   (  Directive 96/9/EC of the European Parliament and of the Council of 11 March 1996 on the legal protection of databases (6)OJ L 77, 27.3.1996, p. 20).
+   (  Directive 95/46/EC of the European Parliament and of the Council of 24 October 1995 on the protection of individuals with regard to the processing of personal data and on the free movement of such data (7)OJ L 281, 23.11.1995, p. 31). Directive as amended by Regulation (EC) No 1882/2003 (OJ L 284, 31.10.2003, p. 1).
+   (  Directive 2002/58/EC of the European Parliament and of the Council of 12 July 2002 concerning the processing of personal data and the protection of privacy in the electronic communications sector (Directive on privacy and electronic communications) (8)OJ L 201, 31.7.2002, p. 37).
+   (  9)OJ L 184, 17.7.1999, p. 23.
+   (  10)OJ C 172, 18.6.1999, p. 1. Agreement as amended by Decision 2003/429/EC of the European Parliament and of the Council (OJ L 147, 14.6.2003, p. 25).
+   ANNEX I
+      Actions
+      I.   INTRODUCTION
+      eContentplus has the overall aim of making digital content in Europe more accessible, usable and exploitable, facilitating the creation and diffusion of information, in areas of public interest, at Community level.It will create better conditions for accessing and managing digital content and services in multilingual and multicultural environments. It will broaden users' choice and support new ways of interacting with knowledge-enhanced digital content, a feature which is becoming essential to make content more dynamic and tailored to specific contexts (learning, cultural, people with special needs, etc.).
+      The Programme will pave the way for a structured framework for quality digital content in Europe — The European Digital Content Area — by facilitating transfer of experiences, best practice and cross-fertilisation between content sectors, content providers and users.
+               (a)
+            facilitating at Community level access to digital content, its use and exploitation;
+               (b)
+            facilitating improvement of quality and enhancing best practice related to digital content between content providers and users, and across sectors;
+               (c)
+            reinforcing cooperation between digital content stakeholders and awareness.
+               II.   LINES OF ACTION
+               A.
+            Facilitating at Community level access to digital content, its use and exploitation
+                  The activities to be carried out under this line of action encompass the establishment of networks and alliances between stakeholders, encouraging the creation of new services.
+                  Target areas are public sector information, spatial data, learning and cultural content.Focus will be on:
+                           (a)
+                        supporting a wider recognition of the importance of public sector information (PSI), its commercial value and associated societal implications of its use. Activities shall improve effective cross-border use and exploitation of PSI between public sector organisations and private companies, including SMEs, for added-value information products and services;
+                           (b)
+                        encouraging a wider use of spatial data by public sector bodies, private companies, including SMEs, and citizens through cooperation mechanisms at European level. Activities should tackle both technical and organisational issues, avoiding duplications and underdeveloped territorial data sets. They should promote cross-border interoperability, supporting coordination between mapping agencies and fostering the emergence of new services at European level for mobile users. They should also support the use of open standards;
+                           (c)
+                        fostering the proliferation of open European knowledge pools of digital objects, for education and research communities, as well as the individual. The activities will support the creation of trans-European brokering services for digital learning content, with associated business models. The activities should also encourage the use of open standards, and the creation of large user groups analysing and testing pre-standardisation and specifications schemes with a view to conveying European multilingual and multicultural aspects into the process of definition of global standards for digital learning content;
+                           (d)
+                        promoting the emergence of trans-European information infrastructures for accessing and using high quality European digital cultural and scientific resources through the linking of virtual libraries, community memories, etc. Activities should encompass coordinated approaches to digitisation and collection building, preservation of digital objects and inventories of cultural and scientific digital resources. They should improve access to digital cultural and scientific assets through effective licensing schemes and collective pre-emptive clearing of rights.
+               B.
+            Facilitating improvement of quality and enhancing best practice related to digital content between content providers and users, and across sectors
+                  The activities to be carried out under this line of action are intended to facilitate the identification and wide diffusion of best practice in methods, processes and operations to achieve higher quality, greater efficiency and effectiveness in the creation, use and distribution of digital content.
+                  These activities encompass experiments that demonstrate searchability, usability, reusability, composability and interoperability of digital content within the context of the existing legal framework while meeting from the early stage of the process the requirements of different target groups and markets in an increasingly multilingual and multicultural environment, and extending beyond mere localisation technologies.
+                  These activities will exploit the benefits of enhancing digital content with machine‐understandable data (semantically well-defined metadata based on relevant descriptive terminology, vocabularies and ontologies).
+                  The experiments will be conducted in thematic clusters. The gathering, dissemination and cross-sector fertilisations of gained knowledge will be an integral part of the experiments.
+                  Target application areas are public sector information, spatial data, digital learning and cultural content, as well as scientific and scholarly digital content.
+               C.
+            Reinforcing cooperation between digital content stakeholders and awareness
+                  The activities to be carried out under this line of action include measures accompanying relevant legislation relating to digital content, and fostering increased collaboration between digital content stakeholders, as well as awareness building. These activities will support the development of benchmarking, monitoring and analysis tools, the impact assessment of the Programme and the dissemination of results. They will identify and analyse emerging opportunities and problems (e.g. trust, quality marking, intellectual property rights in education) and propose, as appropriate, solutions.
+   ANNEX II
+      The means for implementing the programme
+               1.
+            The Commission will implement the Programme in accordance with the technical content specified in Annex I.
+               2.
+            The Programme will be executed through indirect action comprising:
+                           (a)
+                        shared-cost actions
+                                       (i)
+                                    Projects designed to increase knowledge so as to improve existing products, processes and/or services and/or to meet the needs of Community policies. The Community funding will normally not exceed 50 % of the cost of the project. Public sector bodies may be reimbursed on the basis of 100 % of additional costs.
+                                       (ii)
+                                    Best practice actions to spread knowledge. They will normally be conducted in thematic clusters and linked through thematic networks. The Community contribution for the measures set out under this point will be limited to direct costs deemed necessary or appropriate for achieving the specific objectives of the action.
+                                       (iii)
+                                    Thematic networks: networks bringing together a variety of stakeholders around a given technological and organisational objective, so as to facilitate coordination activities and the transfer of knowledge. They may be linked to best practice actions. Support will be granted towards the additional eligible costs of coordinating and implementing the network. The Community participation may cover the additional eligible costs of these measures;
+                           (b)
+                        accompanying measures
+                              Accompanying measures will contribute to the implementation of the Programme or the preparation of future activities. Measures devoted to the commercialisation of products, process or services, marketing activities and sales promotion are excluded.
+                                       (i)
+                                    Studies in support of the Programme, including the preparation of future activities.
+                                       (ii)
+                                    Exchange of information, conferences, seminars, workshops or other meetings and the management of clustered activities.
+                                       (iii)
+                                    Dissemination, information and communication activities.
+               3.
+            The selection of shared-cost actions will be based on calls for proposals published on the Commission's Internet site in accordance with the financial provisions in force.
+               4.
+            Applications for Community support should provide, where appropriate, a financial plan listing all the components of the funding of the projects, including the financial support requested from the Community, and any other requests for or grants of support from other sources.
+               5.
+            Accompanying measures will be implemented through calls for tenders in accordance with the financial provisions in force.
+   ANNEX III
+      Indicative breakdown of expenditure
+               1.
+               Facilitating at Community level access to digital content, its use and exploitation
+            40 to 50 %
+               2.
+               Facilitating improvement of quality and enhancing best practice related to digital content between content providers and users, and across sectors
+            45 to 55 %
+               3.
+               Reinforcing cooperation between digital content stakeholders and awareness
+            8 to 12 %

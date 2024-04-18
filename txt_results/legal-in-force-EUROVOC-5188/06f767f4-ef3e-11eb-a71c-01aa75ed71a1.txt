@@ -1,0 +1,2386 @@
+ CONVEX # converter_version:9.15.0 # generated_on:20231208-0311 # ELI version:0.10 
+      L_2021269EN.01000101.xml
+               28.7.2021   
+               EN
+               Official Journal of the European Union
+            L 269/1
+            COMMISSION IMPLEMENTING REGULATION (EU) 2021/1223
+            of 27 July 2021
+            specifying the technical items of the data set, establishing the technical formats for transmission of information and specifying the detailed arrangements and content of the quality reports on the organisation of a sample survey in the use of information and communication technologies domain for reference year 2022 pursuant to Regulation (EU) 2019/1700 of the European Parliament and of the Council
+            (Text with EEA relevance)
+         THE EUROPEAN COMMISSION,
+            Having regard to the Treaty on the Functioning of the European Union,
+            Having regard to Regulation (EU) 2019/1700 of the European Parliament and of the Council of 10 October 2019 establishing a common framework for European statistics relating to persons and households, based on data at individual level collected from samples, amending Regulations (EC) No 808/2004, (EC) No 452/2008 and (EC) No 1338/2008 of the European Parliament and of the Council, and repealing Regulation (EC) No 1177/2003 of the European Parliament and of the Council and Council Regulation (EC) No 577/98 
+            (, and in particular Article 7(1), Article 8(3) and Article 13(6) thereof,1)Whereas:
+                        (1)
+                     In order to facilitate the transmission of information from the Member States to the Commission (Eurostat), technical formats covering concepts, processes, including data and metadata, should be put in place for the transmission of information.
+                        (2)
+                     For the purpose of assessing the quality of statistics to be transmitted for the domain use of information and communication technologies, the detailed arrangements for the quality reports should be specified.
+                        (3)
+                     The Member States and the Union institutions should use for the categories of the characteristics listed in the Annex of this Regulation, where appropriate, the statistical classifications for the territorial units, education, occupation and economic sector that are compatible with the NUTS 
+                        (, ISCED 2)(, ISCO 3)( and NACE 4)( classifications.5)
+                        (4)
+                     The measures provided for in this Regulation are in accordance with the opinion of the European Statistical System Committee,
+                        HAS ADOPTED THIS REGULATION:
+            Article 1
+               Subject matter
+               This Regulation specifies the technical items of the data set, establishes the technical formats for the transmission of information from Member States to the Commission (Eurostat) and specifies the detailed arrangements for transmission and content of the quality reports in the use of information and communication technologies domain.
+            Article 2
+               Definitions
+               For the purposes of this Regulation, the following definitions shall apply:
+                        (1)
+                     ‘fieldwork period’ means the period of time during which the data collection from respondents is conducted;
+                        (2)
+                     ‘reference period’ means the period of time to which a particular item of information relates.
+            Article 3
+               Description of variables
+               The technical characteristics of variables shall be those laid down in the Annex and refer to:
+                        (a)
+                     variable identifier;
+                        (b)
+                     variable name and description;
+                        (c)
+                     codes and labels;
+                        (d)
+                     filter;
+                        (e)
+                     variable type.
+            Article 4
+               Characteristics of target populations, observation units and rules for respondents
+               1.   The target populations in the use of information and communication technologies domain shall be private households in the territory of the Member State and individuals who have their usual residence, as defined in Article 2(11) of Regulation (EU) 2019/1700, in the territory of the Member State.
+               2.   For the variables that concern the households listed in the Annex, information shall be collected for private households with at least one member aged 16 to 74 residing in the territory of the Member State.
+               3.   For the variables that concern the individuals listed in the Annex, information shall be collected for individuals aged 16 to 74 residing in the territory of the Member State.
+               4.   Information may be provided on optional basis for individuals aged under 16 or over 74.
+            5.   The data collection for the use of information and communication technologies domain shall be carried out for a sample of private households or a sample of persons belonging to private households as observation units.
+            Article 5
+               Reference periods and date
+               1.   The reference period for collecting statistics on the detailed topic ‘interaction with public authorities’ shall comprise the three last quarters of 2021 and the first quarter of 2022.
+               2.   The reference period for collecting statistics on the detailed topics ‘Connection to the internet from anywhere’ and ‘Effect of use’ shall be the last time the activity was performed by the respondent.
+               3.   For all other detailed topics, under the topic ‘information society participation’, the reference period shall be the first quarter of 2022.
+            4.   The reference date shall be defined as the time of the first interview (DD/MM/YYYY).
+            Article 6
+               Data gathering period
+               For data directly provided by respondents, the fieldwork period shall be the second quarter of 2022.
+            Article 7
+               Common standards for data editing, imputation and estimation
+               1.   Imputation, modelling or weighting shall be applied to the data where information is missing, invalid or inconsistent.
+               2.   The procedure applied to the data shall preserve the variation and the correlation between variables. Methods that incorporate ‘error components’ into the imputed values shall be preferable to those that simply impute a predicted value.
+            3.   Methods which take into account the structure or other characteristics of the joint distribution of the variables shall be preferable to the marginal or univariate approach.
+            Article 8
+               Deadline and standards for transmitting information
+               1.   Member States shall transmit the final data to the Commission (Eurostat) by 5 October 2022. The data shall be transmitted in the form of microdata files, including appropriate weights. The data must have been fully checked and validated, using the statistical data and metadata exchange standard through the single entry point to allow the Commission (Eurostat) to retrieve the data by electronic means. That data shall comply with the validation rules in accordance with the specification of variables based on the coding and filters as described in the Annex.
+            2.   Member States shall provide the metadata to the Commission (Eurostat) in the standard metadata structure defined by the Commission (Eurostat) within 3 months of the deadline for transmitting the microdata. The metadata shall be provided through the single entry point to allow the Commission (Eurostat) to retrieve the data by electronic means.
+            Article 9
+               Detailed arrangements and content of annual quality reports
+               1.   Member States shall transmit to the Commission (Eurostat) an annual quality report on the use of information and communication technologies domain.
+               2.   The annual quality report shall contain quality-related data and metadata, information on the accuracy and reliability of the survey and describe changes in basic concepts and definitions that affect the comparability over time and across countries. The quality report shall also include information on the compliance with the model questionnaire and on changes in questionnaire design that affect the comparability over time and across countries.
+               3.   The annual quality report shall be transmitted to the Commission (Eurostat) within 3 months of the deadline for transmitting the microdata.
+               4.   The annual quality report shall be transmitted in accordance with the technical standards established by the Commission (Eurostat).
+            5.   The annual quality report shall be provided through the single entry point to allow the Commission (Eurostat) to retrieve the data by electronic means.
+         Article 10
+               Entry into force
+               This Regulation shall enter into force on the twentieth day following that of its publication in the 
+            Official Journal of the European Union.
+         This Regulation shall be binding in its entirety and directly applicable in all Member States.
+               Done at Brussels, 27 July 2021.
+                  For the Commission
+                  The President
+                  Ursula VON DER LEYEN
+         (  
+            1)OJ L 261 I, 14.10.2019, p. 1.
+         (  Regulation (EC) No 1059/2003 of the European Parliament and of the Council of 26 May 2003 on the establishment of a common classification of territorial units for statistics (NUTS) (2)OJ L 154, 21.6.2003, p. 1).
+         (  International Standard Classification of Education 2011, http://uis.unesco.org/sites/default/files/documents/international-standard-classification-of-education-isced-2011-en.pdf (available in English and French).3)
+         (  Commission Recommendation of 29 October 2009 on the use of the International Standard Classification of Occupations (ISCO-08) (4)OJ L 292, 10.11.2009, p. 31).
+      (  Regulation (EC) No 1893/2006 of the European Parliament and of the Council of 20 December 2006 establishing the statistical classification of economic activities NACE Revision 2 and amending Council Regulation (EEC) No 3037/90 as well as certain EC Regulations on specific statistical domains (5)OJ L 393, 30.12.2006, p. 1).
+      ANNEX
+            Description and technical formats of variables collected for each topic and detailed topic of the domain use of information and communication technologies and codes to be used
+                     Topic
+                     Detailed topic
+                     Variable identifier
+                     Variable name/variable description
+                     Codes
+                     Labels/Categories
+                     Filter
+                  Variable type
+                     01.Technical Items
+                     Data collection information
+                     REFYEAR
+                     Year of survey
+                     YYYY
+                     Year of survey (4 digits)
+                     All households
+                  Technical
+                     01.Technical Items
+                     Data collection information
+                     INTDATE
+                     Reference date – first interview date
+                     DD/MM/YYYY
+                     Reference date (10 characters)
+                     All individuals
+                  Technical
+                     01.Technical items
+                     Data collection information
+                     STRATUM_ID
+                     Stratum
+                     Nnnnnn
+                     Id of the stratum the individual or the household belongs to, from 1 to N, where N is the number of strata
+                     All households
+                  Technical
+                     -1
+                  No stratification
+                     01.Technical items
+                     Data collection information
+                     PSU
+                     Primary sampling unit
+                     Nnnnnn
+                     Id of the primary sampling unit the individual or the household belongs to (from 1 to N, where N is the number of PSUs)
+                     All households, when the target population is divided into clusters (PSUs)
+                  Technical
+                     -1
+                  Not applicable
+                     01.Technical items
+                     Identification
+                     HH_ID
+                     Household ID
+                     XXnnnnnn
+                     Unique id of the household (2 letters for country code, then maximum 22 digits)
+                     All households
+                  Technical
+                     01.Technical items
+                     Identification
+                     IND_ID
+                     Individual ID
+                     XxNnnnnn
+                     Unique id of the individual (2 letters for country code, then maximum 22 digits)
+                     All individuals
+                  Technical
+                     01.Technical items
+                     Identification
+                     HH_REF_ID
+                     ID of the household the individual belongs to
+                     XxNnnnnn
+                     Id of the household the individual belongs to (2 letters for country code, then maximum 22 digits)
+                     All individuals
+                  Technical
+                     Blank
+                  When the individual is aged 15 or less, or 75 or more, and belongs to a household which only contains persons outside the 16-74 age group, this field shall be left blank.
+                     01.Technical items
+                     Weights
+                     HH_WGHT
+                     Household weight
+                     Nnnnn.nnnnnn
+                     Grossing up factor of the household (As many digits as necessary. Decimal point may be used, if needed.)
+                     All households
+                  Technical
+                     01.Technical items
+                     Weights
+                     IND_WGHT
+                     Individual weight
+                     Nnnnnn.nnnnn
+                     Grossing up factor of the individual (As many digits as necessary. Decimal point may be used, if needed.)
+                     All individuals
+                  Technical
+                     01.Technical items
+                     Interview characteristics
+                     TIME
+                     Interview duration
+                     Nnn
+                     Duration of interview expressed in minutes
+                     All individuals
+                  Technical
+                     Blank
+                  Not stated
+                     01.Technical items
+                     Interview characteristics
+                     INT_TYPE
+                     Interview type
+                     1
+                     Paper assisted personal interview (PAPI)
+                     All individuals
+                  Technical
+                     2
+                  Computer assisted personal interview (CAPI)
+                     3
+                  Computer assisted telephone interview (CATI)
+                     4
+                  Computer-assisted web-interview
+                     5
+                  Other
+                     01.Technical items
+                     Localisation
+                     COUNTRY
+                     Country of residence
+                     Not Blank
+                     Country of residence (SCL GEO alpha-2 code)
+                     All households
+                  Technical
+                     01.Technical items
+                     Localisation
+                     GEO_NUTS1
+                     Region of residence
+                     Not Blank
+                     NUTS 1 region (3 characters, alphanumeric)
+                     All households
+                  Technical
+                     01.Technical items
+                     Localisation
+                     GEO_NUTS2
+                        (optional)
+                     Region of residence (optional)
+                     Not Blank
+                     NUTS 2 region (4 characters, alphanumeric)
+                     All households
+                  Technical
+                     Blank
+                  Option not included
+                     01.Technical items
+                     Localisation
+                     GEO_NUTS3
+                        (optional)
+                     Region of residence
+                        (optional)
+                     Not Blank
+                     NUTS 3 region (5 characters, alphanumeric – NUTS 3 code for future alternate aggregation of regions, not for publication of NUTS 3 breakdowns)
+                     All households
+                  Technical
+                     Blank
+                  Option not included
+                     01.Technical items
+                     Localisation
+                     DEG_URBA
+                     Degree of urbanisation
+                     1
+                     Cities
+                     All households
+                  Technical
+                     2
+                  Towns and suburbs
+                     3
+                  Rural areas
+                     01.Technical items
+                     Localisation
+                     GEO_DEV
+                     Geographical location
+                     1
+                     Less developed region
+                     All households
+                  Technical
+                     2
+                  Transition region
+                     3
+                  More developed region
+                     Blank
+                  Not stated (code for non-EU countries)
+                     02.Person and household characteristics
+                     Demography
+                     SEX
+                     Sex
+                     1
+                     Male
+                     All individuals
+                  Collected
+                     2
+                  Female
+                     02.Person and household characteristics
+                     Demography
+                     YEARBIR
+                     Year of birth
+                     YYYY
+                     Year of birth (4 digits)
+                     All individuals
+                  Collected
+                     02.Person and household characteristics
+                     Demography
+                     PASSBIR
+                     Passing of birthday
+                     1
+                     Yes
+                     All individuals
+                  Collected
+                     2
+                  No
+                     02.Person and household characteristics
+                     Demography
+                     AGE
+                     Age in completed years
+                     nnn
+                     Age in completed years (from 1 to 3 digits)
+                     All individuals
+                  Derived
+                     02.Person and household characteristics
+                     Citizenship and migrant background
+                     CITIZENSHIP
+                     Country of main citizenship
+                     Not blank
+                     Country of main citizenship (SCL GEO alpha-2 code)
+                     All individuals
+                  Collected
+                     STLS
+                  Stateless
+                     FOR
+                  Foreign citizenship but country unknown
+                     Blank
+                  Not stated
+                     02.Person and household characteristics
+                     Citizenship and migrant background
+                     CNTRYB
+                     Country of birth
+                     Not blank
+                     Country of birth (SCL GEO alpha-2 code)
+                     All individuals
+                  Collected
+                     FOR
+                  Foreign-born but country of birth unknown
+                     Blank
+                  Not stated
+                     02.Person and household characteristics
+                     Household composition
+                     HH_POP
+                     Household size (number of members in the household)
+                     Nn
+                     Number of members of the household (including children)
+                     All households
+                  Collected
+                     Blank
+                  Not stated
+                     02.Person and household characteristics
+                     Household composition
+                     HH_POP_16_24 (optional)
+                     Number of members of the household aged from 16 to 24 (optional)
+                     Nn
+                     Number of members of the household aged from 16 to 24
+                     All households
+                  Collected
+                     Blank
+                  Option not included
+                     02.Person and household characteristics
+                     Household composition
+                     HH_POP_16_24S (optional)
+                     Number of students of the household aged 16 to 24
+                        (optional)
+                     Nn
+                     Number of students of the household aged 16 to 24
+                     All households
+                  Collected
+                     Blank
+                  Option not included
+                     02.Person and household characteristics
+                     Household composition
+                     HH_POP_25_64 (optional)
+                     Number of members of the household aged from 25 to 64 (optional)
+                     Nn
+                     Number of members of the household aged 25 to 64
+                     All households
+                  Collected
+                     Blank
+                  Option not included
+                     02.Person and household characteristics
+                     Household composition
+                     HH_POP_65_MAX (optional)
+                     Number of members of the household aged more than or equal to 65 (optional)
+                     Nn
+                     Number of members of the household aged more than or equal to 65
+                     All households
+                  Collected
+                     Blank
+                  Option not included
+                     02.Person and household characteristics
+                     Household composition
+                     HH_CHILD
+                     Number of children under 16
+                     Nn
+                     Number of children under 16
+                     All households
+                  Collected
+                     Blank
+                  Not stated
+                     02.Person and household characteristics
+                     Household composition
+                     HH_CHILD_14_15
+                        (optional)
+                     Number of children aged from 14 to 15
+                        (optional)
+                     Nn
+                     Number of children aged from 14 to 15
+                     All households
+                  Collected
+                     Blank
+                  Option not included
+                     02.Person and household characteristics
+                     Household composition
+                     HH_CHILD_5_13
+                        (optional)
+                     Number of children aged from 5 to 13 (optional)
+                     Nn
+                     Number of children aged from 5 to 13
+                     All households
+                  Collected
+                     Blank
+                  Option not included
+                     02.Person and household characteristics
+                     Household composition
+                     HH_CHILD_LE_4
+                        (optional)
+                     Number of children aged less than or equal to 4 (optional)
+                     Nn
+                     Number of children aged less than or equal to 4
+                     All households
+                  Collected
+                     Blank
+                  Option not included
+                     03.Labour market participation
+                     Main activity status (self-defined)
+                     MAINSTAT
+                     Main activity status (self-defined)
+                     1
+                     Employed
+                     All individuals aged 16 and more
+                  Collected
+                     2
+                  Unemployed
+                     3
+                  Retired
+                     4
+                  Unable to work due to long-standing health problems
+                     5
+                  Student, pupil
+                     6
+                  Fulfilling domestic tasks
+                     7
+                  Compulsory military or civilian service
+                     8
+                  Other
+                     Blank
+                  Not stated
+                     9
+                  Not applicable
+                     03.Labour market participation
+                     Elementary job characteristics
+                     STAPRO
+                     Status in employment in main job
+                     1
+                     Self-employed person with employees
+                     Individuals where MAINSTAT = 1
+                  Collected
+                     2
+                  Self-employed person without employees
+                     3
+                  Employee
+                     4
+                  Family worker (unpaid)
+                     Blank
+                  Not stated
+                     9
+                  Not applicable
+                     03.Labour market participation
+                     Elementary job characteristics
+                     NACE1D
+                        (optional)
+                     Economic activity of the local unit for main job
+                        (optional)
+                     Not blank
+                     NACE code at section level (one character (from A to S))
+                     Individuals where MAINSTAT = 1
+                  Collected
+                     Blank
+                  Not stated
+                     9
+                  Not applicable
+                     03.Labour market participation
+                     Elementary job characteristics
+                     ISCO2D
+                     Occupation in main job
+                     nn
+                     ISCO code at 2-digit level
+                     Individuals where MAINSTAT = 1
+                  Collected
+                     Blank
+                  Not stated
+                     -1
+                  Not applicable
+                     03.Labour market participation
+                     Elementary job characteristics
+                     OCC_ICT
+                     ICT professional or non-ICT professional
+                     1
+                     ICT professional
+                     Individuals where MAINSTAT = 1
+                  Collected
+                     0
+                  Non-ICT professional
+                     Blank
+                  Not stated
+                     9
+                  Not applicable
+                     03.Labour market participation
+                     Elementary job characteristics
+                     OCC_MAN
+                     Manual worker or non-manual worker
+                     1
+                     Manual worker
+                     Individuals where MAINSTAT = 1
+                  Collected
+                     0
+                  Non-manual worker
+                     Blank
+                  Not stated
+                     9
+                  Not applicable
+                     03.Labour market participation
+                     Elementary job characteristics
+                     EMPST_WKT
+                        (optional)
+                     Full- or part-time main job (self-defined)
+                        (optional)
+                     1
+                     Full-time job
+                     Individuals where MAINSTAT = 1
+                  Collected
+                     2
+                  Part-time job
+                     Blank
+                  Not stated
+                     9
+                  Not applicable
+                     03.Labour market participation
+                     Duration of contract
+                     EMPST_CONTR
+                        (optional)
+                     Permanency of main job
+                        (optional)
+                     1
+                     Permanent job
+                     Individuals where STAPRO = 3
+                  Collected
+                     2
+                  Fixed-term contract
+                     Blank
+                  Not stated
+                     9
+                  Not applicable
+                     04.Educational attainment and background
+                     Educational attainment level
+                     ISCEDD
+                     Educational attainment level (highest level of education successfully completed)
+                     0
+                     No formal education or below ISCED 1
+                     All individuals aged 16 and more
+                  Collected
+                     1
+                  ISCED 1 Primary education
+                     2
+                  ISCED 2 Lower secondary education
+                     3
+                  ISCED 3 Upper secondary education
+                     4
+                  ISCED 4 Post-secondary non-tertiary education
+                     5
+                  ISCED 5 Short-cycle tertiary education
+                     6
+                  ISCED 6 Bachelor’s or equivalent level
+                     7
+                  ISCED 7 Master’s or equivalent level
+                     8
+                  ISCED 8 Doctoral or equivalent level
+                     Blank
+                  Not stated
+                     9
+                  Not applicable
+                     04.Educational attainment and background
+                     Educational attainment level
+                     ISCED
+                     Educational attainment level aggregated
+                     0
+                     At most lower secondary education level (ISCEDD = 0, 1 or 2)
+                     All individuals aged 16 and more
+                  Derived
+                     3
+                  Upper secondary and post-secondary non-tertiary education (ISCEDD = 3 or 4)
+                     5
+                     Tertiary education (ISCEDD = 5, 6, 7 or 8)
+                     Blank
+                  Not stated
+                     9
+                  Not applicable
+                     5. Health: status and disability, access to, availability and use of health care and health determinants
+                     Elements of the Minimum European Health Module
+                     GALI
+                     Limitation in activities because of health problems
+                     1
+                     Severely limited
+                     All individuals aged 16 and more
+                  Collected
+                     2
+                  Limited but not severely
+                     3
+                  Not limited at all
+                     Blank
+                  Not stated
+                     9
+                  Not applicable
+                     06. Income, consumption and elements of wealth, including debts
+                     Total monthly household income
+                     HH_IQ5
+                     Total average net current monthly income
+                     1
+                     Lower equivalised net current monthly income group
+                     All households
+                  Collected
+                     2
+                  Low to medium equivalised net current monthly income group
+                     3
+                  Medium equivalised net current monthly income group
+                     4
+                  Medium to high equivalised net current monthly income group
+                     5
+                  Higher equivalised net current monthly income group
+                     Blank
+                  Not stated
+                     07. Information society participation
+                     Access to ICT
+                     IACC
+                     Access of the household to the internet at home (by any device)
+                     1
+                     Yes
+                     All households
+                  Collected
+                     0
+                  No
+                     8
+                  Don’t know
+                     Blank
+                  Not stated
+                     07. Information society participation
+                     Use and frequency of use of ICT
+                     IU
+                     Most recent internet use, at any location, with any enabling device
+                     1
+                     Within the last 3 months
+                     All individuals
+                  Collected
+                     2
+                  Between 3 months and a year ago
+                     3
+                  More than 1 year ago
+                     4
+                  Never used it
+                     Blank
+                  Not stated
+                     07. Information society participation
+                     Use and frequency of use of ICT
+                     IFUS
+                     Average frequency of internet use in the last 3 months
+                     1
+                     Several times during the day
+                     Individuals where IU = 1
+                  Collected
+                     2
+                  Once a day or almost every day
+                     3
+                  At least once a week (but not every day)
+                     4
+                  Less than once a week
+                     9
+                  Not applicable
+                     Blank
+                  Not stated
+                     07. Information society participation
+                     Internet activities
+                     IUEM
+                     Internet use in the last 3 months for private purpose for sending/receiving e-mails
+                     1
+                     Ticked
+                     Individuals where IU = 1
+                  Collected
+                     0
+                  Not ticked
+                     9
+                  Not applicable
+                     07. Information society participation
+                     Internet activities
+                     IUPH1
+                     Internet use in the last 3 months for private purpose for making calls (including video calls) over the internet
+                     1
+                     Ticked
+                     Individuals where IU = 1
+                  Collected
+                     0
+                  Not ticked
+                     9
+                  Not applicable
+                     07. Information society participation
+                     Internet activities
+                     IUSNET
+                     Internet use in the last 3 months for private purpose for participating in social networks (creating user profile, posting messages or other contributions)
+                     1
+                     Ticked
+                     Individuals where IU = 1
+                  Collected
+                     0
+                  Not ticked
+                     9
+                  Not applicable
+                     07. Information society participation
+                     Internet activities
+                     IUCHAT1
+                     Internet use in the last 3 months for private purpose for instant messaging (exchanging messages)
+                     1
+                     Ticked
+                     Individuals where IU = 1
+                  Collected
+                     0
+                  Not ticked
+                     9
+                  Not applicable
+                     07. Information society participation
+                     Internet activities
+                     IUIF
+                     Internet use in the last 3 months for private purpose for finding information about goods or services
+                     1
+                     Ticked
+                     Individuals where IU = 1
+                  Collected
+                     0
+                  Not ticked
+                     9
+                  Not applicable
+                     07. Information society participation
+                     Internet activities
+                     IUNW1
+                     Internet use in the last 3 months for private purpose for reading online news sites, newspapers or news magazines
+                     1
+                     Ticked
+                     Individuals where IU = 1
+                  Collected
+                     0
+                  Not ticked
+                     9
+                  Not applicable
+                     07. Information society participation
+                     Internet activities
+                     IUPOL2
+                     Internet use in the last 3 months for private purpose for expressing opinions on civic or political issues on websites or in social media
+                     1
+                     Ticked
+                     Individuals where IU = 1
+                  Collected
+                     0
+                  Not ticked
+                     9
+                  Not applicable
+                     07. Information society participation
+                     Internet activities
+                     IUVOTE
+                     Internet use in the last 3 months for private purpose for taking part in online consultations or voting to define civic or political issues (such as urban planning, signing a petition)
+                     1
+                     Ticked
+                     Individuals where IU = 1
+                  Collected
+                     0
+                  Not ticked
+                     9
+                  Not applicable
+                     07. Information society participation
+                     Internet activities
+                     IUMUSS1
+                     Internet use in the last 3 months for private purpose for listening to music (such as web radio, music streaming) or downloading music
+                     1
+                     Ticked
+                     Individuals where IU = 1
+                  Collected
+                     0
+                  Not ticked
+                     9
+                  Not applicable
+                     07. Information society participation
+                     Internet activities
+                     IUSTV
+                     Internet use in the last 3 months for private purpose for watching internet streamed TV (live or catch-up) from TV broadcasters (such as [national examples])
+                     1
+                     Ticked
+                     Individuals where IU = 1
+                  Collected
+                     0
+                  Not ticked
+                     9
+                  Not applicable
+                     07. Information society participation
+                     Internet activities
+                     IUVOD
+                     Internet use in the last 3 months for private purpose for watching Video on Demand from commercial services
+                     1
+                     Ticked
+                     Individuals where IU = 1
+                  Collected
+                     0
+                  Not ticked
+                     9
+                  Not applicable
+                     07. Information society participation
+                     Internet activities
+                     IUVSS
+                     Internet use in the last 3 months for private purpose for watching video content from sharing services
+                     1
+                     Ticked
+                     Individuals where IU = 1
+                  Collected
+                     0
+                  Not ticked
+                     9
+                  Not applicable
+                     07. Information society participation
+                     Internet activities
+                     IUPDG
+                     Internet use in the last 3 months for private purpose for playing or downloading games
+                     1
+                     Ticked
+                     Individuals where IU = 1
+                  Collected
+                     0
+                  Not ticked
+                     9
+                  Not applicable
+                     07. Information society participation
+                     Internet activities
+                     IUPCAST
+                        (optional)
+                     Internet use in the last 3 months for private purpose for listening to podcasts or downloading podcasts
+                        (optional)
+                     1
+                     Ticked
+                     Individuals where IU = 1
+                  Collected
+                     0
+                  Not ticked
+                     Blank
+                  Option not included
+                     9
+                  Not applicable
+                     07. Information society participation
+                     Internet activities
+                     IHIF
+                     Internet use in the last 3 months for private purpose for seeking health-related information (such as about injuries, diseases, nutrition, improving health)
+                     1
+                     Ticked
+                     Individuals where IU = 1
+                  Collected
+                     0
+                  Not ticked
+                     9
+                  Not applicable
+                     07. Information society participation
+                     Internet activities
+                     IUMAPP
+                     Internet use in the last 3 months for private purpose for making an appointment with a practitioner via a website or app (such as of a hospital or a health care centre)
+                     1
+                     Ticked
+                     Individuals where IU = 1
+                  Collected
+                     0
+                  Not ticked
+                     9
+                  Not applicable
+                     07. Information society participation
+                     Internet activities
+                     IUAPR
+                     Internet use in the last 3 months for private purpose for accessing personal health records online
+                     1
+                     Ticked
+                     Individuals where IU = 1
+                  Collected
+                     0
+                  Not ticked
+                     9
+                  Not applicable
+                     07. Information society participation
+                     Internet activities
+                     IUOHC
+                     Internet use in the last 3 months for private purpose for using other health services via a website or app instead of having to go to the hospital or visit a doctor (such as by getting a prescription or a consultation online)
+                     1
+                     Ticked
+                     Individuals where IU = 1
+                  Collected
+                     0
+                  Not ticked
+                     9
+                  Not applicable
+                     07. Information society participation
+                     Internet activities
+                     IUSELL
+                     Internet use in the last 3 months for private purpose for selling goods or services via a website or app
+                     1
+                     Ticked
+                     Individuals where IU = 1
+                  Collected
+                     0
+                  Not ticked
+                     9
+                  Not applicable
+                     07. Information society participation
+                     Internet activities
+                     IUBK
+                     Internet use in the last 3 months for private purpose for internet banking (including mobile banking)
+                     1
+                     Ticked
+                     Individuals where IU = 1
+                  Collected
+                     0
+                  Not ticked
+                     9
+                  Not applicable
+                     07. Information society participation
+                     Internet activities
+                     IUOLC
+                     Internet use in the last 3 months for conducting learning activities for educational, professional or private purposes, by doing an online course
+                     1
+                     Ticked
+                     Individuals where IU = 1
+                  Collected
+                     0
+                  Not ticked
+                     9
+                  Not applicable
+                     07. Information society participation
+                     Internet activities
+                     IUOLM
+                     Internet use in the last 3 months for conducting learning activities for educational, professional or private purposes, by using online learning material other than a complete online course (such as video tutorials, webinars, electronic textbooks, learning apps or platforms)
+                     1
+                     Ticked
+                     Individuals where IU = 1
+                  Collected
+                     0
+                  Not ticked
+                     9
+                  Not applicable
+                     07. Information society participation
+                     Internet activities
+                     IUOCIS1
+                     Internet use in the last 3 months for conducting learning activities for educational, professional or private purposes, by communicating with educators or learners using audio or video online tools
+                     1
+                     Ticked
+                     Individuals where IU = 1
+                  Collected
+                     0
+                  Not ticked
+                     9
+                  Not applicable
+                     07. Information society participation
+                     Internet activities
+                     IUOFE
+                     Learning activities the respondent participated in, in the last 3 months, for formal education (e.g. school or university)
+                     1
+                     Ticked
+                     Individuals where IUOLC = 1 or IUOLM = 1 or IUOCIS1 = 1
+                  Collected
+                     0
+                  Not ticked
+                     9
+                  Not applicable
+                     07. Information society participation
+                     Internet activities
+                     IUOW
+                     Learning activities the respondent participated in, in the last 3 months, for professional/work-related purposes
+                     1
+                     Ticked
+                     Individuals where IUOLC = 1 or IUOLM = 1 or IUOCIS1 = 1
+                  Collected
+                     0
+                  Not ticked
+                     9
+                  Not applicable
+                     07. Information society participation
+                     Internet activities
+                     IUOPP
+                     Learning activities the respondent participated in, in the last 3 months, for private purpose
+                     1
+                     Ticked
+                     Individuals where IUOLC = 1 or IUOLM = 1 or IUOCIS1 = 1
+                  Collected
+                     0
+                  Not ticked
+                     9
+                  Not applicable
+                     07. Information society participation
+                     Interaction with public authorities
+                     IGOVIP
+                     Activities via a website or app of public authorities or public services for private purpose in the last 12 months consisting in accessing by the respondent information about himself/herself stored by public authorities or public services
+                     1
+                     Ticked
+                     Individuals where IU = 1 or IU = 2
+                  Collected
+                     0
+                  Not ticked
+                     9
+                  Not applicable
+                     07. Information society participation
+                     Interaction with public authorities
+                     IGOVIDB
+                     Activities via a website or app of public authorities or public services for private purpose in the last 12 months consisting in accessing by the respondent information from public databases or registers (such as information about availability of books in public libraries, cadastral registers, enterprise registers)
+                     1
+                     Ticked
+                     Individuals where IU = 1 or IU = 2
+                  Collected
+                     0
+                  Not ticked
+                     9
+                  Not applicable
+                     07. Information society participation
+                     Interaction with public authorities
+                     IGOV12IF
+                     Activities via a website or app of public authorities or public services for private purpose in the last 12 months consisting in obtaining by the respondent information (e.g. about services, benefits, entitlements, laws, opening hours)
+                     1
+                     Ticked
+                     Individuals where IU = 1 or IU = 2
+                  Collected
+                     0
+                  Not ticked
+                     9
+                  Not applicable
+                     07. Information society participation
+                     Interaction with public authorities
+                     IGOVIX
+                     Respondent has not accessed any personal records or databases nor obtained any information via a website or app of public authorities or public services for private purpose in the last 12 months
+                     1
+                     Ticked
+                     Individuals where IU = 1 or IU = 2
+                  Collected
+                     0
+                  Not ticked
+                     9
+                  Not applicable
+                     07. Information society participation
+                     Interaction with public authorities
+                     IGOV12FM
+                     Downloading/printing official forms by the respondent from a website or app of public authorities or public services for private purpose in the last 12 months
+                     1
+                     Yes
+                     Individuals where IU = 1 or IU = 2
+                  Collected
+                     0
+                  No
+                     Blank
+                  Not stated
+                     9
+                  Not applicable
+                     07. Information society participation
+                     Interaction with public authorities
+                     IGOVAPR
+                     Making an appointment or reservation by the respondent via a website or app with public authorities or public services (such as reservation of a book in a public library, appointment with a government servant or a state healthcare provider) for private purpose in the last 12 months
+                     1
+                     Yes
+                     Individuals where IU = 1 or IU = 2
+                  Collected
+                     0
+                  No
+                     Blank
+                  Not stated
+                     9
+                  Not applicable
+                     07. Information society participation
+                     Interaction with public authorities
+                     IGOVPOST
+                        (Optional)
+                     Receiving by the respondent any official communication or documents sent by public authorities via the respondent’s account on a website or app (name of the service, if applicable in the country) of public authorities or services (such as notifications of fines or invoices, letters; service of court summons, court documents, [national examples]) for private purpose in the last 12 months? Usage of email or SMS based information messages or notifications that a document is available should be excluded.(optional)
+                     1
+                     Yes
+                     Individuals where IU = 1 or IU = 2
+                  Collected
+                     0
+                  No
+                     Blank
+                  Option not included or Not Stated
+                     9
+                  Not applicable
+                     07. Information society participation
+                     Interaction with public authorities
+                     IGOVTAX1
+                     Submitting the respondent’s own tax declaration via a website or app for private purpose in the last 12 months
+                     1
+                     Yes, the respondent did it himself/herself
+                     Individuals where IU = 1 or IU = 2
+                  Collected
+                     2
+                  No, it was done automatically (by the tax authority, employer, other authority)
+                     3
+                  No, the respondent delivered it to the tax authority in paper format
+                     4
+                  No, someone else did it on the respondent’s behalf (e.g. family member, tax adviser)
+                     5
+                  No, for other reasons (e.g. not subject to income tax)
+                     9
+                  Not applicable
+                     Blank
+                  Not stated
+                     07. Information society participation
+                     Interaction with public authorities
+                     IGOVODC
+                     Activities via a website or app of public authorities or public services for private purpose in the last 12 months consisting in requesting by the respondent official documents or certificates (such as graduation, birth, marriage, divorce, death, residence certificates, police or criminal records, [national examples])
+                     1
+                     Ticked
+                     Individuals where IU = 1 or IU = 2
+                  Collected
+                     0
+                  Not ticked
+                     9
+                  Not applicable
+                     07. Information society participation
+                     Interaction with public authorities
+                     IGOVBE
+                     Activities via a website or app of public authorities or public services for private purpose in the last 12 months consisting in requesting by the respondent benefits or entitlements (such as pension, unemployment, child allowance, enrolment in schools, universities, [national examples])
+                     1
+                     Ticked
+                     Individuals where IU = 1 or IU = 2
+                  Collected
+                     0
+                  Not ticked
+                     9
+                  Not applicable
+                     07. Information society participation
+                     Interaction with public authorities
+                     IGOVRCC
+                     Activities via a website or app of public authorities or public services for private purpose in the last 12 months consisting in making by the respondent other requests, claims or complaints (such as reporting theft to the police, launching a legal complaint, requesting legal aid, initiating a civil claim procedure in front of a court, [national examples])
+                     1
+                     Ticked
+                     Individuals where IU = 1 or IU = 2
+                  Collected
+                     0
+                  Not ticked
+                     9
+                  Not applicable
+                     07. Information society participation
+                     Interaction with public authorities
+                     IRGOVNN
+                     Reasons for not requesting any official documents or not making any claims via a website or app of public authorities or public services in the last 12 months –respondent did not have to request any documents or to make any claims
+                     1
+                     Ticked
+                     Individuals where IGOVODC = 0 and IGOVBE = 0 and IGOVRCC = 0
+                  Collected
+                     0
+                  Not ticked
+                     9
+                  Not applicable
+                     07. Information society participation
+                     Interaction with public authorities
+                     IRGOVLS
+                     Reasons for not requesting any official documents or not making any claims via a website or app of public authorities or public services in the last 12 months – lack of skills or knowledge (e.g. respondent did not know how to use the website or app or it was too complicated to use)
+                     1
+                     Ticked
+                     Individuals where IGOVODC = 0 and IGOVBE = 0 and IGOVRCC = 0
+                  Collected
+                     0
+                  Not ticked
+                     9
+                  Not applicable
+                     07. Information society participation
+                     Interaction with public authorities
+                     IRGOVSEC
+                     Reasons for not requesting any official documents or not making any claims via a website or app of public authorities or public services in the last 12 months – concerns about the security of personal data or unwillingness to pay online (credit card fraud)
+                     1
+                     Ticked
+                     Individuals where IGOVODC = 0 and IGOVBE = 0 and IGOVRCC = 0
+                  Collected
+                     0
+                  Not ticked
+                     9
+                  Not applicable
+                     07. Information society participation
+                     Interaction with public authorities
+                     IRGOVEID
+                        (Optional)
+                     Reasons for not requesting any official documents or not making any claims via a website or app of public authorities or public services in the last 12 months – lack of electronic signature, activated electronic identification (eID) or any other tool to use the eID (required for using the services) [national examples] (optional)
+                     1
+                     Ticked
+                     Individuals where IGOVODC = 0 and IGOVBE = 0 and IGOVRCC = 0
+                  Collected
+                     0
+                  Not ticked
+                     Blank
+                  Option not included
+                     9
+                  Not applicable
+                     07. Information society participation
+                     Interaction with public authorities
+                     IRGOVOP
+                     Reasons for not requesting any official documents or not making any claims via a website or app of public authorities or public services in the last 12 months – another person did it on the respondent’s behalf (e.g. consultant, adviser, relative)
+                     1
+                     Ticked
+                     Individuals where IGOVODC = 0 and IGOVBE = 0 and IGOVRCC = 0
+                  Collected
+                     0
+                  Not ticked
+                     9
+                  Not applicable
+                     07. Information society participation
+                     Interaction with public authorities
+                     IRGOVOTH
+                     Reasons for not requesting any official documents or not making any claims via a website or app of public authorities or public services in the last 12 months – other reason
+                     1
+                     Ticked
+                     Individuals where IGOVODC = 0 and IGOVBE = 0 and IGOVRCC = 0
+                  Collected
+                     0
+                  Not ticked
+                     9
+                  Not applicable
+                     07. Information society participation
+                     Interaction with public authorities
+                     IGOVANYS
+                     Respondent has interacted with public authorities
+                     9
+                     IF IU<> 1 and IU<> 2 THEN 9
+                     Individuals where IU = 1 or IU = 2
+                  Derived
+                     1
+                  ELSE IF IGOVIP = 1 or IGOVIDB = 1 or IGOV12IF = 1 or IGOV12FM = 1 or IGOVAPR = 1 or IGOVPOST = 1 or IGOVTAX1 = 1 or IGOVODC = 1 or IGOVBE = 1 or IGOVRCC = 1 THEN 1
+                     0
+                  ELSE 0
+                     07. Information society participation
+                     Interaction with public authorities
+                     IIGOVDU
+                     Issues when using a website or app of public authorities or public services in the last 12 months – website or app was difficult to use (e.g. it was not user-friendly, the wording was not clear, procedure was not well explained)
+                     1
+                     Ticked
+                     Individuals where IGOVANYS = 1
+                  Collected
+                     0
+                  Not ticked
+                     9
+                  Not applicable
+                     07. Information society participation
+                     Interaction with public authorities
+                     IIGOVTP
+                     Issues when using a website or app of public authorities or public services in the last 12 months –technical problems experienced when using website or app (e.g. long loading, website crashed)
+                     1
+                     Ticked
+                     Individuals where IGOVANYS = 1
+                  Collected
+                     0
+                  Not ticked
+                     9
+                  Not applicable
+                     07. Information society participation
+                     Interaction with public authorities
+                     IIGOVEID
+                        (Optional)
+                     Issues when using a website or app of public authorities or public services in the last 12 months –problems in using the electronic signature or electronic identification (eID) (optional)
+                     1
+                     Ticked
+                     Individuals where IGOVANYS = 1
+                  Collected
+                     0
+                  Not ticked
+                     Blank
+                  Option not included
+                     9
+                  Not applicable
+                     07. Information society participation
+                     Interaction with public authorities
+                     IIGOVPAY
+                        (Optional)
+                     Issues when using a website or app of public authorities or public services in the last 12 months – the respondent was not able to pay via the website or app (e.g. due to lack of access to the payment methods required) (optional)
+                     1
+                     Ticked
+                     Individuals where IGOVANYS = 1
+                  Collected
+                     0
+                  Not ticked
+                     Blank
+                  Option not included
+                     9
+                  Not applicable
+                     07. Information society participation
+                     Interaction with public authorities
+                     IIGOVMOB
+                     Issues when using a website or app of public authorities or public services in the last 12 months – the respondent was not able to access the service on smartphone or tablet (e.g. non compatible device version or non-available applications)
+                     1
+                     Ticked
+                     Individuals where IGOVANYS = 1
+                  Collected
+                     0
+                  Not ticked
+                     9
+                  Not applicable
+                     07. Information society participation
+                     Interaction with public authorities
+                     IIGOVOTH
+                     Issues when using a website or app of public authorities or public services in the last 12 months –other issue
+                     1
+                     Ticked
+                     Individuals where IGOVANYS = 1
+                  Collected
+                     0
+                  Not ticked
+                     9
+                  Not applicable
+                     07. Information society participation
+                     Interaction with public authorities
+                     IIGOVX
+                     The respondent has not encountered any issues when using a website or app of public authorities or public services in the last 12 months
+                     1
+                     Ticked
+                     Individuals where IGOVANYS = 1
+                  Collected
+                     0
+                  Not ticked
+                     9
+                  Not applicable
+                     07. Information society participation
+                     e-Commerce
+                     IBUY
+                     Last purchase or order of goods or services over the internet for private use
+                     1
+                     Within the last 3 months
+                     Individuals where IU = 1 or IU = 2
+                  Collected
+                     2
+                  Between 3 months and a year ago
+                     3
+                  More than 1 year ago
+                     4
+                  Never bought or ordered over the internet
+                     Blank
+                  Not stated
+                     9
+                  Not applicable
+                     07. Information society participation
+                     e-Commerce
+                     BCLOT1
+                     Internet use for buying clothes (including sport clothing), shoes or accessories (such as bags, jewellery) from enterprises or private persons (including used goods) via a website or app for private use in the last 3 months
+                     1
+                     Ticked
+                     Individuals where
+                        IBUY = 1
+                  Collected
+                     0
+                  Not ticked
+                     9
+                  Not applicable
+                     07. Information society participation
+                     e-Commerce
+                     BSPG
+                     Internet use for buying sports goods (excluding sport clothing) from enterprises or private persons (including used goods) via a website or app for private use in the last 3 months
+                     1
+                     Ticked
+                     Individuals where IBUY = 1
+                  Collected
+                     0
+                  Not ticked
+                     9
+                  Not applicable
+                     07. Information society participation
+                     e-Commerce
+                     BCG
+                     Internet use for buying children toys or childcare items (such as nappies, bottles, baby strollers) from enterprises or private persons (including used goods) via a website or app for private use in the last 3 months
+                     1
+                     Ticked
+                     Individuals where IBUY = 1
+                  Collected
+                     0
+                  Not ticked
+                     9
+                  Not applicable
+                     07. Information society participation
+                     e-Commerce
+                     BFURN1
+                     Internet use for buying furniture, home accessories (such as carpets or curtains) or gardening products (such as tools, plants) from enterprises or private persons (including used goods) via a website or app for private use in the last 3 months
+                     1
+                     Ticked
+                     Individuals where IBUY = 1
+                  Collected
+                     0
+                  Not ticked
+                     9
+                  Not applicable
+                     07. Information society participation
+                     e-Commerce
+                     BMUSG
+                     Internet use for buying music as CDs, vinyls etc. from enterprises or private persons (including used goods) via a website or app for private use in the last 3 months
+                     1
+                     Ticked
+                     Individuals where IBUY = 1
+                  Collected
+                     0
+                  Not ticked
+                     9
+                  Not applicable
+                     07. Information society participation
+                     e-Commerce
+                     BFLMG
+                     Internet use for buying films or series as DVDs, Blu-ray etc. from enterprises or private persons (including used goods) via a website or app for private use in the last 3 months
+                     1
+                     Ticked
+                     Individuals where IBUY = 1
+                  Collected
+                     0
+                  Not ticked
+                     9
+                  Not applicable
+                     07. Information society participation
+                     e-Commerce
+                     BBOOKNLG
+                     Internet use for buying printed books, magazines or newspapers from enterprises or private persons (including used goods) via a website or app for private use in the last 3 months
+                     1
+                     Ticked
+                     Individuals where IBUY = 1
+                  Collected
+                     0
+                  Not ticked
+                     9
+                  Not applicable
+                     07. Information society participation
+                     e-Commerce
+                     BHARD1
+                     Internet use for buying computers, tablets, mobile phones or accessories from enterprises or private persons (including used goods) via a website or app for private use in the last 3 months
+                     1
+                     Ticked
+                     Individuals where IBUY = 1
+                  Collected
+                     0
+                  Not ticked
+                     9
+                  Not applicable
+                     07. Information society participation
+                     e-Commerce
+                     BEEQU1
+                     Internet use for buying consumer electronics (such as TV-sets, stereos, cameras, sound bars or smart speakers, virtual assistants) or household appliances (such as washing machines) from enterprises or private persons (including used goods) via a website or app for private use in the last 3 months
+                     1
+                     Ticked
+                     Individuals where IBUY = 1
+                  Collected
+                     0
+                  Not ticked
+                     9
+                  Not applicable
+                     07. Information society participation
+                     e-Commerce
+                     BMED1
+                     Internet use for buying medicine or dietary supplements such as vitamins (excluding online renewal of prescriptions) from enterprises or private persons (including used goods) via a website or app for private use in the last 3 months
+                     1
+                     Ticked
+                     Individuals where IBUY = 1
+                  Collected
+                     0
+                  Not ticked
+                     9
+                  Not applicable
+                     07. Information society participation
+                     e-Commerce
+                     BFDR
+                     Internet use for buying deliveries from restaurants, fast-food chains, catering services from enterprises or private persons via a website or app for private use in the last 3 months
+                     1
+                     Ticked
+                     Individuals where IBUY = 1
+                  Collected
+                     0
+                  Not ticked
+                     9
+                  Not applicable
+                     07. Information society participation
+                     e-Commerce
+                     BFDS
+                     Internet use for buying food or beverages from stores or from meal-kits providers from enterprises or private persons via a website or app for private use in the last 3 months
+                     1
+                     Ticked
+                     Individuals where IBUY = 1
+                  Collected
+                     0
+                  Not ticked
+                     9
+                  Not applicable
+                     07. Information society participation
+                     e-Commerce
+                     BCBW
+                     Internet use for buying cosmetics, beauty or wellness products from enterprises or private persons (including used goods) via a website or app for private use in the last 3 months
+                     1
+                     Ticked
+                     Individuals where IBUY = 1
+                  Collected
+                     0
+                  Not ticked
+                     9
+                  Not applicable
+                     07. Information society participation
+                     e-Commerce
+                     BCPH
+                     Internet use for buying cleaning products or personal hygiene products (such as toothbrushes, handkerchiefs, washing detergents, cleaning cloths) from enterprises or private persons (including used goods) via a website or app for private use in the last 3 months
+                     1
+                     Ticked
+                     Individuals where IBUY = 1
+                  Collected
+                     0
+                  Not ticked
+                     9
+                  Not applicable
+                     07. Information society participation
+                     e-Commerce
+                     BBMC
+                     Internet use for buying bicycles, mopeds, cars, or other vehicles or their spare parts from enterprises or private persons (including used goods) via a website or app for private use in the last 3 months
+                     1
+                     Ticked
+                     Individuals where IBUY = 1
+                  Collected
+                     0
+                  Not ticked
+                     9
+                  Not applicable
+                     07. Information society participation
+                     e-Commerce
+                     BOPG
+                     Internet use for buying other physical goods from enterprises or private persons (including used goods) via a website or app for private use in the last 3 months
+                     1
+                     Ticked
+                     Individuals where IBUY = 1
+                  Collected
+                     0
+                  Not ticked
+                     9
+                  Not applicable
+                     07. Information society participation
+                     e-Commerce
+                     BPG_ANY
+                     Internet use for buying any of the listed physical goods from enterprises or private persons (including used goods) via a website or app for private use in the last 3 months
+                     9
+                     IF IBUY = Blank or IBUY<> 1 THEN 9
+                     Individuals where IBUY = 1
+                  Derived
+                     1
+                  ELSE IF BCLOT1 = 1 or BSPG = 1 or BCG = 1 or BFURN1 = 1 or BMUSG = 1 or BFLMG = 1 or BBOOKNLG = 1 or BHARD1 = 1 or BEEQU1 = 1 or BMED1 = 1 or BFDR = 1 or BFDS = 1 or BCBW = 1 or BCPH = 1 or BBMC = 1 or BOPG = 1 THEN 1
+                     0
+                  ELSE 0
+                     07. Information society participation
+                     e-Commerce
+                     BPG_DOM
+                     Internet use for buying goods via a website or app in the last 3 months from national sellers (from enterprises or private persons)
+                     1
+                     Ticked
+                     Individuals where BPG_ANY = 1
+                  Collected
+                     0
+                  Not ticked
+                     9
+                  Not applicable
+                     07. Information society participation
+                     e-Commerce
+                     BPG_EU
+                     Internet use for buying goods via a website or app in the last 3 months from sellers from other EU countries (from enterprises or private persons)
+                     1
+                     Ticked
+                     Individuals where BPG_ANY = 1
+                  Collected
+                     0
+                  Not ticked
+                     9
+                  Not applicable
+                     07. Information society participation
+                     e-Commerce
+                     BPG_WRLD
+                     Internet use for buying goods via a website or app in the last 3 months from sellers from the rest of the world (from enterprises or private persons)
+                     1
+                     Ticked
+                     Individuals where BPG_ANY = 1
+                  Collected
+                     0
+                  Not ticked
+                     9
+                  Not applicable
+                     07. Information society participation
+                     e-Commerce
+                     BPG_UNK
+                     Internet use for buying goods via a website or app in the last 3 months from sellers which country of origin is not known (from enterprises or private persons)
+                     1
+                     Ticked
+                     Individuals where BPG_ANY = 1
+                  Collected
+                     0
+                  Not ticked
+                     9
+                  Not applicable
+                     07. Information society participation
+                     e-Commerce
+                     BPG_PP
+                     Goods bought from private persons via a website or app
+                     1
+                     Yes
+                     Individuals where BPG_ANY = 1
+                  Collected
+                     0
+                  No
+                     Blank
+                  Not stated
+                     9
+                  Not applicable
+                     07. Information society participation
+                     e-Commerce
+                     BMUSS
+                     Internet use for buying or subscribing to music as a streaming service or downloads via a website or app for private use in the last 3 months
+                     1
+                     Ticked
+                     Individuals where IBUY = 1
+                  Collected
+                     0
+                  Not ticked
+                     9
+                  Not applicable
+                     07. Information society participation
+                     e-Commerce
+                     BFLMS
+                     Internet use for buying or subscribing to films or series as a streaming service or downloads via a website or app for private use in the last 3 months
+                     1
+                     Ticked
+                     Individuals where IBUY = 1
+                  Collected
+                     0
+                  Not ticked
+                     9
+                  Not applicable
+                     07. Information society participation
+                     e-Commerce
+                     BBOOKNLS
+                     Internet use for buying or subscribing to e-books, online-magazines or online-newspapers via a website or app for private use in the last 3 months
+                     1
+                     Ticked
+                     Individuals where IBUY = 1
+                  Collected
+                     0
+                  Not ticked
+                     9
+                  Not applicable
+                     07. Information society participation
+                     e-Commerce
+                     BGAMES
+                     Internet use for buying or subscribing to games online or as downloads for smartphones, tablets, computers or consoles via a website or app for private use in the last 3 months
+                     1
+                     Ticked
+                     Individuals where IBUY = 1
+                  Collected
+                     0
+                  Not ticked
+                     9
+                  Not applicable
+                     07. Information society participation
+                     e-Commerce
+                     BSOFTS
+                     Internet use for buying or subscribing to computer software or other software as downloads including upgrades via a website or app for private use in the last 3 months
+                     1
+                     Ticked
+                     Individuals where IBUY = 1
+                  Collected
+                     0
+                  Not ticked
+                     9
+                  Not applicable
+                     07. Information society participation
+                     e-Commerce
+                     BHLFTS
+                     Internet use for buying or subscribing to apps related to health or fitness (excluding free apps) via a website or app for private use in the last 3 months
+                     1
+                     Ticked
+                     Individuals where IBUY = 1
+                  Collected
+                     0
+                  Not ticked
+                     9
+                  Not applicable
+                     07. Information society participation
+                     e-Commerce
+                     BAPP
+                     Internet use for buying or subscribing to other apps (such as apps related to learning languages, travelling, weather) (excluding free apps) via a website or app for private use in the last 3 months
+                     1
+                     Ticked
+                     Individuals where IBUY = 1
+                  Collected
+                     0
+                  Not ticked
+                     9
+                  Not applicable
+                     07. Information society participation
+                     e-Commerce
+                     BSTICK
+                     Internet use for buying tickets to sports events via a website or app for private use in the last 3 months
+                     1
+                     Ticked
+                     Individuals where IBUY = 1
+                  Collected
+                     0
+                  Not ticked
+                     9
+                  Not applicable
+                     07. Information society participation
+                     e-Commerce
+                     BCTICK
+                     Internet use for buying tickets to cultural or other events (such as tickets to cinema, concerts, fairs) via a website or app for private use in the last 3 months
+                     1
+                     Ticked
+                     Individuals where IBUY = 1
+                  Collected
+                     0
+                  Not ticked
+                     9
+                  Not applicable
+                     07. Information society participation
+                     e-Commerce
+                     BSIMC
+                     Internet use for buying subscriptions to the internet or mobile phone connections via a website or app for private use in the last 3 months
+                     1
+                     Ticked
+                     Individuals where IBUY = 1
+                  Collected
+                     0
+                  Not ticked
+                     9
+                  Not applicable
+                     07. Information society participation
+                     e-Commerce
+                     BSUTIL
+                     Internet use for buying subscriptions to electricity, water or heating supply, waste disposal or similar services via a website or app for private use in the last 3 months
+                     1
+                     Ticked
+                     Individuals where IBUY = 1
+                  Collected
+                     0
+                  Not ticked
+                     9
+                  Not applicable
+                     07. Information society participation
+                     e-Commerce
+                     BHHS
+                     Internet use for buying household services (such as cleaning, babysitting, repair work, gardening) (also when bought from private persons) via a website or app for private use in the last 3 months
+                     1
+                     Ticked
+                     Individuals where IBUY = 1
+                  Collected
+                     0
+                  Not ticked
+                     9
+                  Not applicable
+                     07. Information society participation
+                     e-Commerce
+                     BHHS_PP
+                     Internet use for buying household services from private persons via a website or app for private use in the last 3 months
+                     1
+                     Yes
+                     Individuals where BHHS = 1
+                  Collected
+                     0
+                  No
+                     Blank
+                  Not stated
+                     9
+                  Not applicable
+                     07. Information society participation
+                     e-Commerce
+                     BTPS_E
+                     Internet use for buying transport services from a transport enterprise, such as local bus, flight or train ticket or taxi ride via a website or app for private use in the last 3 months
+                     1
+                     Ticked
+                     Individuals where IBUY = 1
+                  Collected
+                     0
+                  Not ticked
+                     9
+                  Not applicable
+                     07. Information society participation
+                     e-Commerce
+                     BTPS_PP
+                     Internet use for buying transport services from a private person via a website or app for private use in the last 3 months
+                     1
+                     Ticked
+                     Individuals where IBUY = 1
+                  Collected
+                     0
+                  Not ticked
+                     9
+                  Not applicable
+                     07. Information society participation
+                     e-Commerce
+                     BRA_E
+                     Internet use for renting accommodation from enterprises such as hotels or travel agencies via a website or app for private use in the last 3 months
+                     1
+                     Ticked
+                     Individuals where IBUY = 1
+                  Collected
+                     0
+                  Not ticked
+                     9
+                  Not applicable
+                     06. Information society participation
+                     e-Commerce
+                     BRA_PP
+                     Internet use for renting accommodation from a private person via a website or app for private use in the last 3 months
+                     1
+                     Ticked
+                     Individuals where IBUY = 1
+                  Collected
+                     0
+                  Not ticked
+                     9
+                  Not applicable
+                     07. Information society participation
+                     e-Commerce
+                     BOTS (optional)
+                     Internet use for buying any other services (excluding financial and insurance services) via a website or app for private use in the last 3 months
+                        (optional)
+                     1
+                     Yes
+                     Individuals where IBUY = 1
+                  Collected
+                     0
+                  No
+                     Blank
+                  Option not included or not stated
+                     9
+                  Not applicable
+                     07. Information society participation
+                     e-Commerce
+                     BFIN_IN1
+                     Internet use for buying insurance policies, including travel insurance, also as a package together with for example a plane ticket, via a website or app for private purposes in the last 3 months
+                     1
+                     Ticked
+                     Individuals where IU = 1
+                  Collected
+                     0
+                  Not ticked
+                     9
+                  Not applicable
+                     07. Information society participation
+                     e-Commerce
+                     BFIN_CR1
+                     Internet use for taking a loan or mortgage or arranging credit from banks or other financial providers via a website or app for private purposes in the last 3 months
+                     1
+                     Ticked
+                     Individuals where IU = 1
+                  Collected
+                     0
+                  Not ticked
+                     9
+                  Not applicable
+                     07. Information society participation
+                     e-Commerce
+                     BFIN_SH1
+                     Internet use for buying or selling shares, bonds, units in funds or other financial assets via a website or app for private purposes in the last 3 months
+                     1
+                     Ticked
+                     Individuals where IU = 1
+                  Collected
+                     0
+                  Not ticked
+                     9
+                  Not applicable
+                     07. Information society participation
+                     Connection to the internet from anywhere
+                     IOT_DEM
+                     Use of internet-connected thermostat, utility meter, lights, plug-ins or other internet-connected solutions for energy management for the respondent’s home for private purposes
+                     1
+                     Ticked
+                     Individuals where IU = 1
+                  Collected
+                     0
+                  Not ticked
+                     9
+                  Not applicable
+                     07. Information society participation
+                     Connection to the internet from anywhere
+                     IOT_DSEC
+                     Use of internet-connected home alarm system, smoke detector, security cameras, door locks or other internet-connected security or safety solutions for the respondent’s home for private purposes
+                     1
+                     Ticked
+                     Individuals where IU = 1
+                  Collected
+                     0
+                  Not ticked
+                     9
+                  Not applicable
+                     07. Information society participation
+                     Connection to the internet from anywhere
+                     IOT_DHA
+                     Use of internet-connected home appliances such as robot vacuums, fridges, ovens, coffee machines for private purposes
+                     1
+                     Ticked
+                     Individuals where rIU = 1
+                  Collected
+                     0
+                  Not ticked
+                     9
+                  Not applicable
+                     07. Information society participation
+                     Connection to the internet from anywhere
+                     IOT_DVA
+                     Use of a virtual assistant in the form of a smart speaker or of an app for private purposes
+                     1
+                     Ticked
+                     Individuals where IU = 1
+                  Collected
+                     0
+                  Not ticked
+                     9
+                  Not applicable
+                     07. Information society participation
+                     Connection to the internet from anywhere
+                     IOT_DX
+                     Respondent did not use any of the internet-connected devices for energy management, security or safety solutions, home appliances or virtual assistants for private purposes
+                     1
+                     Ticked
+                     Individuals where (IOT_DEM = Blank or IOT_DEM = 0) and (IOT_DSEC = Blank or IOT_DSEC = 0) and (IOT_DHA = Blank or IOT_DHA = 0) and (IOT_DVA = Blank or IOT_DVA = 0)
+                  Collected
+                     0
+                  Not ticked
+                     9
+                  Not applicable
+                     07. Information society participation
+                     Connection to the internet from anywhere
+                     IOT_BDK
+                     Reasons for not using any of the internet-connected devices for energy management, security or safety solutions, home appliances or virtual assistants for private purposes – respondent did not know that such devices or systems exist
+                     1
+                     Ticked
+                     Individuals where IOT_DX = 1
+                  Collected
+                     0
+                  Not ticked
+                     9
+                  Not applicable
+                     07. Information society participation
+                     Connection to the internet from anywhere
+                     IOT_BNN
+                     Reasons for not using any of the internet-connected devices for energy management, security or safety solutions, home appliances or virtual assistants for private purposes – respondent had no need to use those connected devices or systems
+                     1
+                     Ticked
+                     Individuals where IOT_BDK = 0
+                  Collected
+                     0
+                  Not ticked
+                     9
+                  Not applicable
+                     07. Information society participation
+                     Connection to the internet from anywhere
+                     IOT_BCST
+                     Reasons for not using any of the internet-connected devices for energy management, security or safety solutions, home appliances or virtual assistants for private purposes – costs too high
+                     1
+                     Ticked
+                     Individuals where IOT_BDK = 0
+                  Collected
+                     0
+                  Not ticked
+                     9
+                  Not applicable
+                     07. Information society participation
+                     Connection to the internet from anywhere
+                     IOT_BLC
+                     Reasons for not using any of the internet-connected devices for energy management, security or safety solutions, home appliances or virtual assistants for private purposes – lack of compatibility with other devices or systems
+                     1
+                     Ticked
+                     Individuals where IOT_BDK = 0
+                  Collected
+                     0
+                  Not ticked
+                     9
+                  Not applicable
+                     07. Information society participation
+                     Connection to the internet from anywhere
+                     IOT_BLSK
+                     Reasons for not using any of the internet-connected devices for energy management, security or safety solutions, home appliances or virtual assistants for private purposes – lack of skills to use those devices or systems
+                     1
+                     Ticked
+                     Individuals where IOT_BDK = 0
+                  Collected
+                     0
+                  Not ticked
+                     9
+                  Not applicable
+                     07. Information society participation
+                     Connection to the internet from anywhere
+                     IOT_BCPP
+                     Reasons for not using any of the internet-connected devices for energy management, security or safety solutions, home appliances or virtual assistants for private purposes – concerns about the privacy and protection of data about the respondent generated by those devices or systems
+                     1
+                     Ticked
+                     Individuals where IOT_BDK = 0
+                  Collected
+                     0
+                  Not ticked
+                     9
+                  Not applicable
+                     07. Information society participation
+                     Connection to the internet from anywhere
+                     IOT_BCSC
+                     Reasons for not using any of the internet-connected devices for energy management, security or safety solutions, home appliances or virtual assistants for private purposes – concerns about security (e.g. that the device or system will be hacked)
+                     1
+                     Ticked
+                     Individuals where IOT_BDK = 0
+                  Collected
+                     0
+                  Not ticked
+                     9
+                  Not applicable
+                     07. Information society participation
+                     Connection to the internet from anywhere
+                     IOT_BCSH
+                     Reasons for not using any of the internet-connected devices for energy management, security or safety solutions, home appliances or virtual assistants for private purposes – concerns about safety or health (e.g. that the use of the device or system could lead to an accident, injury or health problem)
+                     1
+                     Ticked
+                     Individuals where IOT_BDK = 0
+                  Collected
+                     0
+                  Not ticked
+                     9
+                  Not applicable
+                     07. Information society participation
+                     Connection to the internet from anywhere
+                     IOT_BOTH
+                     Reasons for not using any of the internet-connected devices for energy management, security or safety solutions, home appliances or virtual assistants for private purposes – other reasons
+                     1
+                     Ticked
+                     Individuals where IOT_BDK = 0
+                  Collected
+                     0
+                  Not ticked
+                     9
+                  Not applicable
+                     07. Information society participation
+                     Connection to the internet from anywhere
+                     IOT_IUTV
+                     Internet use on an internet-connected TV in the respondent’s home for private purposes
+                     1
+                     Ticked
+                     Individuals where IU = 1
+                  Collected
+                     0
+                  Not ticked
+                     9
+                  Not applicable
+                     07. Information society participation
+                     Connection to the internet from anywhere
+                     IOT_IUGC
+                     Internet use on an internet-connected game console in the respondent’s home for private purposes
+                     1
+                     Ticked
+                     Individuals where IU = 1
+                  Collected
+                     0
+                  Not ticked
+                     9
+                  Not applicable
+                     07. Information society participation
+                     Connection to the internet from anywhere
+                     IOT_IUHA
+                     Internet use on an internet-connected home audio system or smart speakers in the respondent’s home for private purposes
+                     1
+                     Ticked
+                     Individuals where IU = 1
+                  Collected
+                     0
+                  Not ticked
+                     9
+                  Not applicable
+                     07. Information society participation
+                     Connection to the internet from anywhere
+                     IOT_DCS
+                     Use of an internet-connected smart watch, fitness band, internet-connected goggles or headsets, safety- trackers, internet-connected accessories, internet-connected clothes or shoes for private purposes
+                     1
+                     Ticked
+                     Individuals where IU = 1
+                  Collected
+                     0
+                  Not ticked
+                     9
+                  Not applicable
+                     07. Information society participation
+                     Connection to the internet from anywhere
+                     IOT_DHE
+                     Use of internet-connected devices for monitoring blood pressure, sugar level, body weight (such as smart scales) or other internet-connected devices for health and medical care for private purposes
+                     1
+                     Ticked
+                     Individuals where IU = 1
+                  Collected
+                     0
+                  Not ticked
+                     9
+                  Not applicable
+                     07. Information society participation
+                     Connection to the internet from anywhere
+                     IOT_DTOY
+                     Use of toys connected to the internet, such as robot toys (including educational) or dolls for private purposes
+                     1
+                     Ticked
+                     Individuals where IU = 1
+                  Collected
+                     0
+                  Not ticked
+                     9
+                  Not applicable
+                     07. Information society participation
+                     Connection to the internet from anywhere
+                     IOT_DCAR
+                     Use of a car with built-in wireless internet connection for private purposes
+                     1
+                     Ticked
+                     Individuals where IU = 1
+                  Collected
+                     0
+                  Not ticked
+                     9
+                  Not applicable
+                     07. Information society participation
+                     Connection to the internet from anywhere
+                     IOT_USE
+                     Respondent used internet of things
+                     9
+                     IF IU = Blank or IU<> 1 THEN 9
+                     Individuals where IU = 1
+                  Derived
+                     1
+                  ELSE IF IOT_DEM = 1 or IOT_DSEC = 1 or IOT_DHA = 1 or IOT_DVA = 1 or IOT_IUTV = 1 or IOT_IUGC = 1 or IOT_IUHA = 1 or IOT_DCS = 1 or IOT_DHE = 1 or IOT_DTOY = 1 or IOT_DCAR = 1 THEN 1
+                     0
+                  ELSE 0
+                     07. Information society participation
+                     Connection to the internet from anywhere
+                     IOT_PSEC
+                     Problems encountered with the mentioned internet-connected devices or systems – security or privacy problems (e.g. the device or system was hacked, problems with the protection of information about the respondent and his/her family generated by those devices or systems)
+                     1
+                     Ticked
+                     Individuals where IOT_USE = 1
+                  Collected
+                     0
+                  Not ticked
+                     9
+                  Not applicable
+                     07. Information society participation
+                     Connection to the internet from anywhere
+                     IOT_PSHE
+                     Problems encountered with the mentioned internet-connected devices or systems – safety or health problems (e.g. the use of the device or system lead to an accident, injury or health problem)
+                     1
+                     Ticked
+                     Individuals where IOT_USE = 1
+                  Collected
+                     0
+                  Not ticked
+                     9
+                  Not applicable
+                     07. Information society participation
+                     Connection to the internet from anywhere
+                     IOT_PDU
+                     Problems encountered with the mentioned internet-connected devices or systems – difficulties with using the device (e.g. setting-up, installing, connecting, pairing the device)
+                     1
+                     Ticked
+                     Individuals where IOT_USE = 1
+                  Collected
+                     0
+                  Not ticked
+                     9
+                  Not applicable
+                     07. Information society participation
+                     Connection to the internet from anywhere
+                     IOT_POTH
+                     Problems encountered with the mentioned internet-connected devices or systems – other problems (such as connection problems, support problems)
+                     1
+                     Ticked
+                     Individuals where IOT_USE = 1
+                  Collected
+                     0
+                  Not ticked
+                     9
+                  Not applicable
+                     07. Information society participation
+                     Connection to the internet from anywhere
+                     IOT_PX
+                     Respondent has not encountered any problem with the mentioned internet-connected devices or systems
+                     1
+                     Ticked
+                     Individuals where IOT_USE = 1
+                  Collected
+                     0
+                  Not ticked
+                     9
+                  Not applicable
+                     07. Information society participation
+                     Effect of use
+                     ECO_DMOB
+                     Way in which the respondent dealt with his/her mobile phone or smartphone that he/she replaced or no longer use
+                     1
+                     It is still kept in respondent’s household
+                     Individuals where IU = 1
+                  Collected
+                     2
+                  It was sold or given away
+                     3
+                  It was disposed of in electronic waste collection/recycling (incl. leaving it to the retailer to dispose of)
+                     4
+                  It was disposed of but not in electronic waste collection/recycling
+                     5
+                  It was never bought or is still in use
+                     6
+                  Other
+                     Blank
+                  Not stated
+                     9
+                  Not applicable
+                     07. Information society participation
+                     Effect of use
+                     ECO_DLT
+                     Way in which the respondent dealt with his/her laptop or tablet that he/she replaced or no longer use
+                     1
+                     It is still kept in respondent’s household
+                     Individuals where IU = 1
+                  Collected
+                     2
+                  It was sold or given away
+                     3
+                  It was disposed of in electronic waste collection/recycling (incl. leaving it to the retailer to dispose of)
+                     4
+                  It was disposed of but not in electronic waste collection/recycling
+                     5
+                  It was never bought or is still in use
+                     6
+                  Other
+                     Blank
+                  Not stated
+                     9
+                  Not applicable
+                     07. Information society participation
+                     Effect of use
+                     ECO_DPC
+                     Way in which the respondent dealt with his/her desktop computer that he/she replaced or no longer use
+                     1
+                     It is still kept in respondent’s household
+                     Individuals where IU = 1
+                  Collected
+                     2
+                  It was sold or given away
+                     3
+                  It was disposed of in electronic waste collection/recycling (incl. leaving it to the retailer to dispose of)
+                     4
+                  It was disposed of but not in electronic waste collection/recycling
+                     5
+                  It was never bought or is still in use
+                     6
+                  Other
+                     Blank
+                  Not stated
+                     9
+                  Not applicable
+                     07. Information society participation
+                     Effect of use
+                     ECO_PP
+                        (Optional)
+                     Characteristics considered as important by the respondent when he/she most recently bought a mobile or smartphone, tablet, laptop or desktop computer – price
+                        (Optional)
+                     1
+                     Ticked
+                     Individuals where IU = 1
+                  Collected
+                     0
+                  Not ticked
+                     Blank
+                  Option not included
+                     9
+                  Not applicable
+                     07. Information society participation
+                     Effect of use
+                     ECO_PHD
+                        (Optional)
+                     Characteristics considered as important by the respondent when he/she most recently bought a mobile or smartphone, tablet, laptop or desktop computer – hard drive characteristics (storage, speed), processor speed
+                        (Optional)
+                     1
+                     Ticked
+                     Individuals where IU = 1
+                  Collected
+                     0
+                  Not ticked
+                     Blank
+                  Option not included
+                     9
+                  Not applicable
+                     07. Information society participation
+                     Effect of use
+                     ECO_PECD
+                        (Optional)
+                     Characteristics considered as important by the respondent when he/she most recently bought a mobile or smartphone, tablet, laptop or desktop computer – eco-design of the device e.g. durable, upgradeable and reparable designs that require fewer materials; environmentally friendly materials used for packaging, etc.
+                        (Optional)
+                     1
+                     Ticked
+                     Individuals where IU = 1
+                  Collected
+                     0
+                  Not ticked
+                     Blank
+                  Option not included
+                     9
+                  Not applicable
+                     07. Information society participation
+                     Effect of use
+                     ECO_PEG
+                        (Optional)
+                     Characteristics considered as important by the respondent when he/she most recently bought a mobile or smartphone, tablet, laptop or desktop computer – possibility to extend the life span of the device by buying extra guarantee
+                        (Optional)
+                     1
+                     Ticked
+                     Individuals where IU = 1
+                  Collected
+                     0
+                  Not ticked
+                     Blank
+                  Option not included
+                     9
+                  Not applicable
+                     07. Information society participation
+                     Effect of use
+                     ECO_PEE
+                        (Optional)
+                     Characteristics considered as important by the respondent when he/she most recently bought a mobile or smartphone, tablet, laptop or desktop computer – energy efficiency of the device
+                        (Optional)
+                     1
+                     Ticked
+                     Individuals where IU = 1
+                  Collected
+                     0
+                  Not ticked
+                     Blank
+                  Option not included
+                     9
+                  Not applicable
+                     07. Information society participation
+                     Effect of use
+                     ECO_PTBS
+                        (Optional)
+                     Characteristics considered as important by the respondent when he/she most recently bought a mobile or smartphone, tablet, laptop or desktop computer – a take-back scheme offered by manufacturer or seller (i.e. the manufacturer or seller takes the device which becomes obsolete at no cost or offers discounts to the client to purchase another device)
+                        (Optional)
+                     1
+                     Ticked
+                     Individuals where IU = 1
+                  Collected
+                     0
+                  Not ticked
+                     Blank
+                  Option not included
+                     9
+                  Not applicable
+                     07. Information society participation
+                     Effect of use
+                     ECO_PX
+                        (Optional)
+                     Characteristics considered as important by the respondent when he/she most recently bought a mobile or smartphone, tablet, laptop or desktop computer – the respondent has not considered any of the mentioned characteristics
+                        (Optional)
+                     1
+                     Ticked
+                     Individuals where IU = 1
+                  Collected
+                     0
+                  Not ticked
+                     Blank
+                  Option not included
+                     9
+                  Not applicable
+                     07. Information society participation
+                     Effect of use
+                     ECO_PBX
+                        (Optional)
+                     Characteristics considered as important by the respondent when he/she most recently bought a mobile or smartphone, tablet, laptop or desktop computer – the respondent never bought any of these devices
+                        (Optional)
+                     1
+                     Ticked
+                     Individuals where IU = 1
+                  Collected
+                     0
+                  Not ticked
+                     Blank
+                  Option not included
+                     9
+                  Not applicable

@@ -1,0 +1,2050 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML//EN" "xhtml-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><!-- CONVEX # converter_version:9.15.0 # generated_on:20231206-2203 # ELI version:0.10 --><head>
+      <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
+      <link type="text/css" rel="stylesheet" href="oj-convex.css"/>
+      <title>L_2015157EN.01002101.xml</title>
+   </head>
+   <body>
+      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+         <col width="10%"/>
+         <col width="10%"/>
+         <col width="60%"/>
+         <col width="20%"/>
+         <tbody>
+            <tr>
+               <td  >
+                  <p class="oj-hd-date">23.6.2015   </p>
+               </td>
+               <td  >
+                  <p class="oj-hd-lg">EN</p>
+               </td>
+               <td  >
+                  <p class="oj-hd-ti">Official Journal of the European Union</p>
+               </td>
+               <td  >
+                  <p class="oj-hd-oj">L 157/21</p>
+               </td>
+            </tr>
+         </tbody>
+      </table>
+      <hr class="oj-separator"/>
+      <div class="eli-container">
+         <div class="eli-main-title" id="tit_1">
+            <p class="oj-doc-ti" id="d1e40-21-1">
+            COMMISSION DELEGATED REGULATION (EU) 2015/962</p>
+            <p class="oj-doc-ti">of 18 December 2014
+         </p>
+            <p class="oj-doc-ti">supplementing Directive 2010/40/EU of the European Parliament and of the Council with regard to the provision of EU-wide real-time traffic information services</p>
+            <p class="oj-doc-ti">(Text with EEA relevance)</p>
+         </div>
+         <div class="eli-subdivision" id="pbl_1">
+            <p class="oj-normal">THE EUROPEAN COMMISSION,</p>
+            <div class="eli-subdivision" id="cit_1">
+               <p class="oj-normal">Having regard to the Treaty on the Functioning of the European Union,</p>
+            </div>
+            <div class="eli-subdivision" id="cit_2">
+               <p class="oj-normal">Having regard to Directive 2010/40/EU of the European Parliament and of the Council of 7 July 2010 on the framework for the deployment of Intelligent Transport Systems in the field of road transport and for interfaces with other modes of transport <a id="ntc1-L_2015157EN.01002101-E0001" href="#ntr1-L_2015157EN.01002101-E0001"
+                     >(<span class="oj-super oj-note-tag">1</span>)</a>, and in particular Article 7 thereof,</p>
+            </div>
+            <p class="oj-normal">Whereas:</p>
+            <div class="eli-subdivision" id="rct_1">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(1)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">Article 3(b) of Directive 2010/40/EU sets as a priority action the provision of EU-wide real-time traffic information services for the development and use of specifications and standards.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="rct_2">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(2)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">Article 6(1) of Directive 2010/40/EU requires the Commission to adopt specifications necessary to ensure compatibility, interoperability and continuity for the deployment and operational use of Intelligent Transport Systems (ITS) for the provision of EU-wide real-time traffic information services. This Regulation seeks to improve the accessibility, exchange, re-use and update of the road and traffic data required for the provision of high quality and continuous real-time traffic information services across the Union.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="rct_3">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(3)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">Article 5 of Directive 2010/40/EU provides that specifications adopted in accordance with Article 6 of this Directive should apply to the ITS applications and services when these are deployed without prejudice to the right of each Member State to decide on the deployment of such applications and services on its territory.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="rct_4">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(4)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">These specifications should apply to the provision of all real-time traffic information services without prejudice to particular specifications adopted in other acts under Directive 2010/40/EU, notably Commission Delegated Regulation (EU) No 885/2013 <a id="ntc2-L_2015157EN.01002101-E0002" href="#ntr2-L_2015157EN.01002101-E0002"
+                                 >(<span class="oj-super oj-note-tag">2</span>)</a> and Commission Delegated Regulation (EU) No 886/2013 <a id="ntc3-L_2015157EN.01002101-E0003" href="#ntr3-L_2015157EN.01002101-E0003"
+                                 >(<span class="oj-super oj-note-tag">3</span>)</a>.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="rct_5">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(5)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">A market for the provision of real-time traffic information services already exists in the Union and it is in the interest of both the users and customers as well as the providers of those services that the right framework conditions are created for this market in order to be preserved and further developed in innovative ways. As regards the provision of real-time traffic information services, Directive 2003/98/EC of the European Parliament and of the Council <a id="ntc4-L_2015157EN.01002101-E0004" href="#ntr4-L_2015157EN.01002101-E0004"
+                                 >(<span class="oj-super oj-note-tag">4</span>)</a> sets out minimum rules for the re-use of public sector information throughout the Union. With respect to the re-use of data held by road authorities and public road operators, the rules established by this Regulation, in particular the ones concerning data updates, are applicable without prejudice to the rules established by the Directive 2003/98/EC.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="rct_6">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(6)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">Directive 2007/2/EC of the European Parliament and of the Council <a id="ntc5-L_2015157EN.01002101-E0005" href="#ntr5-L_2015157EN.01002101-E0005"
+                                 >(<span class="oj-super oj-note-tag">5</span>)</a> creates a European Union spatial data infrastructure in order to enable the sharing of and public access to spatial information (including the spatial data theme ‘transport networks’) across the Union with a view to supporting Union environmental policies, and policies or activities which may have an impact on the environment. The specifications set out in this Regulation should be compatible with the specifications established by Directive 2007/2/EC and its implementing acts, in particular Commission Regulation (EU) No 1089/2010 <a id="ntc6-L_2015157EN.01002101-E0006" href="#ntr6-L_2015157EN.01002101-E0006"
+                                 >(<span class="oj-super oj-note-tag">6</span>)</a>. The extension of the application of these specifications to all static road data types might also promote further harmonisation in this field.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="rct_7">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(7)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">Regulation (EU) No 1315/2013 of the European Parliament and of the Council <a id="ntc7-L_2015157EN.01002101-E0007" href="#ntr7-L_2015157EN.01002101-E0007"
+                                 >(<span class="oj-super oj-note-tag">7</span>)</a> defines the road transport infrastructure that is part of the core and the comprehensive trans-European transport network. This Regulation should apply to the comprehensive trans-European road network as defined in Regulation (EU) No 1315/2013 as this network is where most of international road transport takes place. As most motorways are already included in this network, other motorways should also be covered by this Regulation for the sake of consistency for the road users. Recurring traffic externalities and other traffic management difficulties, such as congestion, air pollution or noise, are not limited to the trans-European road network or to motorways. In fact a significant share of recurring traffic congestion occurs in urban areas. Member States should therefore be allowed to apply these specifications to selected roads, beyond the trans-European road network and the motorway network, identified by them as priority zones. Given the continuously changing nature of traffic patterns, Member States should be allowed to update those priority zones.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="rct_8">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(8)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">Static road data, dynamic road status data and traffic data all have different characteristics and each should comply with appropriate requirements. Given the diversity of data sources ranging from infrastructure based sensors to vehicles acting as sensors, it is important that the specifications should apply to the relevant data categories regardless of the source of the data and technology used to create or update the data.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="rct_9">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(9)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">In case the personal data would happen to be processed, it should be, where possible, irreversibly anonymised. Moreover, it should be processed in accordance with the Union law, as set out, in particular, in Directive 95/46/EC of the European Parliament and of the Council <a id="ntc8-L_2015157EN.01002101-E0008" href="#ntr8-L_2015157EN.01002101-E0008"
+                                 >(<span class="oj-super oj-note-tag">8</span>)</a> and in Directive 2002/58/EC of the European Parliament and of the Council <a id="ntc9-L_2015157EN.01002101-E0009" href="#ntr9-L_2015157EN.01002101-E0009"
+                                 >(<span class="oj-super oj-note-tag">9</span>)</a>, and with the national legislations thereto. And it should comply with the principles of purpose limitation and data minimisation.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="rct_10">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(10)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">If the information service is to rely on the collection of data, including geo-location, from the end-users themselves or through cooperative systems in the future, then end-users should be clearly informed about the collection of such data, the arrangements for data collection and potential tracking, and the periods for which such data are kept. Appropriate technical measures should be deployed by public and private data collectors such as road operators, service providers and automotive industries to ensure anonymity of the data received from end-users or their vehicles.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="rct_11">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(11)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">In order to develop a harmonised and seamless provision of real-time traffic information services, Member States should rely on existing technical solutions and standards, provided by the European and international standardisation organisations, such as DATEX II (CEN/TS 16157 and subsequently upgraded versions) and ISO standards. For data types for which no standardised format is available, Member States and stakeholders should be encouraged to cooperate in order to reach an agreement on data definition, data format and metadata.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="rct_12">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(12)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">Several dynamic location referencing methods already exist in the Union and are being applied in Member States. The use of different location referencing methods should continue to be allowed. Member States and stakeholders, however, should be encouraged to cooperate with a view to reaching an agreement on allowed methods for location referencing, if necessary through European standardisation bodies.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="rct_13">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(13)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">The accessibility and regular update of static road data by road authorities and road operators are essential for enabling the production of up-to-date and accurate digital maps that are a key asset for reliable ITS applications. The digital map producers should be encouraged to integrate static road data updates into their existing map and map update services in a timely manner. In order to comply with public policies such as road safety, public authorities should be able to request service providers and digital map producers to correct inaccuracies in their data.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="rct_14">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(14)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">The accessibility of accurate and up-to-date static road data, dynamic road status data and traffic data are essential for the provision of real-time traffic information services across the Union. The relevant data are collected and stored by road authorities, road operators and real-time traffic information service providers. In order to facilitate the easy exchange and re-use of these data for the provision of such services, road authorities, road operators and real-time traffic information service providers should make the data, corresponding metadata and information on the quality of the data accessible to other road authorities, road operators, real-time traffic information service providers and digital map producers through a national or common access point. The access point can take the form of a repository, registry, web portal or similar depending on the type of data. Member States should regroup the existing public and private access points in a single point enabling access to all the types of relevant available data that fall within the scope of these specifications. Member States should be allowed to cooperate with one another to set up a common access point covering the available data of the participating Member States. Member States should be free to decide to use the access points established under other delegated acts adopted under Directive 2010/40/EU as the national access points for the data falling within the scope of this Regulation.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="rct_15">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(15)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">In order to allow road authorities, road operators, service providers and digital map producers to successfully and cost-efficiently discover and use the relevant data, it is necessary to properly describe the content and structure of this data using appropriate metadata.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="rct_16">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(16)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">These specifications should not oblige road authorities or road operators and service providers to start collecting any data that they are not already collecting or to digitise any data that is not already available in machine readable format. The specific requirements regarding the updates of static road data, dynamic road status data and traffic data should only apply to the data that is actually collected and available in machine readable format. At the same time Member States should be encouraged to look for cost-effective ways that are appropriate for their needs to digitise existing static road data.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="rct_17">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(17)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">These specifications should not oblige road authorities or road operators to define or implement traffic circulation plans and temporary traffic management measures. They should not oblige service providers to share any of their data with other service providers. Service providers should be free to conclude commercial agreements between themselves for the re-use of relevant data.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="rct_18">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(18)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">Member States and ITS stakeholders should be encouraged to cooperate to agree on common definitions of data quality with a view to use common data quality indicators throughout the traffic data value chain, such as the completeness, accuracy and up-to-dateness of the data, the acquisition method and location referencing method used, as well as quality checks applied. They should also be encouraged to work further to establish associated methods of quality measurement and monitoring of the different data types. Member States should be encouraged to share with each other their knowledge, experience and best practices in this field.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="rct_19">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(19)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">It is acknowledged that the use of road and traffic data and real-time traffic information services generated by private service providers can represent a cost-effective way for public authorities to improve traffic management as well as infrastructure management and maintenance. However, the specific terms and conditions applicable for the use or re-use of such data and associated services should be left to the parties concerned without prejudice to the provisions of Directive 2003/98/EC.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="rct_20">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(20)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">Private service providers may use static road data, dynamic road status data and traffic data collected by road authorities and road operators as input data for their own real-time traffic information services. The specific terms and conditions applicable for such re-use of these data should be left to the parties concerned without prejudice to the provisions of Directive 2003/98/EC.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="rct_21">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(21)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">In order to make sure that these specifications are correctly implemented, Member States should assess the compliance with the requirements concerning the accessibility, exchange, re-use and update of the road and traffic data by the road authorities, road operators, digital map producers and service providers. To that end the competent authorities should be free to rely on evidence-based declarations of compliance submitted by road authorities, road operators, digital map producers and service providers.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="rct_22">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(22)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">These specifications do not limit the freedom of expression of radio broadcasters insofar as they do not oblige them to take any specific position with respect to the information to be disseminated, and leave sufficient room for the Member States to take account of their national constitutional traditions as regards the freedom of expression of radio broadcasters.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="rct_23">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(23)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">The European Data Protection Supervisor was consulted in accordance with Article 28(2) of Regulation (EC) No 45/2001 of the European Parliament and of the Council <a id="ntc10-L_2015157EN.01002101-E0010" href="#ntr10-L_2015157EN.01002101-E0010"
+                                 >(<span class="oj-super oj-note-tag">10</span>)</a> and delivered an opinion on 17 June 2015,</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <p class="oj-normal">HAS ADOPTED THIS REGULATION:</p>
+         </div>
+         <div class="eli-subdivision" id="enc_1">
+            <div class="eli-subdivision" id="art_1">
+               <p id="d1e314-21-1" class="oj-ti-art">Article 1</p>
+               <div class="eli-title" id="art_1.tit_1">
+                  <p class="oj-sti-art">Subject matter and scope</p>
+               </div>
+               <p class="oj-normal">This Regulation establishes the specifications necessary in order to ensure the accessibility, exchange, re-use and update of road and traffic data by road authorities, road operators and service providers for the provision of EU-wide real-time traffic information services.</p>
+               <p class="oj-normal">It shall apply to the comprehensive trans-European road network, as well as motorways not included in this network, and priority zones identified by national authorities where they consider this to be relevant.</p>
+               <p class="oj-normal">It shall apply in accordance with Article 5 of Directive 2010/40/EU.</p>
+            </div>
+            <div class="eli-subdivision" id="art_2">
+               <p id="d1e325-21-1" class="oj-ti-art">Article 2</p>
+               <div class="eli-title" id="art_2.tit_1">
+                  <p class="oj-sti-art">Definitions</p>
+               </div>
+               <p class="oj-normal">For the purposes of this Regulation, the definitions in Article 4 of Directive 2010/40/EU shall apply.</p>
+               <p class="oj-normal">The following definitions shall also apply:</p>
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(1)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">‘core trans-European road network’ means the road transport infrastructure that is part of the core network as defined in Regulation (EU) No 1315/2013;</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(2)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">‘comprehensive trans-European road network’ means the road transport infrastructure that is part of the comprehensive network as defined in Regulation (EU) No 1315/2013 of the European Parliament and of the Council;</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(3)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">‘motorway’ means a road which is designated as such by the Member State in which it is located;</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(4)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">‘priority zones’ means road sections identified by national authorities where they consider this to be relevant, in particular in urban areas, that are not part of the comprehensive trans-European road network and are not motorways, based on the levels of recurring traffic congestion or other traffic management considerations;</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(5)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">‘accessibility of the data’ means a possibility to request and obtain the data at any time in a machine readable format;</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(6)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">‘static road data’ means road data that do not change often or on a regular basis, as listed in point 1 of the Annex;</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(7)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">‘dynamic road status data’ means road data that change often or on a regular basis and describe the status of the road, as listed in point 2 of the Annex;</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(8)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">‘traffic data’ means data on road traffic characteristics, as listed in point 3 of the Annex;</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(9)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">‘data update’ means any modification of the existing data, including its deletion or insertion of new or additional elements;</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(10)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">‘real-time traffic information’ means information derived from any static road data, dynamic road status data, traffic data, or the combination thereof, provided by any road authorities, road operators or service providers, for users and end-users, through any communication means;</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(11)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">‘real-time traffic information service’ means an ITS service that provides users, and end-users, immediately with real-time traffic information;</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(12)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">‘road authority’ means any public authority responsible for the planning, control or management of roads falling within its territorial competence;</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(13)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">‘road operator’ means any public or private entity that is responsible for the maintenance and management of the road;</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(14)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">‘service provider’ means any public or private provider of a real-time traffic information service, excluding a mere conveyer of information, to users and end-users;</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(15)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">‘user’ means any road authorities, road operators, service providers, and digital map producers;</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(16)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">‘end-user’ means any road user, a natural or legal person, who has access to real-time traffic information services;</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(17)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">‘access point’ means a digital interface where the static road data, dynamic road status data and traffic data, together with the corresponding metadata are made accessible for re-use to users, or where the sources and metadata of these data are made accessible for re-use to users;</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(18)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">‘metadata’ means a structured description of the contents of the data facilitating the discovery and use of this data;</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(19)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">‘discovery services’ means services allowing for the search of the requested data using the contents of the corresponding metadata and displaying such contents;</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(20)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">‘temporary traffic management measures’ means temporary measures intended to solve a given traffic disturbance and designed for example to control and guide traffic flows;</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(21)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">‘traffic circulation plans’ means permanent traffic management measures that are designed by traffic managers to control and guide traffic flows in response to permanent or recurring traffic disturbances.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="art_3">
+               <p id="d1e526-21-1" class="oj-ti-art">Article 3</p>
+               <div class="eli-title" id="art_3.tit_1">
+                  <p class="oj-sti-art">National access points</p>
+               </div>
+               <div id="003.001">
+                  <p class="oj-normal">1.   Each Member State shall set up a national access point. The national access point shall constitute a single point of access for users to the road and traffic data, including data updates, provided by the road authorities, road operators and service providers and concerning the territory of a given Member State.</p>
+               </div>
+               <div id="003.002">
+                  <p class="oj-normal">2.   Existing national access points that have been set up to comply with the requirements arising from other delegated acts adopted under Directive 2010/40/EU may be used, if deemed appropriate by the Member States, as national access points.</p>
+               </div>
+               <div id="003.003">
+                  <p class="oj-normal">3.   National access points shall provide appropriate discovery services to users.</p>
+               </div>
+               <div id="003.004">
+                  <p class="oj-normal">4.   Road authorities and road operators, in cooperation with digital map producers and service providers, shall ensure that they provide the appropriate metadata in order to allow users to discover and use the datasets to which access is provided through the national access points.</p>
+               </div>
+               <div id="003.005">
+                  <p class="oj-normal">5.   Two or more Member States may set up a common access point.</p>
+               </div>
+            </div>
+            <div class="eli-subdivision" id="art_4">
+               <p id="d1e556-21-1" class="oj-ti-art">Article 4</p>
+               <div class="eli-title" id="art_4.tit_1">
+                  <p class="oj-sti-art">Accessibility, exchange and re-use of static road data</p>
+               </div>
+               <div id="004.001">
+                  <p class="oj-normal">1.   For the purpose of facilitating the provision of compatible, interoperable, and continuous real-time traffic information services across the Union, road authorities and road operators shall provide the static road data they collect and update pursuant to Article 8 in a standardised format, if available, or in any other machine readable format.</p>
+               </div>
+               <div id="004.002">
+                  <p class="oj-normal">2.   The data referred to in paragraph 1 and the corresponding metadata including information on the quality thereof shall be accessible for exchange and re-use by any digital map producer or service provider within the Union:</p>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="4%"/>
+                     <col width="96%"/>
+                     <tbody>
+                        <tr>
+                           <td valign="top"  >
+                              <p class="oj-normal">(a)</p>
+                           </td>
+                           <td valign="top"  >
+                              <p class="oj-normal">on a non-discriminatory basis;</p>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="4%"/>
+                     <col width="96%"/>
+                     <tbody>
+                        <tr>
+                           <td valign="top"  >
+                              <p class="oj-normal">(b)</p>
+                           </td>
+                           <td valign="top"  >
+                              <p class="oj-normal">within a time-frame that ensures the timely provision of the real-time traffic information service;</p>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="4%"/>
+                     <col width="96%"/>
+                     <tbody>
+                        <tr>
+                           <td valign="top"  >
+                              <p class="oj-normal">(c)</p>
+                           </td>
+                           <td valign="top"  >
+                              <p class="oj-normal">through the national or common access point referred to in Article 3;</p>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="4%"/>
+                     <col width="96%"/>
+                     <tbody>
+                        <tr>
+                           <td valign="top"  >
+                              <p class="oj-normal">(d)</p>
+                           </td>
+                           <td valign="top"  >
+                              <p class="oj-normal">Road authorities, road operators, digital map producers and service providers using the static road data referred to in paragraph 1 shall collaborate in order to ensure that any inaccuracies related to static road data are signalled without delay to the road authorities and road operators from which the data originates.</p>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+               </div>
+               <div id="004.003">
+                  <p class="oj-normal">3.   When service providers use static road data referred to in paragraph 1 provided by road authorities and road operators, they shall take into account, as far as possible, any traffic circulation plans developed by the competent authorities.</p>
+               </div>
+            </div>
+            <div class="eli-subdivision" id="art_5">
+               <p id="d1e602-21-1" class="oj-ti-art">Article 5</p>
+               <div class="eli-title" id="art_5.tit_1">
+                  <p class="oj-sti-art">Accessibility, exchange and re-use of dynamic road status data</p>
+               </div>
+               <div id="005.001">
+                  <p class="oj-normal">1.   For the purpose of facilitating the provision of compatible, interoperable, and continuous real-time traffic information services across the Union, road authorities and road operators shall provide the dynamic road status data they collect and update pursuant to Article 9 in DATEX II (CEN/TS 16157 and subsequently upgraded versions) format or any machine-readable format fully compatible and interoperable with DATEX II.</p>
+               </div>
+               <div id="005.002">
+                  <p class="oj-normal">2.   The data referred to in paragraph 1 and the corresponding metadata including information on the quality thereof shall be accessible for exchange and re-use by any service provider within the Union:</p>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="4%"/>
+                     <col width="96%"/>
+                     <tbody>
+                        <tr>
+                           <td valign="top"  >
+                              <p class="oj-normal">(a)</p>
+                           </td>
+                           <td valign="top"  >
+                              <p class="oj-normal">on a non-discriminatory basis;</p>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="4%"/>
+                     <col width="96%"/>
+                     <tbody>
+                        <tr>
+                           <td valign="top"  >
+                              <p class="oj-normal">(b)</p>
+                           </td>
+                           <td valign="top"  >
+                              <p class="oj-normal">within a time-frame that ensures the timely provision of the real-time traffic information service;</p>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="4%"/>
+                     <col width="96%"/>
+                     <tbody>
+                        <tr>
+                           <td valign="top"  >
+                              <p class="oj-normal">(c)</p>
+                           </td>
+                           <td valign="top"  >
+                              <p class="oj-normal">through the national or common access point referred to in Article 3.</p>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+               </div>
+               <div id="005.003">
+                  <p class="oj-normal">3.   When service providers use dynamic road status data referred to in paragraph 1 provided by road authorities and road operators, they shall take into account, as far as possible, any temporary traffic management measures taken by the competent authorities.</p>
+               </div>
+            </div>
+            <div class="eli-subdivision" id="art_6">
+               <p id="d1e642-21-1" class="oj-ti-art">Article 6</p>
+               <div class="eli-title" id="art_6.tit_1">
+                  <p class="oj-sti-art">Accessibility, exchange and re-use of traffic data</p>
+               </div>
+               <div id="006.001">
+                  <p class="oj-normal">1.   For the purpose of facilitating the provision of compatible, interoperable, and continuous real-time traffic information services across the Union, road authorities and road operators shall provide the traffic data they collect and update pursuant to Article 10 in DATEX II (CEN/TS 16157 and subsequently upgraded versions) format or any machine-readable format fully compatible and interoperable with DATEX II.</p>
+               </div>
+               <div id="006.002">
+                  <p class="oj-normal">2.   The data referred to in paragraph 1 and the corresponding metadata including information on the quality thereof shall be accessible for exchange and re-use by any service provider within the Union:</p>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="4%"/>
+                     <col width="96%"/>
+                     <tbody>
+                        <tr>
+                           <td valign="top"  >
+                              <p class="oj-normal">(a)</p>
+                           </td>
+                           <td valign="top"  >
+                              <p class="oj-normal">on a non-discriminatory basis;</p>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="4%"/>
+                     <col width="96%"/>
+                     <tbody>
+                        <tr>
+                           <td valign="top"  >
+                              <p class="oj-normal">(b)</p>
+                           </td>
+                           <td valign="top"  >
+                              <p class="oj-normal">within a time-frame that ensures the timely provision of the real-time traffic information service;</p>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="4%"/>
+                     <col width="96%"/>
+                     <tbody>
+                        <tr>
+                           <td valign="top"  >
+                              <p class="oj-normal">(c)</p>
+                           </td>
+                           <td valign="top"  >
+                              <p class="oj-normal">through the national or common access point referred to in Article 3.</p>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+               </div>
+               <div id="006.003">
+                  <p class="oj-normal">3.   For the purpose of optimising traffic management, road authorities and road operators may request service providers to provide the traffic data they collect and update pursuant to Article 10. Such data shall be provided in DATEX II (CEN/TS 16157 and subsequently upgraded versions) format or any machine-readable format fully compatible and interoperable with DATEX II, through the access point referred to in Article 3 and accompanied by the corresponding metadata including information on the quality thereof.</p>
+               </div>
+            </div>
+            <div class="eli-subdivision" id="art_7">
+               <p id="d1e682-21-1" class="oj-ti-art">Article 7</p>
+               <div class="eli-title" id="art_7.tit_1">
+                  <p class="oj-sti-art">Data updates</p>
+               </div>
+               <p class="oj-normal">Real-time traffic information services shall be based on updates of static road data, dynamic road status data and traffic data, or any combination thereof. All data shall be regularly updated by the road authorities, road operators, service providers in accordance with the requirements set out in Articles 8 to 10. Road authorities, road operators, service providers shall in a timely manner correct any inaccuracies detected by them in their data or signalled to them by any user and end-users.</p>
+            </div>
+            <div class="eli-subdivision" id="art_8">
+               <p id="d1e689-21-1" class="oj-ti-art">Article 8</p>
+               <div class="eli-title" id="art_8.tit_1">
+                  <p class="oj-sti-art">Updating static road data</p>
+               </div>
+               <div id="008.001">
+                  <p class="oj-normal">1.   The updates of the static road data shall concern as a minimum the following parameters:</p>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="4%"/>
+                     <col width="96%"/>
+                     <tbody>
+                        <tr>
+                           <td valign="top"  >
+                              <p class="oj-normal">(a)</p>
+                           </td>
+                           <td valign="top"  >
+                              <p class="oj-normal">the type of static road data as set out in point 1 of the Annex concerned by the update;</p>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="4%"/>
+                     <col width="96%"/>
+                     <tbody>
+                        <tr>
+                           <td valign="top"  >
+                              <p class="oj-normal">(b)</p>
+                           </td>
+                           <td valign="top"  >
+                              <p class="oj-normal">the location of the condition concerned by the update;</p>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="4%"/>
+                     <col width="96%"/>
+                     <tbody>
+                        <tr>
+                           <td valign="top"  >
+                              <p class="oj-normal">(c)</p>
+                           </td>
+                           <td valign="top"  >
+                              <p class="oj-normal">the type of update (modification, insertion or deletion);</p>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="4%"/>
+                     <col width="96%"/>
+                     <tbody>
+                        <tr>
+                           <td valign="top"  >
+                              <p class="oj-normal">(d)</p>
+                           </td>
+                           <td valign="top"  >
+                              <p class="oj-normal">the description of the update;</p>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="4%"/>
+                     <col width="96%"/>
+                     <tbody>
+                        <tr>
+                           <td valign="top"  >
+                              <p class="oj-normal">(e)</p>
+                           </td>
+                           <td valign="top"  >
+                              <p class="oj-normal">the date on which the data has been updated;</p>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="4%"/>
+                     <col width="96%"/>
+                     <tbody>
+                        <tr>
+                           <td valign="top"  >
+                              <p class="oj-normal">(f)</p>
+                           </td>
+                           <td valign="top"  >
+                              <p class="oj-normal">the date and time when the change in a given condition has occurred or is planned to occur;</p>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="4%"/>
+                     <col width="96%"/>
+                     <tbody>
+                        <tr>
+                           <td valign="top"  >
+                              <p class="oj-normal">(g)</p>
+                           </td>
+                           <td valign="top"  >
+                              <p class="oj-normal">the quality of the data update.</p>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+                  <p class="oj-normal">The location of the condition concerned by the update shall be determined using a standardised or any other generally accepted dynamic location referencing method that enables unambiguous decoding and interpretation of this location.</p>
+               </div>
+               <div id="008.002">
+                  <p class="oj-normal">2.   Road authorities and road operators shall ensure the timely update of static road data and, where known and possible, provide these updates to users in advance.</p>
+               </div>
+               <div id="008.003">
+                  <p class="oj-normal">3.   When digital map producers and service providers use static road data updates, they shall ensure that these updates are processed in a timely manner in order to make the information accessible to end-users without delay.</p>
+               </div>
+            </div>
+            <div class="eli-subdivision" id="art_9">
+               <p id="d1e755-21-1" class="oj-ti-art">Article 9</p>
+               <div class="eli-title" id="art_9.tit_1">
+                  <p class="oj-sti-art">Updating dynamic road status data</p>
+               </div>
+               <div id="009.001">
+                  <p class="oj-normal">1.   The updates of the dynamic road status data shall concern as a minimum the following parameters:</p>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="4%"/>
+                     <col width="96%"/>
+                     <tbody>
+                        <tr>
+                           <td valign="top"  >
+                              <p class="oj-normal">(a)</p>
+                           </td>
+                           <td valign="top"  >
+                              <p class="oj-normal">the type of dynamic road status data as set out in point 2 of the Annex concerned by the update and, where appropriate, a short description of it;</p>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="4%"/>
+                     <col width="96%"/>
+                     <tbody>
+                        <tr>
+                           <td valign="top"  >
+                              <p class="oj-normal">(b)</p>
+                           </td>
+                           <td valign="top"  >
+                              <p class="oj-normal">the location of the event or condition concerned by the update;</p>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="4%"/>
+                     <col width="96%"/>
+                     <tbody>
+                        <tr>
+                           <td valign="top"  >
+                              <p class="oj-normal">(c)</p>
+                           </td>
+                           <td valign="top"  >
+                              <p class="oj-normal">the period of occurrence of the event or condition concerned by the update;</p>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="4%"/>
+                     <col width="96%"/>
+                     <tbody>
+                        <tr>
+                           <td valign="top"  >
+                              <p class="oj-normal">(d)</p>
+                           </td>
+                           <td valign="top"  >
+                              <p class="oj-normal">the quality of the data update.</p>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+                  <p class="oj-normal">The location of the event or condition concerned by the update shall be determined using a standardised or any other generally accepted dynamic location referencing method that enables unambiguous decoding and interpretation of this location.</p>
+               </div>
+               <div id="009.002">
+                  <p class="oj-normal">2.   Road authorities and road operators shall ensure the timely update of dynamic road status data and, where known and possible, provide these updates in advance.</p>
+               </div>
+               <div id="009.003">
+                  <p class="oj-normal">3.   The real-time traffic information shall be modified accordingly or withdrawn as soon as possible after the status of the dynamic road status data concerned has changed.</p>
+               </div>
+               <div id="009.004">
+                  <p class="oj-normal">4.   When service providers use dynamic road status data updates, they shall ensure that these are processed in a timely manner in order to make the information accessible to end-users without delay.</p>
+               </div>
+            </div>
+            <div class="eli-subdivision" id="art_10">
+               <p id="d1e808-21-1" class="oj-ti-art">Article 10</p>
+               <div class="eli-title" id="art_10.tit_1">
+                  <p class="oj-sti-art">Updating traffic data</p>
+               </div>
+               <div id="010.001">
+                  <p class="oj-normal">1.   The updates of the traffic data shall include as a minimum the following parameters:</p>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="4%"/>
+                     <col width="96%"/>
+                     <tbody>
+                        <tr>
+                           <td valign="top"  >
+                              <p class="oj-normal">(a)</p>
+                           </td>
+                           <td valign="top"  >
+                              <p class="oj-normal">the type of traffic data as set out in point 3 of the Annex concerned by the update and, where appropriate, a short description of it;</p>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="4%"/>
+                     <col width="96%"/>
+                     <tbody>
+                        <tr>
+                           <td valign="top"  >
+                              <p class="oj-normal">(b)</p>
+                           </td>
+                           <td valign="top"  >
+                              <p class="oj-normal">the location of the event or condition concerned by the update;</p>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="4%"/>
+                     <col width="96%"/>
+                     <tbody>
+                        <tr>
+                           <td valign="top"  >
+                              <p class="oj-normal">(c)</p>
+                           </td>
+                           <td valign="top"  >
+                              <p class="oj-normal">the quality of the data update.</p>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+                  <p class="oj-normal">The location of the event or condition concerned by the update shall be determined using a standardised or any other generally accepted dynamic location referencing method that enables unambiguous decoding and interpretation of this location.</p>
+               </div>
+               <div id="010.002">
+                  <p class="oj-normal">2.   The real-time traffic information shall be modified accordingly or withdrawn by road operators and service providers as soon as possible after the status of traffic data concerned has changed.</p>
+               </div>
+               <div id="010.003">
+                  <p class="oj-normal">3.   When service providers use traffic data updates, they shall ensure that these are processed in a timely manner in order to make the information accessible to end-users without delay.</p>
+               </div>
+            </div>
+            <div class="eli-subdivision" id="art_11">
+               <p id="d1e850-21-1" class="oj-ti-art">Article 11</p>
+               <div class="eli-title" id="art_11.tit_1">
+                  <p class="oj-sti-art">Assessment of compliance</p>
+               </div>
+               <div id="011.001">
+                  <p class="oj-normal">1.   Member States shall assess whether the requirements set out in Articles 3 to 10 are complied with by the road authorities, road operators, digital map producers and service providers in accordance with paragraphs 2 to 3.</p>
+               </div>
+               <div id="011.002">
+                  <p class="oj-normal">2.   In order to proceed to the assessment, the competent authorities of Member States may request from the road authorities, road operators, digital map producers and service providers the following documents:</p>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="4%"/>
+                     <col width="96%"/>
+                     <tbody>
+                        <tr>
+                           <td valign="top"  >
+                              <p class="oj-normal">(a)</p>
+                           </td>
+                           <td valign="top"  >
+                              <p class="oj-normal">a description of the road and traffic data, digital map or real-time traffic information services they provide as well as the information on the quality thereof and the conditions of re-use of these data;</p>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="4%"/>
+                     <col width="96%"/>
+                     <tbody>
+                        <tr>
+                           <td valign="top"  >
+                              <p class="oj-normal">(b)</p>
+                           </td>
+                           <td valign="top"  >
+                              <p class="oj-normal">an evidence-based declaration of compliance with the requirements set out in Articles 3 to 10.</p>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+               </div>
+               <div id="011.003">
+                  <p class="oj-normal">3.   Member States shall randomly check the correctness of the declarations referred to in point (b) of paragraph 2.</p>
+               </div>
+            </div>
+            <div class="eli-subdivision" id="art_12">
+               <p id="d1e885-21-1" class="oj-ti-art">Article 12</p>
+               <div class="eli-title" id="art_12.tit_1">
+                  <p class="oj-sti-art">Reporting</p>
+               </div>
+               <div id="012.001">
+                  <p class="oj-normal">1.   At the latest by 13 July 2017, Member States shall provide the Commission with a report on the measures undertaken, if any, to set up a national access point and on the modalities of its functioning, and where relevant, the list of motorways not included in the comprehensive trans-European road network and identified priority zones.</p>
+               </div>
+               <div id="012.002">
+                  <p class="oj-normal">2.   At the latest by 13 July 2018 and every two calendar years thereafter, Member States shall provide the Commission with a report containing the following information:</p>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="4%"/>
+                     <col width="96%"/>
+                     <tbody>
+                        <tr>
+                           <td valign="top"  >
+                              <p class="oj-normal">(a)</p>
+                           </td>
+                           <td valign="top"  >
+                              <p class="oj-normal">the progress made in terms of the accessibility, exchange and re-use of the road and traffic data types set out in the Annex;</p>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="4%"/>
+                     <col width="96%"/>
+                     <tbody>
+                        <tr>
+                           <td valign="top"  >
+                              <p class="oj-normal">(b)</p>
+                           </td>
+                           <td valign="top"  >
+                              <p class="oj-normal">the geographical scope and the road and traffic data content of real-time traffic information services and their quality, including the criteria used to define this quality and the means used to monitor it;</p>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="4%"/>
+                     <col width="96%"/>
+                     <tbody>
+                        <tr>
+                           <td valign="top"  >
+                              <p class="oj-normal">(c)</p>
+                           </td>
+                           <td valign="top"  >
+                              <p class="oj-normal">the results of the assessment of compliance referred to in Article 11 with the requirements set out in Articles 3 to 10;</p>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="4%"/>
+                     <col width="96%"/>
+                     <tbody>
+                        <tr>
+                           <td valign="top"  >
+                              <p class="oj-normal">(d)</p>
+                           </td>
+                           <td valign="top"  >
+                              <p class="oj-normal">where relevant, a description of changes to the national or common access point;</p>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="4%"/>
+                     <col width="96%"/>
+                     <tbody>
+                        <tr>
+                           <td valign="top"  >
+                              <p class="oj-normal">(e)</p>
+                           </td>
+                           <td valign="top"  >
+                              <p class="oj-normal">where relevant, a description of changes to the priority zones.</p>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+               </div>
+            </div>
+            <div class="eli-subdivision" id="art_13">
+               <p id="d1e938-21-1" class="oj-ti-art">Article 13</p>
+               <div class="eli-title" id="art_13.tit_1">
+                  <p class="oj-sti-art">Entry into force and application</p>
+               </div>
+               <p class="oj-normal">This Regulation shall enter into force on the twentieth day following that of its publication in the <span class="oj-italic">Official Journal of the European Union</span>.</p>
+               <p class="oj-normal">It shall apply from 13 July 2017.</p>
+            </div>
+         </div>
+         <div class="eli-subdivision" id="fnp_1">
+            <div class="oj-final">
+               <p class="oj-normal">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+               <p class="oj-normal">Done at Brussels, 18 December 2014.</p>
+               <div class="oj-signatory">
+                  <p class="oj-signatory">
+                     <span class="oj-italic">For the Commission</span>
+                  </p>
+                  <p class="oj-signatory">
+                     <span class="oj-italic">The President</span>
+                  </p>
+                  <p class="oj-signatory">Jean-Claude JUNCKER
+            </p>
+               </div>
+            </div>
+         </div>
+         <hr class="oj-note"/>
+         <p class="oj-note">
+            <a id="ntr1-L_2015157EN.01002101-E0001" href="#ntc1-L_2015157EN.01002101-E0001"
+               >(<span class="oj-super">1</span>)</a>  
+            <a href="http://publications.europa.eu/resource/oj/JOL_2010_207_R_TOC"
+               >OJ L 207, 6.8.2010, p. 1</a>.</p>
+         <p class="oj-note">
+            <a id="ntr2-L_2015157EN.01002101-E0002" href="#ntc2-L_2015157EN.01002101-E0002"
+               >(<span class="oj-super">2</span>)</a>  Commission Delegated Regulation (EU) No 885/2013 of 15 May 2013 supplementing ITS Directive 2010/40/EU of the European Parliament and of the Council with regard to the provision of information services for safe and secure parking places for trucks and commercial vehicles (<a href="http://publications.europa.eu/resource/oj/JOL_2013_247_R_TOC"
+               >OJ L 247, 18.9.2013, p. 1</a>).</p>
+         <p class="oj-note">
+            <a id="ntr3-L_2015157EN.01002101-E0003" href="#ntc3-L_2015157EN.01002101-E0003"
+               >(<span class="oj-super">3</span>)</a>  Commission Delegated Regulation (EU) No 886/2013 of 15 May 2013 supplementing Directive 2010/40/EU of the European Parliament and of the Council with regard to data and procedures for the provision, where possible, of road safety-related minimum universal traffic information free of charge to users (<a href="http://publications.europa.eu/resource/oj/JOL_2013_247_R_TOC"
+               >OJ L 247, 18.9.2013, p. 6</a>).</p>
+         <p class="oj-note">
+            <a id="ntr4-L_2015157EN.01002101-E0004" href="#ntc4-L_2015157EN.01002101-E0004"
+               >(<span class="oj-super">4</span>)</a>  Directive 2003/98/EC of the European Parliament and of the Council of 17 November 2003 on the re-use of public sector information (<a href="http://publications.europa.eu/resource/oj/JOL_2003_345_R_TOC"
+               >OJ L 345, 31.12.2003, p. 90</a>).</p>
+         <p class="oj-note">
+            <a id="ntr5-L_2015157EN.01002101-E0005" href="#ntc5-L_2015157EN.01002101-E0005"
+               >(<span class="oj-super">5</span>)</a>  Directive 2007/2/EC of the European Parliament and of the Council of 14 March 2007 establishing an Infrastructure for Spatial Information in the European Community (INSPIRE) (<a href="http://publications.europa.eu/resource/oj/JOL_2007_108_R_TOC"
+               >OJ L 108, 25.4.2007, p. 1</a>).</p>
+         <p class="oj-note">
+            <a id="ntr6-L_2015157EN.01002101-E0006" href="#ntc6-L_2015157EN.01002101-E0006"
+               >(<span class="oj-super">6</span>)</a>  Commission Regulation (EU) No 1089/2010 of 23 November 2010 implementing Directive 2007/2/EC of the European Parliament and of the Council as regards interoperability of spatial data sets and services (<a href="http://publications.europa.eu/resource/oj/JOL_2010_323_R_TOC"
+               >OJ L 323, 8.12.2010, p. 11</a>).</p>
+         <p class="oj-note">
+            <a id="ntr7-L_2015157EN.01002101-E0007" href="#ntc7-L_2015157EN.01002101-E0007"
+               >(<span class="oj-super">7</span>)</a>  Regulation (EU) No 1315/2013 of the European Parliament and of the Council of 11 December 2013 on Union guidelines for the development of the trans-European transport network and repealing Decision No 661/2010/EU (<a href="http://publications.europa.eu/resource/oj/JOL_2013_348_R_TOC"
+               >OJ L 348, 20.12.2013, p. 1</a>).</p>
+         <p class="oj-note">
+            <a id="ntr8-L_2015157EN.01002101-E0008" href="#ntc8-L_2015157EN.01002101-E0008"
+               >(<span class="oj-super">8</span>)</a>  Directive 95/46/EC of the European Parliament and of the Council of 24 October 1995 on the protection of individuals with regard to the processing of personal data and on the free movement of such data (<a href="http://publications.europa.eu/resource/oj/JOL_1995_281_R_TOC"
+               >OJ L 281, 23.11.1995, p. 31</a>).</p>
+         <p class="oj-note">
+            <a id="ntr9-L_2015157EN.01002101-E0009" href="#ntc9-L_2015157EN.01002101-E0009"
+               >(<span class="oj-super">9</span>)</a>  Directive 2002/58/EC of the European Parliament and of the Council of 12 July 2002 concerning the processing of personal data and the protection of privacy in the electronic communications sector (<a href="http://publications.europa.eu/resource/oj/JOL_2002_201_R_TOC"
+               >OJ L 201, 31.7.2002, p. 37</a>).</p>
+         <p class="oj-note">
+            <a id="ntr10-L_2015157EN.01002101-E0010" href="#ntc10-L_2015157EN.01002101-E0010"
+               >(<span class="oj-super">10</span>)</a>  Regulation (EC) No 45/2001 of the European Parliament and of the Council of 18 December 2000 on the protection of individuals with regard to the processing of personal data by the Community institutions and bodies and on the free movement of such data (<a href="http://publications.europa.eu/resource/oj/JOL_2001_008_R_TOC"
+               >OJ L 8, 12.1.2001, p. 1</a>).</p>
+      </div>
+      <hr class="oj-doc-sep"/>
+      <div id="L_2015157EN.01003001">
+         <div class="eli-container" id="anx_1">
+            <p class="oj-doc-ti" id="d1e32-30-1">ANNEX</p>
+            <p id="d1e38-30-1" class="oj-ti-grseq-1">
+               <span class="oj-bold">DATA CATEGORIES</span>
+            </p>
+            <p id="L_2015157EN.01003001-g-001-0001" class="oj-ti-grseq-1">(as referred to in Articles 2, 8, 9, 10 and 12)</p>
+            <table width="100%" border="0" cellspacing="0" cellpadding="0">
+               <col width="4%"/>
+               <col width="96%"/>
+               <tbody>
+                  <tr>
+                     <td valign="top"  >
+                        <p class="oj-normal">1.</p>
+                     </td>
+                     <td valign="top"  >
+                        <p class="oj-normal">The types of the static road data include in particular:</p>
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                           <col width="4%"/>
+                           <col width="96%"/>
+                           <tbody>
+                              <tr>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">(a)</p>
+                                 </td>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">road network links and their physical attributes, such as:</p>
+                                    <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                       <col width="4%"/>
+                                       <col width="96%"/>
+                                       <tbody>
+                                          <tr>
+                                             <td valign="top"  >
+                                                <p class="oj-normal">(i)</p>
+                                             </td>
+                                             <td valign="top"  >
+                                                <p class="oj-normal">geometry;</p>
+                                             </td>
+                                          </tr>
+                                       </tbody>
+                                    </table>
+                                    <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                       <col width="4%"/>
+                                       <col width="96%"/>
+                                       <tbody>
+                                          <tr>
+                                             <td valign="top"  >
+                                                <p class="oj-normal">(ii)</p>
+                                             </td>
+                                             <td valign="top"  >
+                                                <p class="oj-normal">road width;</p>
+                                             </td>
+                                          </tr>
+                                       </tbody>
+                                    </table>
+                                    <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                       <col width="4%"/>
+                                       <col width="96%"/>
+                                       <tbody>
+                                          <tr>
+                                             <td valign="top"  >
+                                                <p class="oj-normal">(iii)</p>
+                                             </td>
+                                             <td valign="top"  >
+                                                <p class="oj-normal">number of lanes;</p>
+                                             </td>
+                                          </tr>
+                                       </tbody>
+                                    </table>
+                                    <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                       <col width="4%"/>
+                                       <col width="96%"/>
+                                       <tbody>
+                                          <tr>
+                                             <td valign="top"  >
+                                                <p class="oj-normal">(iv)</p>
+                                             </td>
+                                             <td valign="top"  >
+                                                <p class="oj-normal">gradients;</p>
+                                             </td>
+                                          </tr>
+                                       </tbody>
+                                    </table>
+                                    <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                       <col width="4%"/>
+                                       <col width="96%"/>
+                                       <tbody>
+                                          <tr>
+                                             <td valign="top"  >
+                                                <p class="oj-normal">(v)</p>
+                                             </td>
+                                             <td valign="top"  >
+                                                <p class="oj-normal">junctions;</p>
+                                             </td>
+                                          </tr>
+                                       </tbody>
+                                    </table>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                           <col width="4%"/>
+                           <col width="96%"/>
+                           <tbody>
+                              <tr>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">(b)</p>
+                                 </td>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">road classification;</p>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                           <col width="4%"/>
+                           <col width="96%"/>
+                           <tbody>
+                              <tr>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">(c)</p>
+                                 </td>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">traffic signs reflecting traffic regulations and identifying dangers, such as:</p>
+                                    <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                       <col width="4%"/>
+                                       <col width="96%"/>
+                                       <tbody>
+                                          <tr>
+                                             <td valign="top"  >
+                                                <p class="oj-normal">(i)</p>
+                                             </td>
+                                             <td valign="top"  >
+                                                <p class="oj-normal">access conditions for tunnels;</p>
+                                             </td>
+                                          </tr>
+                                       </tbody>
+                                    </table>
+                                    <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                       <col width="4%"/>
+                                       <col width="96%"/>
+                                       <tbody>
+                                          <tr>
+                                             <td valign="top"  >
+                                                <p class="oj-normal">(ii)</p>
+                                             </td>
+                                             <td valign="top"  >
+                                                <p class="oj-normal">access conditions for bridges;</p>
+                                             </td>
+                                          </tr>
+                                       </tbody>
+                                    </table>
+                                    <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                       <col width="4%"/>
+                                       <col width="96%"/>
+                                       <tbody>
+                                          <tr>
+                                             <td valign="top"  >
+                                                <p class="oj-normal">(iii)</p>
+                                             </td>
+                                             <td valign="top"  >
+                                                <p class="oj-normal">permanent access restrictions;</p>
+                                             </td>
+                                          </tr>
+                                       </tbody>
+                                    </table>
+                                    <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                       <col width="4%"/>
+                                       <col width="96%"/>
+                                       <tbody>
+                                          <tr>
+                                             <td valign="top"  >
+                                                <p class="oj-normal">(iv)</p>
+                                             </td>
+                                             <td valign="top"  >
+                                                <p class="oj-normal">other traffic regulations;</p>
+                                             </td>
+                                          </tr>
+                                       </tbody>
+                                    </table>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                           <col width="4%"/>
+                           <col width="96%"/>
+                           <tbody>
+                              <tr>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">(d)</p>
+                                 </td>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">speed limits;</p>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                           <col width="4%"/>
+                           <col width="96%"/>
+                           <tbody>
+                              <tr>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">(e)</p>
+                                 </td>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">traffic circulation plans;</p>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                           <col width="4%"/>
+                           <col width="96%"/>
+                           <tbody>
+                              <tr>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">(f)</p>
+                                 </td>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">freight delivery regulations;</p>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                           <col width="4%"/>
+                           <col width="96%"/>
+                           <tbody>
+                              <tr>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">(g)</p>
+                                 </td>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">location of tolling stations;</p>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                           <col width="4%"/>
+                           <col width="96%"/>
+                           <tbody>
+                              <tr>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">(h)</p>
+                                 </td>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">identification of tolled roads, applicable fixed road user charges and available payment methods;</p>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                           <col width="4%"/>
+                           <col width="96%"/>
+                           <tbody>
+                              <tr>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">(i)</p>
+                                 </td>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">location of parking places and service areas;</p>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                           <col width="4%"/>
+                           <col width="96%"/>
+                           <tbody>
+                              <tr>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">(j)</p>
+                                 </td>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">location of charging points for electric vehicles and the conditions for their use;</p>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                           <col width="4%"/>
+                           <col width="96%"/>
+                           <tbody>
+                              <tr>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">(k)</p>
+                                 </td>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">location of compressed natural gas, liquefied natural gas, liquefied petroleum gas stations;</p>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                           <col width="4%"/>
+                           <col width="96%"/>
+                           <tbody>
+                              <tr>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">(l)</p>
+                                 </td>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">location of public transport stops and interchange points;</p>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                           <col width="4%"/>
+                           <col width="96%"/>
+                           <tbody>
+                              <tr>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">(m)</p>
+                                 </td>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">location of delivery areas.</p>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                     </td>
+                  </tr>
+               </tbody>
+            </table>
+            <table width="100%" border="0" cellspacing="0" cellpadding="0">
+               <col width="4%"/>
+               <col width="96%"/>
+               <tbody>
+                  <tr>
+                     <td valign="top"  >
+                        <p class="oj-normal">2.</p>
+                     </td>
+                     <td valign="top"  >
+                        <p class="oj-normal">The types of the dynamic road status data include in particular:</p>
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                           <col width="4%"/>
+                           <col width="96%"/>
+                           <tbody>
+                              <tr>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">(a)</p>
+                                 </td>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">road closures;</p>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                           <col width="4%"/>
+                           <col width="96%"/>
+                           <tbody>
+                              <tr>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">(b)</p>
+                                 </td>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">lane closures;</p>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                           <col width="4%"/>
+                           <col width="96%"/>
+                           <tbody>
+                              <tr>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">(c)</p>
+                                 </td>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">bridge closures;</p>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                           <col width="4%"/>
+                           <col width="96%"/>
+                           <tbody>
+                              <tr>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">(d)</p>
+                                 </td>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">overtaking bans on heavy goods vehicles;</p>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                           <col width="4%"/>
+                           <col width="96%"/>
+                           <tbody>
+                              <tr>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">(e)</p>
+                                 </td>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">roadworks;</p>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                           <col width="4%"/>
+                           <col width="96%"/>
+                           <tbody>
+                              <tr>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">(f)</p>
+                                 </td>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">accidents and incidents;</p>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                           <col width="4%"/>
+                           <col width="96%"/>
+                           <tbody>
+                              <tr>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">(g)</p>
+                                 </td>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">dynamic speed limits;</p>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                           <col width="4%"/>
+                           <col width="96%"/>
+                           <tbody>
+                              <tr>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">(h)</p>
+                                 </td>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">direction of travel on reversible lanes;</p>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                           <col width="4%"/>
+                           <col width="96%"/>
+                           <tbody>
+                              <tr>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">(i)</p>
+                                 </td>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">poor road conditions;</p>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                           <col width="4%"/>
+                           <col width="96%"/>
+                           <tbody>
+                              <tr>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">(j)</p>
+                                 </td>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">temporary traffic management measures;</p>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                           <col width="4%"/>
+                           <col width="96%"/>
+                           <tbody>
+                              <tr>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">(k)</p>
+                                 </td>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">variable road user charges and available payment methods;</p>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                           <col width="4%"/>
+                           <col width="96%"/>
+                           <tbody>
+                              <tr>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">(l)</p>
+                                 </td>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">availability of parking places;</p>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                           <col width="4%"/>
+                           <col width="96%"/>
+                           <tbody>
+                              <tr>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">(m)</p>
+                                 </td>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">availability of delivery areas;</p>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                           <col width="4%"/>
+                           <col width="96%"/>
+                           <tbody>
+                              <tr>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">(n)</p>
+                                 </td>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">cost of parking;</p>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                           <col width="4%"/>
+                           <col width="96%"/>
+                           <tbody>
+                              <tr>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">(o)</p>
+                                 </td>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">availability of charging points for electric vehicles;</p>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                           <col width="4%"/>
+                           <col width="96%"/>
+                           <tbody>
+                              <tr>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">(p)</p>
+                                 </td>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">weather conditions affecting road surface and visibility.</p>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                        <p class="oj-normal">Those short-term data need not to be included in digital map updates as they shall not be considered as changes of a permanent nature.</p>
+                     </td>
+                  </tr>
+               </tbody>
+            </table>
+            <table width="100%" border="0" cellspacing="0" cellpadding="0">
+               <col width="4%"/>
+               <col width="96%"/>
+               <tbody>
+                  <tr>
+                     <td valign="top"  >
+                        <p class="oj-normal">3.</p>
+                     </td>
+                     <td valign="top"  >
+                        <p class="oj-normal">The types of the traffic data include in particular:</p>
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                           <col width="4%"/>
+                           <col width="96%"/>
+                           <tbody>
+                              <tr>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">(a)</p>
+                                 </td>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">traffic volume;</p>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                           <col width="4%"/>
+                           <col width="96%"/>
+                           <tbody>
+                              <tr>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">(b)</p>
+                                 </td>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">speed;</p>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                           <col width="4%"/>
+                           <col width="96%"/>
+                           <tbody>
+                              <tr>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">(c)</p>
+                                 </td>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">location and length of traffic queues;</p>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                           <col width="4%"/>
+                           <col width="96%"/>
+                           <tbody>
+                              <tr>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">(d)</p>
+                                 </td>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">travel times;</p>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                           <col width="4%"/>
+                           <col width="96%"/>
+                           <tbody>
+                              <tr>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">(e)</p>
+                                 </td>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">waiting time at border crossings to non-EU Member States.</p>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                     </td>
+                  </tr>
+               </tbody>
+            </table>
+         </div>
+      </div>
+      <hr class="oj-doc-end"/>
+   </body>
+</html>
