@@ -13,8 +13,7 @@ def extract_text(node):
         for child in node:
             text += extract_text(child)
 
-        return text
-    
+        return text   
 
 def write_text_to_file(text, text_file_path):
     with open(text_file_path, 'w') as file:

@@ -1,0 +1,31 @@
+prefix cdm: <http://publications.europa.eu/ontology/cdm#>
+prefix skos: <http://www.w3.org/2004/02/skos/core#>
+prefix dc: <http://purl.org/dc/elements/1.1/>
+select distinct ?concept ?identifier ?preflabel ?altlabel
+GROUP_CONCAT(DISTINCT ?broader; separator=";\r\n") AS ?broaders
+GROUP_CONCAT(DISTINCT ?narrower; separator=";\r\n") AS ?narrowers
+GROUP_CONCAT(DISTINCT ?isTopConceptOf; separator=";\r\n") AS ?isTopConceptOfs
+GROUP_CONCAT(DISTINCT ?related; separator=";\r\n") AS ?relateds
+where { graph <http://eurovoc.europa.eu/100141> {
+?concept skos:prefLabel ?preflabel.
+FILTER (lang(?preflabel ) = 'en')
+OPTIONAL{
+?concept skos:altLabel ?altlabel.
+FILTER (lang(?altlabel ) = 'en').
+}
+OPTIONAL{
+{?concept skos:broader ?broader.}
+UNION {?broader skos:narrower ?concept.}
+}
+OPTIONAL{
+{?concept skos:narrower ?narrower.}
+UNION {?narrower skos:broader ?concept.}
+}
+OPTIONAL{?concept skos:topConceptOf ?isTopConceptOf.}
+OPTIONAL{
+{?concept skos:related ?related.}
+UNION{?related skos:related ?concept.}
+}
+?concept dc:identifier ?identifier.
+}
+}
