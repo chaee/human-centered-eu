@@ -45,7 +45,7 @@ def send_request(sparql_query):
 
 
 
-def to_json_cellar_response(query_type, eurovoc_code):
+def to_json_cellar_response(query_type, eurovoc_code=None):
     sparql_query, qry_name = get_qry(query_type, eurovoc_code)
 
     if eurovoc_code:
@@ -59,7 +59,7 @@ def to_json_cellar_response(query_type, eurovoc_code):
     timestamp = str(datetime.now().strftime("%Y%m%d-%H%M%S"))
    
     sparql_query_results_file = sparql_query_results_dir + qry_name + timestamp + ".json"
-    doctype = sparql_query_results_file.split('/')[-1].split('_')[0]
+    doctype = sparql_query_results_file.split('/')[-1].replace('.json', '').split('_')[0]
 
     sparql_query_results = send_request(sparql_query)
 

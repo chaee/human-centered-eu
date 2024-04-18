@@ -11,23 +11,21 @@ import os
 import json
 import requests
 
-def extract_urls(json_path, flag=None):
+def extract_urls(json_path):
 # read urls from the query result csv file
     urls = []
     print(json_path)
     #json_path = 'queries/sparql_query_results/query_results_20240412-121407.json'
-    doctype = json_path.split('/')[-1].split('_')[0]
-    json_file_name = os.path.basename(json_path)
-
-    if flag.startswith('legal-in-force'):
+    
+    #if flag.startswith('legal-in-force'):
     # extract urls from legislation in-force documents
-        with open(json_path, 'r') as file:
-            data = json.load(file)
-            # Extract the URL
-            for result in data['results']['bindings']:
-                url = result['work']['value']
-                print(url)
-                urls.append(url)
+    with open(json_path, 'r') as file:
+        data = json.load(file)
+        # Extract the URL
+        for result in data['results']['bindings']:
+            url = result['work']['value']
+            print(url)
+            urls.append(url)
     return urls
 
 
@@ -59,8 +57,3 @@ def request_urls(urls, doctype):
 
         parse_xml(xml_file_path, text_file_path)
 
-json_path = 'queries/sparql_query_results/legal-in-force-EUROVOC-3030_20240418-155200.json'
-doctype = json_path.split('/')[-1].split('_')[0]
-
-urls = extract_urls(json_path, doctype)
-request_urls(urls, doctype)  

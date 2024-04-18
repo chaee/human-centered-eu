@@ -19,11 +19,12 @@ How to collect relevant EUROVOC concepts?
 ...
 '''
 
-query_type = 'legal-in-force-EUROVOC.rq'
-eurovoc_code = '5188'
+query_types = ['all-eurovoc-concepts.rq', 'all-eu-treaties.rq', ('legal-in-force-EUROVOC.rq', '3030')]
+query_type = query_types[1]
+# eurovoc_code = '5188'
 
-json_path, doctype = to_json_cellar_response(query_type, eurovoc_code)
+json_path, doctype = to_json_cellar_response(query_type)
 #json_path = 'queries/sparql_query_results/legal-in-force-EUROVOC-3030_20240418-155200.json'
 
-urls = extract_urls(json_path, doctype)
+urls = extract_urls(json_path)#, doctype)
 request_urls(urls, doctype)  
