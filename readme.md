@@ -3,30 +3,30 @@
 📦human-centered-eu   
  ┣ 📂analyses  
  ┃ ┗ 📜human_concordance.txt   
- ┣:**📂concat_results**:sparkles:  
+ ┣:**📂concat_results**:sparkless:  
  ┃ ┣ 📜all-eu-treaties-20240418-162444.txt   
  ┃ ┣ 📜legal-in-force-EUROVOC-3030.txt  
  ┃ ┣ 📜legal-in-force-EUROVOC-3231.txt  
  ┃ ┣ 📜legal-in-force-EUROVOC-5188.txt  
  ┃ ┗ 📜legal-in-force-EUROVOC-5333.txt  
  ┣ 📂queries  
- ┃ ┣ 📂sparql_queries :sparkle:*SPARQL queries for certain task*  
- ┃ ┃ ┣ 📜all-eu-leg-in-force.rq :sparkle:*all EU legislations in force (WIP)*  
- ┃ ┃ ┣ 📜all-eu-treaties.rq :sparkle:*all EU treaties*  
- ┃ ┃ ┣ 📜all-eurovoc-concepts.rq :sparkle:*EU legislations in force about certain EUROVOC concept*  
+ ┃ ┣ 📂sparql_queries :sparkles:*SPARQL queries for certain task*  
+ ┃ ┃ ┣ 📜all-eu-leg-in-force.rq :sparkles:*all EU legislations in force (WIP)*  
+ ┃ ┃ ┣ 📜all-eu-treaties.rq :sparkles:*all EU treaties*  
+ ┃ ┃ ┣ 📜all-eurovoc-concepts.rq :sparkles:*EU legislations in force about certain EUROVOC concept*  
  ┃ ┃ ┗ 📜legal-in-force-EUROVOC.rq  
- ┃ ┗ 📂sparql_query_results :sparkle:*saves the query result in .json :sparkle:*  
+ ┃ ┗ 📂sparql_query_results :sparkles:*saves the query result in .json :sparkles:*  
  ┃ ┃ ┣ 📜all-eu-treaties-20240418-162253.json  
  ┃ ┃ ┣ 📜all-eu-treaties-20240418-162444.json  
  ┃ ┃ ┣ 📜all-eu-treaties_20240412-145449.json  
  ┃ ┃ ┣ 📜all-eurovoc-concepts_20240412-144328.json  
  ┃ ┃ ┣ 📜curl_command.txt  
- ┃ ┃ ┣ 📜legal-in-force-EUROVOC-3030_20240418-155200.json :sparkle:*naming convention: type of query - EUROVOC identifier - querying date and time*  
+ ┃ ┃ ┣ 📜legal-in-force-EUROVOC-3030_20240418-155200.json :sparkles:*naming convention: type of query - EUROVOC identifier - querying date and time*  
  ┃ ┃ ┣ 📜legal-in-force-EUROVOC-3030_20240418-160328.json  
  ...  
  ┃ ┃ ┣ 📜legal-in-force-EUROVOC-c_65b9cd79_20240418-160709.json  
  ┃ ┃ ┗ 📜query_results_20240412-121407.json  
- ┣ 📂txt_results :sparkle:*transforms xml file into readble text for each document*  
+ ┣ 📂txt_results :sparkles:*transforms xml file into readble text for each document*  
  ┃ ┣ 📂all-eu-treaties-20240418-162444  
  ┃ ┃ ┣ 📜00348c0c-c2c0-413b-b0d9-ca6519907f9d.txt  
 ...  
@@ -41,11 +41,11 @@
 ...  
  ┃ ┗ 📂legal-in-force-EUROVOC-5333  
  ┃ ┃ ┗ 📜28907e25-7c65-11e9-9f05-01aa75ed71a1.txt  
- ┣ 📜analyze.py :sparkle:*run text analysis on text files*  
- ┣ 📜compose_qry.py :sparkle:*modify SPARQL query*  
- ┣ 📜concatenate.py :sparkle:*concatenate files into one document based on the folder*  
- ┣ 📜curl_urls.py :sparkle:*send request urls (achieved by querying cellar) to the endpoint*  
- ┣ 📜eurovoc_concepts.csv :sparkle:*readible list of relevant EUROVOC conepts (WIP)*  
- ┣ 📜query_cellar.py :sparkle:*send SPARQL query to the Celar*  
- ┣ 📜run_together.py :sparkle:*query cellar - curl urls - format in one script*  
- ┗ 📜xml_to_txt.py :sparkle:*modify xml to txt*  
+ ┣ 📜analyze.py :sparkles:*run text analysis on text files*  
+ ┣ 📜compose_qry.py :sparkles:*modify SPARQL query*  
+ ┣ 📜concatenate.py :sparkles:*concatenate files into one document based on the folder*  
+ ┣ 📜curl_urls.py :sparkles:*send request urls (achieved by querying cellar) to the endpoint*  
+ ┣ 📜eurovoc_concepts.csv :sparkles:*readible list of relevant EUROVOC conepts (WIP)*  
+ ┣ 📜query_cellar.py :sparkles:*send SPARQL query to the Celar*  
+ ┣ 📜run_together.py :sparkles:*query cellar - curl urls - format in one script*  
+ ┗ 📜xml_to_txt.py :sparkles:*modify xml to txt*  
