@@ -1,0 +1,9 @@
+    CELEX1
+    CELEX1
+    Documents concerning the accession to the European Communities of the Kingdom of Denmark, Ireland, the Kingdom of Norway and the United Kingdom of Great Britain and Northern Ireland
+    CELEX1
+    cdm:CDM_2.1.7  tdm:1523  xslt:3945 saxon:9.0.0.1J JVM:1.6.0_29 metaconvJar:1.2.0 builddate:19/05/2014 08:53:27
+    Documents concerning the accession to the European Communities of the Kingdom of Denmark, Ireland, the Kingdom of Norway and the United Kingdom of Great Britain and Northern Ireland
+    eng
+    en
+    2021-11-16T14:28:31.858+01:00

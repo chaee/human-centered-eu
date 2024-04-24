@@ -1,0 +1,9 @@
+  CELEX1
+    cdm:CDM_2.1.7  tdm:1523  xslt:3945 saxon:9.0.0.1J JVM:1.6.0_29 metaconvJar:1.2.0 builddate:16/05/2014 08:32:30
+    Treaty amending certain provisions of the Protocol on the Statute of the European Investment Bank
+    Treaty amending certain provisions of the Protocol on the Statute of the European Investment Bank
+    CELEX1
+    CELEX1
+    eng
+    en
+    2014-05-16T09:11:39.308+02:00
