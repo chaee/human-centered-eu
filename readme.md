@@ -1,4 +1,4 @@
-# Collecting legal documents from EU by quering EU Cellar (The semantic repository of the Publications Office)  
+# Collecting EU legal documents by quering EU Cellar (The semantic repository of the Publications Office)  
 ## File structure
 📦human-centered-eu   
  ┣ 📂analyses  
