@@ -2,8 +2,8 @@
 ## File structure
 📦human-centered-eu   
  ┣ 📂analyses  
- ┃ ┗ 📜human_concordance.txt   t
- ┣ :sparkle:**📂concat_results**  
+ ┃ ┗ 📜human_concordance.txt   
+ ┣:**📂concat_results**:sparkles:  
  ┃ ┣ 📜all-eu-treaties-20240418-162444.txt   
  ┃ ┣ 📜legal-in-force-EUROVOC-3030.txt  
  ┃ ┣ 📜legal-in-force-EUROVOC-3231.txt  
