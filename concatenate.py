@@ -17,6 +17,7 @@ def concatenate_text_files(folder_path, output_file):
     with open(output_file, 'w') as output:
         output.write(concatenated_text)
 
-folder_path = 'txt_results/all-eu-treaties-20240418-162444'  # Replace with the path to input folder
-output_file = 'concat_results/all-eu-treaties.txt'  # Specify the output file name
-concatenate_text_files(folder_path, output_file)
+for folders in os.listdir('txt_results'):
+    folder_path = os.path.join('txt_results', folders)  # Replace with the path to input folder
+    output_file = os.path.join('concat_results', os.path.basename(folder_path) + '.txt')
+    concatenate_text_files(folder_path, output_file)
