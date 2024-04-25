@@ -1,0 +1,7 @@
+prefix cdm: <http://publications.europa.eu/ontology/cdm#>
+select distinct?work?doc_id
+where
+{
+?work a cdm:fragment_resource_legal;
+cdm:work_id_document?doc_id.
+}
