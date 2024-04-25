@@ -1,4 +1,4 @@
-# Collecting EU legal documents by quering EU Cellar
+# Human-centrism in EU legal documents 
 
 ## Project
 As a part of human-centrism project by [Humanet3](https://humanet3.mpg.de) group, we are currently collecting documents from [EU Cellar](https://op.europa.eu/en/publication-detail/-/publication/658088eb-c071-11e8-9893-01aa75ed71a1/language-en/format-PDF/source-76875949) (The semantic repository of the Publications Office).  
