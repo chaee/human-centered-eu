@@ -17,7 +17,7 @@ So far, all EU treaties and EU legislations in force about several EUROVOC conce
 📦human-centered-eu   
  ┣ 📂analyses  
  ┃ ┗ 📜human_concordance.txt   
- ┣:**✨📂concat_results**:sparkless:  
+ ┣:**✨📂concat_results**✨   
  ┃ ┣ 📜all-eu-treaties-20240418-162444.txt   
  ┃ ┣ 📜legal-in-force-EUROVOC-3030.txt  
  ┃ ┣ 📜legal-in-force-EUROVOC-3231.txt  
