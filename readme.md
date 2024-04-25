@@ -1,9 +1,23 @@
-# Collecting legal documents from EU by quering EU Cellar (The semantic repository of the Publications Office)  
+# Human-centrism in EU legal documents 
+
+## Project
+For the human-centrism project by [Humanet3](https://humanet3.mpg.de) group, we aim to investigate how the concept of human-centrism is reflected and used in public domain in EU. For this purpose, we are collecting relevant documents from [EU Cellar](https://op.europa.eu/en/publication-detail/-/publication/658088eb-c071-11e8-9893-01aa75ed71a1/language-en/format-PDF/source-76875949) (The semantic repository of the Publications Office). Our keywords of interest include human-centered AI, internet, and digital transformation. 
+   
+For further project description and the concept of Humanet3, please refer to our [webpage](https://humanet3.mpg.de/concept/).
+
+## Scripts
+The project is work in progress. The repository consists of scripts  
+- collecting documents from EU Cellar and process into human-readable text 
+- saving retrieved files in a structured way based on the type of query and EUROVOC keyword for further use   
+- conducting text analysis on the collected documents  
+
+So far, all EU treaties and EU legislations in force about several EUROVOC concepts including AI have been collected.
+
 ## File structure
 📦human-centered-eu   
  ┣ 📂analyses  
  ┃ ┗ 📜human_concordance.txt   
- ┣:**📂concat_results**:sparkless:  
+ ┣:**✨📂concat_results**✨   
  ┃ ┣ 📜all-eu-treaties-20240418-162444.txt   
  ┃ ┣ 📜legal-in-force-EUROVOC-3030.txt  
  ┃ ┣ 📜legal-in-force-EUROVOC-3231.txt  
@@ -15,9 +29,9 @@
  ┃ ┃ ┣ 📜all-eu-treaties.rq :sparkles:*all EU treaties*  
  ┃ ┃ ┣ 📜all-eurovoc-concepts.rq :sparkles:*EU legislations in force about certain EUROVOC concept*  
  ┃ ┃ ┗ 📜legal-in-force-EUROVOC.rq  
- ┃ ┗ 📂sparql_query_results :sparkles:*saves the query result in .json :sparkles:*  
- ┃ ┃ ┣ 📜all-eu-treaties-20240418-162253.json  
- ┃ ┃ ┣ 📜all-eu-treaties-20240418-162444.json  
+ ┃ ┗ 📂sparql_query_results :sparkles:*saves the query result in .json*   
+ ┃ ┃ ┣ 📜all-eu-treaties-20240418-162253.json   
+ ┃ ┃ ┣ 📜all-eu-treaties-20240418-162444.json   
  ┃ ┃ ┣ 📜all-eu-treaties_20240412-145449.json  
  ┃ ┃ ┣ 📜all-eurovoc-concepts_20240412-144328.json  
  ┃ ┃ ┣ 📜curl_command.txt  
