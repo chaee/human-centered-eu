@@ -1,16 +1,17 @@
 # Human-centrism in EU legal documents 
 
 ## Project
-As a part of human-centrism project by [Humanet3](https://humanet3.mpg.de) group, we are currently collecting documents from [EU Cellar](https://op.europa.eu/en/publication-detail/-/publication/658088eb-c071-11e8-9893-01aa75ed71a1/language-en/format-PDF/source-76875949) (The semantic repository of the Publications Office).  
-We collect EU documents to understand how the concept of human-centrism is reflected and used in public domain in EU. Especially we are interested in the context of human-centered AI, internet, and digital transformation.  
+In human-centrism project by [Humanet3](https://humanet3.mpg.de) group, we are currently collecting documents from [EU Cellar](https://op.europa.eu/en/publication-detail/-/publication/658088eb-c071-11e8-9893-01aa75ed71a1/language-en/format-PDF/source-76875949) (The semantic repository of the Publications Office). We aim to investigate how the concept of human-centrism is reflected and used in public domain in EU. Our keywords of interest include human-centered AI, internet, and digital transformation. 
+   
+For further project description and the concept of Humanet3 project, please refer to our [webpage](https://humanet3.mpg.de/concept/).
 
 ## Scripts
 The project is work in progress. The repository consists of scripts  
-- collecting documents and process into human-readable text 
-- conducting text analysis on the collected documents  
+- collecting documents from EU Cellar and process into human-readable text 
 - saving retrieved files in a structured way based on the type of query and EUROVOC keyword for further use   
-     
-So far, EU treaties, EU legislations in force about several EUROVOC concepts including AI have been collected.
+- conducting text analysis on the collected documents  
+
+So far, all EU treaties and EU legislations in force about several EUROVOC concepts including AI have been collected.
 
 ## File structure
 📦human-centered-eu   
