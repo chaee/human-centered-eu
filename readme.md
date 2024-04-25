@@ -29,9 +29,9 @@ So far, all EU treaties and EU legislations in force about several EUROVOC conce
  ┃ ┃ ┣ 📜all-eu-treaties.rq :sparkles:*all EU treaties*  
  ┃ ┃ ┣ 📜all-eurovoc-concepts.rq :sparkles:*EU legislations in force about certain EUROVOC concept*  
  ┃ ┃ ┗ 📜legal-in-force-EUROVOC.rq  
- ┃ ┗ 📂sparql_query_results :sparkles:*saves the query result in .json*
- ┃ ┃ ┣ 📜all-eu-treaties-20240418-162253.json  
- ┃ ┃ ┣ 📜all-eu-treaties-20240418-162444.json  
+ ┃ ┗ 📂sparql_query_results :sparkles:*saves the query result in .json*   
+ ┃ ┃ ┣ 📜all-eu-treaties-20240418-162253.json   
+ ┃ ┃ ┣ 📜all-eu-treaties-20240418-162444.json   
  ┃ ┃ ┣ 📜all-eu-treaties_20240412-145449.json  
  ┃ ┃ ┣ 📜all-eurovoc-concepts_20240412-144328.json  
  ┃ ┃ ┣ 📜curl_command.txt  
