@@ -1,9 +1,9 @@
 # Human-centrism in EU legal documents 
 
 ## Project
-In human-centrism project by [Humanet3](https://humanet3.mpg.de) group, we are currently collecting documents from [EU Cellar](https://op.europa.eu/en/publication-detail/-/publication/658088eb-c071-11e8-9893-01aa75ed71a1/language-en/format-PDF/source-76875949) (The semantic repository of the Publications Office). We aim to investigate how the concept of human-centrism is reflected and used in public domain in EU. Our keywords of interest include human-centered AI, internet, and digital transformation. 
+For the human-centrism project by [Humanet3](https://humanet3.mpg.de) group, we aim to investigate how the concept of human-centrism is reflected and used in public domain in EU. For this purpose, we are collecting relevant documents from [EU Cellar](https://op.europa.eu/en/publication-detail/-/publication/658088eb-c071-11e8-9893-01aa75ed71a1/language-en/format-PDF/source-76875949) (The semantic repository of the Publications Office). Our keywords of interest include human-centered AI, internet, and digital transformation. 
    
-For further project description and the concept of Humanet3 project, please refer to our [webpage](https://humanet3.mpg.de/concept/).
+For further project description and the concept of Humanet3, please refer to our [webpage](https://humanet3.mpg.de/concept/).
 
 ## Scripts
 The project is work in progress. The repository consists of scripts  
