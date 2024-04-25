@@ -1,0 +1,20 @@
+{
+    "head": {
+        "link": [],
+        "vars": [
+            "work"
+        ]
+    },
+    "results": {
+        "distinct": false,
+        "ordered": true,
+        "bindings": [
+            {
+                "work": {
+                    "type": "uri",
+                    "value": "http://publications.europa.eu/resource/cellar/28907e25-7c65-11e9-9f05-01aa75ed71a1"
+                }
+            }
+        ]
+    }
+}

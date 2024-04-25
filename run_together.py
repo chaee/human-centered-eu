@@ -13,17 +13,23 @@ How to collect relevant EUROVOC concepts?
 - 3236 information technology and data processing
 - c_65b9cd79 artificial neural network
 - 5188 information technology
+- "5333" "impact of information technology"@en
 - technology
 - internet
 - human
 ...
 '''
 
-query_types = ['all-eurovoc-concepts.rq', 'all-eu-treaties.rq', ('legal-in-force-EUROVOC.rq', '3030')]
-query_type = query_types[1]
-# eurovoc_code = '5188'
+query_types = ['all-eurovoc-concepts.rq', 'all-eu-treaties.rq', ('legal-in-force-EUROVOC.rq', '5333'), 'all-eu-leg-in-force.rq', 'intl-agreements.rq']
 
-json_path, doctype = to_json_cellar_response(query_type)
+query_type = query_types[4]
+
+if isinstance(query_type, tuple):
+    query_type, eurovoc_code = query_type[0], query_type[1]
+else:
+    eurovoc_code = None
+
+json_path, doctype = to_json_cellar_response(query_type, eurovoc_code)
 #json_path = 'queries/sparql_query_results/legal-in-force-EUROVOC-3030_20240418-155200.json'
 
 urls = extract_urls(json_path)#, doctype)
